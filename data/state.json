@@ -167,7 +167,54 @@
           ]
         }
       ],
-      "complexes": [],
+      "complexes": [
+        {
+          "id": "cx_gr54jghu",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_u8i0vsmb",
+              "exerciseId": "ex_w4tut5u8"
+            },
+            {
+              "id": "ci_txvsbwv6",
+              "exerciseId": "ex_7xhun1qp"
+            },
+            {
+              "id": "ci_vjjbepxb",
+              "exerciseId": "ex_mmvas2ep"
+            },
+            {
+              "id": "ci_r39c27ah",
+              "exerciseId": "ex_jikg8reo"
+            },
+            {
+              "id": "ci_kd0rbov8",
+              "exerciseId": "ex_h6oezv19"
+            },
+            {
+              "id": "ci_7bb0lov7",
+              "exerciseId": "ex_ise7flm5"
+            },
+            {
+              "id": "ci_hv4ucxj4",
+              "exerciseId": "ex_pavh42f4"
+            },
+            {
+              "id": "ci_pe4xtnq6",
+              "exerciseId": "ex_vttsivux"
+            },
+            {
+              "id": "ci_hhvih2rq",
+              "exerciseId": "ex_mcln27y1"
+            },
+            {
+              "id": "ci_sqpq0p6p",
+              "exerciseId": "ex_uqum223w"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-08",
       "intervalDays": 1
@@ -197,7 +244,7 @@
       "intervalDays": 1
     },
     "cat_lz5gplty": {
-      "name": "Новая категория",
+      "name": "Грудь и плечи",
       "exercises": [],
       "complexes": [],
       "scheduleEnabled": true,
