@@ -29,19 +29,31 @@
       ],
       "complexes": [
         {
-          "id": "cx_cgy2rzhd",
+          "id": "cx_3fl5ik6g",
           "enabled": true,
           "items": [
             {
-              "id": "ci_eghtjz90",
+              "id": "ci_bwkdse6d",
               "exerciseId": "ex_852bupeb"
-            },
+            }
+          ]
+        },
+        {
+          "id": "cx_p2k0krpa",
+          "enabled": true,
+          "items": [
             {
-              "id": "ci_r3sdi7ib",
+              "id": "ci_ir0of2vm",
               "exerciseId": "ex_852bupeb"
-            },
+            }
+          ]
+        },
+        {
+          "id": "cx_e2tjoqvs",
+          "enabled": true,
+          "items": [
             {
-              "id": "ci_cnn8dx91",
+              "id": "ci_hviwnym4",
               "exerciseId": "ex_852bupeb"
             }
           ]
