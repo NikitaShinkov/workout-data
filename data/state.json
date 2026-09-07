@@ -69,10 +69,61 @@
     },
     "glutes": {
       "name": "Ягодицы",
-      "exercises": [],
-      "complexes": [],
+      "exercises": [
+        {
+          "id": "ex_3bu1q5du",
+          "name": "мывм",
+          "description": "ыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыы",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/33c9b06c8f5ab13e.jpg",
+            "data/images/a311da65f125c5d5.jpg",
+            "data/images/5e0963abbca5b60c.jpg"
+          ]
+        },
+        {
+          "id": "ex_49rdc0k6",
+          "name": "Баланс в планке на одном колене (10-30 сек)",
+          "description": "Ягодицы, мобильность. Спина ровная, шея прямая, взгляд вперёд. Опора на руки. Колени под 90 град. В крайнем положении таз не уносим вверх. Если мобильности не хватает то ногу можно опускать не до конца",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/048fcd10bbd7d020.jpg",
+            "data/images/284d4c07a41dec4d.jpg",
+            "data/images/fe1a4084c8c163dd.jpg",
+            "data/images/b780d2a4ee7828e3.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_2h31c7oe",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_sq9wrljm",
+              "exerciseId": "ex_3bu1q5du"
+            }
+          ]
+        },
+        {
+          "id": "cx_id9hwhbs",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_i28e8lbe",
+              "exerciseId": "ex_49rdc0k6"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-07",
       "intervalDays": 1
     },
     "lower_back": {
