@@ -154,12 +154,16 @@
       ],
       "complexes": [
         {
-          "id": "cx_4e1k1a5w",
+          "id": "cx_l57l4b2u",
           "enabled": true,
           "items": [
             {
-              "id": "ci_e3p6xmzb",
-              "exerciseId": "ex_ra9e1efj"
+              "id": "ci_7egycxe2",
+              "exerciseId": "ex_3bu1q5du"
+            },
+            {
+              "id": "ci_1sub50j6",
+              "exerciseId": "ex_49rdc0k6"
             }
           ]
         }
