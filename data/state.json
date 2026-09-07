@@ -7,58 +7,14 @@
     "glutes",
     "lower_back",
     "back",
-    "neck"
+    "neck",
+    "cat_lz5gplty"
   ],
   "categories": {
     "ankle": {
       "name": "Голеностоп",
-      "exercises": [
-        {
-          "id": "ex_852bupeb",
-          "name": "Отведение ноги на боку",
-          "description": "Среднеягодичная мышца\nПоясничный замок – максимально прижимаем к себе нижнюю ногу. В момент отведения верхней ноги, нижняя нога должна быть прижата к груди.",
-          "equipment": [
-            "mat",
-            "short_band"
-          ],
-          "images": [
-            "data/images/93686b23645e8290.jpg",
-            "data/images/3bc785bb263c1542.jpg"
-          ]
-        }
-      ],
-      "complexes": [
-        {
-          "id": "cx_3fl5ik6g",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_bwkdse6d",
-              "exerciseId": "ex_852bupeb"
-            }
-          ]
-        },
-        {
-          "id": "cx_p2k0krpa",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_ir0of2vm",
-              "exerciseId": "ex_852bupeb"
-            }
-          ]
-        },
-        {
-          "id": "cx_e2tjoqvs",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_hviwnym4",
-              "exerciseId": "ex_852bupeb"
-            }
-          ]
-        }
-      ],
+      "exercises": [],
+      "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-07",
       "intervalDays": 1
@@ -81,101 +37,8 @@
     },
     "glutes": {
       "name": "Ягодицы",
-      "exercises": [
-        {
-          "id": "ex_3bu1q5du",
-          "name": "мывм",
-          "description": "ыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыы",
-          "equipment": [
-            "mat",
-            "short_band"
-          ],
-          "images": [
-            "data/images/33c9b06c8f5ab13e.jpg",
-            "data/images/a311da65f125c5d5.jpg",
-            "data/images/5e0963abbca5b60c.jpg"
-          ]
-        },
-        {
-          "id": "ex_49rdc0k6",
-          "name": "Баланс в планке на одном колене (10-30 сек)",
-          "description": "Ягодицы, мобильность. Спина ровная, шея прямая, взгляд вперёд. Опора на руки. Колени под 90 град. В крайнем положении таз не уносим вверх. Если мобильности не хватает то ногу можно опускать не до конца",
-          "equipment": [
-            "mat",
-            "short_band"
-          ],
-          "images": [
-            "data/images/048fcd10bbd7d020.jpg",
-            "data/images/284d4c07a41dec4d.jpg",
-            "data/images/fe1a4084c8c163dd.jpg",
-            "data/images/b780d2a4ee7828e3.jpg"
-          ]
-        },
-        {
-          "id": "ex_fa8d7e96",
-          "name": "Скручивание ТБС сидя с опорой на руки",
-          "description": "Ягодицы, мобильность. Спина ровная, шея прямая, взгляд вперёд. Опора на руки. Колени под 90 град. В крайнем положении таз не уносим вверх. Если мобильности не хватает то ногу можно опускать не до конца. Ягодицы, мобильность. Спина ровная, шея прямая, взгляд вперёд. Опора на руки. Колени под 90 град. В крайнем положении таз не уносим вверх. Если мобильности не хватает то ногу можно опускать не до конца",
-          "equipment": [
-            "mat",
-            "short_band"
-          ],
-          "images": [
-            "data/images/3a092a581a7cbabb.jpg",
-            "data/images/f03d61117201879e.jpg",
-            "data/images/8a778d7bebcaab90.jpg",
-            "data/images/f2179a319e58f9aa.jpg",
-            "data/images/92125f11d1fedc05.jpg",
-            "data/images/e11e9973610615e0.jpg",
-            "data/images/f9df33026ef4b2a3.jpg",
-            "data/images/a311da65f125c5d5.jpg"
-          ]
-        },
-        {
-          "id": "ex_ra9e1efj",
-          "name": "sdvsd",
-          "description": "vsdvsdv",
-          "equipment": [
-            "mat",
-            "short_band"
-          ],
-          "images": [
-            "data/images/93686b23645e8290.jpg",
-            "data/images/3fc8ffcc0192e42e.jpg",
-            "data/images/33c9b06c8f5ab13e.jpg",
-            "data/images/a311da65f125c5d5.jpg",
-            "data/images/3bc785bb263c1542.jpg",
-            "data/images/2bf1b953f49e0cc9.jpg",
-            "data/images/8a77d57be0e4aff5.jpg",
-            "data/images/42bb07b8517fdf0b.jpg",
-            "data/images/048fcd10bbd7d020.jpg",
-            "data/images/284d4c07a41dec4d.jpg",
-            "data/images/fe1a4084c8c163dd.jpg",
-            "data/images/b780d2a4ee7828e3.jpg",
-            "data/images/5e0963abbca5b60c.jpg",
-            "data/images/a05d0f5818be237f.jpg",
-            "data/images/3a092a581a7cbabb.jpg",
-            "data/images/f03d61117201879e.jpg",
-            "data/images/8a778d7bebcaab90.jpg",
-            "data/images/f2179a319e58f9aa.jpg",
-            "data/images/92125f11d1fedc05.jpg",
-            "data/images/e11e9973610615e0.jpg",
-            "data/images/f9df33026ef4b2a3.jpg",
-            "data/images/a311da65f125c5d5.jpg"
-          ]
-        }
-      ],
-      "complexes": [
-        {
-          "id": "cx_vcuejihe",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_u7qt61xl",
-              "exerciseId": "ex_ra9e1efj"
-            }
-          ]
-        }
-      ],
+      "exercises": [],
+      "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-07",
       "intervalDays": 1
@@ -198,6 +61,14 @@
     },
     "neck": {
       "name": "Шея",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1
+    },
+    "cat_lz5gplty": {
+      "name": "Новая категория",
       "exercises": [],
       "complexes": [],
       "scheduleEnabled": true,
