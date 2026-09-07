@@ -154,23 +154,29 @@
       ],
       "complexes": [
         {
-          "id": "cx_f9j8gqeq",
+          "id": "cx_diqgwket",
           "enabled": true,
           "items": [
             {
-              "id": "ci_j6e4spt4",
+              "id": "ci_214cjjc6",
               "exerciseId": "ex_3bu1q5du"
             },
             {
-              "id": "ci_2pupqr9q",
+              "id": "ci_ikitgia3",
               "exerciseId": "ex_49rdc0k6"
-            },
+            }
+          ]
+        },
+        {
+          "id": "cx_9cg9lf9d",
+          "enabled": true,
+          "items": [
             {
-              "id": "ci_9f1iv4pn",
+              "id": "ci_1hnm0hir",
               "exerciseId": "ex_fa8d7e96"
             },
             {
-              "id": "ci_nz1wfknh",
+              "id": "ci_xq2vyjbc",
               "exerciseId": "ex_ra9e1efj"
             }
           ]
