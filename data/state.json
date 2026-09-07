@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "categoryOrder": [
+    "ankle",
+    "knee",
+    "hip",
+    "glutes",
+    "lower_back",
+    "back",
+    "neck"
+  ],
+  "categories": {
+    "ankle": {
+      "name": "Голеностоп",
+      "exercises": [
+        {
+          "id": "ex_852bupeb",
+          "name": "Отведение ноги на боку",
+          "description": "Среднеягодичная мышца\nПоясничный замок – максимально прижимаем к себе нижнюю ногу. В момент отведения верхней ноги, нижняя нога должна быть прижата к груди.",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/93686b23645e8290.jpg",
+            "data/images/3bc785bb263c1542.jpg"
+          ]
+        }
+      ],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1
+    },
+    "knee": {
+      "name": "Колено",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1
+    },
+    "hip": {
+      "name": "ТБС",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1
+    },
+    "glutes": {
+      "name": "Ягодицы",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1
+    },
+    "lower_back": {
+      "name": "Поясница",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1
+    },
+    "back": {
+      "name": "Спина",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1
+    },
+    "neck": {
+      "name": "Шея",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1
+    }
+  },
+  "lastEquipment": [
+    "mat",
+    "short_band"
+  ]
+}
