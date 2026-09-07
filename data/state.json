@@ -50,10 +50,35 @@
     },
     "glutes": {
       "name": "Ягодицы",
-      "exercises": [],
-      "complexes": [],
+      "exercises": [
+        {
+          "id": "ex_7dnbzjl4",
+          "name": "Отведение ноги на боку",
+          "description": "Среднеягодичная мышца\nПоясничный замок – максимально прижимаем к себе нижнюю ногу. В момент отведения верхней ноги, нижняя нога должна быть прижата к груди.",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/93686b23645e8290.jpg",
+            "data/images/3bc785bb263c1542.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_sp4qfnu0",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_qte3i3jf",
+              "exerciseId": "ex_7dnbzjl4"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-07",
       "intervalDays": 1
     },
     "lower_back": {
