@@ -34,10 +34,94 @@
     },
     "knee": {
       "name": "Колено",
-      "exercises": [],
-      "complexes": [],
+      "exercises": [
+        {
+          "id": "ex_2rm9h8z8",
+          "name": "sdvsdv",
+          "description": "sdvvvvvvvvvvvvvvvsdvsdv",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/5e0963abbca5b60c.jpg",
+            "data/images/a05d0f5818be237f.jpg"
+          ]
+        },
+        {
+          "id": "ex_56qgxjo2",
+          "name": "dvsdv",
+          "description": "sdvsdv",
+          "equipment": [
+            "mat",
+            "short_band",
+            "long_band"
+          ],
+          "images": [
+            "data/images/8a778d7bebcaab90.jpg",
+            "data/images/f2179a319e58f9aa.jpg"
+          ]
+        },
+        {
+          "id": "ex_9gcuqib3",
+          "name": "cadvsd",
+          "description": "sdvsdv",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/f9df33026ef4b2a3.jpg",
+            "data/images/a311da65f125c5d5.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_qvbjjh25",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_d3piw2br",
+              "exerciseId": "ex_2rm9h8z8"
+            },
+            {
+              "id": "ci_0tx4a7hh",
+              "exerciseId": "ex_56qgxjo2"
+            },
+            {
+              "id": "ci_r9ntk7m2",
+              "exerciseId": "ex_9gcuqib3"
+            }
+          ]
+        },
+        {
+          "id": "cx_i7wa3o3o",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_k47ky78j",
+              "exerciseId": "ex_2rm9h8z8"
+            }
+          ]
+        },
+        {
+          "id": "cx_9l2bfl17",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_gaq7i60o",
+              "exerciseId": "ex_56qgxjo2"
+            },
+            {
+              "id": "ci_vp06apax",
+              "exerciseId": "ex_9gcuqib3"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-07",
       "intervalDays": 1
     },
     "hip": {
@@ -75,6 +159,26 @@
               "exerciseId": "ex_7dnbzjl4"
             }
           ]
+        },
+        {
+          "id": "cx_0joxunf9",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_elx86ld2",
+              "exerciseId": "ex_7dnbzjl4"
+            }
+          ]
+        },
+        {
+          "id": "cx_xo2xxuij",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_e9meki6w",
+              "exerciseId": "ex_7dnbzjl4"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
@@ -108,6 +212,6 @@
   },
   "lastEquipment": [
     "mat",
-    "short_band"
+    "roller"
   ]
 }
