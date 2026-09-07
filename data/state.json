@@ -75,6 +75,20 @@
             "data/images/8badc2ac35934d2a.jpg",
             "data/images/385d8bf0f507a030.jpg"
           ]
+        },
+        {
+          "id": "ex_jikg8reo",
+          "name": "Круговое движение прямой ноги на боку (велосипед)",
+          "description": "Среднеягодичная мышца\nПоясничный замок – максимально прижимаем к себе нижнюю ногу. Поясница неподвижна. Избегать избыточного включения мышц задней поверхности бедра. Всё движение только в ТБС",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6013bf9572856180.jpg",
+            "data/images/50f4f16f49dfd2ee.jpg",
+            "data/images/f0db8b870400f420.jpg",
+            "data/images/e57b2b85ef3c86cb.jpg"
+          ]
         }
       ],
       "complexes": [],
@@ -116,7 +130,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "short_band"
+    "mat"
   ]
 }
