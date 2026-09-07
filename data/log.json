@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "ops": [
+    {
+      "id": "op_8o10xs4p",
+      "ts": 1788772457655,
+      "kind": "rate",
+      "exerciseId": "ex_852bupeb",
+      "axis": "strength",
+      "date": "2026-09-07",
+      "level": "easy"
+    },
+    {
+      "id": "op_mqinkvli",
+      "ts": 1788772465845,
+      "kind": "rate",
+      "exerciseId": "ex_852bupeb",
+      "axis": "rangeOfMotion",
+      "date": "2026-09-07",
+      "level": "easy"
+    },
+    {
+      "id": "op_lnsltctv",
+      "ts": 1788772473272,
+      "kind": "rate",
+      "exerciseId": "ex_852bupeb",
+      "axis": "technique",
+      "date": "2026-09-07",
+      "level": "easy"
+    }
+  ]
+}
