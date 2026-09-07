@@ -49,6 +49,32 @@
             "data/images/7e978bd1ff137eed.jpg",
             "data/images/bf88421a969a53dc.jpg"
           ]
+        },
+        {
+          "id": "ex_7xhun1qp",
+          "name": "Отведение согнутой ноги на боку",
+          "description": "Среднеягодичная мышца\nПоясничный замок – максимально прижимаем к себе нижнюю ногу. Отводим согнутую ногу для выключения мышц задней поверхности бедра. Максимально расслабляем мышцы задней поверхности бедра.",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/4e2a7b073419c78d.jpg",
+            "data/images/ad5fcd3c9bf96a04.jpg"
+          ]
+        },
+        {
+          "id": "ex_mmvas2ep",
+          "name": "Отведение согнутой ноги на боку",
+          "description": "Среднеягодичная мышца и ТБС.\nВ колене и ТБС ноги согнуты на 90 град. Максимально отводим ногу, но не заваливаем таз",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/8badc2ac35934d2a.jpg",
+            "data/images/385d8bf0f507a030.jpg"
+          ]
         }
       ],
       "complexes": [],
@@ -90,6 +116,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "short_band"
   ]
 }
