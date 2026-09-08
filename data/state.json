@@ -261,6 +261,18 @@
             "data/images/6e39ee8108f09a86.jpg",
             "data/images/ea5370b85f891e5f.jpg"
           ]
+        },
+        {
+          "id": "ex_jggeuhbw",
+          "name": "Сгибание ТБС с отведением на животе",
+          "description": "Ягодицы, стабильность.\nНога согнута в колене на 90 град. Движение только ТБС",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b8561c1fb012cb79.jpg",
+            "data/images/b7ddcef9d301ceac.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -307,6 +319,40 @@
             {
               "id": "ci_sqpq0p6p",
               "exerciseId": "ex_uqum223w"
+            }
+          ]
+        },
+        {
+          "id": "cx_8orbcfht",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_mxa7ao4f",
+              "exerciseId": "ex_7lev3go2"
+            },
+            {
+              "id": "ci_jii7ktdr",
+              "exerciseId": "ex_enhv2b5e"
+            },
+            {
+              "id": "ci_4jsp7e8i",
+              "exerciseId": "ex_va3mdyzd"
+            },
+            {
+              "id": "ci_21xcf40k",
+              "exerciseId": "ex_f6sy6ckh"
+            },
+            {
+              "id": "ci_1gw00kfp",
+              "exerciseId": "ex_wrc0aj3j"
+            },
+            {
+              "id": "ci_7xvhhb7d",
+              "exerciseId": "ex_xsy0xa7y"
+            },
+            {
+              "id": "ci_pnkxqa71",
+              "exerciseId": "ex_wd3zb64i"
             }
           ]
         }
