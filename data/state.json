@@ -231,6 +231,22 @@
             "data/images/8ef048c3857027c6.jpg",
             "data/images/a728d71c0df2de5e.jpg"
           ]
+        },
+        {
+          "id": "ex_xsy0xa7y",
+          "name": "Сгибание-разгибание ТБС (15)",
+          "description": "Ягодицы, мобильность.\nВ разгибании поясницу не выгибать, она должна быть прямая в крайнем положении. Делаем плавно\n1 Ноги вместе (5 повторений)\n2 Ноги на ширине плеч (5 повторений)\n3 Ноги максимально широко (5 повторений)",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4c9ac515f0931533.jpg",
+            "data/images/306c245f8c7fc545.jpg",
+            "data/images/0945f6ee52725370.jpg",
+            "data/images/c46b82f33584c654.jpg",
+            "data/images/97ba6d5196a9ed67.jpg",
+            "data/images/3eea1abe64755a81.jpg"
+          ]
         }
       ],
       "complexes": [
