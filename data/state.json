@@ -213,6 +213,24 @@
             "data/images/138b2ad7a8ff8736.jpg",
             "data/images/79d92d30f9424cbc.jpg"
           ]
+        },
+        {
+          "id": "ex_wrc0aj3j",
+          "name": "Скручивание ТБС и колена сидя",
+          "description": "Ягодицы, мобильность.\nОпора на согнутую руку. Сначала внутренняя ротация колена, потом скручивания ТБС нижней ноги, рукой можно доводить ногу до крайнего положения. Потом скручивания ТБС верхней ноги, потом внешняя ротация верхней ноги",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/208404694db1fd4c.jpg",
+            "data/images/19bf08956cb94ac8.jpg",
+            "data/images/344dab611010ccb9.jpg",
+            "data/images/df46fec800dd7490.jpg",
+            "data/images/b29bd60a7db5632b.jpg",
+            "data/images/01dcd11656915a34.jpg",
+            "data/images/8ef048c3857027c6.jpg",
+            "data/images/a728d71c0df2de5e.jpg"
+          ]
         }
       ],
       "complexes": [
