@@ -336,7 +336,6 @@
           "images": [
             "data/images/f02af9a144f9b4b2.jpg",
             "data/images/7226aa467d9afd3a.jpg",
-            "data/images/7226aa467d9afd3a.jpg",
             "data/images/2f213d20f0e004a4.jpg"
           ]
         },
@@ -397,6 +396,40 @@
             {
               "id": "ci_sqpq0p6p",
               "exerciseId": "ex_uqum223w"
+            }
+          ]
+        },
+        {
+          "id": "cx_9bcoe6ux",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_nxqdro29",
+              "exerciseId": "ex_jggeuhbw"
+            },
+            {
+              "id": "ci_ek0vglbj",
+              "exerciseId": "ex_99ocuw36"
+            },
+            {
+              "id": "ci_01nlni67",
+              "exerciseId": "ex_v1a0d604"
+            },
+            {
+              "id": "ci_754e2yxk",
+              "exerciseId": "ex_bfz7y966"
+            },
+            {
+              "id": "ci_w512rj7p",
+              "exerciseId": "ex_sme5rp9k"
+            },
+            {
+              "id": "ci_16x3jbe7",
+              "exerciseId": "ex_8d9yzpz0"
+            },
+            {
+              "id": "ci_mo0k0vdy",
+              "exerciseId": "ex_ide2zsw1"
             }
           ]
         },
