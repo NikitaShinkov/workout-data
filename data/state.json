@@ -247,6 +247,20 @@
             "data/images/97ba6d5196a9ed67.jpg",
             "data/images/3eea1abe64755a81.jpg"
           ]
+        },
+        {
+          "id": "ex_wd3zb64i",
+          "name": "Круговые движения ТБС в планке (10)",
+          "description": "Ягодицы, мобильность.\nНоги на ширине плеч. Поясница прямая, не проваливается. 5 раз в одну сторону и 5 раз в другую сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/39acbcdc5d111941.jpg",
+            "data/images/57dd765639b4d43b.jpg",
+            "data/images/6e39ee8108f09a86.jpg",
+            "data/images/ea5370b85f891e5f.jpg"
+          ]
         }
       ],
       "complexes": [
