@@ -273,6 +273,22 @@
             "data/images/b8561c1fb012cb79.jpg",
             "data/images/b7ddcef9d301ceac.jpg"
           ]
+        },
+        {
+          "id": "ex_99ocuw36",
+          "name": "Скручивание ТБС сидя с подъёмом",
+          "description": "Ягодицы, стабильность.\nПоясница прямая, без переизгибаний.\nСначала подъём в одну сторону, потом смена ног и подъём в другую сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/638590b280075093.jpg",
+            "data/images/e214d4222132b4b0.jpg",
+            "data/images/144d8807cc0d2dc9.jpg",
+            "data/images/49dfa39c0cccff34.jpg",
+            "data/images/945da8c5813bcc34.jpg",
+            "data/images/5a7076496ac0bee7.jpg"
+          ]
         }
       ],
       "complexes": [
