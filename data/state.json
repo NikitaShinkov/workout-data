@@ -466,6 +466,40 @@
               "exerciseId": "ex_wd3zb64i"
             }
           ]
+        },
+        {
+          "id": "cx_d4a902i4",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_lwu3tzob",
+              "exerciseId": "ex_jggeuhbw"
+            },
+            {
+              "id": "ci_zs9zsrwn",
+              "exerciseId": "ex_99ocuw36"
+            },
+            {
+              "id": "ci_jhgsnxd6",
+              "exerciseId": "ex_v1a0d604"
+            },
+            {
+              "id": "ci_zacatw8r",
+              "exerciseId": "ex_bfz7y966"
+            },
+            {
+              "id": "ci_uovde2c3",
+              "exerciseId": "ex_sme5rp9k"
+            },
+            {
+              "id": "ci_fb20iqis",
+              "exerciseId": "ex_8d9yzpz0"
+            },
+            {
+              "id": "ci_usel2kwz",
+              "exerciseId": "ex_ide2zsw1"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
