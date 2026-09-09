@@ -466,16 +466,6 @@
               "exerciseId": "ex_wd3zb64i"
             }
           ]
-        },
-        {
-          "id": "cx_39bv3uap",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_o4o3wc1k",
-              "exerciseId": "ex_vttsivux"
-            }
-          ]
         }
       ],
       "scheduleEnabled": true,
