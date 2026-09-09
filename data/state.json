@@ -466,6 +466,24 @@
               "exerciseId": "ex_wd3zb64i"
             }
           ]
+        },
+        {
+          "id": "cx_wv6peph0",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_buerkzzs",
+              "exerciseId": "ex_sme5rp9k"
+            },
+            {
+              "id": "ci_z43z6irw",
+              "exerciseId": "ex_8d9yzpz0"
+            },
+            {
+              "id": "ci_30k1c1c6",
+              "exerciseId": "ex_ide2zsw1"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
