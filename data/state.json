@@ -468,38 +468,12 @@
           ]
         },
         {
-          "id": "cx_wv6peph0",
+          "id": "cx_39bv3uap",
           "enabled": true,
           "items": [
             {
-              "id": "ci_buerkzzs",
-              "exerciseId": "ex_sme5rp9k"
-            },
-            {
-              "id": "ci_z43z6irw",
-              "exerciseId": "ex_8d9yzpz0"
-            },
-            {
-              "id": "ci_30k1c1c6",
-              "exerciseId": "ex_ide2zsw1"
-            }
-          ]
-        },
-        {
-          "id": "cx_0qx22exz",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_g4apwa2n",
-              "exerciseId": "ex_sme5rp9k"
-            },
-            {
-              "id": "ci_rsbijknx",
-              "exerciseId": "ex_8d9yzpz0"
-            },
-            {
-              "id": "ci_3a3b8wvl",
-              "exerciseId": "ex_ide2zsw1"
+              "id": "ci_o4o3wc1k",
+              "exerciseId": "ex_vttsivux"
             }
           ]
         }
