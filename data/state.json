@@ -826,6 +826,32 @@
             "data/images/3a85f2af4bd3d467.jpg",
             "data/images/207260c40b4f5ebc.jpg"
           ]
+        },
+        {
+          "id": "ex_ugsmlxjv",
+          "name": "Диагональный выпад",
+          "description": "Ягодицы\nДиагональный выпад в максимальную диагональ",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fb51c6fb1408afb3.jpg",
+            "data/images/7d13846d29cd4d72.jpg"
+          ]
+        },
+        {
+          "id": "ex_jrx3c1w9",
+          "name": "Диагональный выпад с опусканием на пол",
+          "description": "Ягодицы\nДиагональный выпад в максимальную диагональ\nДвижение выполняется легко и плавно перекатом\nВстаём обратно на инерции",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fb51c6fb1408afb3.jpg",
+            "data/images/7d13846d29cd4d72.jpg",
+            "data/images/ed9292b4ae95c7d3.jpg",
+            "data/images/2e42a50d0b3e971c.jpg"
+          ]
         }
       ],
       "complexes": [
