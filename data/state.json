@@ -599,6 +599,34 @@
             "data/images/c18371602a586daf.jpg",
             "data/images/45138673826b00a5.jpg"
           ]
+        },
+        {
+          "id": "ex_x7jm8kml",
+          "name": "Подъём таза лёжа во внутренней ротации",
+          "description": "Ягодицы\nРавномерное распределение веса между ногами\nМаксимально включать ягодичные мышцы\nДля более лёгкого удержания баланса локти можно положить на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/06f8b3a22a35a7c7.jpg",
+            "data/images/67294b6613753929.jpg"
+          ]
+        },
+        {
+          "id": "ex_j7e3vr7l",
+          "name": "",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/0dccee336b0fd16f.jpg",
+            "data/images/8e2cd6f2e298228d.jpg",
+            "data/images/d5e1d4b1ec5fa05a.jpg",
+            "data/images/bb110579dc83cf4f.jpg",
+            "data/images/62aaec3f69f38b51.jpg",
+            "data/images/d01221ba7f47393f.jpg"
+          ]
         }
       ],
       "complexes": [
