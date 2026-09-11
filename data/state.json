@@ -958,6 +958,35 @@
             "data/images/75358561d0a3a451.jpg",
             "data/images/4363002950e11c80.jpg"
           ]
+        },
+        {
+          "id": "ex_0pmikfoq",
+          "name": "Скручивания в глубоком приседе с гирькой",
+          "description": "Ягодицы\nБез рывков. Отягощение не очень большое – гирька или пятилитровка\nСкручиваемся в разные стороны",
+          "equipment": [
+            "mat",
+            "weight"
+          ],
+          "images": [
+            "data/images/0cd464116b0afd91.jpg",
+            "data/images/d098b7b6b4996d25.jpg",
+            "data/images/d50318d828891d55.jpg",
+            "data/images/54aa8edebecbfad4.jpg"
+          ]
+        },
+        {
+          "id": "ex_7mylddvo",
+          "name": "Скручивания из положения стоя в глубокий присед",
+          "description": "Ягодицы\nБез рывков. Опускаемся вниз и встаём обратно. Внизу опираемся немного на руки.\nСкручиваемся в разные стороны",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5ba0403301d6a70e.jpg",
+            "data/images/d74d1836d6b1c022.jpg",
+            "data/images/2c7f8fac59e287fc.jpg",
+            "data/images/a72862b9f44aebb9.jpg"
+          ]
         }
       ],
       "complexes": [
