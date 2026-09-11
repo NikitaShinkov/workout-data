@@ -1002,6 +1002,20 @@
             "data/images/ae279c15809bf65f.jpg",
             "data/images/2101b64da337f1e7.jpg"
           ]
+        },
+        {
+          "id": "ex_fm7o14ye",
+          "name": "Подъём из пистолетика",
+          "description": "Ягодицы\nВ пистолетике опорная нога на полной стопе, пятка не отрывается\nПотом на другой ноге с опорой на пятку поднимаемся\nОбратно немного выталкиваемся передней ногой и мягко уходим вниз в пистолетик\nДвижения плавные",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b8cb1bd0e0520316.jpg",
+            "data/images/70e731bb112b5f78.jpg",
+            "data/images/2677a8955ddced07.jpg",
+            "data/images/69719fbfed247282.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1442,7 +1456,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "weight"
+    "mat"
   ]
 }
