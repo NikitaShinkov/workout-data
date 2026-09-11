@@ -613,22 +613,6 @@
           ]
         },
         {
-          "id": "ex_j7e3vr7l",
-          "name": "",
-          "description": "",
-          "equipment": [
-            "mat"
-          ],
-          "images": [
-            "data/images/0dccee336b0fd16f.jpg",
-            "data/images/8e2cd6f2e298228d.jpg",
-            "data/images/d5e1d4b1ec5fa05a.jpg",
-            "data/images/bb110579dc83cf4f.jpg",
-            "data/images/62aaec3f69f38b51.jpg",
-            "data/images/d01221ba7f47393f.jpg"
-          ]
-        },
-        {
           "id": "ex_858xix79",
           "name": "Подъём таза лёжа ротацией в разные стороны",
           "description": "Ягодицы\nРавномерное распределение веса между ногами\nМаксимально включать ягодичные мышцы\nДля более лёгкого удержания баланса локти можно положить на пол\nМеняем стороны\nЗатем можно делать на одной ноге в наружной и во внутренней ротации с поднятой верхней ногой",
@@ -869,6 +853,32 @@
             {
               "id": "ci_tio7ycq7",
               "exerciseId": "ex_4i6y9hkt"
+            }
+          ]
+        },
+        {
+          "id": "cx_yrfc2tvp",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_ctojb5rn",
+              "exerciseId": "ex_czrrcfwq"
+            },
+            {
+              "id": "ci_fmn1akke",
+              "exerciseId": "ex_m7xwbr0l"
+            },
+            {
+              "id": "ci_sispaaze",
+              "exerciseId": "ex_ash63xhq"
+            },
+            {
+              "id": "ci_6qd8l14d",
+              "exerciseId": "ex_x7jm8kml"
+            },
+            {
+              "id": "ci_bykzbjd1",
+              "exerciseId": "ex_858xix79"
             }
           ]
         }
