@@ -653,6 +653,46 @@
             "data/images/4a22b34dbd11332c.jpg",
             "data/images/e91ce5365806e603.jpg"
           ]
+        },
+        {
+          "id": "ex_bry24ao3",
+          "name": "Подъём задней неопорной ноги",
+          "description": "Ягодицы\nПрижимаемся туловищем к нижней опорной ноге, образуя замок в пояснице.\nПоднимаем верхнюю неопорную ногу, согнутую в колене, при этом туловище неподвижно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/3e24fde01845cd76.jpg",
+            "data/images/9bac3e4fce95e8be.jpg"
+          ]
+        },
+        {
+          "id": "ex_aq8a9s1a",
+          "name": "Перекаты с опорой на руки",
+          "description": "Ягодицы\nПоочерёдно садимся попой в правую и левую сторону.\nДвижение делается плавно, не шлёпаться попой на пол.\nОпираемся на руки, делаем упор на мобильность",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/adb5a4bf14e05e96.jpg",
+            "data/images/fc116dbfb184e54d.jpg",
+            "data/images/adb5a4bf14e05e96.jpg",
+            "data/images/dd36b15f850e1799.jpg"
+          ]
+        },
+        {
+          "id": "ex_3dwz7i61",
+          "name": "Перекаты без опоры на руки",
+          "description": "Ягодицы\nПоочерёдно садимся попой в правую и левую сторону.\nДвижение делается плавно, не шлёпаться попой на пол.\nНе опираемся на руки",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b87c241091d516c4.jpg",
+            "data/images/3952968961869dfb.jpg",
+            "data/images/b87c241091d516c4.jpg",
+            "data/images/5b3b1c36a27755e2.jpg"
+          ]
         }
       ],
       "complexes": [
