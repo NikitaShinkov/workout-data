@@ -812,6 +812,20 @@
             "data/images/8ee90856f30b4126.jpg",
             "data/images/d0fb3f32d56367e1.jpg"
           ]
+        },
+        {
+          "id": "ex_vtmk94i6",
+          "name": "Скручивания в приседе",
+          "description": "Ягодицы\nЯгодичные мышцы работают в статическом режиме с ротацией",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9710574815d4a008.jpg",
+            "data/images/59f8d3cdc163dc9a.jpg",
+            "data/images/3a85f2af4bd3d467.jpg",
+            "data/images/207260c40b4f5ebc.jpg"
+          ]
         }
       ],
       "complexes": [
