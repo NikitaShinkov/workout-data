@@ -852,6 +852,32 @@
             "data/images/ed9292b4ae95c7d3.jpg",
             "data/images/2e42a50d0b3e971c.jpg"
           ]
+        },
+        {
+          "id": "ex_t1sdzwcu",
+          "name": "Закручивание",
+          "description": "Ягодицы\nМаксимальное закручивание лёгким инерционным движением\nВ конце притормаживаем и резко начинаем движение в обратную сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/01dc3cadd886271a.jpg",
+            "data/images/115e2c9aa36f0d2c.jpg"
+          ]
+        },
+        {
+          "id": "ex_rzuhxfby",
+          "name": "Закручивание с опусканием на пол",
+          "description": "Ягодицы\nДиагональный выпад в максимальную диагональ, затем опускание на пол\nДвижение выполняется легко и плавно перекатом\nВстаём обратно на инерции",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/01dc3cadd886271a.jpg",
+            "data/images/115e2c9aa36f0d2c.jpg",
+            "data/images/bb948fbf841eb905.jpg",
+            "data/images/ac713609192e3936.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1176,6 +1202,32 @@
             {
               "id": "ci_eualgsdj",
               "exerciseId": "ex_vio4wm35"
+            }
+          ]
+        },
+        {
+          "id": "cx_scfuz77v",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_otpftm0r",
+              "exerciseId": "ex_vtmk94i6"
+            },
+            {
+              "id": "ci_xxd9vrhg",
+              "exerciseId": "ex_ugsmlxjv"
+            },
+            {
+              "id": "ci_smlsmi26",
+              "exerciseId": "ex_jrx3c1w9"
+            },
+            {
+              "id": "ci_qff5wrmf",
+              "exerciseId": "ex_t1sdzwcu"
+            },
+            {
+              "id": "ci_mwmo0c0h",
+              "exerciseId": "ex_rzuhxfby"
             }
           ]
         }
