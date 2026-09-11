@@ -800,6 +800,18 @@
             "data/images/240c052d7eac49db.jpg",
             "data/images/434b48535a12e61e.jpg"
           ]
+        },
+        {
+          "id": "ex_vio4wm35",
+          "name": "Присед на одной ноге с вытягивание ноги",
+          "description": "Ягодицы\nИз нижнего положения встаём импульсивным толчком\nДвижение должно быть лёгким",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8ee90856f30b4126.jpg",
+            "data/images/d0fb3f32d56367e1.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1098,6 +1110,32 @@
             {
               "id": "ci_4kb5diqr",
               "exerciseId": "ex_a0mh6i8e"
+            }
+          ]
+        },
+        {
+          "id": "cx_clq3wvo5",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_3gencxq0",
+              "exerciseId": "ex_rhqiowx8"
+            },
+            {
+              "id": "ci_jh2ktv3v",
+              "exerciseId": "ex_nbchdypk"
+            },
+            {
+              "id": "ci_0dziqd6q",
+              "exerciseId": "ex_335mezo2"
+            },
+            {
+              "id": "ci_40ms4tp9",
+              "exerciseId": "ex_dzpf9bow"
+            },
+            {
+              "id": "ci_eualgsdj",
+              "exerciseId": "ex_vio4wm35"
             }
           ]
         }
