@@ -454,6 +454,32 @@
             "data/images/a4cb4683eaca36db.jpg",
             "data/images/958dd2c70f474a0b.jpg"
           ]
+        },
+        {
+          "id": "ex_iom5n0gu",
+          "name": "Скручивания таза стоя",
+          "description": "Ягодицы. Боковая стабилизация\nОдна нога поднята и согнута в колене\nДвижение опускания и поднятия таза инициируется в ТБС.\nМышцы спины расслаблены и не подключаются",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8ea88de8713d6b73.jpg",
+            "data/images/7a346a130db3587f.jpg"
+          ]
+        },
+        {
+          "id": "ex_kopgmlnw",
+          "name": "Отведение ноги вбок стоя",
+          "description": "Ягодицы.\nСтоим на одной ноге, другую ногу в согнутом положении отводим вбок.\nТуловище наклонено вперёд. В пояснице лёгкий прогиб. Живот собран.\nКолено опорной ноги не заваливается, держится прямо. Таз удерживается ровно",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/0dd5e13983a4fff7.jpg",
+            "data/images/6f890645f9c8f388.jpg",
+            "data/images/7423bb39612a535e.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -683,7 +709,6 @@
   },
   "lastEquipment": [
     "mat",
-    "short_band",
-    "chair"
+    "short_band"
   ]
 }
