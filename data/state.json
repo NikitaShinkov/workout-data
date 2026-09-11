@@ -693,6 +693,18 @@
             "data/images/b87c241091d516c4.jpg",
             "data/images/5b3b1c36a27755e2.jpg"
           ]
+        },
+        {
+          "id": "ex_p0labqno",
+          "name": "Выталкивания из приседа",
+          "description": "Ягодицы\nКолени слегка оторваны от пола. Поясница ровная.\nВыполняем инерционно: в нижней части резко растянули мышцы и толчком вернулись в исходное положение",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a4de9ded9fb32762.jpg",
+            "data/images/802ca784d6a8138c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -943,6 +955,32 @@
             {
               "id": "ci_bykzbjd1",
               "exerciseId": "ex_858xix79"
+            }
+          ]
+        },
+        {
+          "id": "cx_bh3ewvgn",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_87v6q1vn",
+              "exerciseId": "ex_ot64iltz"
+            },
+            {
+              "id": "ci_kev5myuz",
+              "exerciseId": "ex_89yresz9"
+            },
+            {
+              "id": "ci_3eavkz7z",
+              "exerciseId": "ex_bry24ao3"
+            },
+            {
+              "id": "ci_5711rcz7",
+              "exerciseId": "ex_aq8a9s1a"
+            },
+            {
+              "id": "ci_7unyuzcr",
+              "exerciseId": "ex_3dwz7i61"
             }
           ]
         }
