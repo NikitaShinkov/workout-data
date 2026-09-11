@@ -416,6 +416,44 @@
             "data/images/3bb48b84ddeb1dbd.jpg",
             "data/images/2b96d35f2d5d2b14.jpg"
           ]
+        },
+        {
+          "id": "ex_ykypjisr",
+          "name": "Скручивания таза стоя",
+          "description": "Ягодицы.\nВес распределён на обе ноги по 50%\nПостепенно на переднюю ногу переносим вес 80-90%",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a14adf76c5df02a9.jpg",
+            "data/images/228ade6e848f8573.jpg"
+          ]
+        },
+        {
+          "id": "ex_rc25r146",
+          "name": "Скручивания таза стоя (самолётик)",
+          "description": "Ягодицы.\nВзгляд вниз. Поясница прямая. Живот собран.\nЛопатки сведены. Руки в стороны Наклон корпуса максимально низко до параллели с полом",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a42debf23d1a6cb0.jpg",
+            "data/images/3b1c4b8da16656f8.jpg"
+          ]
+        },
+        {
+          "id": "ex_l07eqkv1",
+          "name": "Скручивания таза стоя с резинкой и опорой",
+          "description": "Ягодицы.\nВзгляд вниз. Поясница прямая. Живот собран.\nДвижение изолированное в ТБС.  Опорная нога не шатается\nСкручивание вниз медленно, возращение в исходную позицию быстро.",
+          "equipment": [
+            "mat",
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/a4cb4683eaca36db.jpg",
+            "data/images/958dd2c70f474a0b.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -606,6 +644,8 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "short_band",
+    "chair"
   ]
 }
