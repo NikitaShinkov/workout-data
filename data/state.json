@@ -916,6 +916,34 @@
             "data/images/ebebca61e7b61631.jpg",
             "data/images/9e912690ecce3d67.jpg"
           ]
+        },
+        {
+          "id": "ex_dge9ppqt",
+          "name": "Вытягивание ног в приседе и вставание",
+          "description": "Ягодицы\nДвижение мягкое. При необходимости можно использовать опору\nНе заваливать туловище\nВ приседе возвращаем ногу обратно к себе и встаём\nПоочерёдно меняем ноги",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/63bbdf6e0c9cba56.jpg",
+            "data/images/c34635942323b47a.jpg",
+            "data/images/95aa05a818eebcae.jpg",
+            "data/images/113fe5ccc5738992.jpg"
+          ]
+        },
+        {
+          "id": "ex_bovmw9tj",
+          "name": "Вытягивание ног в приседе и вставание",
+          "description": "Ягодицы\nДвижение мягкое. При необходимости можно использовать опору\nНе заваливать туловище\nВ приседе вытягиваем ногу и встаём\nПоочерёдно меняем ноги",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c983a0cddf1aa8b0.jpg",
+            "data/images/c8aed9b75110ff45.jpg",
+            "data/images/c98d5640b4ae2777.jpg",
+            "data/images/cf220f397292ae98.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1266,6 +1294,32 @@
             {
               "id": "ci_mwmo0c0h",
               "exerciseId": "ex_rzuhxfby"
+            }
+          ]
+        },
+        {
+          "id": "cx_5d6i2azx",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_95nmye6p",
+              "exerciseId": "ex_p70e0l4w"
+            },
+            {
+              "id": "ci_6zxuzqxp",
+              "exerciseId": "ex_37snonz1"
+            },
+            {
+              "id": "ci_4m5cx10e",
+              "exerciseId": "ex_bpk31pks"
+            },
+            {
+              "id": "ci_jyimmzr8",
+              "exerciseId": "ex_dge9ppqt"
+            },
+            {
+              "id": "ci_5ttxl251",
+              "exerciseId": "ex_bovmw9tj"
             }
           ]
         }
