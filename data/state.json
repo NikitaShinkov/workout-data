@@ -743,6 +743,44 @@
               "exerciseId": "ex_l07eqkv1"
             }
           ]
+        },
+        {
+          "id": "cx_i5wmwppy",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_gzlladx4",
+              "exerciseId": "ex_iom5n0gu"
+            },
+            {
+              "id": "ci_cbglik4n",
+              "exerciseId": "ex_kopgmlnw"
+            },
+            {
+              "id": "ci_kqbae7iu",
+              "exerciseId": "ex_ly6zl5w7"
+            },
+            {
+              "id": "ci_z17e0c7q",
+              "exerciseId": "ex_g21zcijr"
+            },
+            {
+              "id": "ci_tvco1q8f",
+              "exerciseId": "ex_92wlyoxf"
+            },
+            {
+              "id": "ci_i8v7gg71",
+              "exerciseId": "ex_v57jg01k"
+            },
+            {
+              "id": "ci_tbpalnba",
+              "exerciseId": "ex_9vklo3g2"
+            },
+            {
+              "id": "ci_tio7ycq7",
+              "exerciseId": "ex_4i6y9hkt"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
