@@ -504,6 +504,57 @@
             "data/images/fcf6165f259ea7d9.jpg",
             "data/images/2dc3a091c9efd1f9.jpg"
           ]
+        },
+        {
+          "id": "ex_92wlyoxf",
+          "name": "Подъём таза лёжа",
+          "description": "Ягодицы.\nТаз уходит вниз и поднимается наверх с небольшой ротацией",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4d3deff5adb531c5.jpg",
+            "data/images/ab1d67e11b0aa8f5.jpg"
+          ]
+        },
+        {
+          "id": "ex_v57jg01k",
+          "name": "Подъёмы из положения сидя",
+          "description": "Ягодицы.\nНижняя нога в исходной позиции во внутренней ротации",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c8fcb8c97d275cb0.jpg",
+            "data/images/ec014ee5d18abb74.jpg"
+          ]
+        },
+        {
+          "id": "ex_9vklo3g2",
+          "name": "Подъёмы из положения сидя",
+          "description": "Подъёмы из положения сидя\nЯгодицы.\nНижняя нога в исходной позиции в наружней ротации",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9cf426be1f4cbfed.jpg",
+            "data/images/5d4615ac68b2fb9b.jpg"
+          ]
+        },
+        {
+          "id": "ex_4i6y9hkt",
+          "name": "Подъёмы из положения сидя",
+          "description": "Ягодицы.\nПодъём из положения сидя и потом сразу опускание в исходную позицию",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/766c7f779c473ea5.jpg",
+            "data/images/83a78359a4abe1a0.jpg",
+            "data/images/7db4ceb71aaffa5a.jpg",
+            "data/images/79fd256be7c74678.jpg",
+            "data/images/d13ee17df3925cae.jpg"
+          ]
         }
       ],
       "complexes": [
