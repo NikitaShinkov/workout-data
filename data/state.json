@@ -1057,6 +1057,20 @@
             "data/images/e68cbf79cae9c95f.jpg",
             "data/images/6c740dc206ad17bd.jpg"
           ]
+        },
+        {
+          "id": "ex_01f3qenm",
+          "name": "Подъём из пистолетика",
+          "description": "Ягодицы\nПятка остаётся на полу, таз отрывается от пола\nВ начале добавляем немного инерции\nПотом задача минимизировать начальный толчок\nПлавный подъём и плавное опускание",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/cbbc67c66962d92e.jpg",
+            "data/images/2405ec2a14e0220f.jpg",
+            "data/images/c1abeffa0a89e435.jpg",
+            "data/images/6d894f051dc8308c.jpg"
+          ]
         }
       ],
       "complexes": [
