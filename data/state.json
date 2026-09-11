@@ -571,6 +571,34 @@
             "data/images/1b4c217a76f5cb8e.jpg",
             "data/images/641563661d59f422.jpg"
           ]
+        },
+        {
+          "id": "ex_m7xwbr0l",
+          "name": "Подъём таза сидя с нижней ноги во внутренней ротации",
+          "description": "Ягодицы\nРавномерное распределение веса между верхней ногой, нижней ногой и руками.\nЗатем выполнять без рук",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/bf1f90a9b88c6dfa.jpg",
+            "data/images/c5c61d2960dda914.jpg",
+            "data/images/fc535d2f4db3b816.jpg",
+            "data/images/6489ae3527452f6b.jpg"
+          ]
+        },
+        {
+          "id": "ex_ash63xhq",
+          "name": "Подъём таза лёжа в наружной ротации",
+          "description": "Ягодицы\nРавномерное распределение веса между ногами\nМаксимально включать ягодичные мышцы\nДля более лёгкого удержания баланса локти можно положить на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e529c86d231cb1c2.jpg",
+            "data/images/6c49d4bd20cc3eb0.jpg",
+            "data/images/c18371602a586daf.jpg",
+            "data/images/45138673826b00a5.jpg"
+          ]
         }
       ],
       "complexes": [
