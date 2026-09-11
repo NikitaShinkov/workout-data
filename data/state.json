@@ -719,6 +719,33 @@
             "data/images/563b9517174cc642.jpg",
             "data/images/00d3b88f68a54e13.jpg"
           ]
+        },
+        {
+          "id": "ex_cmjowm73",
+          "name": "Выталкивания из приседа с разворотом, передним выпадом и вытягиванием ноги",
+          "description": "Ягодицы\nКолени слегка оторваны от пола. Поясница ровная.\nВыполняем инерционно: в нижней части резко растянули мышцы и толчком вернулись в исходное положение. При выталкивании делаем передний выпад, разворачиваемся, уводим одну руку назад, остаёмся на одной опорной руке и на одной опорной ноге\nПлечо на опорной руке не должно вываливаться вперёд, должно быть в нейтрали",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a4de9ded9fb32762.jpg",
+            "data/images/802ca784d6a8138c.jpg",
+            "data/images/15100bfdc1a8b1a6.jpg",
+            "data/images/aedd28f9d23c1237.jpg",
+            "data/images/00d3b88f68a54e13.jpg"
+          ]
+        },
+        {
+          "id": "ex_a0mh6i8e",
+          "name": "Прогулка горилы",
+          "description": "Ягодицы\nДвижения мягкие пружинистые",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/af2ce2f5ca3aa6cb.jpg",
+            "data/images/b486fb0af618961c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -995,6 +1022,28 @@
             {
               "id": "ci_7unyuzcr",
               "exerciseId": "ex_3dwz7i61"
+            }
+          ]
+        },
+        {
+          "id": "cx_bupku1bs",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_a38ji6ck",
+              "exerciseId": "ex_p0labqno"
+            },
+            {
+              "id": "ci_g9ew2lui",
+              "exerciseId": "ex_iitgehrc"
+            },
+            {
+              "id": "ci_duvtmmj9",
+              "exerciseId": "ex_cmjowm73"
+            },
+            {
+              "id": "ci_4kb5diqr",
+              "exerciseId": "ex_a0mh6i8e"
             }
           ]
         }
