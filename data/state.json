@@ -878,6 +878,20 @@
             "data/images/bb948fbf841eb905.jpg",
             "data/images/ac713609192e3936.jpg"
           ]
+        },
+        {
+          "id": "ex_p70e0l4w",
+          "name": "Присед с перекатом",
+          "description": "Ягодицы\nСтоя переносим вес в одну сторону\nПриседаем\nВ приседе переносим вес в другую сторону\nПоднимаемся вверх",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b7f620ffe398afce.jpg",
+            "data/images/8871e9c5fdd369dc.jpg",
+            "data/images/ecb32ea72d8e8e4f.jpg",
+            "data/images/f66ab7baf46976f5.jpg"
+          ]
         }
       ],
       "complexes": [
