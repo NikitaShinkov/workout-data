@@ -944,6 +944,20 @@
             "data/images/c98d5640b4ae2777.jpg",
             "data/images/cf220f397292ae98.jpg"
           ]
+        },
+        {
+          "id": "ex_wwnaesc3",
+          "name": "Перекаты в глубоком приседе",
+          "description": "Ягодицы\nОтталкиваемся руками в начальном положении",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5760ba51f6666578.jpg",
+            "data/images/304b6fff5c5a3f0c.jpg",
+            "data/images/75358561d0a3a451.jpg",
+            "data/images/4363002950e11c80.jpg"
+          ]
         }
       ],
       "complexes": [
