@@ -480,6 +480,30 @@
             "data/images/6f890645f9c8f388.jpg",
             "data/images/7423bb39612a535e.jpg"
           ]
+        },
+        {
+          "id": "ex_ly6zl5w7",
+          "name": "Наклоны стоя с поднятой ногой",
+          "description": "Ягодицы.\nОдна нога поднята, согнута в колене и упирается в стену\nКолено опорной ноги не заваливается, держится прямо.\nНаклон туловища вперёд",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2a7edcba7182c215.jpg",
+            "data/images/33bd47ac4a812bca.jpg"
+          ]
+        },
+        {
+          "id": "ex_g21zcijr",
+          "name": "Подъём таза лёжа",
+          "description": "Ягодицы.\nОдна нога прижата за колено к груди\nДругая нога (опорная) прижата голенью к себе и стопу тянем на себя носком вверх\nВ верхнем положении верхняя нога не отрывается от груди",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fcf6165f259ea7d9.jpg",
+            "data/images/2dc3a091c9efd1f9.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -708,7 +732,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "short_band"
+    "mat"
   ]
 }
