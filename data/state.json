@@ -892,6 +892,30 @@
             "data/images/ecb32ea72d8e8e4f.jpg",
             "data/images/f66ab7baf46976f5.jpg"
           ]
+        },
+        {
+          "id": "ex_37snonz1",
+          "name": "Подъём ног в приседе",
+          "description": "Ягодицы\nПоднимаем ноги из крайней амплитуды в приседе\nСтопа отрывается от земли\nПоочерёдно меняем ноги",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/aa1b1a933f56f786.jpg",
+            "data/images/e189fe1405cac507.jpg"
+          ]
+        },
+        {
+          "id": "ex_bpk31pks",
+          "name": "Вытягивание ног в приседе",
+          "description": "Ягодицы\nМожно немного пружинить выпрыгивая в вертикальной плоскости\nНе заваливать туловище\nПоочерёдно меняем ноги",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ebebca61e7b61631.jpg",
+            "data/images/9e912690ecce3d67.jpg"
+          ]
         }
       ],
       "complexes": [
