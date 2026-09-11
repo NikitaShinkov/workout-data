@@ -1016,6 +1016,47 @@
             "data/images/2677a8955ddced07.jpg",
             "data/images/69719fbfed247282.jpg"
           ]
+        },
+        {
+          "id": "ex_1z6rg9ww",
+          "name": "Подъём из низкого приседа",
+          "description": "Ягодицы\nПлавно встаём и плавно опускаемся",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/be84952f320a4faf.jpg",
+            "data/images/aa963335a863cccb.jpg",
+            "data/images/86bfdba5c4f7da7b.jpg"
+          ]
+        },
+        {
+          "id": "ex_itpz992c",
+          "name": "Подъём из приседа с ротацией",
+          "description": "Ягодицы\nОпора на согнутую ногу в нижнем положении\nНеопорная нога при подъёме выполняет наружную ротацию.\nПосле подъёма опускаемся обратно вниз, неопорная нога выполняет внутреннюю ротацию",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7e1ca38d78236104.jpg",
+            "data/images/5ff8e2dcbe50c6bd.jpg",
+            "data/images/d340e56cc3a3eefe.jpg",
+            "data/images/5a7cc738c88635c1.jpg"
+          ]
+        },
+        {
+          "id": "ex_i66rqqj0",
+          "name": "Подъём из приседа с ротацией",
+          "description": "Ягодицы\nОпора на согнутую ногу в нижнем положении\nНеопорная нога при подъёме выполняет внутренную ротацию.\nПосле подъёма опускаемся обратно вниз, неопорная нога выполняет наружнюю ротацию\nДвижение выполняется плавно и циклично",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9c7cc06337544641.jpg",
+            "data/images/3167e3b906063bf7.jpg",
+            "data/images/e68cbf79cae9c95f.jpg",
+            "data/images/6c740dc206ad17bd.jpg"
+          ]
         }
       ],
       "complexes": [
