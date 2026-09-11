@@ -1471,6 +1471,32 @@
               "exerciseId": "ex_2l6mo0hy"
             }
           ]
+        },
+        {
+          "id": "cx_9883zeo3",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_51dcxt6o",
+              "exerciseId": "ex_fm7o14ye"
+            },
+            {
+              "id": "ci_6baxbl5t",
+              "exerciseId": "ex_1z6rg9ww"
+            },
+            {
+              "id": "ci_4u96pmmu",
+              "exerciseId": "ex_itpz992c"
+            },
+            {
+              "id": "ci_saaa8d1h",
+              "exerciseId": "ex_i66rqqj0"
+            },
+            {
+              "id": "ci_n3zn86rr",
+              "exerciseId": "ex_01f3qenm"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
