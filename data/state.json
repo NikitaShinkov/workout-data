@@ -987,6 +987,21 @@
             "data/images/2c7f8fac59e287fc.jpg",
             "data/images/a72862b9f44aebb9.jpg"
           ]
+        },
+        {
+          "id": "ex_2l6mo0hy",
+          "name": "Присед из положения стоя и скручивание в глубокий присед с гирькой",
+          "description": "Ягодицы\nБез рывков. Сначала глубокий присед, потом опускание на пол со скручиванием\nОдин присед – скручивание в одну сторону, следующий присед – в другую.",
+          "equipment": [
+            "mat",
+            "weight"
+          ],
+          "images": [
+            "data/images/6a381d4d3c65cd90.jpg",
+            "data/images/2f3f9b2b156d548a.jpg",
+            "data/images/ae279c15809bf65f.jpg",
+            "data/images/2101b64da337f1e7.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1365,6 +1380,28 @@
               "exerciseId": "ex_bovmw9tj"
             }
           ]
+        },
+        {
+          "id": "cx_m1dqap0w",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_9h44ulh3",
+              "exerciseId": "ex_wwnaesc3"
+            },
+            {
+              "id": "ci_pdyyseca",
+              "exerciseId": "ex_0pmikfoq"
+            },
+            {
+              "id": "ci_njwnl6sx",
+              "exerciseId": "ex_7mylddvo"
+            },
+            {
+              "id": "ci_5vku4jr4",
+              "exerciseId": "ex_2l6mo0hy"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
@@ -1405,6 +1442,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "weight"
   ]
 }
