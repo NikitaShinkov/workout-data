@@ -759,6 +759,47 @@
             "data/images/810cb074986259d9.jpg",
             "data/images/59392b80779b2e84.jpg"
           ]
+        },
+        {
+          "id": "ex_nbchdypk",
+          "name": "Перекаты в приседе",
+          "description": "Ягодицы\nИз нижнего положения в приседе немного выталкиваемся\nЧтобы было легче, можно немного приподняться\nДвижения очень плавные",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/cedbc3dcb3c9c314.jpg",
+            "data/images/be45bf295e107e9f.jpg",
+            "data/images/2e331a16026a0a27.jpg"
+          ]
+        },
+        {
+          "id": "ex_335mezo2",
+          "name": "Вытягивание ноги в приседе",
+          "description": "Ягодицы\nИз положения в приседе переносим вес тела на опорную ногу, другую ногу выпрямляем\nМеняем по очереди опорные ноги\nДержим стабильность при выпрямлении ноги",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/1e2a5fa0fd975e0a.jpg",
+            "data/images/b6ea21313a820648.jpg",
+            "data/images/badb07abf2446fde.jpg",
+            "data/images/aaa05fd78a63afa1.jpg"
+          ]
+        },
+        {
+          "id": "ex_dzpf9bow",
+          "name": "Перекат с подъёмом на одной ноге",
+          "description": "Ягодицы\nПодъём на обратном движении с переката на спину",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/83be8345b8434af1.jpg",
+            "data/images/40dafe5a25032cae.jpg",
+            "data/images/240c052d7eac49db.jpg",
+            "data/images/434b48535a12e61e.jpg"
+          ]
         }
       ],
       "complexes": [
