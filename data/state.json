@@ -6768,11 +6768,51 @@
             "data/images/b24d5acd06393c4d.jpg",
             "data/images/b0d553758bd069d5.jpg"
           ]
+        },
+        {
+          "id": "ex_rqkqd5fl",
+          "name": "Скручивания и раскручивания",
+          "description": "Встаём от стены на пол метра. Руки прямые, ладони на стене. Не допускаем переразгиба в пояснице и в шее. Амплитуда небольшая. Стараемся, чтобы движение шло через лопатки и грудной отдел и руки использовались как рычаги, без растяжения широчайших мышц спины",
+          "equipment": [
+            "mat",
+            "wall"
+          ],
+          "images": [
+            "data/images/3c28cd369a5fa7b2.jpg",
+            "data/images/f6064c8acb7cf835.jpg"
+          ]
         }
       ],
-      "complexes": [],
+      "complexes": [
+        {
+          "id": "cx_t0qpjpo5",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_wp6585uw",
+              "exerciseId": "ex_9ejatemz"
+            },
+            {
+              "id": "ci_p2ocrlbz",
+              "exerciseId": "ex_c8cc194w"
+            },
+            {
+              "id": "ci_ev51rpo5",
+              "exerciseId": "ex_jxppdd6n"
+            },
+            {
+              "id": "ci_83e70hz6",
+              "exerciseId": "ex_bz11ldj0"
+            },
+            {
+              "id": "ci_mdmlg9eu",
+              "exerciseId": "ex_v6zsozek"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-13",
       "intervalDays": 1
     },
     "cat_lz5gplty": {
@@ -6785,6 +6825,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "wall"
   ]
 }
