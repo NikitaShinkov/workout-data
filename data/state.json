@@ -1616,6 +1616,30 @@
             "data/images/4f8381e97ed79bce.jpg",
             "data/images/79de614342e25fe7.jpg"
           ]
+        },
+        {
+          "id": "ex_1e2r2ltb",
+          "name": "Разгибания",
+          "description": "Пятки стремятся полу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b1fb257fc230efc7.jpg",
+            "data/images/d62c24549b826b5e.jpg"
+          ]
+        },
+        {
+          "id": "ex_25eeu4y8",
+          "name": "Разгибания",
+          "description": "Одну ногу держим на вису",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/524d0992f9548f6b.jpg",
+            "data/images/0d33cfef33d5f9ea.jpg"
+          ]
         }
       ],
       "complexes": [
