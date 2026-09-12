@@ -375,6 +375,46 @@
             "data/images/88bfe73de27de5ad.jpg",
             "data/images/f8e3d48ef734a29c.jpg"
           ]
+        },
+        {
+          "id": "ex_2qcpti9w",
+          "name": "Внутренняя ротация",
+          "description": "Можно слегка помогать, надавливая рукой",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/182b3e21f2637dee.jpg",
+            "data/images/2146793ccb07fa6d.jpg"
+          ]
+        },
+        {
+          "id": "ex_xbnqtnvm",
+          "name": "Наружная ротация",
+          "description": "Можно слегка помогать, надавливая рукой",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/dca1eb5780e5026d.jpg",
+            "data/images/8ed824e1cd3b0852.jpg"
+          ]
+        },
+        {
+          "id": "ex_k1kglhxg",
+          "name": "Наружние разгибания",
+          "description": "Во время разгибания ног можно также наклоняться в ногам с прямой спиной",
+          "equipment": [
+            "short_band",
+            "roller",
+            "chair"
+          ],
+          "images": [
+            "data/images/e830c902172b9d2d.jpg",
+            "data/images/febff3ee3b559b44.jpg",
+            "data/images/6582cc1668dc89b2.jpg",
+            "data/images/0aedad1cf5324fd2.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2205,6 +2245,8 @@
     }
   },
   "lastEquipment": [
+    "short_band",
+    "roller",
     "chair"
   ]
 }
