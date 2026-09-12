@@ -549,6 +549,22 @@
             "data/images/a90861562e2e414e.jpg",
             "data/images/910524d0cbb7bba2.jpg"
           ]
+        },
+        {
+          "id": "ex_vgb3a21d",
+          "name": "Полуприсед",
+          "description": "Опорная нога прямая. Приседаем в разные стороны очень плавно",
+          "equipment": [],
+          "images": [
+            "data/images/73c46c1c3d886c98.jpg",
+            "data/images/ee2d1f37e14478da.jpg",
+            "data/images/73c46c1c3d886c98.jpg",
+            "data/images/7aa0ad20a9e77648.jpg",
+            "data/images/73c46c1c3d886c98.jpg",
+            "data/images/cb2b78ef9d705b59.jpg",
+            "data/images/73c46c1c3d886c98.jpg",
+            "data/images/73c83f14da892508.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3829,7 +3845,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
