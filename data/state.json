@@ -1211,6 +1211,52 @@
             "data/images/da8d2c60e7ca0768.jpg",
             "data/images/b7922450932a091d.jpg"
           ]
+        },
+        {
+          "id": "ex_ap093oo1",
+          "name": "Наклоны",
+          "description": "Удерживаем поясницу прямой",
+          "equipment": [],
+          "images": [
+            "data/images/d153d98c97ee3521.jpg",
+            "data/images/777dbf3dec47d513.jpg"
+          ]
+        },
+        {
+          "id": "ex_i0kg30ur",
+          "name": "Разгибания",
+          "description": "Удерживаем поясницу прямой. Меняем угол поворота бедра и пробуем растягивать в разных плоскостях",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/dc796fcf287c58a2.jpg",
+            "data/images/fab4340a33c67239.jpg"
+          ]
+        },
+        {
+          "id": "ex_khihqfx6",
+          "name": "Сгибания",
+          "description": "Удерживаем поясницу прямой. Меняем угол поворота бедра и пробуем растягивать в разных плоскостях",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/0c541e012a7fa461.jpg",
+            "data/images/624e94d4784f0921.jpg"
+          ]
+        },
+        {
+          "id": "ex_nqbfiv3d",
+          "name": "Разгибания",
+          "description": "Удерживаем поясницу прямой. Меняем угол поворота бедра и пробуем растягивать в разных плоскостях",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/95bdc7f17a44ac7d.jpg",
+            "data/images/8c997ec73d42f150.jpg"
+          ]
         }
       ],
       "complexes": [
