@@ -415,6 +415,20 @@
             "data/images/6582cc1668dc89b2.jpg",
             "data/images/0aedad1cf5324fd2.jpg"
           ]
+        },
+        {
+          "id": "ex_rt78b7w8",
+          "name": "Внутренние разгибания",
+          "description": "Во время разгибания ног можно также наклоняться в ногам с прямой спиной",
+          "equipment": [
+            "short_band",
+            "roller",
+            "chair"
+          ],
+          "images": [
+            "data/images/17f626921d7bb235.jpg",
+            "data/images/b501bb38c49aa657.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -545,6 +559,32 @@
             {
               "id": "ci_jayxh3vw",
               "exerciseId": "ex_up4nn1g7"
+            }
+          ]
+        },
+        {
+          "id": "cx_z6hstrxf",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_3eaeql2k",
+              "exerciseId": "ex_9q2r1g51"
+            },
+            {
+              "id": "ci_5c2g8p25",
+              "exerciseId": "ex_2qcpti9w"
+            },
+            {
+              "id": "ci_3iqbngqu",
+              "exerciseId": "ex_xbnqtnvm"
+            },
+            {
+              "id": "ci_isorwmy2",
+              "exerciseId": "ex_k1kglhxg"
+            },
+            {
+              "id": "ci_g2kdi6d4",
+              "exerciseId": "ex_rt78b7w8"
             }
           ]
         }
