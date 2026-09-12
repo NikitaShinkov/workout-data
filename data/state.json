@@ -465,6 +465,18 @@
             "data/images/60bbe84690b25b61.jpg",
             "data/images/b285e606a0450edc.jpg"
           ]
+        },
+        {
+          "id": "ex_v2h8pigo",
+          "name": "Полуприсед",
+          "description": "Туловище отклонено назад, ягодицы расслаблены. Пятки можно отрывать.\nМедленно опускаемся вниз. Постепенно уходим в глубокую амплитуду",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/896d67aed2a358e6.jpg",
+            "data/images/41f9bdd24441f50e.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -611,6 +623,36 @@
             {
               "id": "ci_vw9evioq",
               "exerciseId": "ex_8c9tjf1m"
+            }
+          ]
+        },
+        {
+          "id": "cx_qpknjt9x",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_vr1523p6",
+              "exerciseId": "ex_wovk5jq9"
+            },
+            {
+              "id": "ci_gw537jrq",
+              "exerciseId": "ex_z7itc6bz"
+            },
+            {
+              "id": "ci_d6f4t9da",
+              "exerciseId": "ex_nojs47lx"
+            },
+            {
+              "id": "ci_8r4xkan4",
+              "exerciseId": "ex_cfc5i1u3"
+            },
+            {
+              "id": "ci_p3yqpqhy",
+              "exerciseId": "ex_9d33clss"
+            },
+            {
+              "id": "ci_xa5zph6p",
+              "exerciseId": "ex_v2h8pigo"
             }
           ]
         }
@@ -3690,6 +3732,6 @@
     }
   },
   "lastEquipment": [
-    "short_band"
+    "chair"
   ]
 }
