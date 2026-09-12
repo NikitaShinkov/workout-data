@@ -1552,6 +1552,19 @@
             "data/images/fe6d79abcac96126.jpg",
             "data/images/80198fb208064a7f.jpg"
           ]
+        },
+        {
+          "id": "ex_gu0oxs4n",
+          "name": "Наружная ротация",
+          "description": "",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/5db750db876b8544.jpg",
+            "data/images/8ea27f4c0dc1b933.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2146,6 +2159,32 @@
             {
               "id": "ci_kf19jn2d",
               "exerciseId": "ex_1an3lgr7"
+            }
+          ]
+        },
+        {
+          "id": "cx_0f5cig3v",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_g1sle6xv",
+              "exerciseId": "ex_z6h16cck"
+            },
+            {
+              "id": "ci_q4ttkoq7",
+              "exerciseId": "ex_t1z9581a"
+            },
+            {
+              "id": "ci_a03vkw02",
+              "exerciseId": "ex_i3w197za"
+            },
+            {
+              "id": "ci_de9ru68z",
+              "exerciseId": "ex_obupxh0w"
+            },
+            {
+              "id": "ci_3d0bjesi",
+              "exerciseId": "ex_yn1ay7ys"
             }
           ]
         }
@@ -5224,5 +5263,8 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat",
+    "short_band"
+  ]
 }
