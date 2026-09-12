@@ -6580,6 +6580,18 @@
             "data/images/bd30c70e1843b9f1.jpg",
             "data/images/514119b6d169a034.jpg"
           ]
+        },
+        {
+          "id": "ex_pn3f981h",
+          "name": "Скручивание",
+          "description": "Задействуем каждый позвонок при скручивании\nВыполнение очень медленное и плавное",
+          "equipment": [],
+          "images": [
+            "data/images/5886f945d70bf13b.jpg",
+            "data/images/9c262c523a03c229.jpg",
+            "data/images/e930dd07da751ed0.jpg",
+            "data/images/1bdde893d025c7bd.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6635,8 +6647,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat",
-    "long_band"
-  ]
+  "lastEquipment": []
 }
