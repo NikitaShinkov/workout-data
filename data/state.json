@@ -1640,6 +1640,36 @@
             "data/images/524d0992f9548f6b.jpg",
             "data/images/0d33cfef33d5f9ea.jpg"
           ]
+        },
+        {
+          "id": "ex_n4abufhh",
+          "name": "Перекаты",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/13f102e087258039.jpg",
+            "data/images/186300e79ed048a4.jpg"
+          ]
+        },
+        {
+          "id": "ex_21maey2u",
+          "name": "Разгибания",
+          "description": "Поясница прямая. Носок на себя",
+          "equipment": [],
+          "images": [
+            "data/images/8386b736e1e8961f.jpg",
+            "data/images/43416663ff0944fe.jpg"
+          ]
+        },
+        {
+          "id": "ex_7j3plmoa",
+          "name": "Подъёмы ноги",
+          "description": "Поясница прямая. Носок на себя. Не махи, выполняем медленно",
+          "equipment": [],
+          "images": [
+            "data/images/27835d59db245022.jpg",
+            "data/images/cef915404aa6fdf2.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2286,6 +2316,32 @@
             {
               "id": "ci_w8cuqfjh",
               "exerciseId": "ex_zn1yhr9n"
+            }
+          ]
+        },
+        {
+          "id": "cx_4szxzxvx",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_n703o5zh",
+              "exerciseId": "ex_1e2r2ltb"
+            },
+            {
+              "id": "ci_7iphfle0",
+              "exerciseId": "ex_25eeu4y8"
+            },
+            {
+              "id": "ci_6ljgclj4",
+              "exerciseId": "ex_n4abufhh"
+            },
+            {
+              "id": "ci_ouwtsvh1",
+              "exerciseId": "ex_21maey2u"
+            },
+            {
+              "id": "ci_41nybxw9",
+              "exerciseId": "ex_7j3plmoa"
             }
           ]
         }
@@ -5364,7 +5420,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
