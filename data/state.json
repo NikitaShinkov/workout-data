@@ -1794,6 +1794,44 @@
             "data/images/a7d6902b4b844cff.jpg",
             "data/images/f30b7d085cfe8c16.jpg"
           ]
+        },
+        {
+          "id": "ex_5b567xh1",
+          "name": "Растяжка задней поверхности бедра",
+          "description": "",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/a4f9ac8150272b7b.jpg",
+            "data/images/bf74ad749d420278.jpg"
+          ]
+        },
+        {
+          "id": "ex_ss95c2lo",
+          "name": "Растяжка задней поверхности бедра",
+          "description": "",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/80ce79e132812ad2.jpg",
+            "data/images/1bcf69be8f26f454.jpg"
+          ]
+        },
+        {
+          "id": "ex_oa7biliu",
+          "name": "",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/d4eb5fe07c3d6f81.jpg",
+            "data/images/679bbefaab84aa42.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5593,7 +5631,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "long_band"
   ]
 }
