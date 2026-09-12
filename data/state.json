@@ -6526,7 +6526,21 @@
     },
     "lower_back": {
       "name": "Поясница",
-      "exercises": [],
+      "exercises": [
+        {
+          "id": "ex_9a88ztl7",
+          "name": "Поднятие руки лёжа",
+          "description": "Ноги 90 градусов в ТБС и в колене. Руки вверх ровно по линии плечевого сустава\nКонтроль нейтрального положения поясницы. В поясничном отделе нет движений\nОдна рука проворачивается вверх, движение в лопатке. Другая рука и ноги неподвижны",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4c4c984c9cf47132.jpg",
+            "data/images/198dc8ff0265e112.jpg"
+          ]
+        }
+      ],
       "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
@@ -6558,6 +6572,7 @@
     }
   },
   "lastEquipment": [
-    "short_band"
+    "mat",
+    "long_band"
   ]
 }
