@@ -140,7 +140,7 @@
         {
           "id": "ex_fgvpbo8d",
           "name": "Ротация голеностопа",
-          "description": "Наружная ротация голеностопного сустава",
+          "description": "",
           "equipment": [
             "short_band",
             "chair"
@@ -160,6 +160,18 @@
           "images": [
             "data/images/8d17d92f52771c33.jpg",
             "data/images/e4ee2fdfab940d13.jpg"
+          ]
+        },
+        {
+          "id": "ex_m2r31kkx",
+          "name": "Боковые выпады",
+          "description": "",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/02aa613a84de8ae9.jpg",
+            "data/images/757250ffc380f8bf.jpg"
           ]
         }
       ],
@@ -191,6 +203,36 @@
             {
               "id": "ci_2jyruyor",
               "exerciseId": "ex_9bxz8uuw"
+            }
+          ]
+        },
+        {
+          "id": "cx_z4qxhx8q",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_nnrh16p6",
+              "exerciseId": "ex_byqymdls"
+            },
+            {
+              "id": "ci_lfibz8hv",
+              "exerciseId": "ex_h2xblx5t"
+            },
+            {
+              "id": "ci_0cfmvf6x",
+              "exerciseId": "ex_2gimc26s"
+            },
+            {
+              "id": "ci_6yh9drwm",
+              "exerciseId": "ex_fgvpbo8d"
+            },
+            {
+              "id": "ci_p8nyyyzz",
+              "exerciseId": "ex_mkn8gtqg"
+            },
+            {
+              "id": "ci_96ybgphr",
+              "exerciseId": "ex_m2r31kkx"
             }
           ]
         }
