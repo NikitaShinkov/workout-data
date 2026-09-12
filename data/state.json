@@ -200,6 +200,21 @@
             "data/images/1e724f3424a2ea0f.jpg",
             "data/images/5108048faa384d7e.jpg"
           ]
+        },
+        {
+          "id": "ex_y8bb1tfj",
+          "name": "Наклоны ног сидя",
+          "description": "Движение плавное\nОпускаемся максимально глубоко",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4f643342e0968e5d.jpg",
+            "data/images/f3d6d0861fa47608.jpg",
+            "data/images/82cbfbba327e0f04.jpg",
+            "data/images/6a7f86a5151fe740.jpg",
+            "data/images/2b0f44121505c7e5.jpg"
+          ]
         }
       ],
       "complexes": [
