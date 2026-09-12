@@ -684,6 +684,58 @@
             "data/images/68b1562afa1f0376.jpg",
             "data/images/7f57d72d6977fc12.jpg"
           ]
+        },
+        {
+          "id": "ex_pduianfo",
+          "name": "Подъём ноги стоя",
+          "description": "Резина крепится сзади.\nПоднятие ноги с активацией наружних ротаторов\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/8c00721d94d8053f.jpg",
+            "data/images/644f0694f396cc64.jpg"
+          ]
+        },
+        {
+          "id": "ex_p7jsff6i",
+          "name": "Подъём ноги стоя",
+          "description": "Резина крепится сбоку.\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/80dc86bae4f8a7cc.jpg",
+            "data/images/63a4ee88bb7548fc.jpg"
+          ]
+        },
+        {
+          "id": "ex_hxu0vfry",
+          "name": "Внутренняя ротация стоя",
+          "description": "Резина крепится сбоку.\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/3dad30204eec426a.jpg",
+            "data/images/8ad253cb1f873289.jpg"
+          ]
+        },
+        {
+          "id": "ex_m2dibv23",
+          "name": "Наружная ротация стоя",
+          "description": "Резина крепится сбоку.\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/9e9151b9117f2978.jpg",
+            "data/images/1c626ae04d4bdcf6.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -940,6 +992,32 @@
             {
               "id": "ci_3n4y7qde",
               "exerciseId": "ex_56as5k63"
+            }
+          ]
+        },
+        {
+          "id": "cx_xkd0i8hi",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_83twfug6",
+              "exerciseId": "ex_6ezxpc71"
+            },
+            {
+              "id": "ci_c3y1yy6k",
+              "exerciseId": "ex_pduianfo"
+            },
+            {
+              "id": "ci_f7zpkeyd",
+              "exerciseId": "ex_p7jsff6i"
+            },
+            {
+              "id": "ci_tachyiqq",
+              "exerciseId": "ex_hxu0vfry"
+            },
+            {
+              "id": "ci_4t7vjo1l",
+              "exerciseId": "ex_m2dibv23"
             }
           ]
         }
