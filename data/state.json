@@ -754,6 +754,22 @@
             "data/images/9c3bec6213c31ec7.jpg",
             "data/images/73c884c91df319fe.jpg"
           ]
+        },
+        {
+          "id": "ex_g6fxrz1p",
+          "name": "Сгибания",
+          "description": "Желательно пятку не отрывать от пола. В три направления: внутрь, середину и наружу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/50fe02d67e3b5bfe.jpg",
+            "data/images/82f45f7464218867.jpg",
+            "data/images/50fe02d67e3b5bfe.jpg",
+            "data/images/dac7b4fa1bb659b6.jpg",
+            "data/images/50fe02d67e3b5bfe.jpg",
+            "data/images/52e3145b60fd774e.jpg"
+          ]
         }
       ],
       "complexes": [
