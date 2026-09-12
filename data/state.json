@@ -910,6 +910,35 @@
             "data/images/1337de18f20c1f45.jpg",
             "data/images/b8463a526813b7c4.jpg"
           ]
+        },
+        {
+          "id": "ex_pvzsreb2",
+          "name": "Опускания и вставания",
+          "description": "Ноги расставлены широко. Опускаемся в z-позицию с прямой ногой. Потом встаём обратно и меняем ноги. При опускании и вставании помогаем руками. Движение плавное. Если получается легко, то делать без рук",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9b8dc6cd4f2c2f6d.jpg",
+            "data/images/5d84e7f5c8672772.jpg",
+            "data/images/1cbab75c229dad64.jpg",
+            "data/images/c66e15b3bbddcc8b.jpg",
+            "data/images/0ad102362a1d0e3f.jpg"
+          ]
+        },
+        {
+          "id": "ex_g4b34kpg",
+          "name": "Разворот с удержанием предмета на вису",
+          "description": "Разворачиваемся в одну сторону, потом возвращаемся обратно\nДвижение плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/630647313bef9ca2.jpg",
+            "data/images/dba3f8c64b33f15e.jpg",
+            "data/images/c27e6126ab521be4.jpg",
+            "data/images/c6af87aaaa601ef9.jpg"
+          ]
         }
       ],
       "complexes": [
