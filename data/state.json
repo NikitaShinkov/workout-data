@@ -838,6 +838,19 @@
             "data/images/600546d07cefb52b.jpg",
             "data/images/3e068661ec0dea69.jpg"
           ]
+        },
+        {
+          "id": "ex_qqtu5xzq",
+          "name": "Полуприсед и ротация",
+          "description": "Можно прижимать стопу или немного отрывать. Сначала вращение в одну сторону, потом в другую",
+          "equipment": [],
+          "images": [
+            "data/images/f0de93799b45dc5f.jpg",
+            "data/images/257997ed50ff9385.jpg",
+            "data/images/f55b04dd15b8d7e8.jpg",
+            "data/images/bc84f88ad86928ad.jpg",
+            "data/images/b1c94a85c093e770.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1126,6 +1139,36 @@
             {
               "id": "ci_6ee5euk2",
               "exerciseId": "ex_l6bmky00"
+            }
+          ]
+        },
+        {
+          "id": "cx_6sx8vipg",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_c89q1oey",
+              "exerciseId": "ex_g6fxrz1p"
+            },
+            {
+              "id": "ci_gxdiwbca",
+              "exerciseId": "ex_1egomt3s"
+            },
+            {
+              "id": "ci_k0amhmii",
+              "exerciseId": "ex_i9y2bp58"
+            },
+            {
+              "id": "ci_fe0vskat",
+              "exerciseId": "ex_4bgb642c"
+            },
+            {
+              "id": "ci_xt6ov41a",
+              "exerciseId": "ex_frroy8s3"
+            },
+            {
+              "id": "ci_pvl6sbxg",
+              "exerciseId": "ex_qqtu5xzq"
             }
           ]
         }
@@ -4204,7 +4247,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "chair"
-  ]
+  "lastEquipment": []
 }
