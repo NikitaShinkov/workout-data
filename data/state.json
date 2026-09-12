@@ -1197,6 +1197,22 @@
             "data/images/cbadf1e8dc511bd6.jpg",
             "data/images/47b67286ae37b60f.jpg"
           ]
+        },
+        {
+          "id": "ex_ulywe7za",
+          "name": "Перекаты на спину и подъём на одной ноге",
+          "description": "Плавно приседаем и перекатываемся на спину\nРеактивно перекатываемся обратно и встаём\nКолени не болтаются в разные стороны",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/0d79dcfb0faea1ea.jpg",
+            "data/images/e851f0794222089a.jpg",
+            "data/images/4206ab4f6281eb33.jpg",
+            "data/images/fb240edac199d4ff.jpg",
+            "data/images/f2647a347515c5c4.jpg",
+            "data/images/0d79dcfb0faea1ea.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1689,7 +1705,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "weight"
+    "mat"
   ]
 }
