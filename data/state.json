@@ -201,6 +201,46 @@
             "data/images/86b01435588152fd.jpg",
             "data/images/3f1039413c53cdc6.jpg"
           ]
+        },
+        {
+          "id": "ex_nq4vdvqw",
+          "name": "Разгибания",
+          "description": "Движение плавное. Медленный возврат",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/23e7057877383309.jpg",
+            "data/images/2866283b672f397c.jpg",
+            "data/images/8ad64bd851f88a17.jpg",
+            "data/images/ef8fdb8ce2ec4bd3.jpg"
+          ]
+        },
+        {
+          "id": "ex_2bcuolfl",
+          "name": "Разгибания",
+          "description": "Движение плавное. Медленный возврат.\nРазгибание с акцентом на наружную ротацию, возврат с акцентом на внутреннюю ротацию",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/ec1f9d15c9e78802.jpg",
+            "data/images/d92208406eca09b1.jpg"
+          ]
+        },
+        {
+          "id": "ex_o5ojcbv0",
+          "name": "Мини выпад",
+          "description": "Движение плавное. Медленный возврат.",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/7f6c4566163068a8.jpg",
+            "data/images/576a92cca4041996.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3340,7 +3380,6 @@
     }
   },
   "lastEquipment": [
-    "short_band",
-    "chair"
+    "long_band"
   ]
 }
