@@ -148,6 +148,19 @@
             "data/images/5a41b4072a2b38b0.jpg",
             "data/images/9dc72f2faafa8b7c.jpg"
           ]
+        },
+        {
+          "id": "ex_oqewarxf",
+          "name": "Протягивание туловища вдоль рола",
+          "description": "Протягивание туловища вдоль рола",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/2a1fa33833e326ed.jpg",
+            "data/images/1363a8404dbcbd98.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1897,6 +1910,6 @@
   },
   "lastEquipment": [
     "mat",
-    "long_band"
+    "roller"
   ]
 }
