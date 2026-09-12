@@ -814,6 +814,54 @@
             "data/images/0740ef77ed5345b9.jpg",
             "data/images/b08f7a84e5ec452d.jpg"
           ]
+        },
+        {
+          "id": "ex_vofonhsh",
+          "name": "Наклоны на одной ноге",
+          "description": "Спина ровная, не включается в движение",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/3b38331d8d86b817.jpg",
+            "data/images/b74e496d94623040.jpg"
+          ]
+        },
+        {
+          "id": "ex_riqzi3tl",
+          "name": "Скручивания стоя",
+          "description": "Резинка на уровне плеч\nПоднимаем ногу и делаем внутреннюю ротацию\nНогу можно держать на весу",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/527e46ff7771dee3.jpg",
+            "data/images/8583b35c89818755.jpg"
+          ]
+        },
+        {
+          "id": "ex_3fcr0ljx",
+          "name": "Разгибания стоя",
+          "description": "Резинка спереди\nРазгибание с внутренней ротацией\nОпорная нога не шатается",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/3159f66cdff6132b.jpg",
+            "data/images/64b12a7ea192c1c0.jpg"
+          ]
+        },
+        {
+          "id": "ex_vgdxanns",
+          "name": "Сгибания стоя",
+          "description": "Резинка спереди\nСгибания с наружной ротацией\nОпорная нога не шатается",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/6bf6e32ff787caca.jpg",
+            "data/images/5a1933333f6d26d3.jpg"
+          ]
         }
       ],
       "complexes": [
