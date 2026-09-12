@@ -1665,6 +1665,28 @@
               "exerciseId": "ex_tazqzni6"
             }
           ]
+        },
+        {
+          "id": "cx_dmljen42",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_70n5232u",
+              "exerciseId": "ex_r9w593r9"
+            },
+            {
+              "id": "ci_8z30fqfn",
+              "exerciseId": "ex_hg6lldr7"
+            },
+            {
+              "id": "ci_qor8okae",
+              "exerciseId": "ex_rlj8ey1f"
+            },
+            {
+              "id": "ci_3v629cs8",
+              "exerciseId": "ex_ulywe7za"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
