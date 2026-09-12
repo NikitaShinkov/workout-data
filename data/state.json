@@ -101,7 +101,38 @@
           ]
         }
       ],
-      "complexes": [],
+      "complexes": [
+        {
+          "id": "cx_0bjswyom",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_tc4abh1k",
+              "exerciseId": "ex_hunmjdor"
+            },
+            {
+              "id": "ci_0l33xpj1",
+              "exerciseId": "ex_8zzt45rt"
+            },
+            {
+              "id": "ci_dgatf8ka",
+              "exerciseId": "ex_i967p1co"
+            },
+            {
+              "id": "ci_1kmny0tg",
+              "exerciseId": "ex_midavpft"
+            },
+            {
+              "id": "ci_0l27xefp",
+              "exerciseId": "ex_oj1oshy5"
+            },
+            {
+              "id": "ci_2jyruyor",
+              "exerciseId": "ex_9bxz8uuw"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
       "intervalDays": 1
