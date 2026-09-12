@@ -764,6 +764,20 @@
             "data/images/9356b1a9b8cd1a41.jpg",
             "data/images/1a0aa4ca95bd6ae3.jpg"
           ]
+        },
+        {
+          "id": "ex_jyby590q",
+          "name": "Вращение стоя",
+          "description": "Делаем восьмёрку с наружной и внутренней ротацией\nРабота выполняется в ТБС, максимально подцепляя крайние амплитуды\nЕсли сложно, можно немного опустить ногу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7c5559d25764e73a.jpg",
+            "data/images/affa7d7b7aad4f37.jpg",
+            "data/images/3b01bd50b7ac5a8c.jpg",
+            "data/images/3cd1f513691020c4.jpg"
+          ]
         }
       ],
       "complexes": [
