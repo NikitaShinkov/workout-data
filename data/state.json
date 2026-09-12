@@ -2022,6 +2022,16 @@
             "data/images/bda2599c6ae51239.jpg",
             "data/images/dead1d38e2bc2c12.jpg"
           ]
+        },
+        {
+          "id": "ex_ytp0mvq2",
+          "name": "Полуприсед",
+          "description": "Можно менять углы поворота ноги и степень разворота ноги",
+          "equipment": [],
+          "images": [
+            "data/images/710d143e77790e08.jpg",
+            "data/images/94493935f31a1d51.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5924,7 +5934,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "short_band"
-  ]
+  "lastEquipment": []
 }
