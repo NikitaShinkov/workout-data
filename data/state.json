@@ -1565,6 +1565,55 @@
             "data/images/5db750db876b8544.jpg",
             "data/images/8ea27f4c0dc1b933.jpg"
           ]
+        },
+        {
+          "id": "ex_7pkvoias",
+          "name": "Наружная ротация",
+          "description": "",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/85ed6bf2660c6fb5.jpg",
+            "data/images/a83bedcc03ba7cac.jpg"
+          ]
+        },
+        {
+          "id": "ex_bj59hbap",
+          "name": "Наружная ротация",
+          "description": "Поясница прямая",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/b3d28e6fe2ddff12.jpg",
+            "data/images/a7bbcb76d1e75d72.jpg"
+          ]
+        },
+        {
+          "id": "ex_k5uayapn",
+          "name": "Внутренняя ротация",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/5c1b1bbe616a093b.jpg",
+            "data/images/f162c0295fd01b28.jpg"
+          ]
+        },
+        {
+          "id": "ex_zn1yhr9n",
+          "name": "Внутренняя ротация с резинкой",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4f8381e97ed79bce.jpg",
+            "data/images/79de614342e25fe7.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5265,6 +5314,6 @@
   },
   "lastEquipment": [
     "mat",
-    "short_band"
+    "long_band"
   ]
 }
