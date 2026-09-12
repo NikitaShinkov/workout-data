@@ -79,6 +79,19 @@
             "data/images/6bd1d9c44aa9f167.jpg",
             "data/images/06221688f9081775.jpg"
           ]
+        },
+        {
+          "id": "ex_non2bnyr",
+          "name": "Наружная и внутренняя ротация лёжа",
+          "description": "Делаем наружную и внутреннюю ротацию сначала одной ногой, потом другой ногой",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/bcbb27671373ce66.jpg",
+            "data/images/2e9c636c1f3ae6b6.jpg",
+            "data/images/14458cdcb3201c0d.jpg"
+          ]
         }
       ],
       "complexes": [
