@@ -1914,6 +1914,54 @@
             "data/images/0eacdf269829fe90.jpg",
             "data/images/a5d1cec3fc31ae11.jpg"
           ]
+        },
+        {
+          "id": "ex_4axuglge",
+          "name": "Опускаемся вперёд, но при этом тормозим передним коленом",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/70b6eca5519dbc9d.jpg",
+            "data/images/b8902fa9cc1b990b.jpg"
+          ]
+        },
+        {
+          "id": "ex_yyr86tv6",
+          "name": "Опускаемся вперёд, но при этом тормозим задним коленом",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/2abfcd2304832114.jpg",
+            "data/images/06ffef181c439e73.jpg"
+          ]
+        },
+        {
+          "id": "ex_r5p8tpln",
+          "name": "Опускания",
+          "description": "Движения плавные вниз и вверх",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8e5de6eacdefce94.jpg",
+            "data/images/70de334dd8408494.jpg",
+            "data/images/ac1d7d2e8ea3351e.jpg",
+            "data/images/c413389f8f5f4e6b.jpg",
+            "data/images/f9ff12676d74db07.jpg",
+            "data/images/d7d1159c3bd718ff.jpg"
+          ]
+        },
+        {
+          "id": "ex_499vf6qm",
+          "name": "Наклоны назад",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/21c8ea5f281172b2.jpg",
+            "data/images/6873b6c1845aa619.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5764,5 +5812,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
