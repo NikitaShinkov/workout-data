@@ -1497,10 +1497,60 @@
           "id": "ex_z6h16cck",
           "name": "Подъёмы на носках",
           "description": "",
-          "equipment": [],
+          "equipment": [
+            "wall"
+          ],
           "images": [
             "data/images/4f8b0e63baf656c5.jpg",
             "data/images/d99e5c843f392687.jpg"
+          ]
+        },
+        {
+          "id": "ex_t1z9581a",
+          "name": "Подъёмы на носках",
+          "description": "Поднимаемся на двух ногах, опускаемся медленно на одной ноге",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/54c4c8edd7dafea2.jpg",
+            "data/images/aa258ec34b25488d.jpg",
+            "data/images/3ef72bf7a8151040.jpg"
+          ]
+        },
+        {
+          "id": "ex_i3w197za",
+          "name": "Подъёмы на носках",
+          "description": "Спина прямая. Для прогрессии можно делать на одной ноге",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/68e546a5c1910833.jpg",
+            "data/images/0a24471f530f8180.jpg"
+          ]
+        },
+        {
+          "id": "ex_obupxh0w",
+          "name": "Подъёмы на носках и сгибы в коленях с опорой на стену",
+          "description": "",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/7e08839f03fbdfa4.jpg",
+            "data/images/eb70fb0cd953fa2a.jpg"
+          ]
+        },
+        {
+          "id": "ex_yn1ay7ys",
+          "name": "Подъёмы на носках и сгибы в коленях",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/cd2fd510fc954e7b.jpg",
+            "data/images/fe6d79abcac96126.jpg",
+            "data/images/80198fb208064a7f.jpg"
           ]
         }
       ],
