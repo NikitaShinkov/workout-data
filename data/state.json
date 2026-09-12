@@ -6945,6 +6945,19 @@
             "data/images/19a1622b074868c5.jpg",
             "data/images/8639d7eec80d15cd.jpg"
           ]
+        },
+        {
+          "id": "ex_ct3hjiii",
+          "name": "Приведение лопатки",
+          "description": "Голову кладём на руку, чтобы не напрягать шею. Прижимаем лопатку к позвоночнику одновременно рол прокатываем к себе",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/d2411d78bf3f8b40.jpg",
+            "data/images/903fba0f5b1bc1f0.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6976,7 +6989,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-13",
       "intervalDays": 1
     }
   },
