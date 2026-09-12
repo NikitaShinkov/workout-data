@@ -862,6 +862,20 @@
             "data/images/6bf6e32ff787caca.jpg",
             "data/images/5a1933333f6d26d3.jpg"
           ]
+        },
+        {
+          "id": "ex_xg1srdb4",
+          "name": "Перекаты сидя",
+          "description": "Сидя скрещиваем ноги\nПерекатываемся в противоположную сторону к верхней ноге\nПотом перекатывается в исходное положение",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a9d7c1289e1b9d62.jpg",
+            "data/images/a8fc70c22c536ecd.jpg",
+            "data/images/b9f41790aa4b06d8.jpg",
+            "data/images/ce3bcaa073733e76.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1170,6 +1184,32 @@
             {
               "id": "ci_3vnevrf2",
               "exerciseId": "ex_e2los0pa"
+            }
+          ]
+        },
+        {
+          "id": "cx_zwdvvbue",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_e6pt6jrn",
+              "exerciseId": "ex_8dttf11l"
+            },
+            {
+              "id": "ci_di802bmm",
+              "exerciseId": "ex_vofonhsh"
+            },
+            {
+              "id": "ci_gvhi7wix",
+              "exerciseId": "ex_riqzi3tl"
+            },
+            {
+              "id": "ci_9qigqmtr",
+              "exerciseId": "ex_3fcr0ljx"
+            },
+            {
+              "id": "ci_4ibbe2na",
+              "exerciseId": "ex_vgdxanns"
             }
           ]
         }
@@ -2870,6 +2910,6 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "mat"
   ]
 }
