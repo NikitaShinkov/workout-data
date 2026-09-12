@@ -215,6 +215,18 @@
             "data/images/6a7f86a5151fe740.jpg",
             "data/images/2b0f44121505c7e5.jpg"
           ]
+        },
+        {
+          "id": "ex_41rd3gfg",
+          "name": "Наружная ротация лёжа на животе",
+          "description": "Делаем медленно, не задействовать таз\nЕсли сложно, можно под коленку подложить руку и немного поднимать ногу рукой",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ad0566bdb3802001.jpg",
+            "data/images/b277f185c5b80152.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -263,6 +275,32 @@
             {
               "id": "ci_oc7eulg4",
               "exerciseId": "ex_5322udli"
+            }
+          ]
+        },
+        {
+          "id": "cx_kq9tqmq4",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_tzec8wg0",
+              "exerciseId": "ex_oqewarxf"
+            },
+            {
+              "id": "ci_pph767vt",
+              "exerciseId": "ex_mygbn8i5"
+            },
+            {
+              "id": "ci_fki8prud",
+              "exerciseId": "ex_61h8yxz2"
+            },
+            {
+              "id": "ci_uem4cl8q",
+              "exerciseId": "ex_hqomctx3"
+            },
+            {
+              "id": "ci_ft693qtp",
+              "exerciseId": "ex_y8bb1tfj"
             }
           ]
         }
