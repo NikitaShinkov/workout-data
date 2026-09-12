@@ -1904,6 +1904,16 @@
             "data/images/c66a8a79e8bd29ea.jpg",
             "data/images/9c6c2798ead1ccc2.jpg"
           ]
+        },
+        {
+          "id": "ex_u1z92kty",
+          "name": "Остановки во время бега",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/0eacdf269829fe90.jpg",
+            "data/images/a5d1cec3fc31ae11.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2650,6 +2660,32 @@
             {
               "id": "ci_ryp5cw4v",
               "exerciseId": "ex_ow1mai7k"
+            }
+          ]
+        },
+        {
+          "id": "cx_vy3exbgr",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_050xq0o5",
+              "exerciseId": "ex_bi3gctyn"
+            },
+            {
+              "id": "ci_4m27tecj",
+              "exerciseId": "ex_3nnbqjh8"
+            },
+            {
+              "id": "ci_04ubvdmb",
+              "exerciseId": "ex_yod6v52s"
+            },
+            {
+              "id": "ci_h6dwaito",
+              "exerciseId": "ex_dywmrzml"
+            },
+            {
+              "id": "ci_fz75pfye",
+              "exerciseId": "ex_y8kv317i"
             }
           ]
         }
@@ -5728,7 +5764,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "long_band"
-  ]
+  "lastEquipment": []
 }
