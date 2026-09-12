@@ -1962,6 +1962,18 @@
             "data/images/21c8ea5f281172b2.jpg",
             "data/images/6873b6c1845aa619.jpg"
           ]
+        },
+        {
+          "id": "ex_t44qwrqi",
+          "name": "Подъёмы таза",
+          "description": "Движение за счёт ягодиц",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/f32d1bd163b7e9ea.jpg",
+            "data/images/4168d0a0ca2ae788.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2734,6 +2746,32 @@
             {
               "id": "ci_fz75pfye",
               "exerciseId": "ex_y8kv317i"
+            }
+          ]
+        },
+        {
+          "id": "cx_wookshnc",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_nn97gyhs",
+              "exerciseId": "ex_u1z92kty"
+            },
+            {
+              "id": "ci_qp2cyu0t",
+              "exerciseId": "ex_4axuglge"
+            },
+            {
+              "id": "ci_r38bukmx",
+              "exerciseId": "ex_yyr86tv6"
+            },
+            {
+              "id": "ci_riyv19w4",
+              "exerciseId": "ex_r5p8tpln"
+            },
+            {
+              "id": "ci_vs1hnxhh",
+              "exerciseId": "ex_499vf6qm"
             }
           ]
         }
@@ -5813,6 +5851,6 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "short_band"
   ]
 }
