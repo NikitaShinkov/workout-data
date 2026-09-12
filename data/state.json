@@ -991,6 +991,32 @@
             "data/images/b17105c9cf3a490d.jpg",
             "data/images/24d5171299d870e7.jpg"
           ]
+        },
+        {
+          "id": "ex_9x6hjptt",
+          "name": "Подъёмы таза",
+          "description": "Вниз медленно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/75a846c4f7854a79.jpg",
+            "data/images/6188ccdbe6f4b099.jpg"
+          ]
+        },
+        {
+          "id": "ex_zi42jpin",
+          "name": "Подъёмы таза",
+          "description": "Вниз медленно. Шагами опускаемся вниз и шагами поднимаемся вверх. Спина ровная",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2d3b2795e674db2b.jpg",
+            "data/images/e4290f33914ed529.jpg",
+            "data/images/9ddf67814b308d7c.jpg",
+            "data/images/4b66abacb89ca472.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1339,6 +1365,40 @@
             {
               "id": "ci_wd14wzuw",
               "exerciseId": "ex_lkpgttq0"
+            }
+          ]
+        },
+        {
+          "id": "cx_g35xqbbv",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_x4vxqyzc",
+              "exerciseId": "ex_6d2gul45"
+            },
+            {
+              "id": "ci_pbg7ouw0",
+              "exerciseId": "ex_zucbr3k5"
+            },
+            {
+              "id": "ci_bsy0dnof",
+              "exerciseId": "ex_qukyi14j"
+            },
+            {
+              "id": "ci_jk66szfd",
+              "exerciseId": "ex_4o6lrexq"
+            },
+            {
+              "id": "ci_cczbhbw6",
+              "exerciseId": "ex_1qvguumo"
+            },
+            {
+              "id": "ci_bbj5mwc0",
+              "exerciseId": "ex_9x6hjptt"
+            },
+            {
+              "id": "ci_59vwizpl",
+              "exerciseId": "ex_zi42jpin"
             }
           ]
         }
