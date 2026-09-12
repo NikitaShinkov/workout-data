@@ -704,6 +704,32 @@
             "data/images/d2bd5b7a7e51f9eb.jpg",
             "data/images/adea0e145582bd48.jpg"
           ]
+        },
+        {
+          "id": "ex_elqpsli8",
+          "name": "Сгибание и внутренняя ротация",
+          "description": "Пытаемся не подключать бедро",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/2161386c50aeaf3f.jpg",
+            "data/images/0b22c07dacf7d9ac.jpg"
+          ]
+        },
+        {
+          "id": "ex_8z0i98kl",
+          "name": "Разгибание и внутренняя ротация",
+          "description": "Пытаемся не подключать бедро",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/dcb8ddf0b92a6860.jpg",
+            "data/images/ad4ec742651304f3.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4041,7 +4067,7 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band"
+    "long_band",
+    "chair"
   ]
 }
