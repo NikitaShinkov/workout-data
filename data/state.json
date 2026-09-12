@@ -671,6 +671,19 @@
             "data/images/3b47ef0baa5ac3c7.jpg",
             "data/images/e8ee41c34fa0e83a.jpg"
           ]
+        },
+        {
+          "id": "ex_6ezxpc71",
+          "name": "Подъём ноги стоя",
+          "description": "Резина крепится сбоку.\nПоднятие ноги с активацией наружних ротаторов\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/68b1562afa1f0376.jpg",
+            "data/images/7f57d72d6977fc12.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -905,6 +918,28 @@
             {
               "id": "ci_vchk66mf",
               "exerciseId": "ex_vcra1on5"
+            }
+          ]
+        },
+        {
+          "id": "cx_mkmkz1q8",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_k2jr0y6j",
+              "exerciseId": "ex_rlsbqs2s"
+            },
+            {
+              "id": "ci_nb9zlhq3",
+              "exerciseId": "ex_oplmvku5"
+            },
+            {
+              "id": "ci_qqms8w4o",
+              "exerciseId": "ex_frqzi6rf"
+            },
+            {
+              "id": "ci_3n4y7qde",
+              "exerciseId": "ex_56as5k63"
             }
           ]
         }
@@ -2605,6 +2640,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
