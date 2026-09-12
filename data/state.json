@@ -7038,6 +7038,32 @@
               "exerciseId": "ex_b81ovp7p"
             }
           ]
+        },
+        {
+          "id": "cx_cm577ira",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_13ktrt1o",
+              "exerciseId": "ex_ct3hjiii"
+            },
+            {
+              "id": "ci_tr5s5dt4",
+              "exerciseId": "ex_h3fgtuev"
+            },
+            {
+              "id": "ci_ggis2ul6",
+              "exerciseId": "ex_c6xptp2v"
+            },
+            {
+              "id": "ci_nfn1mvr8",
+              "exerciseId": "ex_oddvrf9x"
+            },
+            {
+              "id": "ci_275rp5ve",
+              "exerciseId": "ex_db4h0ctn"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
