@@ -1781,6 +1781,19 @@
             "data/images/58bc8c84c11f6b47.jpg",
             "data/images/f63e07566013a5a4.jpg"
           ]
+        },
+        {
+          "id": "ex_er8qe7vz",
+          "name": "Растяжка задней поверхности бедра",
+          "description": "Лёгкий прогиб в пояснице",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/a7d6902b4b844cff.jpg",
+            "data/images/f30b7d085cfe8c16.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5580,6 +5593,7 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "mat",
+    "roller"
   ]
 }
