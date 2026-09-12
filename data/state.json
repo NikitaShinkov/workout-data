@@ -2202,6 +2202,30 @@
             "data/images/48e5217beb7919c9.jpg",
             "data/images/1532e006a03175aa.jpg"
           ]
+        },
+        {
+          "id": "ex_xsd2kqle",
+          "name": "Отведения",
+          "description": "Таз зафиксирован на полу, не двигается за отводимой ногой. Меняем углы сгибания",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/64c0631a64aae107.jpg",
+            "data/images/895aef7d389f78b5.jpg"
+          ]
+        },
+        {
+          "id": "ex_v1ohs25j",
+          "name": "Отведения",
+          "description": "Движения двух ног симметричные",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/347d6fcb810b0325.jpg",
+            "data/images/4fb077dd1a3a6247.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6183,7 +6207,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "mat"
   ]
 }
