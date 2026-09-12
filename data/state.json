@@ -892,6 +892,24 @@
             "data/images/53d8d15e7d5eb876.jpg",
             "data/images/61953942769cf073.jpg"
           ]
+        },
+        {
+          "id": "ex_df0xo48j",
+          "name": "Перекаты сидя",
+          "description": "Пропускаем одну ногу под другой (как диагональный выпад)\nРазворачиваемся, садимся, уходим в z-позицию (здесь можно помочь руками), перекатываемся через переднюю ногу и встаём\nДвижение плавное\nЕсли получается легко, то делать без рук",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2eaf777f1cb8c81f.jpg",
+            "data/images/1e23cbe8e365266f.jpg",
+            "data/images/2c5808d834664f11.jpg",
+            "data/images/10750baf7ecea57e.jpg",
+            "data/images/1bb2f0f2fd2b8954.jpg",
+            "data/images/e60da9c63270a03e.jpg",
+            "data/images/1337de18f20c1f45.jpg",
+            "data/images/b8463a526813b7c4.jpg"
+          ]
         }
       ],
       "complexes": [
