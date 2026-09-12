@@ -750,6 +750,20 @@
             "data/images/07f3ebcce5c59b9e.jpg",
             "data/images/c7ebf97d075e0adb.jpg"
           ]
+        },
+        {
+          "id": "ex_y0b8ob6r",
+          "name": "Вращение на четвереньках",
+          "description": "Разгибание, наружная ротация\nПоясницу не включаем, таз на месте",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4571cbceb031e8ad.jpg",
+            "data/images/0e6ccf078febdeb1.jpg",
+            "data/images/9356b1a9b8cd1a41.jpg",
+            "data/images/1a0aa4ca95bd6ae3.jpg"
+          ]
         }
       ],
       "complexes": [
