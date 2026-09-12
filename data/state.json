@@ -321,6 +321,46 @@
             "data/images/f0f281d0be12be81.jpg",
             "data/images/f16cbe2fc61ada30.jpg"
           ]
+        },
+        {
+          "id": "ex_q9ejxw41",
+          "name": "Разгибания",
+          "description": "Живот собран, спина прямая, таз неподвижен\nВ начальном положении руки внизу, при разгибании руки поднимаются вверх\nДелаем плавно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b8e295fb520c9e9c.jpg",
+            "data/images/e9d27abad0515337.jpg",
+            "data/images/5437b64ec8cab7d6.jpg"
+          ]
+        },
+        {
+          "id": "ex_mxftacu5",
+          "name": "Сгибаниz",
+          "description": "Живот собран, спина прямая, таз неподвижен, руки на поясе\nВ начальном положении руки внизу, при разгибании руки поднимаются вверх. Делаем плавно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d4af6aadce86b9dc.jpg",
+            "data/images/d0183b0fe18fdade.jpg",
+            "data/images/34c363a6f7aba83d.jpg"
+          ]
+        },
+        {
+          "id": "ex_up4nn1g7",
+          "name": "Разгибания и подъём ноги",
+          "description": "Сначала сгибание с отведением таза назад. Потом возвращение в исходную позицию и в ней подъём ноги вверх.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/14ac70b1f92f58a1.jpg",
+            "data/images/3b4d024f18e45254.jpg",
+            "data/images/e410752f2496bbf9.jpg",
+            "data/images/a5e26526cdd6f2d8.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2121,7 +2161,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band"
+    "mat"
   ]
 }
