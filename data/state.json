@@ -2076,6 +2076,44 @@
             "data/images/82042047d7adf01a.jpg",
             "data/images/3b294531eaabce4c.jpg"
           ]
+        },
+        {
+          "id": "ex_jqjvuqkj",
+          "name": "Наружная ротация",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/108112aa2e306696.jpg",
+            "data/images/9773b486e6cc136a.jpg"
+          ]
+        },
+        {
+          "id": "ex_3cxycqq0",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/395f6cf8809e32eb.jpg",
+            "data/images/545625e98837b260.jpg"
+          ]
+        },
+        {
+          "id": "ex_mvch4y2z",
+          "name": "Наружная ротация",
+          "description": "Работаем либо с одной ногой, либо сразу с двумя",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/2d41e1a33af70129.jpg",
+            "data/images/28a4bcb7c92761d1.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6004,5 +6042,8 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat",
+    "short_band"
+  ]
 }
