@@ -2032,6 +2032,30 @@
             "data/images/710d143e77790e08.jpg",
             "data/images/94493935f31a1d51.jpg"
           ]
+        },
+        {
+          "id": "ex_ejsg6vyk",
+          "name": "Отшагивания",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/ae5d511f07ec454c.jpg",
+            "data/images/d33b72bc4a413ced.jpg",
+            "data/images/ae5d511f07ec454c.jpg",
+            "data/images/1067011bd94eaa90.jpg"
+          ]
+        },
+        {
+          "id": "ex_t3rmatm3",
+          "name": "Отшагивания",
+          "description": "Верхней ногой не касаемся пола",
+          "equipment": [],
+          "images": [
+            "data/images/a67e196563c5b237.jpg",
+            "data/images/8318324c9aa5470b.jpg",
+            "data/images/75f4765d3296d613.jpg",
+            "data/images/dc5fcc1024bc7542.jpg"
+          ]
         }
       ],
       "complexes": [
