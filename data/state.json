@@ -537,6 +537,18 @@
             "data/images/79fa6da5ba9f855e.jpg",
             "data/images/9e831686ec2d08f1.jpg"
           ]
+        },
+        {
+          "id": "ex_5wjoba9h",
+          "name": "Полуприсед",
+          "description": "Под пяткой скатываем коврик, регулируя подъём пятки.\nКорпус откидываем назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a90861562e2e414e.jpg",
+            "data/images/910524d0cbb7bba2.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3817,5 +3829,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
