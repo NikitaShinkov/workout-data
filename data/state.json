@@ -32,7 +32,35 @@
           ],
           "images": [
             "data/images/f51e92188fc0f8ad.jpg",
-            "data/images/eb8dd844119f517a.jpg"
+            "data/images/eb8dd844119f517a.jpg",
+            "data/images/ef6fe98d557ed105.jpg",
+            "data/images/e942767511b50bfa.jpg",
+            "data/images/aad9746d4d32a563.jpg"
+          ]
+        },
+        {
+          "id": "ex_8zzt45rt",
+          "name": "МФР",
+          "description": "Эластичность мышц задней поверхности бедра.\nНажимаем на ногу рукой и выпрямляем ногу",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/466823eb2c109eeb.jpg",
+            "data/images/6c288d233534c701.jpg"
+          ]
+        },
+        {
+          "id": "ex_i967p1co",
+          "name": "Разгибания ноги",
+          "description": "Эластичность мышц задней поверхности бедра.\nНемного подкручиваем таз вперёд. Протягиваем мышцу и не даём тазу прокручиваться назад. Стопу на себя",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d9837f1229af5a8d.jpg",
+            "data/images/c1415d2050172c5d.jpg"
           ]
         }
       ],
@@ -3112,7 +3140,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "mat"
   ]
 }
