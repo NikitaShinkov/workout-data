@@ -565,6 +565,54 @@
             "data/images/fceee4978e4ecfc4.jpg",
             "data/images/77eecf0f9c03765f.jpg"
           ]
+        },
+        {
+          "id": "ex_6x6tg1ip",
+          "name": "Отшагивания в сторону",
+          "description": "Мобилизуем отведение. Не надо наклонять корпус слишком сильно вбок\nВ конце движения мышцами мягко себя притормаживаем\nПостепенно увеличиваем амплитуду",
+          "equipment": [],
+          "images": [
+            "data/images/74ac6e291d96299f.jpg",
+            "data/images/957bf34c9f42e615.jpg",
+            "data/images/da772e47c5e10c4d.jpg",
+            "data/images/a7bb5cdeb70d51db.jpg"
+          ]
+        },
+        {
+          "id": "ex_w5dj86vt",
+          "name": "Отшагивания в сторону",
+          "description": "Мобилизуем приведение. Драйвер движения — и нога, и рука\nВ конце движения мышцами мягко себя притормаживаем\nПостепенно увеличиваем амплитуду",
+          "equipment": [],
+          "images": [
+            "data/images/2fef8aabccee2546.jpg",
+            "data/images/ddedad2bf85267eb.jpg",
+            "data/images/5c8a0e04cf83b64d.jpg",
+            "data/images/78a02ea9a2e116a2.jpg"
+          ]
+        },
+        {
+          "id": "ex_zmyhr0vz",
+          "name": "Сгибания",
+          "description": "Неопорная нога уходит назад, на неё почти не опираемся или вообще отрываем от земли\nПостепенно увеличиваем наклон туловища",
+          "equipment": [],
+          "images": [
+            "data/images/658328176e0df56e.jpg",
+            "data/images/667ba96fefda1e5d.jpg",
+            "data/images/6a7e0c8cb9520e90.jpg",
+            "data/images/f2fcf89990bd8e0f.jpg"
+          ]
+        },
+        {
+          "id": "ex_vcra1on5",
+          "name": "Разгибания",
+          "description": "Неопорная нога уходит вперёд, руки поднимаются вверх\nПоясница ровная, без прогиба\nПостепенно увеличиваем наклон туловища",
+          "equipment": [],
+          "images": [
+            "data/images/08635e9b95909d6a.jpg",
+            "data/images/c182af8101cf58b0.jpg",
+            "data/images/8aa7595b547bfef2.jpg",
+            "data/images/db2ea892d087cd9f.jpg"
+          ]
         }
       ],
       "complexes": [
