@@ -42,6 +42,31 @@
             "data/images/2a818070a3cd478d.jpg",
             "data/images/f3c8097a8ec2361b.jpg"
           ]
+        },
+        {
+          "id": "ex_c1ug8qpr",
+          "name": "Разгибание и наружная ротация с резинкой",
+          "description": "При разгибании не двигать коленями, всё движение инициируется в ТБС",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/5df9c0e5b867d667.jpg",
+            "data/images/7df5e1f9dee5ca9f.jpg"
+          ]
+        },
+        {
+          "id": "ex_qosqpzd7",
+          "name": "Вращение согнутых ног лёжа",
+          "description": "Можно постепенно увеличивать радиус вращения\nВращения поочерёдно в разные стороны",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f8dd0ca20572457c.jpg",
+            "data/images/71515ae12b3b5b1b.jpg"
+          ]
         }
       ],
       "complexes": [],
