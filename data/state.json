@@ -1596,7 +1596,9 @@
           "id": "ex_k5uayapn",
           "name": "Внутренняя ротация",
           "description": "",
-          "equipment": [],
+          "equipment": [
+            "mat"
+          ],
           "images": [
             "data/images/5c1b1bbe616a093b.jpg",
             "data/images/f162c0295fd01b28.jpg"
@@ -2234,6 +2236,32 @@
             {
               "id": "ci_3d0bjesi",
               "exerciseId": "ex_yn1ay7ys"
+            }
+          ]
+        },
+        {
+          "id": "cx_l1o51cuf",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_79g39xg1",
+              "exerciseId": "ex_gu0oxs4n"
+            },
+            {
+              "id": "ci_b8qz5on3",
+              "exerciseId": "ex_7pkvoias"
+            },
+            {
+              "id": "ci_oaxtk1jd",
+              "exerciseId": "ex_bj59hbap"
+            },
+            {
+              "id": "ci_qfigxg72",
+              "exerciseId": "ex_k5uayapn"
+            },
+            {
+              "id": "ci_w8cuqfjh",
+              "exerciseId": "ex_zn1yhr9n"
             }
           ]
         }
@@ -5313,7 +5341,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band"
+    "mat"
   ]
 }
