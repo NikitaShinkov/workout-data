@@ -1176,6 +1176,28 @@
             "data/images/7b3d1babd1ec8e0c.jpg",
             "data/images/ad846d0a58d06fbe.jpg"
           ]
+        },
+        {
+          "id": "ex_62z2ffot",
+          "name": "Опускания и подъём на одной ноге",
+          "description": "",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/59c342c9566802b1.jpg",
+            "data/images/faccea82930c7aae.jpg"
+          ]
+        },
+        {
+          "id": "ex_z8hybux7",
+          "name": "Опускания и подъём на одной ноге",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/b3df67e417458ea2.jpg",
+            "data/images/38fde666ada9d3e9.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4688,7 +4710,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "chair"
-  ]
+  "lastEquipment": []
 }
