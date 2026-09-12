@@ -6582,9 +6582,32 @@
           ]
         }
       ],
-      "complexes": [],
+      "complexes": [
+        {
+          "id": "cx_mbcp9rg0",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_3991xw9p",
+              "exerciseId": "ex_9a88ztl7"
+            },
+            {
+              "id": "ci_9ocate4k",
+              "exerciseId": "ex_nbrdtqc7"
+            },
+            {
+              "id": "ci_fvca4bf0",
+              "exerciseId": "ex_o0sb6s55"
+            },
+            {
+              "id": "ci_0ct9oxcc",
+              "exerciseId": "ex_14wj37xe"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-13",
       "intervalDays": 1
     },
     "back": {
