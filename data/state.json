@@ -613,6 +613,20 @@
             "data/images/8aa7595b547bfef2.jpg",
             "data/images/db2ea892d087cd9f.jpg"
           ]
+        },
+        {
+          "id": "ex_rlsbqs2s",
+          "name": "Развороты сидя",
+          "description": "Из z-позиции разворачиваемся и мягко наезжаем на переднюю ногу\nСначала в одну сторону, потом сразу в другую",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/31cefeae9c103854.jpg",
+            "data/images/fd4e1941034a13cd.jpg",
+            "data/images/d4d663bb93fda6cd.jpg",
+            "data/images/efeb5e31aa3bd922.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -821,6 +835,32 @@
             {
               "id": "ci_77is6h8g",
               "exerciseId": "ex_zm7jk2zd"
+            }
+          ]
+        },
+        {
+          "id": "cx_2xpnguhl",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_iiyq70ru",
+              "exerciseId": "ex_icraxwdc"
+            },
+            {
+              "id": "ci_osqs1kja",
+              "exerciseId": "ex_6x6tg1ip"
+            },
+            {
+              "id": "ci_azgd2xv8",
+              "exerciseId": "ex_w5dj86vt"
+            },
+            {
+              "id": "ci_18cftya9",
+              "exerciseId": "ex_zmyhr0vz"
+            },
+            {
+              "id": "ci_vchk66mf",
+              "exerciseId": "ex_vcra1on5"
             }
           ]
         }
@@ -2520,5 +2560,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
