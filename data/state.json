@@ -337,6 +337,34 @@
             "data/images/b1febb4c76af6604.jpg",
             "data/images/9878a48c8724b10e.jpg"
           ]
+        },
+        {
+          "id": "ex_1bljbs39",
+          "name": "Ротация",
+          "description": "Постепенно отводим ноги как можно дальше",
+          "equipment": [
+            "mat",
+            "short_band",
+            "roller",
+            "chair"
+          ],
+          "images": [
+            "data/images/fd63a7854b1599ba.jpg",
+            "data/images/0c7cca8c5aa45438.jpg"
+          ]
+        },
+        {
+          "id": "ex_kpkvxfkf",
+          "name": "Ротация",
+          "description": "На нижней ноге лента на голеностопе, на верхней ноге в области колена.\nВозвращение медленное",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/eea8515aa698a2cc.jpg",
+            "data/images/688528f8394c70af.jpg"
+          ]
         }
       ],
       "complexes": [
