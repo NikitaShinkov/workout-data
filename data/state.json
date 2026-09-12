@@ -1361,6 +1361,18 @@
             "data/images/aac321fd2a8cc91d.jpg",
             "data/images/eb34b18f8cc9fc9a.jpg"
           ]
+        },
+        {
+          "id": "ex_g9fc5r13",
+          "name": "Поднятие таза",
+          "description": "В нижнем положении не опускаемся на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/cd511cf1b9117a1f.jpg",
+            "data/images/bf35a02a74b8a7f8.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1877,6 +1889,32 @@
             {
               "id": "ci_jjtot0cj",
               "exerciseId": "ex_q5lj1kpa"
+            }
+          ]
+        },
+        {
+          "id": "cx_d5l5zhx6",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_1jsalam5",
+              "exerciseId": "ex_veo81n7p"
+            },
+            {
+              "id": "ci_3ekcnd6v",
+              "exerciseId": "ex_ami4s6xu"
+            },
+            {
+              "id": "ci_t9o8cizu",
+              "exerciseId": "ex_7uwk1ttk"
+            },
+            {
+              "id": "ci_9d5sn1bp",
+              "exerciseId": "ex_izez955t"
+            },
+            {
+              "id": "ci_3g1n390u",
+              "exerciseId": "ex_g9fc5r13"
             }
           ]
         }
@@ -4956,6 +4994,6 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "mat"
   ]
 }
