@@ -1078,6 +1078,16 @@
             "data/images/2b27d370007d51d1.jpg",
             "data/images/c81e0e01d2565b1b.jpg"
           ]
+        },
+        {
+          "id": "ex_3hr6dtcv",
+          "name": "Подъёмы",
+          "description": "Колени согнуты. Отрываем пятки и уводим колени вперёд. Наверх не подниматься",
+          "equipment": [],
+          "images": [
+            "data/images/a1ec0a78087b9bfb.jpg",
+            "data/images/9521149c719f1c09.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4564,7 +4574,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "short_band"
-  ]
+  "lastEquipment": []
 }
