@@ -778,6 +778,36 @@
             "data/images/3b01bd50b7ac5a8c.jpg",
             "data/images/3cd1f513691020c4.jpg"
           ]
+        },
+        {
+          "id": "ex_wilinilv",
+          "name": "Вращение стоя",
+          "description": "Сначала разгибание, потом наружная ротация\nДвижение равномерное во всей амплитуде",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fe02747757df7ee3.jpg",
+            "data/images/90cda141b63e69b5.jpg",
+            "data/images/b8738d9774063941.jpg",
+            "data/images/f513320bbb44baef.jpg"
+          ]
+        },
+        {
+          "id": "ex_e2los0pa",
+          "name": "Вращение стоя",
+          "description": "Сгибание, отведение, внутренняя ротация, разгибание\nНе подключать поясницу, движение только в ТБС",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9f84f6f63d6b9eba.jpg",
+            "data/images/f07d3bb0f1f0664d.jpg",
+            "data/images/66b76cb3b3edb7bb.jpg",
+            "data/images/aa8d9161077d2341.jpg",
+            "data/images/c1473b6112c679fd.jpg",
+            "data/images/f6e28613e80d69a8.jpg"
+          ]
         }
       ],
       "complexes": [
