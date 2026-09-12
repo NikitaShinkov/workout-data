@@ -1433,6 +1433,28 @@
             "data/images/4fb4178a1b47ac21.jpg",
             "data/images/a4b3745410d73d02.jpg"
           ]
+        },
+        {
+          "id": "ex_5csglgr8",
+          "name": "Наклоны",
+          "description": "Голову не задираем назад",
+          "equipment": [],
+          "images": [
+            "data/images/3115f59468ed6d9e.jpg",
+            "data/images/c3da814741e9671a.jpg"
+          ]
+        },
+        {
+          "id": "ex_yqgo64h1",
+          "name": "Наклоны",
+          "description": "Голову не задираем назад",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/fa2d9222eaee582e.jpg",
+            "data/images/709f09ab27ed650b.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5080,6 +5102,6 @@
     }
   },
   "lastEquipment": [
-    "short_band"
+    "long_band"
   ]
 }
