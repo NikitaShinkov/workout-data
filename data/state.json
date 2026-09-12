@@ -67,9 +67,51 @@
             "data/images/3545fd5e244f3415.jpg",
             "data/images/b990f497220c0dc7.jpg"
           ]
+        },
+        {
+          "id": "ex_ykpanzwj",
+          "name": "МФР малой и большой берцовой мышцы",
+          "description": "Давим на ногу",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/f44068d330b3a7ed.jpg",
+            "data/images/057c9f6ba2359ad5.jpg",
+            "data/images/93dc1dc06abc28e0.jpg",
+            "data/images/94014674505e8a3a.jpg"
+          ]
         }
       ],
-      "complexes": [],
+      "complexes": [
+        {
+          "id": "cx_acza36jk",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_lir8sfpw",
+              "exerciseId": "ex_3wsdr616"
+            },
+            {
+              "id": "ci_t11r7p9a",
+              "exerciseId": "ex_fr56yfjs"
+            },
+            {
+              "id": "ci_qlau9bgl",
+              "exerciseId": "ex_nj3fgth8"
+            },
+            {
+              "id": "ci_8p7xsnst",
+              "exerciseId": "ex_y3lizcdx"
+            },
+            {
+              "id": "ci_aoe9xd4a",
+              "exerciseId": "ex_ykpanzwj"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-07",
       "intervalDays": 1
