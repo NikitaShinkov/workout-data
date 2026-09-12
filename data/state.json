@@ -1492,6 +1492,16 @@
             "data/images/0cc9f9f83d71a36b.jpg",
             "data/images/fcfcba402b16efc5.jpg"
           ]
+        },
+        {
+          "id": "ex_z6h16cck",
+          "name": "Подъёмы на носках",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/4f8b0e63baf656c5.jpg",
+            "data/images/d99e5c843f392687.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5164,7 +5174,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
