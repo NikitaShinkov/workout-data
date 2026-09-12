@@ -6592,6 +6592,56 @@
             "data/images/e930dd07da751ed0.jpg",
             "data/images/1bdde893d025c7bd.jpg"
           ]
+        },
+        {
+          "id": "ex_dwh28dxj",
+          "name": "Поднятие таза",
+          "description": "Движение начинается с выгнутой поясницы, затем подкручиваем таз и поднимаем его вверх. Шея при этом расслаблена\nЗадействуем каждый позвонок\nВыполнение очень медленное и плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/1a31ca6850d4cbea.jpg",
+            "data/images/f05738e99c2a893c.jpg"
+          ]
+        },
+        {
+          "id": "ex_wfldm0t1",
+          "name": "Скручивание в грудном отделе",
+          "description": "Живот втянут. Руками не подтягиваем голову к груди\nЗадействуем каждый позвонок\nВыполнение очень медленное и плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/51373cc63a2b79ee.jpg",
+            "data/images/d0dd4f1999b55518.jpg"
+          ]
+        },
+        {
+          "id": "ex_4mof4ja2",
+          "name": "Разгибания",
+          "description": "Руки на уровне плеч. Макушка тянет максимально вперёд\nСначала сводятся лопатки, локти тянуться назад.\nМожно немного помогать себе руками\nЗадействуем каждый позвонок\nВыполнение очень медленное и плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a0af19a198de116c.jpg",
+            "data/images/2a3093f16b2f5cb9.jpg"
+          ]
+        },
+        {
+          "id": "ex_p0ivx65k",
+          "name": "Ротация в грудном отделе",
+          "description": "Нейтральное положение поясницы и головы.\nЛопатки стабильны, не проваливаются. Когда рука идёт вниз, лопатка не проваливается за ней.\nРотация выполняется в грудном отделе, а не в пояснице.\nВыполнение очень медленное и плавное.\nМожно начинать с небольшой амплитуды",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/95003fcdfa2e5dac.jpg",
+            "data/images/17e9a55e51a3b827.jpg",
+            "data/images/cd556d49b225773f.jpg",
+            "data/images/635aad7e88f170e3.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6614,6 +6664,32 @@
             {
               "id": "ci_0ct9oxcc",
               "exerciseId": "ex_14wj37xe"
+            }
+          ]
+        },
+        {
+          "id": "cx_04puoq5l",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_axny95bs",
+              "exerciseId": "ex_pn3f981h"
+            },
+            {
+              "id": "ci_q28du5up",
+              "exerciseId": "ex_dwh28dxj"
+            },
+            {
+              "id": "ci_a4qlfwjm",
+              "exerciseId": "ex_wfldm0t1"
+            },
+            {
+              "id": "ci_ieb13d9h",
+              "exerciseId": "ex_4mof4ja2"
+            },
+            {
+              "id": "ci_xgwfff8q",
+              "exerciseId": "ex_p0ivx65k"
             }
           ]
         }
@@ -6647,5 +6723,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
