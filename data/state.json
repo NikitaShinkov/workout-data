@@ -429,6 +429,30 @@
             "data/images/17f626921d7bb235.jpg",
             "data/images/b501bb38c49aa657.jpg"
           ]
+        },
+        {
+          "id": "ex_ox6pdic4",
+          "name": "Сгибания с внутренней ротацией",
+          "description": "Спина прямая. Всё движение в ТБС. В крайнем положение не прогибать поясницу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/46e1e445bc56c6f1.jpg",
+            "data/images/8ad5114d6cf0133c.jpg"
+          ]
+        },
+        {
+          "id": "ex_93ed8fy6",
+          "name": "Сгибания с наружней ротацией",
+          "description": "Спина прямая. Всё движение в ТБС. В крайнем положение не прогибать поясницу. Пятки можно соединить",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c9bb75c5f63bb5f7.jpg",
+            "data/images/efb1ff8d421d03ea.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2285,8 +2309,6 @@
     }
   },
   "lastEquipment": [
-    "short_band",
-    "roller",
-    "chair"
+    "mat"
   ]
 }
