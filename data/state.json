@@ -6796,6 +6796,32 @@
             "data/images/df22afcd434c67b7.jpg",
             "data/images/e9a0e511ec919e31.jpg"
           ]
+        },
+        {
+          "id": "ex_9lfgtlps",
+          "name": "Скручивания и раскручивания",
+          "description": "Встаём спиной к стене. Поясница прижата к стене и не прогибается. Голова прижата к стене. Сводим и разводим руки",
+          "equipment": [
+            "mat",
+            "wall"
+          ],
+          "images": [
+            "data/images/7ff236692d0b95f3.jpg",
+            "data/images/d7a1c9367e887738.jpg"
+          ]
+        },
+        {
+          "id": "ex_ok0cl6ld",
+          "name": "Ротация плеча",
+          "description": "Встаём спиной к стене. Поясница прижата к стене и не прогибается. Голова прижата к стене. Опускаем и поднимаем согнутые руки через ротацию в плечевом суставе",
+          "equipment": [
+            "mat",
+            "wall"
+          ],
+          "images": [
+            "data/images/f93de8eb9e9c3e95.jpg",
+            "data/images/20ae4df9bcd512a6.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6822,6 +6848,28 @@
             {
               "id": "ci_mdmlg9eu",
               "exerciseId": "ex_v6zsozek"
+            }
+          ]
+        },
+        {
+          "id": "cx_xqsme6zd",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_3k47bi9v",
+              "exerciseId": "ex_rqkqd5fl"
+            },
+            {
+              "id": "ci_mqo4jyi7",
+              "exerciseId": "ex_do8jyaj7"
+            },
+            {
+              "id": "ci_ajsc5lc1",
+              "exerciseId": "ex_9lfgtlps"
+            },
+            {
+              "id": "ci_brmcs6g0",
+              "exerciseId": "ex_ok0cl6ld"
             }
           ]
         }
