@@ -653,6 +653,30 @@
             "data/images/bc608d258b27410a.jpg",
             "data/images/f1a2e0cb02a74619.jpg"
           ]
+        },
+        {
+          "id": "ex_bmgt77em",
+          "name": "Наклоны",
+          "description": "Единая линия между ногой и туловищем",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/71ca5e9ce34ec3e1.jpg",
+            "data/images/4c560260e183e306.jpg"
+          ]
+        },
+        {
+          "id": "ex_1hycaacp",
+          "name": "Подъёмы",
+          "description": "В начале можно колено положить на стул и делать с коротким рычагом",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/f53d5b0a30d73147.jpg",
+            "data/images/2527ddc0ba7ddd48.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -881,6 +905,36 @@
             {
               "id": "ci_7ceyjjm3",
               "exerciseId": "ex_oc70ml2y"
+            }
+          ]
+        },
+        {
+          "id": "cx_5rs8guti",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_3bvofpya",
+              "exerciseId": "ex_l65nelmk"
+            },
+            {
+              "id": "ci_nfyz7j9k",
+              "exerciseId": "ex_be3dfa8i"
+            },
+            {
+              "id": "ci_jt2fljje",
+              "exerciseId": "ex_o8nbq2wp"
+            },
+            {
+              "id": "ci_50u3qjvu",
+              "exerciseId": "ex_8rbst5qj"
+            },
+            {
+              "id": "ci_127uvkkd",
+              "exerciseId": "ex_bmgt77em"
+            },
+            {
+              "id": "ci_xmx9yifc",
+              "exerciseId": "ex_1hycaacp"
             }
           ]
         }
@@ -3960,6 +4014,6 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "chair"
   ]
 }
