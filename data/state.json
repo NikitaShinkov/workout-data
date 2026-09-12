@@ -677,6 +677,18 @@
             "data/images/f53d5b0a30d73147.jpg",
             "data/images/2527ddc0ba7ddd48.jpg"
           ]
+        },
+        {
+          "id": "ex_ys2x1tt6",
+          "name": "МФР",
+          "description": "Лучше делать теннисным мячом. Мягкие круговые движения.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/9c87b0cd33b011ba.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4014,6 +4026,7 @@
     }
   },
   "lastEquipment": [
-    "chair"
+    "mat",
+    "roller"
   ]
 }
