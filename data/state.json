@@ -82,6 +82,19 @@
             "data/images/93dc1dc06abc28e0.jpg",
             "data/images/94014674505e8a3a.jpg"
           ]
+        },
+        {
+          "id": "ex_tldmy3hg",
+          "name": "Сгибания",
+          "description": "Тянем стопу на себя. Бедро не включается.",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/02cf5e26bf34b4b6.jpg",
+            "data/images/d273f9dd295b1256.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6469,6 +6482,6 @@
   },
   "lastEquipment": [
     "mat",
-    "roller"
+    "short_band"
   ]
 }
