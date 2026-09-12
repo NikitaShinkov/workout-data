@@ -876,6 +876,22 @@
             "data/images/b9f41790aa4b06d8.jpg",
             "data/images/ce3bcaa073733e76.jpg"
           ]
+        },
+        {
+          "id": "ex_gli1y2ds",
+          "name": "Перекаты сидя",
+          "description": "Опускание на одно колено и переход в z-позицию, потом перекатывание в противоположную z-позицию, переход на колено и подъём\nДвижение плавное.Если получается легко, то делать без рук",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/25e2b67e8c0f175a.jpg",
+            "data/images/49b39248da695625.jpg",
+            "data/images/324b7dd077dd9c30.jpg",
+            "data/images/d8ccdf1f891c4072.jpg",
+            "data/images/53d8d15e7d5eb876.jpg",
+            "data/images/61953942769cf073.jpg"
+          ]
         }
       ],
       "complexes": [
