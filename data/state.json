@@ -555,6 +555,16 @@
             "data/images/d0d7796720d311a5.jpg",
             "data/images/b5bc3e86c47dbb4f.jpg"
           ]
+        },
+        {
+          "id": "ex_icraxwdc",
+          "name": "Внутренняя и наружная ротация стоя",
+          "description": "Опорная нога неподвижная\nНеопорная нога — драйвер движения\nДелаем плавно",
+          "equipment": [],
+          "images": [
+            "data/images/fceee4978e4ecfc4.jpg",
+            "data/images/77eecf0f9c03765f.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2462,7 +2472,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
