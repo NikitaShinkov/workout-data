@@ -2255,6 +2255,18 @@
             "data/images/0dd94f001431c4a4.jpg",
             "data/images/201a49cc48d38543.jpg"
           ]
+        },
+        {
+          "id": "ex_kqjuexln",
+          "name": "Подъёмы ноги",
+          "description": "",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/7df1892ea31d9e0d.jpg",
+            "data/images/1051621d6cc5a0ed.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3157,6 +3169,32 @@
             {
               "id": "ci_6m0fif19",
               "exerciseId": "ex_3cqz96ru"
+            }
+          ]
+        },
+        {
+          "id": "cx_1qb1j99n",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_nayoh75g",
+              "exerciseId": "ex_xsd2kqle"
+            },
+            {
+              "id": "ci_30k9qecd",
+              "exerciseId": "ex_v1ohs25j"
+            },
+            {
+              "id": "ci_n9qy2d3a",
+              "exerciseId": "ex_laz3l573"
+            },
+            {
+              "id": "ci_chfkt165",
+              "exerciseId": "ex_ol4vzv4y"
+            },
+            {
+              "id": "ci_8o6a40hk",
+              "exerciseId": "ex_kqjuexln"
             }
           ]
         }
@@ -6236,7 +6274,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "wall"
   ]
 }
