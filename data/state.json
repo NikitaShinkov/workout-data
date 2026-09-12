@@ -253,6 +253,21 @@
             "data/images/1783e40521153e64.jpg",
             "data/images/48815d0806b23551.jpg"
           ]
+        },
+        {
+          "id": "ex_208nr195",
+          "name": "МФР",
+          "description": "Эластичность мышц задней поверхности голени.\nДвижения короткие.\nДелим голень на три части и в каждой части делаем с разворотами ног: наружная ротация, ноги параллельны друг другу и внешняя ротация.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/f07a74fae9de15d9.jpg",
+            "data/images/7f1a54cacdf49ed3.jpg",
+            "data/images/ecb53bb6434899b5.jpg",
+            "data/images/513cdcd5ddf9407e.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3422,6 +3437,7 @@
     }
   },
   "lastEquipment": [
-    "chair"
+    "mat",
+    "roller"
   ]
 }
