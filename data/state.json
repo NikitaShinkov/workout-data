@@ -6781,6 +6781,21 @@
             "data/images/3c28cd369a5fa7b2.jpg",
             "data/images/f6064c8acb7cf835.jpg"
           ]
+        },
+        {
+          "id": "ex_do8jyaj7",
+          "name": "Наклоны и скручивания и раскручивания",
+          "description": "Встаём на колено у стенки. Руки за головой и не давят на затылок. Наклоняемся вперёд боковым наклоном и скручиваемся, потом наклоняется назад боковым наклоном и раскручиваемся. Стена помогает делать движение более контролируемо",
+          "equipment": [
+            "mat",
+            "wall"
+          ],
+          "images": [
+            "data/images/556f5f18d096f1ae.jpg",
+            "data/images/fde29946738d9d17.jpg",
+            "data/images/df22afcd434c67b7.jpg",
+            "data/images/e9a0e511ec919e31.jpg"
+          ]
         }
       ],
       "complexes": [
