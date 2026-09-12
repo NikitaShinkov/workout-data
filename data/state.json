@@ -315,12 +315,27 @@
           "name": "Растяжка",
           "description": "Удерживаем ровное колено и спину",
           "equipment": [
-            "mat",
+            "chair",
             "block"
           ],
           "images": [
             "data/images/d2036740c0b38232.jpg",
             "data/images/fd44c590a9c50333.jpg"
+          ]
+        },
+        {
+          "id": "ex_2d1wk4x5",
+          "name": "Подъёмы",
+          "description": "Очень медленно опускаемся",
+          "equipment": [
+            "chair",
+            "block"
+          ],
+          "images": [
+            "data/images/47be3786fa98eabe.jpg",
+            "data/images/5c723ffff48a74a3.jpg",
+            "data/images/b1febb4c76af6604.jpg",
+            "data/images/9878a48c8724b10e.jpg"
           ]
         }
       ],
@@ -412,6 +427,36 @@
             {
               "id": "ci_ko1xjm9d",
               "exerciseId": "ex_tnbkk0xt"
+            }
+          ]
+        },
+        {
+          "id": "cx_60rqt1pk",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_eg0m6tkq",
+              "exerciseId": "ex_208nr195"
+            },
+            {
+              "id": "ci_i0ih0bmn",
+              "exerciseId": "ex_ryhc5tw5"
+            },
+            {
+              "id": "ci_rrnvn1p2",
+              "exerciseId": "ex_w3kmenza"
+            },
+            {
+              "id": "ci_fps9yg93",
+              "exerciseId": "ex_1db9qwd7"
+            },
+            {
+              "id": "ci_nb1ivzzl",
+              "exerciseId": "ex_s2d3witf"
+            },
+            {
+              "id": "ci_vfwh18ol",
+              "exerciseId": "ex_2d1wk4x5"
             }
           ]
         }
@@ -3492,6 +3537,6 @@
   },
   "lastEquipment": [
     "mat",
-    "block"
+    "short_band"
   ]
 }
