@@ -1144,6 +1144,38 @@
             "data/images/19aff306bfafd02f.jpg",
             "data/images/1fd61307762bdd24.jpg"
           ]
+        },
+        {
+          "id": "ex_x90p9eek",
+          "name": "Подъёмы",
+          "description": "Спина прижата к стене. Поочерёдно медленно поднимаем и выпрямляем ноги",
+          "equipment": [],
+          "images": [
+            "data/images/31b16a810788f514.jpg",
+            "data/images/f8164eab92c7ebd9.jpg"
+          ]
+        },
+        {
+          "id": "ex_uo24sqie",
+          "name": "Опускания",
+          "description": "Медленно скатываемся. Встаём быстро и на двух ногах",
+          "equipment": [],
+          "images": [
+            "data/images/c0e53dd6b4636899.jpg",
+            "data/images/766a9db6f0baf62f.jpg"
+          ]
+        },
+        {
+          "id": "ex_7jedwzrj",
+          "name": "Опускания и подъём на одной ноге",
+          "description": "",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/7b3d1babd1ec8e0c.jpg",
+            "data/images/ad846d0a58d06fbe.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4656,5 +4688,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "chair"
+  ]
 }
