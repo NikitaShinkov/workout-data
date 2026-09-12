@@ -689,6 +689,21 @@
           "images": [
             "data/images/9c87b0cd33b011ba.jpg"
           ]
+        },
+        {
+          "id": "ex_m4cg76u7",
+          "name": "Ротация",
+          "description": "Руками удерживаем колено в одном положении. Можно делать либо на полу, либо на вису",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/b703fc24555e7448.jpg",
+            "data/images/e675f15854a0fc81.jpg",
+            "data/images/d2bd5b7a7e51f9eb.jpg",
+            "data/images/adea0e145582bd48.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4027,6 +4042,6 @@
   },
   "lastEquipment": [
     "mat",
-    "roller"
+    "long_band"
   ]
 }
