@@ -736,6 +736,20 @@
             "data/images/9e9151b9117f2978.jpg",
             "data/images/1c626ae04d4bdcf6.jpg"
           ]
+        },
+        {
+          "id": "ex_c90b1qbu",
+          "name": "Вращение на четвереньках",
+          "description": "Отведение, внутренняя ротация, сгибание\nПоясницу не включаем, таз на месте",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4571cbceb031e8ad.jpg",
+            "data/images/a7f5659e30a3c0a6.jpg",
+            "data/images/07f3ebcce5c59b9e.jpg",
+            "data/images/c7ebf97d075e0adb.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2718,7 +2732,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band"
+    "mat"
   ]
 }
