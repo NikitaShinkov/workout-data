@@ -1323,6 +1323,44 @@
             "data/images/9047c8622bf0cd73.jpg",
             "data/images/002466c5b1bd49c1.jpg"
           ]
+        },
+        {
+          "id": "ex_ami4s6xu",
+          "name": "Шагания",
+          "description": "Два в сторону от резинки, потом обратно два к резинке",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/92755d683d2520ec.jpg",
+            "data/images/777c0bc341f5cc61.jpg",
+            "data/images/4adf965f462fb1c4.jpg",
+            "data/images/9689153b7588f2a3.jpg"
+          ]
+        },
+        {
+          "id": "ex_7uwk1ttk",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/8b441be687e20f48.jpg",
+            "data/images/f14c3818e57689f9.jpg"
+          ]
+        },
+        {
+          "id": "ex_izez955t",
+          "name": "Подъёмы ног",
+          "description": "При подъёме нога подкручивается",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/aac321fd2a8cc91d.jpg",
+            "data/images/eb34b18f8cc9fc9a.jpg"
+          ]
         }
       ],
       "complexes": [
