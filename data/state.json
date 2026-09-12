@@ -133,6 +133,21 @@
             "data/images/a432aba20705ef52.jpg",
             "data/images/c271c9684d987b2a.jpg"
           ]
+        },
+        {
+          "id": "ex_5322udli",
+          "name": "Отведение таза назад с резинкой с большой амплитудой",
+          "description": "Оборачиваем стопу резинкой в петлю\nШирокая резинка одним концом привязана в опоре",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/61bf05324adf481e.jpg",
+            "data/images/8c634b511a19ba56.jpg",
+            "data/images/5a41b4072a2b38b0.jpg",
+            "data/images/9dc72f2faafa8b7c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -155,6 +170,32 @@
             {
               "id": "ci_p5tm78gn",
               "exerciseId": "ex_jpx1a77i"
+            }
+          ]
+        },
+        {
+          "id": "cx_7o3rxwva",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_9dg38u6m",
+              "exerciseId": "ex_non2bnyr"
+            },
+            {
+              "id": "ci_axja4ufa",
+              "exerciseId": "ex_sb33it80"
+            },
+            {
+              "id": "ci_ywpol5bt",
+              "exerciseId": "ex_882bmiko"
+            },
+            {
+              "id": "ci_2z7w2xqe",
+              "exerciseId": "ex_x1h9hq3i"
+            },
+            {
+              "id": "ci_oc7eulg4",
+              "exerciseId": "ex_5322udli"
             }
           ]
         }
