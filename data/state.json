@@ -851,6 +851,19 @@
             "data/images/bc84f88ad86928ad.jpg",
             "data/images/b1c94a85c093e770.jpg"
           ]
+        },
+        {
+          "id": "ex_zv4kn6fz",
+          "name": "Ротация",
+          "description": "Прокатываем на роле внутреннюю головку квадрицепса за счет ротации",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/0cbc4f0cc2c33b91.jpg",
+            "data/images/b561e583fe07b7cb.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4247,5 +4260,8 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat",
+    "roller"
+  ]
 }
