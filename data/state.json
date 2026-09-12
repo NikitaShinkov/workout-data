@@ -1730,6 +1730,57 @@
             "data/images/16d6a370e610da20.jpg",
             "data/images/9072660be9ee696c.jpg"
           ]
+        },
+        {
+          "id": "ex_ogjnmpcn",
+          "name": "Присед с наружной ротацией колена",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/23ede3ad3f3611b0.jpg",
+            "data/images/cb2c799fb9941c80.jpg"
+          ]
+        },
+        {
+          "id": "ex_ow8fg40x",
+          "name": "Присед с внутренней ротацией колена",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/4f11b2d9f1d73ff0.jpg",
+            "data/images/34e5007768a1f33d.jpg"
+          ]
+        },
+        {
+          "id": "ex_kb1gqnb6",
+          "name": "Отшагивания",
+          "description": "Колено стабильно",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/f7d046757e8aafa4.jpg",
+            "data/images/7bfaa03523568f83.jpg"
+          ]
+        },
+        {
+          "id": "ex_uqlio1mk",
+          "name": "Присед по 2 подряд",
+          "description": "Вперёд 2 приседа и обратно тоже 2 приседа",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/c7a7507ed6d9d06a.jpg",
+            "data/images/b48bccb8f1fc4b87.jpg",
+            "data/images/c1621d2937b39dc1.jpg",
+            "data/images/58bc8c84c11f6b47.jpg",
+            "data/images/f63e07566013a5a4.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2424,6 +2475,32 @@
             {
               "id": "ci_gcvndiqx",
               "exerciseId": "ex_jhqukwjw"
+            }
+          ]
+        },
+        {
+          "id": "cx_8sreavz9",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_9pdo9x6v",
+              "exerciseId": "ex_5uty0kwt"
+            },
+            {
+              "id": "ci_j9owwyd2",
+              "exerciseId": "ex_ogjnmpcn"
+            },
+            {
+              "id": "ci_58rp4zjl",
+              "exerciseId": "ex_ow8fg40x"
+            },
+            {
+              "id": "ci_hdc8u76s",
+              "exerciseId": "ex_kb1gqnb6"
+            },
+            {
+              "id": "ci_8a89q3d4",
+              "exerciseId": "ex_uqlio1mk"
             }
           ]
         }
