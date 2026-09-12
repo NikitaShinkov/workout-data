@@ -1275,10 +1275,36 @@
               "exerciseId": "ex_vgdxanns"
             }
           ]
+        },
+        {
+          "id": "cx_f58605jr",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_cjw8rgq5",
+              "exerciseId": "ex_xg1srdb4"
+            },
+            {
+              "id": "ci_kwgb0lss",
+              "exerciseId": "ex_gli1y2ds"
+            },
+            {
+              "id": "ci_ai1k3pla",
+              "exerciseId": "ex_df0xo48j"
+            },
+            {
+              "id": "ci_0exx9kb3",
+              "exerciseId": "ex_pvzsreb2"
+            },
+            {
+              "id": "ci_6p2cfnd0",
+              "exerciseId": "ex_g4b34kpg"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-08-30",
       "intervalDays": 1
     },
     "glutes": {
