@@ -1134,6 +1134,16 @@
             "data/images/19e592bb43255a6a.jpg",
             "data/images/d6cfbf258a3d66aa.jpg"
           ]
+        },
+        {
+          "id": "ex_crrx7joi",
+          "name": "Подъёмы",
+          "description": "Спина прижата к стене. Поочерёдно медленно поднимаем ноги",
+          "equipment": [],
+          "images": [
+            "data/images/19aff306bfafd02f.jpg",
+            "data/images/1fd61307762bdd24.jpg"
+          ]
         }
       ],
       "complexes": [
