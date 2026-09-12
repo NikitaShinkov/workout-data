@@ -241,6 +241,18 @@
             "data/images/7f6c4566163068a8.jpg",
             "data/images/576a92cca4041996.jpg"
           ]
+        },
+        {
+          "id": "ex_tnbkk0xt",
+          "name": "Опускания на стул на одной ноге",
+          "description": "Движение плавное. Опускание на одной ноге. Подъём на двух ногах",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/1783e40521153e64.jpg",
+            "data/images/48815d0806b23551.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -301,6 +313,36 @@
             {
               "id": "ci_96ybgphr",
               "exerciseId": "ex_m2r31kkx"
+            }
+          ]
+        },
+        {
+          "id": "cx_qmuzaxai",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_rzlx0yqj",
+              "exerciseId": "ex_ba8bw7ti"
+            },
+            {
+              "id": "ci_hvg77125",
+              "exerciseId": "ex_k6g4nx5a"
+            },
+            {
+              "id": "ci_tiyrkc3a",
+              "exerciseId": "ex_nq4vdvqw"
+            },
+            {
+              "id": "ci_k82t2q7o",
+              "exerciseId": "ex_2bcuolfl"
+            },
+            {
+              "id": "ci_r37e15rm",
+              "exerciseId": "ex_o5ojcbv0"
+            },
+            {
+              "id": "ci_ko1xjm9d",
+              "exerciseId": "ex_tnbkk0xt"
             }
           ]
         }
@@ -3380,6 +3422,6 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "chair"
   ]
 }
