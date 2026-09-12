@@ -915,6 +915,18 @@
             "data/images/88b154e9feb5cc41.jpg",
             "data/images/26071ddadf4debb3.jpg"
           ]
+        },
+        {
+          "id": "ex_lkpgttq0",
+          "name": "Разгибание и наружная ротация",
+          "description": "Опускание медленное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/25e4ee98d697d50e.jpg",
+            "data/images/e095a0b004c5b4cc.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1233,6 +1245,36 @@
             {
               "id": "ci_pvl6sbxg",
               "exerciseId": "ex_qqtu5xzq"
+            }
+          ]
+        },
+        {
+          "id": "cx_8t5yfhti",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_7g4q3e5p",
+              "exerciseId": "ex_zv4kn6fz"
+            },
+            {
+              "id": "ci_cxqeng1i",
+              "exerciseId": "ex_zy7twfx8"
+            },
+            {
+              "id": "ci_y7hgs61f",
+              "exerciseId": "ex_67bu3eh0"
+            },
+            {
+              "id": "ci_7s14t79r",
+              "exerciseId": "ex_rj1xyijj"
+            },
+            {
+              "id": "ci_u1gfyy8p",
+              "exerciseId": "ex_uo3he184"
+            },
+            {
+              "id": "ci_wd14wzuw",
+              "exerciseId": "ex_lkpgttq0"
             }
           ]
         }
