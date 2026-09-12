@@ -2056,6 +2056,26 @@
             "data/images/75f4765d3296d613.jpg",
             "data/images/dc5fcc1024bc7542.jpg"
           ]
+        },
+        {
+          "id": "ex_4v7i9irt",
+          "name": "Полуприсед с отведением ноги",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/ff5678b791d01345.jpg",
+            "data/images/06880fd350492572.jpg"
+          ]
+        },
+        {
+          "id": "ex_2nvd1pkj",
+          "name": "Удержание полуприседа на носке с отведённой ногой",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/82042047d7adf01a.jpg",
+            "data/images/3b294531eaabce4c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2880,6 +2900,32 @@
             {
               "id": "ci_sm7pbzt5",
               "exerciseId": "ex_mw30hklk"
+            }
+          ]
+        },
+        {
+          "id": "cx_m42dn9ak",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_yoplcia8",
+              "exerciseId": "ex_ytp0mvq2"
+            },
+            {
+              "id": "ci_elys9p39",
+              "exerciseId": "ex_ejsg6vyk"
+            },
+            {
+              "id": "ci_nbyfyoz9",
+              "exerciseId": "ex_t3rmatm3"
+            },
+            {
+              "id": "ci_z7ja6jcm",
+              "exerciseId": "ex_4v7i9irt"
+            },
+            {
+              "id": "ci_ggv4etk2",
+              "exerciseId": "ex_2nvd1pkj"
             }
           ]
         }
