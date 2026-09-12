@@ -1029,6 +1029,55 @@
             "data/images/83080e209e57d27f.jpg",
             "data/images/e45c6a07920f4b5f.jpg"
           ]
+        },
+        {
+          "id": "ex_engcbj9u",
+          "name": "Отведения",
+          "description": "Поясница стабильна",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/2b27d370007d51d1.jpg",
+            "data/images/ddc5c683bd258ddb.jpg"
+          ]
+        },
+        {
+          "id": "ex_vl54bn5i",
+          "name": "Шагания в приседе",
+          "description": "Вперёд, назад и в стороны по два шага",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/6be7a4fb42061fbb.jpg",
+            "data/images/62fa9575ca7a30ea.jpg"
+          ]
+        },
+        {
+          "id": "ex_l1l4r6ca",
+          "name": "Ротация и присед",
+          "description": "Если тяжело, можно держаться за стул",
+          "equipment": [
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/aa3e77d943030428.jpg",
+            "data/images/21c9416a679dbd63.jpg"
+          ]
+        },
+        {
+          "id": "ex_d76dsdgc",
+          "name": "Короткие выпады",
+          "description": "",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/2b27d370007d51d1.jpg",
+            "data/images/c81e0e01d2565b1b.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1411,6 +1460,32 @@
             {
               "id": "ci_59vwizpl",
               "exerciseId": "ex_zi42jpin"
+            }
+          ]
+        },
+        {
+          "id": "cx_otrtqo7n",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_ejp5vqrw",
+              "exerciseId": "ex_ll20d95s"
+            },
+            {
+              "id": "ci_a4k1vajn",
+              "exerciseId": "ex_engcbj9u"
+            },
+            {
+              "id": "ci_k4qr4a3k",
+              "exerciseId": "ex_vl54bn5i"
+            },
+            {
+              "id": "ci_bz4qt88b",
+              "exerciseId": "ex_l1l4r6ca"
+            },
+            {
+              "id": "ci_h92lthmg",
+              "exerciseId": "ex_d76dsdgc"
             }
           ]
         }
