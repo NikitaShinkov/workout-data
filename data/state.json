@@ -540,8 +540,20 @@
             "mat"
           ],
           "images": [
-            "data/images/d0d7796720d311a5.jpg",
+            "data/images/b2ca507c33d18002.jpg",
             "data/images/90f4c1c29e827df3.jpg"
+          ]
+        },
+        {
+          "id": "ex_zm7jk2zd",
+          "name": "Сгибания с расстановкой ног вместе",
+          "description": "В момент движения вниз спина прямая\nКогда встаём подкручиваем таз\nДля утяжеления можно взять гирьку или резинку",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d0d7796720d311a5.jpg",
+            "data/images/b5bc3e86c47dbb4f.jpg"
           ]
         }
       ],
@@ -725,6 +737,32 @@
             {
               "id": "ci_c95zpk6e",
               "exerciseId": "ex_ua0ahgz4"
+            }
+          ]
+        },
+        {
+          "id": "cx_tvw4998m",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_61zghtso",
+              "exerciseId": "ex_46ppo0gp"
+            },
+            {
+              "id": "ci_eqodksmm",
+              "exerciseId": "ex_i8ns6s2z"
+            },
+            {
+              "id": "ci_os6aym1w",
+              "exerciseId": "ex_l3fcawwf"
+            },
+            {
+              "id": "ci_o49ad5zs",
+              "exerciseId": "ex_7sfmiel1"
+            },
+            {
+              "id": "ci_77is6h8g",
+              "exerciseId": "ex_zm7jk2zd"
             }
           ]
         }
