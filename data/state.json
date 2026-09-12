@@ -6893,9 +6893,88 @@
             "data/images/33497970743e6f47.jpg",
             "data/images/3af7eedff2462793.jpg"
           ]
+        },
+        {
+          "id": "ex_vayca6jn",
+          "name": "МФР спины",
+          "description": "Руки за головой. Рол на месте. Раскрываем грудной отдел. Выше поясницы делим спину на три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/1e28653ed4f9be15.jpg",
+            "data/images/e20ae496a600f97f.jpg"
+          ]
+        },
+        {
+          "id": "ex_zf6g5q18",
+          "name": "Боковые наклоны",
+          "description": "Макушку головы вытягиваем вперёд. Не компенсируем наклон сгибанием шеи — шея прямая, нейтральное положение головы. Выше поясницы делим спину на два/три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/88e80adcb216e5b2.jpg",
+            "data/images/752254bb230161fd.jpg"
+          ]
+        },
+        {
+          "id": "ex_7cgcvb9g",
+          "name": "Ротация",
+          "description": "Нейтральное положение головы, живот собран. Поясница прямая, ротация только в грудном отделе. Выше поясницы делим спину на два/три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/92e6fb896f4f30a8.jpg",
+            "data/images/2a96b6bf61a80da9.jpg"
+          ]
+        },
+        {
+          "id": "ex_b81ovp7p",
+          "name": "Наклоны",
+          "description": "В нижнем положении стараемся полностью выпрямлять спину. Движение плавное",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/19a1622b074868c5.jpg",
+            "data/images/8639d7eec80d15cd.jpg"
+          ]
         }
       ],
-      "complexes": [],
+      "complexes": [
+        {
+          "id": "cx_k6hjd02i",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_079m3al0",
+              "exerciseId": "ex_0m8cx9o3"
+            },
+            {
+              "id": "ci_d39090gs",
+              "exerciseId": "ex_vayca6jn"
+            },
+            {
+              "id": "ci_qqb1n0n5",
+              "exerciseId": "ex_zf6g5q18"
+            },
+            {
+              "id": "ci_t1vgq788",
+              "exerciseId": "ex_7cgcvb9g"
+            },
+            {
+              "id": "ci_dsbqzs80",
+              "exerciseId": "ex_b81ovp7p"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
       "intervalDays": 1
