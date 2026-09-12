@@ -980,6 +980,38 @@
             "data/images/38486dcb42106a14.jpg",
             "data/images/37e581ef9afdbaa3.jpg"
           ]
+        },
+        {
+          "id": "ex_tk285u80",
+          "name": "Динамика опорной ноги",
+          "description": "Внутренняя ротация нижней опорной ноги\nПерешагиваем верхней ногой в сторону опорной ноги, создавая условия приведения\nДвигаем таз вперёд, создавая условия разгибания\nВ этом положении делаем движения тазом вперёд-назад в течение 30 сек",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/141d516c568de17d.jpg",
+            "data/images/e4fdecbd537d13b2.jpg",
+            "data/images/bd410c8016ffe14c.jpg",
+            "data/images/c02b122eb22c8672.jpg"
+          ]
+        },
+        {
+          "id": "ex_gjzinyx7",
+          "name": "Ротация",
+          "description": "Верхней ногой шаг вперёд и немного уводим её в приведение, т.е. в сторону опорной ноги\nДвигаем таз вперёд и скручиваемся в сторону опорной ноги.\nСкручиваемся и раскручиваемся в этом положении в течение 30 сек",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/a94bdc833154f38a.jpg",
+            "data/images/42a10b07bae1507d.jpg",
+            "data/images/e46532e708b5076f.jpg",
+            "data/images/47f78ecab77eb853.jpg",
+            "data/images/0be01389a8e3e5eb.jpg",
+            "data/images/3621441ddc891813.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3040,6 +3072,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "roller"
   ]
 }
