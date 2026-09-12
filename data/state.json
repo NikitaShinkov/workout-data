@@ -1694,6 +1694,30 @@
             "data/images/7fc8c59f62e3b8aa.jpg",
             "data/images/fb3716d0f0bb4514.jpg"
           ]
+        },
+        {
+          "id": "ex_ifs22dy5",
+          "name": "Удержание баланса",
+          "description": "Опорная нога не трясётся, стоит ровно",
+          "equipment": [
+            "weight"
+          ],
+          "images": [
+            "data/images/b6e291a792d23f85.jpg",
+            "data/images/f0a366817d4c9f5f.jpg",
+            "data/images/d8f8f5390917fe37.jpg",
+            "data/images/48dd774a4eea1cc3.jpg"
+          ]
+        },
+        {
+          "id": "ex_jhqukwjw",
+          "name": "Зашагивания вбок",
+          "description": "Задняя нога на вису/ Выполняется также с пятишкой",
+          "equipment": [],
+          "images": [
+            "data/images/20e05d6c52584ef4.jpg",
+            "data/images/7740aafdb31af91f.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2366,6 +2390,28 @@
             {
               "id": "ci_41nybxw9",
               "exerciseId": "ex_7j3plmoa"
+            }
+          ]
+        },
+        {
+          "id": "cx_19f6l1e0",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_l4b6xgf2",
+              "exerciseId": "ex_a6s9f2n9"
+            },
+            {
+              "id": "ci_ov6guetq",
+              "exerciseId": "ex_6uyfbr69"
+            },
+            {
+              "id": "ci_y1ccyoas",
+              "exerciseId": "ex_ifs22dy5"
+            },
+            {
+              "id": "ci_gcvndiqx",
+              "exerciseId": "ex_jhqukwjw"
             }
           ]
         }
@@ -5444,7 +5490,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "weight"
-  ]
+  "lastEquipment": []
 }
