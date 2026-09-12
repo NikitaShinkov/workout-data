@@ -1088,6 +1088,40 @@
             "data/images/a1ec0a78087b9bfb.jpg",
             "data/images/9521149c719f1c09.jpg"
           ]
+        },
+        {
+          "id": "ex_euffemww",
+          "name": "Подъёмы",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/a170ed52c7ac16a9.jpg",
+            "data/images/7b685629b4dccfd9.jpg"
+          ]
+        },
+        {
+          "id": "ex_m9pi3j2z",
+          "name": "Подъёмы и ротация",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/edaf35f233125c9d.jpg",
+            "data/images/40204bb8791bf2f7.jpg",
+            "data/images/1098d18d8b25f440.jpg",
+            "data/images/4c3d05e7e212d268.jpg",
+            "data/images/894cc857eb25303e.jpg",
+            "data/images/544a7d6188eed36f.jpg"
+          ]
+        },
+        {
+          "id": "ex_4w8sd15r",
+          "name": "Выталкивания",
+          "description": "Добавляем немного инерции. задней ногой выталкиваем себя",
+          "equipment": [],
+          "images": [
+            "data/images/bc21b7d39c9fbb00.jpg",
+            "data/images/2b15a72ba5c814cc.jpg"
+          ]
         }
       ],
       "complexes": [
