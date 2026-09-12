@@ -13,7 +13,36 @@
   "categories": {
     "ankle": {
       "name": "Голеностоп",
-      "exercises": [],
+      "exercises": [
+        {
+          "id": "ex_3wsdr616",
+          "name": "Сгибания",
+          "description": "Рукой давим в область таранной кости. Протягиваем колено вперёд, не отрывая при этом пятку. Меняем угол поворота: вперёд, внутрь, наружу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f6f1dbd69a611d87.jpg",
+            "data/images/531bdc3dbfde4616.jpg"
+          ]
+        },
+        {
+          "id": "ex_fr56yfjs",
+          "name": "Сгибания",
+          "description": "Нога от стены на пол стопы (12 см).  Меняем угол поворота: вперёд, внутрь, наружу.\nВсе своды стопы прямые в параллели, не заваливаются ни внутрь, ни наружу.",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/9f983ec001c3f75c.jpg",
+            "data/images/8719fe0ca30de49f.jpg",
+            "data/images/9f983ec001c3f75c.jpg",
+            "data/images/789a96c0a23b8379.jpg",
+            "data/images/9f983ec001c3f75c.jpg",
+            "data/images/d7d7830208265f76.jpg"
+          ]
+        }
+      ],
       "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-07",
@@ -6371,6 +6400,6 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "wall"
   ]
 }
