@@ -940,6 +940,57 @@
             "data/images/d064980d20715a83.jpg",
             "data/images/c829723dd75e54dc.jpg"
           ]
+        },
+        {
+          "id": "ex_zucbr3k5",
+          "name": "Сгибания",
+          "description": "Опорная нога ровная, не заваливается",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/e7a7db0c2f9254c2.jpg",
+            "data/images/fd0ae7e23bd3de23.jpg"
+          ]
+        },
+        {
+          "id": "ex_qukyi14j",
+          "name": "Наклоны",
+          "description": "Туловище ровное. Опорная нога не болтается. Сначала рукой дотягиваемся до рола, потом увеличиваем амплитуду и тянемся нниже",
+          "equipment": [
+            "roller",
+            "chair"
+          ],
+          "images": [
+            "data/images/a6d4550fe089e0ca.jpg",
+            "data/images/1b441b79e8168fee.jpg"
+          ]
+        },
+        {
+          "id": "ex_4o6lrexq",
+          "name": "Наклоны",
+          "description": "Туловище ровное. Опорная нога не болтается.  Медленно опускаемся.",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/45b2f77cbad329e6.jpg",
+            "data/images/a0fcbce93906712e.jpg"
+          ]
+        },
+        {
+          "id": "ex_1qvguumo",
+          "name": "Подъёмы таза",
+          "description": "Вниз медленно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b17105c9cf3a490d.jpg",
+            "data/images/24d5171299d870e7.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4367,7 +4418,6 @@
     }
   },
   "lastEquipment": [
-    "long_band",
-    "chair"
+    "mat"
   ]
 }
