@@ -122,6 +122,30 @@
             "data/images/ae61f2f7b749cc44.jpg",
             "data/images/3f8c47ce1e61ca20.jpg"
           ]
+        },
+        {
+          "id": "ex_xoz4sdcs",
+          "name": "Сгибания",
+          "description": "Сгибаем ногу в ТБС. Таз не заваливается. Статически удерживаем разгибатели голеностопа. Поочерёдно меняем ноги",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/7ad936357fa320dc.jpg",
+            "data/images/441817df66021571.jpg"
+          ]
+        },
+        {
+          "id": "ex_xdxs6l00",
+          "name": "Сгибания и прыжки",
+          "description": "Сгибаем ногу в ТБС. Таз не заваливается. Статически удерживаем разгибатели голеностопа. Поочерёдно меняем ноги",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/bc4461cad44ae940.jpg",
+            "data/images/002e305975c77ca1.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -150,10 +174,36 @@
               "exerciseId": "ex_ykpanzwj"
             }
           ]
+        },
+        {
+          "id": "cx_q535k26f",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_o6a357y9",
+              "exerciseId": "ex_tldmy3hg"
+            },
+            {
+              "id": "ci_8bm1898f",
+              "exerciseId": "ex_sy6zxjr4"
+            },
+            {
+              "id": "ci_wn9ic73y",
+              "exerciseId": "ex_4jbcx9qr"
+            },
+            {
+              "id": "ci_jafmte02",
+              "exerciseId": "ex_xoz4sdcs"
+            },
+            {
+              "id": "ci_kyht2kz9",
+              "exerciseId": "ex_xdxs6l00"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-07",
+      "scheduleStartDate": "2026-09-13",
       "intervalDays": 1
     },
     "knee": {
@@ -3434,7 +3484,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-13",
       "intervalDays": 1
     },
     "hip": {
@@ -4813,7 +4863,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-08-30",
+      "scheduleStartDate": "2026-09-13",
       "intervalDays": 1
     },
     "glutes": {
@@ -6471,7 +6521,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-08",
+      "scheduleStartDate": "2026-09-13",
       "intervalDays": 1
     },
     "lower_back": {
@@ -6508,7 +6558,6 @@
     }
   },
   "lastEquipment": [
-    "short_band",
-    "chair"
+    "short_band"
   ]
 }
