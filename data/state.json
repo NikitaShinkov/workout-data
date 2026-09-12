@@ -227,6 +227,59 @@
             "data/images/ad0566bdb3802001.jpg",
             "data/images/b277f185c5b80152.jpg"
           ]
+        },
+        {
+          "id": "ex_b7ulvf9e",
+          "name": "Внутренняя ротация лёжа на животе",
+          "description": "Делаем медленно, не задействовать таз\nЕсли сложно, уменьшаем амплитуду",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d76cf70d19bc46f4.jpg",
+            "data/images/f5746ebf9207ae7f.jpg"
+          ]
+        },
+        {
+          "id": "ex_ehnqqh0e",
+          "name": "Отведение с наружной ротацией с резинкой",
+          "description": "Отведение и приведение выполняется плавно с одной скоростью",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/4abe03a5eb42d423.jpg",
+            "data/images/ecb53f552b3f6ead.jpg"
+          ]
+        },
+        {
+          "id": "ex_tnc1zflz",
+          "name": "Наружная ротацией с резинкой с зажатым ролом на вису",
+          "description": "Точка вращения относительно рола должна быть стабильной, т.е. стопы на вису должны быть в одной точке и не болтаться туда-сюда при отведении и приведении.\nПри этом рол специально сильно сжимать не нужно, это только ось вращения\nЕсли просто, то сначала пытаемся максимально увеличить амплитуду и только потом используем более плотную ленту",
+          "equipment": [
+            "mat",
+            "short_band",
+            "roller"
+          ],
+          "images": [
+            "data/images/14876170beb70b92.jpg",
+            "data/images/0fe5e2cf0dadd892.jpg"
+          ]
+        },
+        {
+          "id": "ex_qndfr8ui",
+          "name": "Внутренняя ротацией с резинкой с зажатым ролом на вису",
+          "description": "Точка вращения относительно рола должна быть стабильной, т.е. колени должны быть в одной точке и не болтаться туда-сюда при отведении и приведении\nПри этом рол специально сильно сжимать не нужно, это только ось вращения\nЕсли просто, то сначала пытаемся максимально увеличить амплитуду и только потом используем более плотную ленту",
+          "equipment": [
+            "mat",
+            "short_band",
+            "roller"
+          ],
+          "images": [
+            "data/images/9da33b8d923c7a6c.jpg",
+            "data/images/5aad1029fc10f91e.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -301,6 +354,32 @@
             {
               "id": "ci_ft693qtp",
               "exerciseId": "ex_y8bb1tfj"
+            }
+          ]
+        },
+        {
+          "id": "cx_9crvol1d",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_go13yx9v",
+              "exerciseId": "ex_41rd3gfg"
+            },
+            {
+              "id": "ci_90exlihk",
+              "exerciseId": "ex_b7ulvf9e"
+            },
+            {
+              "id": "ci_comi85se",
+              "exerciseId": "ex_ehnqqh0e"
+            },
+            {
+              "id": "ci_6kcsac7n",
+              "exerciseId": "ex_tnc1zflz"
+            },
+            {
+              "id": "ci_4d5hpn1m",
+              "exerciseId": "ex_qndfr8ui"
             }
           ]
         }
@@ -2001,6 +2080,8 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "short_band",
+    "roller"
   ]
 }
