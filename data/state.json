@@ -730,6 +730,30 @@
             "data/images/dcb8ddf0b92a6860.jpg",
             "data/images/ad4ec742651304f3.jpg"
           ]
+        },
+        {
+          "id": "ex_c0z2oqed",
+          "name": "Разгибание и внутренняя ротация",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b757deec00a9c54e.jpg",
+            "data/images/d4c6c895ca0e27f2.jpg"
+          ]
+        },
+        {
+          "id": "ex_l6bmky00",
+          "name": "Разгибание и внутренняя ротация",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9c3bec6213c31ec7.jpg",
+            "data/images/73c884c91df319fe.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -988,6 +1012,36 @@
             {
               "id": "ci_xmx9yifc",
               "exerciseId": "ex_1hycaacp"
+            }
+          ]
+        },
+        {
+          "id": "cx_fhyd07a8",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_7oahs3sh",
+              "exerciseId": "ex_ys2x1tt6"
+            },
+            {
+              "id": "ci_x5ufhqcu",
+              "exerciseId": "ex_m4cg76u7"
+            },
+            {
+              "id": "ci_b2l54av8",
+              "exerciseId": "ex_elqpsli8"
+            },
+            {
+              "id": "ci_keyvpwig",
+              "exerciseId": "ex_8z0i98kl"
+            },
+            {
+              "id": "ci_s2u9rlz1",
+              "exerciseId": "ex_c0z2oqed"
+            },
+            {
+              "id": "ci_6ee5euk2",
+              "exerciseId": "ex_l6bmky00"
             }
           ]
         }
@@ -4067,7 +4121,6 @@
     }
   },
   "lastEquipment": [
-    "long_band",
-    "chair"
+    "mat"
   ]
 }
