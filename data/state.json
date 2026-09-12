@@ -92,6 +92,47 @@
             "data/images/2e9c636c1f3ae6b6.jpg",
             "data/images/14458cdcb3201c0d.jpg"
           ]
+        },
+        {
+          "id": "ex_sb33it80",
+          "name": "Отведение таза назад с резинкой с малой амплитудой",
+          "description": "Широкая резинка одним концом привязана в опоре",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/d601a7142ee0b5b6.jpg",
+            "data/images/350a486b71f8c1bb.jpg"
+          ]
+        },
+        {
+          "id": "ex_882bmiko",
+          "name": "Отведение таза назад с резинкой с большой амплитудой",
+          "description": "Широкая резинка одним концом привязана в опоре",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/8304e27825d2d7a1.jpg",
+            "data/images/82b94d9332f42993.jpg"
+          ]
+        },
+        {
+          "id": "ex_x1h9hq3i",
+          "name": "Отведение таза назад с резинкой с малой амплитудой",
+          "description": "Широкая резинка одним концом привязана в опоре",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/fbb2634dd3249d2a.jpg",
+            "data/images/cc83becf293d85ed.jpg",
+            "data/images/a432aba20705ef52.jpg",
+            "data/images/c271c9684d987b2a.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1814,6 +1855,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
