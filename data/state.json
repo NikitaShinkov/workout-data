@@ -1257,6 +1257,17 @@
             "data/images/95bdc7f17a44ac7d.jpg",
             "data/images/8c997ec73d42f150.jpg"
           ]
+        },
+        {
+          "id": "ex_bxgavjma",
+          "name": "Шаг и поднятие ноги",
+          "description": "Тело и ноги не колеблются при движении, движения плавные",
+          "equipment": [],
+          "images": [
+            "data/images/a996e2e9b7d30595.jpg",
+            "data/images/b8aeea93b9bc0195.jpg",
+            "data/images/4d48bdfead0105d8.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1721,6 +1732,32 @@
             {
               "id": "ci_ko9qfta3",
               "exerciseId": "ex_z8hybux7"
+            }
+          ]
+        },
+        {
+          "id": "cx_msonklue",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_bexpknin",
+              "exerciseId": "ex_e97u5ho9"
+            },
+            {
+              "id": "ci_g87xjuff",
+              "exerciseId": "ex_ap093oo1"
+            },
+            {
+              "id": "ci_3dg0qibf",
+              "exerciseId": "ex_i0kg30ur"
+            },
+            {
+              "id": "ci_qser07au",
+              "exerciseId": "ex_khihqfx6"
+            },
+            {
+              "id": "ci_ktq0lo3n",
+              "exerciseId": "ex_nqbfiv3d"
             }
           ]
         }
@@ -4799,7 +4836,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
