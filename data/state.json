@@ -2280,6 +2280,46 @@
             "data/images/d1e999f84483917f.jpg",
             "data/images/1c15adf6fb1613a3.jpg"
           ]
+        },
+        {
+          "id": "ex_x12qczwp",
+          "name": "Наклоны и потом отведения",
+          "description": "После опускания отводим ногу",
+          "equipment": [
+            "short_band",
+            "wall"
+          ],
+          "images": [
+            "data/images/d1e999f84483917f.jpg",
+            "data/images/1c15adf6fb1613a3.jpg",
+            "data/images/d32c6295703d7ef5.jpg"
+          ]
+        },
+        {
+          "id": "ex_syrppqti",
+          "name": "Наклоны с отведениями",
+          "description": "Опускаемся и отводим ногу одновременно",
+          "equipment": [
+            "short_band",
+            "wall"
+          ],
+          "images": [
+            "data/images/6aa7e63eef89a39f.jpg",
+            "data/images/225c5a2d7d87a9aa.jpg"
+          ]
+        },
+        {
+          "id": "ex_5pxesqyk",
+          "name": "Полуприседы",
+          "description": "",
+          "equipment": [
+            "short_band",
+            "wall"
+          ],
+          "images": [
+            "data/images/4a2cf81d19e4406f.jpg",
+            "data/images/42f8c8fd5eb71052.jpg"
+          ]
         }
       ],
       "complexes": [
