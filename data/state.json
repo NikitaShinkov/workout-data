@@ -1670,6 +1670,30 @@
             "data/images/27835d59db245022.jpg",
             "data/images/cef915404aa6fdf2.jpg"
           ]
+        },
+        {
+          "id": "ex_a6s9f2n9",
+          "name": "Вышагивания",
+          "description": "Таз удерживается ровно. Колено амортизирует приземление.\nПятишка воды специально наполнена не полностью, чтобы добавить инерции",
+          "equipment": [
+            "weight"
+          ],
+          "images": [
+            "data/images/03043bb99c5f0b6c.jpg",
+            "data/images/75592e6fae5e5c19.jpg"
+          ]
+        },
+        {
+          "id": "ex_6uyfbr69",
+          "name": "Зашагивания вбок",
+          "description": "",
+          "equipment": [
+            "weight"
+          ],
+          "images": [
+            "data/images/7fc8c59f62e3b8aa.jpg",
+            "data/images/fb3716d0f0bb4514.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5420,5 +5444,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "weight"
+  ]
 }
