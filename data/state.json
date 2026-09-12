@@ -1122,6 +1122,18 @@
             "data/images/bc21b7d39c9fbb00.jpg",
             "data/images/2b15a72ba5c814cc.jpg"
           ]
+        },
+        {
+          "id": "ex_m3j9342i",
+          "name": "Подъёмы и ротация",
+          "description": "Сначала внутрь смещаем столы, потом обратно наружу",
+          "equipment": [],
+          "images": [
+            "data/images/a9880bf8f53707f9.jpg",
+            "data/images/519079a881f30198.jpg",
+            "data/images/19e592bb43255a6a.jpg",
+            "data/images/d6cfbf258a3d66aa.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1530,6 +1542,32 @@
             {
               "id": "ci_h92lthmg",
               "exerciseId": "ex_d76dsdgc"
+            }
+          ]
+        },
+        {
+          "id": "cx_8y14ltri",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_h4eb8rq7",
+              "exerciseId": "ex_3hr6dtcv"
+            },
+            {
+              "id": "ci_waojq4sx",
+              "exerciseId": "ex_euffemww"
+            },
+            {
+              "id": "ci_hh74h0m4",
+              "exerciseId": "ex_m9pi3j2z"
+            },
+            {
+              "id": "ci_l1vxkemw",
+              "exerciseId": "ex_4w8sd15r"
+            },
+            {
+              "id": "ci_dp81r6ep",
+              "exerciseId": "ex_m3j9342i"
             }
           ]
         }
