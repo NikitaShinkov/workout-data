@@ -173,6 +173,34 @@
             "data/images/02aa613a84de8ae9.jpg",
             "data/images/757250ffc380f8bf.jpg"
           ]
+        },
+        {
+          "id": "ex_ba8bw7ti",
+          "name": "Разгибания",
+          "description": "Медленный возврат",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/0247bebbfdb59fdb.jpg",
+            "data/images/39ecb70a20379cb9.jpg"
+          ]
+        },
+        {
+          "id": "ex_k6g4nx5a",
+          "name": "Разгибания с ротацией",
+          "description": "Попеременно меняем внешнюю и внутреннюю ротацию",
+          "equipment": [
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/86b01435588152fd.jpg",
+            "data/images/d222a30b28780c93.jpg",
+            "data/images/86b01435588152fd.jpg",
+            "data/images/3f1039413c53cdc6.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3312,6 +3340,7 @@
     }
   },
   "lastEquipment": [
-    "short_band"
+    "short_band",
+    "chair"
   ]
 }
