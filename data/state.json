@@ -2142,6 +2142,40 @@
             "data/images/d6a88a95c1faf4c9.jpg",
             "data/images/b01dbdc5c0295fe9.jpg"
           ]
+        },
+        {
+          "id": "ex_ho99w1fv",
+          "name": "Разгибания голеностопа",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/719ebc4b57fdf982.jpg",
+            "data/images/88047d582946a62a.jpg"
+          ]
+        },
+        {
+          "id": "ex_axhyck59",
+          "name": "Сгибания голеностопа",
+          "description": "Снизу свёрнутый коврик или рол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/63365ae3a6195299.jpg",
+            "data/images/d0eb3ca6522b4c2c.jpg"
+          ]
+        },
+        {
+          "id": "ex_0y63bbqn",
+          "name": "Наклоны голеностопа",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/07b31abf6680658d.jpg",
+            "data/images/d36c12ce812e6bae.jpg",
+            "data/images/07b31abf6680658d.jpg",
+            "data/images/eca4e00f2fc89ba6.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6096,8 +6130,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat",
-    "long_band"
-  ]
+  "lastEquipment": []
 }
