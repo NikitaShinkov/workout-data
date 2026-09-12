@@ -1718,6 +1718,18 @@
             "data/images/20e05d6c52584ef4.jpg",
             "data/images/7740aafdb31af91f.jpg"
           ]
+        },
+        {
+          "id": "ex_5uty0kwt",
+          "name": "Присед",
+          "description": "Приземления плавные",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/16d6a370e610da20.jpg",
+            "data/images/9072660be9ee696c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5490,5 +5502,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "long_band"
+  ]
 }
