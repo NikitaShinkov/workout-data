@@ -6880,7 +6880,21 @@
     },
     "cat_lz5gplty": {
       "name": "Грудь и плечи",
-      "exercises": [],
+      "exercises": [
+        {
+          "id": "ex_0m8cx9o3",
+          "name": "МФР спины",
+          "description": "Руки за головой или на груди. Не перенапрягаем ключицу. Поясницу не прокатываем. Выше поясницы делим спину на три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/33497970743e6f47.jpg",
+            "data/images/3af7eedff2462793.jpg"
+          ]
+        }
+      ],
       "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
@@ -6889,6 +6903,6 @@
   },
   "lastEquipment": [
     "mat",
-    "wall"
+    "roller"
   ]
 }
