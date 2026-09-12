@@ -565,6 +565,44 @@
             "data/images/73c46c1c3d886c98.jpg",
             "data/images/73c83f14da892508.jpg"
           ]
+        },
+        {
+          "id": "ex_tfcs93b0",
+          "name": "Опускания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fcb4dfd8ae9a55c6.jpg",
+            "data/images/5b467d641629a54c.jpg"
+          ]
+        },
+        {
+          "id": "ex_olmecg17",
+          "name": "Разгибания",
+          "description": "Опускание ног медленное",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/e46786ca124e52db.jpg",
+            "data/images/bd0221791f5e48b6.jpg"
+          ]
+        },
+        {
+          "id": "ex_oc70ml2y",
+          "name": "Разгибания",
+          "description": "Опускание ноги медленное",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/09fcf05e937dc510.jpg",
+            "data/images/594fb5a2fdd96af3.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -767,6 +805,32 @@
             {
               "id": "ci_ekuxdig4",
               "exerciseId": "ex_x6mbqu6y"
+            }
+          ]
+        },
+        {
+          "id": "cx_0rr4mqzd",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_y0et2sst",
+              "exerciseId": "ex_5wjoba9h"
+            },
+            {
+              "id": "ci_md41cx4z",
+              "exerciseId": "ex_vgb3a21d"
+            },
+            {
+              "id": "ci_ba8zkzd7",
+              "exerciseId": "ex_tfcs93b0"
+            },
+            {
+              "id": "ci_69s7qx79",
+              "exerciseId": "ex_olmecg17"
+            },
+            {
+              "id": "ci_7ceyjjm3",
+              "exerciseId": "ex_oc70ml2y"
             }
           ]
         }
@@ -3845,5 +3909,8 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat",
+    "long_band"
+  ]
 }
