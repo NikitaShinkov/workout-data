@@ -1855,6 +1855,55 @@
             "data/images/56476f45558e9312.jpg",
             "data/images/f489c31af596d33b.jpg"
           ]
+        },
+        {
+          "id": "ex_3nnbqjh8",
+          "name": "Сгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c2117b5f02fdd826.jpg",
+            "data/images/2f36a223a9dfc8af.jpg"
+          ]
+        },
+        {
+          "id": "ex_yod6v52s",
+          "name": "Наружная ротация",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/e068ee280c15fcab.jpg",
+            "data/images/2ba76d32f1fdd84c.jpg"
+          ]
+        },
+        {
+          "id": "ex_dywmrzml",
+          "name": "Сгибания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/fa71667d27684882.jpg",
+            "data/images/64ee5ea825d270b0.jpg"
+          ]
+        },
+        {
+          "id": "ex_y8kv317i",
+          "name": "Ротация",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/c66a8a79e8bd29ea.jpg",
+            "data/images/9c6c2798ead1ccc2.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5680,7 +5729,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
     "long_band"
   ]
 }
