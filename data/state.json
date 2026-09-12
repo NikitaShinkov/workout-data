@@ -786,6 +786,26 @@
             "data/images/1094e7bb8adb6edb.jpg",
             "data/images/708d7d3e4ab21e15.jpg"
           ]
+        },
+        {
+          "id": "ex_i9y2bp58",
+          "name": "Отшагивания",
+          "description": "Опорную центральную ногу держим прямой. С начала меняем углы в одну сторону, потом в обратную",
+          "equipment": [],
+          "images": [
+            "data/images/6e18063078ceb9ab.jpg",
+            "data/images/d34b3e2ff3c465fb.jpg",
+            "data/images/6e18063078ceb9ab.jpg",
+            "data/images/a1020cab2cba7df6.jpg",
+            "data/images/6e18063078ceb9ab.jpg",
+            "data/images/42de33757b2099f8.jpg",
+            "data/images/6e18063078ceb9ab.jpg",
+            "data/images/be5cc089e09ccfba.jpg",
+            "data/images/6e18063078ceb9ab.jpg",
+            "data/images/841f9c63c304b0a0.jpg",
+            "data/images/6e18063078ceb9ab.jpg",
+            "data/images/a7da6cebdcbb62fa.jpg"
+          ]
         }
       ],
       "complexes": [
