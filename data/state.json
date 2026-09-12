@@ -268,6 +268,60 @@
             "data/images/ecb53bb6434899b5.jpg",
             "data/images/513cdcd5ddf9407e.jpg"
           ]
+        },
+        {
+          "id": "ex_ryhc5tw5",
+          "name": "МФР",
+          "description": "Нажимаем на ногу рукой и сгибаем разгибаем стопы\nДелим голень на три части и в каждой части делаем с разворотами ног: наружная ротация, ноги параллельны друг другу и внешняя ротация.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/47e090f9af037ed8.jpg",
+            "data/images/7d2c681ab253a2c4.jpg",
+            "data/images/a4be8b6bbb2a13c5.jpg",
+            "data/images/1ea0cf3f80bc10ab.jpg",
+            "data/images/f8a0655de4bf9fbd.jpg"
+          ]
+        },
+        {
+          "id": "ex_w3kmenza",
+          "name": "Растяжка",
+          "description": "Пятка опорной ноги не отрывается от пола. Наклоняемся по прямой линии, в наружную и внутреннюю ротацию",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/0d67ec3e472691be.jpg",
+            "data/images/b1d76b64450b2f30.jpg"
+          ]
+        },
+        {
+          "id": "ex_1db9qwd7",
+          "name": "Растяжка",
+          "description": "Обтягиваем голеностоп эластичной лентой\nПятка опорной ноги не отрывается от пола. Наклоняемся по прямой линии, в наружную и внутреннюю ротацию",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/fb687aef1669cd72.jpg",
+            "data/images/4bcfb097678f0f73.jpg"
+          ]
+        },
+        {
+          "id": "ex_s2d3witf",
+          "name": "Растяжка",
+          "description": "Удерживаем ровное колено и спину",
+          "equipment": [
+            "mat",
+            "block"
+          ],
+          "images": [
+            "data/images/d2036740c0b38232.jpg",
+            "data/images/fd44c590a9c50333.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3438,6 +3492,6 @@
   },
   "lastEquipment": [
     "mat",
-    "roller"
+    "block"
   ]
 }
