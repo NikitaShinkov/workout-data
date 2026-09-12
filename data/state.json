@@ -927,6 +927,19 @@
             "data/images/25e4ee98d697d50e.jpg",
             "data/images/e095a0b004c5b4cc.jpg"
           ]
+        },
+        {
+          "id": "ex_6d2gul45",
+          "name": "Сгибания",
+          "description": "Медленно разгибаем",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/d064980d20715a83.jpg",
+            "data/images/c829723dd75e54dc.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4354,6 +4367,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "long_band",
+    "chair"
   ]
 }
