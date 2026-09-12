@@ -361,6 +361,20 @@
             "data/images/e410752f2496bbf9.jpg",
             "data/images/a5e26526cdd6f2d8.jpg"
           ]
+        },
+        {
+          "id": "ex_9q2r1g51",
+          "name": "Сгибание",
+          "description": "Живот собран, спина прямая, таз неподвижен, руки на поясе\nНогу на стуле можно держать прямо, потом менять её положение во внутреннюю или внешнюю ротацию",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/9467dc2f24d6d4fc.jpg",
+            "data/images/bd96cd24927e21b6.jpg",
+            "data/images/88bfe73de27de5ad.jpg",
+            "data/images/f8e3d48ef734a29c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2191,6 +2205,6 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "chair"
   ]
 }
