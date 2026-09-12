@@ -62,6 +62,31 @@
             "data/images/d9837f1229af5a8d.jpg",
             "data/images/c1415d2050172c5d.jpg"
           ]
+        },
+        {
+          "id": "ex_midavpft",
+          "name": "Наклоны",
+          "description": "Эластичность мышц задней поверхности бедра.\nДержим поясницу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a27c4921b5e34ffb.jpg",
+            "data/images/c9436d83d3a4a8b6.jpg"
+          ]
+        },
+        {
+          "id": "ex_oj1oshy5",
+          "name": "Разгибания",
+          "description": "Опускаемся в исходную позицию медленно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9fc949903b04e93e.jpg",
+            "data/images/5fb3370d5770f662.jpg",
+            "data/images/b7310b13df9474f8.jpg"
+          ]
         }
       ],
       "complexes": [],
