@@ -1115,6 +1115,24 @@
             "data/images/3c1e9fd1cf25c365.jpg",
             "data/images/ad053d8d147de32f.jpg"
           ]
+        },
+        {
+          "id": "ex_tazqzni6",
+          "name": "Пистолетик с опорой на стул и отводом ноги назад",
+          "description": "Ягодицы\nКолено опорной ноги неподвижно, не шатается в разные стороны\nПосле опускания в пистолетик поднимаемся и свободную ногу отводим назад. Затем сразу же опускаемся в пистолетик\nВыполнение плавное",
+          "equipment": [
+            "mat",
+            "chair"
+          ],
+          "images": [
+            "data/images/6b2b96f456936ee7.jpg",
+            "data/images/eae9236d6099bdf2.jpg",
+            "data/images/4feec5d332cb6e2b.jpg",
+            "data/images/c25e025422778b79.jpg",
+            "data/images/5c14ad44a0be0362.jpg",
+            "data/images/0a4840db4f06c3ac.jpg",
+            "data/images/6e8e26e944f9a8a4.jpg"
+          ]
         }
       ],
       "complexes": [
