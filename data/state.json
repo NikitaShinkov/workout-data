@@ -1085,6 +1085,36 @@
             "data/images/a161983ce1c7a916.jpg",
             "data/images/a5cfc7cf02eb2b72.jpg"
           ]
+        },
+        {
+          "id": "ex_ealqjakn",
+          "name": "Опускание на стул на одной ноге с прямой ногой в висе",
+          "description": "Ягодицы\nДля активации ягодиц наклон туловища немного вперёд\nОпускаемся на одной ноге, встаём на двух ногах\nВыполнение плавное",
+          "equipment": [
+            "mat",
+            "chair"
+          ],
+          "images": [
+            "data/images/5727ca34301fd0e2.jpg",
+            "data/images/26013c2035618eee.jpg",
+            "data/images/b9ff20b3a14b8f0a.jpg",
+            "data/images/6749dc2756bce83c.jpg"
+          ]
+        },
+        {
+          "id": "ex_c3cdfyrj",
+          "name": "Подъём со стула на одной ноге с согнутой ногой в висе",
+          "description": "Ягодицы\nДля активации ягодиц наклон туловища немного вперёд\nВстаём на одной ноге, опускаемся на двух ногах\nВыполнение плавное",
+          "equipment": [
+            "mat",
+            "chair"
+          ],
+          "images": [
+            "data/images/2e943add7aadddd2.jpg",
+            "data/images/c8cbcab5d0d87468.jpg",
+            "data/images/3c1e9fd1cf25c365.jpg",
+            "data/images/ad053d8d147de32f.jpg"
+          ]
         }
       ],
       "complexes": [
