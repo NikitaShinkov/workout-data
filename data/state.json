@@ -806,6 +806,22 @@
             "data/images/6e18063078ceb9ab.jpg",
             "data/images/a7da6cebdcbb62fa.jpg"
           ]
+        },
+        {
+          "id": "ex_4bgb642c",
+          "name": "Сгибания",
+          "description": "Между большим пальцем стопы и ножкой стула 12 см",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/0dea3f94e624a7c5.jpg",
+            "data/images/9d1277bd4ea80d30.jpg",
+            "data/images/0dea3f94e624a7c5.jpg",
+            "data/images/7d6d4ad884b9a328.jpg",
+            "data/images/0dea3f94e624a7c5.jpg",
+            "data/images/f8404bbf7939c9a9.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4172,5 +4188,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "chair"
+  ]
 }
