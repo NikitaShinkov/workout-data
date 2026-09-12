@@ -99,6 +99,18 @@
             "data/images/455a62b3a6ff9536.jpg",
             "data/images/ee35f11e23680a89.jpg"
           ]
+        },
+        {
+          "id": "ex_byqymdls",
+          "name": "Ротация голеностопа",
+          "description": "Ротация за счёт мышц голени.",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/0f89a60b1be42edb.jpg",
+            "data/images/3d4b5429051fe961.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3208,6 +3220,6 @@
     }
   },
   "lastEquipment": [
-    "chair"
+    "short_band"
   ]
 }
