@@ -769,9 +769,7 @@
           "id": "ex_jyby590q",
           "name": "Вращение стоя",
           "description": "Делаем восьмёрку с наружной и внутренней ротацией\nРабота выполняется в ТБС, максимально подцепляя крайние амплитуды\nЕсли сложно, можно немного опустить ногу",
-          "equipment": [
-            "mat"
-          ],
+          "equipment": [],
           "images": [
             "data/images/7c5559d25764e73a.jpg",
             "data/images/affa7d7b7aad4f37.jpg",
@@ -783,9 +781,7 @@
           "id": "ex_wilinilv",
           "name": "Вращение стоя",
           "description": "Сначала разгибание, потом наружная ротация\nДвижение равномерное во всей амплитуде",
-          "equipment": [
-            "mat"
-          ],
+          "equipment": [],
           "images": [
             "data/images/fe02747757df7ee3.jpg",
             "data/images/90cda141b63e69b5.jpg",
@@ -797,9 +793,7 @@
           "id": "ex_e2los0pa",
           "name": "Вращение стоя",
           "description": "Сгибание, отведение, внутренняя ротация, разгибание\nНе подключать поясницу, движение только в ТБС",
-          "equipment": [
-            "mat"
-          ],
+          "equipment": [],
           "images": [
             "data/images/9f84f6f63d6b9eba.jpg",
             "data/images/f07d3bb0f1f0664d.jpg",
@@ -1090,6 +1084,32 @@
             {
               "id": "ci_4t7vjo1l",
               "exerciseId": "ex_m2dibv23"
+            }
+          ]
+        },
+        {
+          "id": "cx_rhm62se4",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_kcq8xiie",
+              "exerciseId": "ex_c90b1qbu"
+            },
+            {
+              "id": "ci_5rs3olqk",
+              "exerciseId": "ex_y0b8ob6r"
+            },
+            {
+              "id": "ci_zzrmubsc",
+              "exerciseId": "ex_jyby590q"
+            },
+            {
+              "id": "ci_0m5aeg5s",
+              "exerciseId": "ex_wilinilv"
+            },
+            {
+              "id": "ci_3vnevrf2",
+              "exerciseId": "ex_e2los0pa"
             }
           ]
         }
@@ -2789,7 +2809,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
