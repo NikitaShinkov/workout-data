@@ -280,6 +280,19 @@
             "data/images/9da33b8d923c7a6c.jpg",
             "data/images/5aad1029fc10f91e.jpg"
           ]
+        },
+        {
+          "id": "ex_xtxy0ipa",
+          "name": "Подъём ноги",
+          "description": "Можно делать и без резинки\nСпина прямая, руки в стороны. Стараемся как можно дольше удержать наверху неопорную ногу. Опорная нога статична, не болтается",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/f3ca2ea477ca11ff.jpg",
+            "data/images/82689ff0c4416ee8.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2081,7 +2094,6 @@
   },
   "lastEquipment": [
     "mat",
-    "short_band",
-    "roller"
+    "long_band"
   ]
 }
