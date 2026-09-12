@@ -1071,6 +1071,20 @@
             "data/images/c1abeffa0a89e435.jpg",
             "data/images/6d894f051dc8308c.jpg"
           ]
+        },
+        {
+          "id": "ex_8qu77wio",
+          "name": "Опускание на стул",
+          "description": "Ягодицы\nДля активации ягодиц наклон туловища немного вперёд\nВыполнение плавное",
+          "equipment": [
+            "mat",
+            "chair"
+          ],
+          "images": [
+            "data/images/12514661b809116c.jpg",
+            "data/images/a161983ce1c7a916.jpg",
+            "data/images/a5cfc7cf02eb2b72.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1537,6 +1551,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "chair"
   ]
 }
