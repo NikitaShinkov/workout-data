@@ -453,6 +453,44 @@
             "data/images/c9bb75c5f63bb5f7.jpg",
             "data/images/efb1ff8d421d03ea.jpg"
           ]
+        },
+        {
+          "id": "ex_e5wshmkg",
+          "name": "Отведение с ротацией",
+          "description": "Движение плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fefe285410ddc059.jpg",
+            "data/images/c1ddc71b51c9af67.jpg",
+            "data/images/84161edc0b6d629b.jpg",
+            "data/images/10479a18390da85b.jpg"
+          ]
+        },
+        {
+          "id": "ex_1datcapo",
+          "name": "Внутренняя ротация",
+          "description": "Если неудобно сидеть, под нижнюю ягодицу подложить что-то мягкое",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5dd0ab524343c8a6.jpg",
+            "data/images/e4cd9445383668d6.jpg"
+          ]
+        },
+        {
+          "id": "ex_ua0ahgz4",
+          "name": "Наружная ротация",
+          "description": "Движение в ТБС, не компенсировать движение стопой\nЕсли неудобно сидеть, под нижнюю ягодицу подложить что-то мягкое\nКоленом давим в коврик, движение плавное\nЕсли сложно, спиной можно откинуться назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/0bd6c154d4955527.jpg",
+            "data/images/9cc0d8832b3365ea.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -609,6 +647,32 @@
             {
               "id": "ci_g2kdi6d4",
               "exerciseId": "ex_rt78b7w8"
+            }
+          ]
+        },
+        {
+          "id": "cx_6vg41y67",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_jai2gy2b",
+              "exerciseId": "ex_ox6pdic4"
+            },
+            {
+              "id": "ci_kt2841zl",
+              "exerciseId": "ex_93ed8fy6"
+            },
+            {
+              "id": "ci_itsmzeu4",
+              "exerciseId": "ex_e5wshmkg"
+            },
+            {
+              "id": "ci_0svicrvg",
+              "exerciseId": "ex_1datcapo"
+            },
+            {
+              "id": "ci_c95zpk6e",
+              "exerciseId": "ex_ua0ahgz4"
             }
           ]
         }
