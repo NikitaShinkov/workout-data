@@ -2114,6 +2114,34 @@
             "data/images/2d41e1a33af70129.jpg",
             "data/images/28a4bcb7c92761d1.jpg"
           ]
+        },
+        {
+          "id": "ex_wafj1vzd",
+          "name": "Отшагивания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/ebd877e7d2d91603.jpg",
+            "data/images/053a8ee4df3e294f.jpg"
+          ]
+        },
+        {
+          "id": "ex_e9fdv6gn",
+          "name": "Раскручивания и наклоны с отведением",
+          "description": "Резинка оборачивается вокруг плеча. Опорная нога со стороны этого плеча. Делаем либо раскручивания, либо наклоны с отведением",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/cc57327e9c03394c.jpg",
+            "data/images/6593f0e150c75d04.jpg",
+            "data/images/d6a88a95c1faf4c9.jpg",
+            "data/images/b01dbdc5c0295fe9.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2964,6 +2992,32 @@
             {
               "id": "ci_ggv4etk2",
               "exerciseId": "ex_2nvd1pkj"
+            }
+          ]
+        },
+        {
+          "id": "cx_yvivr4hh",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_p5sn0sx4",
+              "exerciseId": "ex_jqjvuqkj"
+            },
+            {
+              "id": "ci_8xk213zx",
+              "exerciseId": "ex_3cxycqq0"
+            },
+            {
+              "id": "ci_2mouawjf",
+              "exerciseId": "ex_mvch4y2z"
+            },
+            {
+              "id": "ci_thdwxl2i",
+              "exerciseId": "ex_wafj1vzd"
+            },
+            {
+              "id": "ci_73eiixer",
+              "exerciseId": "ex_e9fdv6gn"
             }
           ]
         }
@@ -6044,6 +6098,6 @@
   },
   "lastEquipment": [
     "mat",
-    "short_band"
+    "long_band"
   ]
 }
