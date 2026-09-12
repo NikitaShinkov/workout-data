@@ -21,7 +21,21 @@
     },
     "knee": {
       "name": "Колено",
-      "exercises": [],
+      "exercises": [
+        {
+          "id": "ex_hunmjdor",
+          "name": "МФР",
+          "description": "Эластичность мышц задней поверхности бедра.\nДвижения короткие.\nДелим бедро на три части и в каждой части делаем с разворотами ног: наружная ротация, ноги параллельны друг другу и внешняя ротация.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/f51e92188fc0f8ad.jpg",
+            "data/images/eb8dd844119f517a.jpg"
+          ]
+        }
+      ],
       "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
