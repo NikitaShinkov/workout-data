@@ -2267,6 +2267,19 @@
             "data/images/7df1892ea31d9e0d.jpg",
             "data/images/1051621d6cc5a0ed.jpg"
           ]
+        },
+        {
+          "id": "ex_4xs7a5gt",
+          "name": "Наклоны",
+          "description": "Задняя нога упирается в стену. Опускаемся медленно",
+          "equipment": [
+            "short_band",
+            "wall"
+          ],
+          "images": [
+            "data/images/d1e999f84483917f.jpg",
+            "data/images/1c15adf6fb1613a3.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6274,6 +6287,7 @@
     }
   },
   "lastEquipment": [
+    "short_band",
     "wall"
   ]
 }
