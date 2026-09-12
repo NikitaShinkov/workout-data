@@ -617,6 +617,42 @@
             "data/images/109a7b9dd2f4f717.jpg",
             "data/images/98d90bbdb7eeb49e.jpg"
           ]
+        },
+        {
+          "id": "ex_be3dfa8i",
+          "name": "Приведение с ротацией",
+          "description": "Опорная нога стоит ровно и не заваливается",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/267dded0475fc8bc.jpg",
+            "data/images/784aa85dd28c43f8.jpg",
+            "data/images/267dded0475fc8bc.jpg",
+            "data/images/fdb8deda44094e66.jpg"
+          ]
+        },
+        {
+          "id": "ex_o8nbq2wp",
+          "name": "Наклоны",
+          "description": "Единая линия между ногой и туловищем",
+          "equipment": [],
+          "images": [
+            "data/images/e42c84ae2c952f49.jpg",
+            "data/images/1dbf13c455088da8.jpg"
+          ]
+        },
+        {
+          "id": "ex_8rbst5qj",
+          "name": "Наклоны",
+          "description": "Единая линия между ногой и туловищем",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/bc608d258b27410a.jpg",
+            "data/images/f1a2e0cb02a74619.jpg"
+          ]
         }
       ],
       "complexes": [
