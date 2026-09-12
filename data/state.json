@@ -1198,6 +1198,19 @@
             "data/images/b3df67e417458ea2.jpg",
             "data/images/38fde666ada9d3e9.jpg"
           ]
+        },
+        {
+          "id": "ex_e97u5ho9",
+          "name": "Протягивание",
+          "description": "Нога прямая. Протягиваем мышцы задней поверхности бедра в разных плоскостях",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/10e3207b33eadb9c.jpg",
+            "data/images/da8d2c60e7ca0768.jpg",
+            "data/images/b7922450932a091d.jpg"
+          ]
         }
       ],
       "complexes": [
