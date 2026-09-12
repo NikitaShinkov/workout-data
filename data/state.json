@@ -1823,7 +1823,7 @@
         },
         {
           "id": "ex_oa7biliu",
-          "name": "",
+          "name": "Наклоны",
           "description": "",
           "equipment": [
             "long_band"
@@ -1831,6 +1831,16 @@
           "images": [
             "data/images/d4eb5fe07c3d6f81.jpg",
             "data/images/679bbefaab84aa42.jpg"
+          ]
+        },
+        {
+          "id": "ex_ow1mai7k",
+          "name": "Присед из наклона",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/a3269f86683c1b83.jpg",
+            "data/images/8204d713a87d8e90.jpg"
           ]
         }
       ],
@@ -2552,6 +2562,32 @@
             {
               "id": "ci_8a89q3d4",
               "exerciseId": "ex_uqlio1mk"
+            }
+          ]
+        },
+        {
+          "id": "cx_686qacrn",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_2se0hvr7",
+              "exerciseId": "ex_er8qe7vz"
+            },
+            {
+              "id": "ci_u9c05xcj",
+              "exerciseId": "ex_5b567xh1"
+            },
+            {
+              "id": "ci_jwsz60e9",
+              "exerciseId": "ex_ss95c2lo"
+            },
+            {
+              "id": "ci_ga7mvuy1",
+              "exerciseId": "ex_oa7biliu"
+            },
+            {
+              "id": "ci_ryp5cw4v",
+              "exerciseId": "ex_ow1mai7k"
             }
           ]
         }
@@ -5630,7 +5666,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "long_band"
-  ]
+  "lastEquipment": []
 }
