@@ -822,6 +822,22 @@
             "data/images/0dea3f94e624a7c5.jpg",
             "data/images/f8404bbf7939c9a9.jpg"
           ]
+        },
+        {
+          "id": "ex_frroy8s3",
+          "name": "Сгибания",
+          "description": "Между большим пальцем стопы и ножкой стула 12 см. Колено смотрит в центр, а поворачивается и меняет углы голень",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/80c48429762a73af.jpg",
+            "data/images/51e31edd614634e2.jpg",
+            "data/images/2be6c9fefb1f8d8c.jpg",
+            "data/images/beeada8a9b6584d3.jpg",
+            "data/images/600546d07cefb52b.jpg",
+            "data/images/3e068661ec0dea69.jpg"
+          ]
         }
       ],
       "complexes": [
