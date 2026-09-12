@@ -41,6 +41,32 @@
             "data/images/9f983ec001c3f75c.jpg",
             "data/images/d7d7830208265f76.jpg"
           ]
+        },
+        {
+          "id": "ex_nj3fgth8",
+          "name": "Сгибания",
+          "description": "Нога от стены на пол стопы (12 см).  Колено упирается в одну и ту же точку, но смещаем положение стопы: вперёд, внутрь, наружу.\nВсе своды стопы прямые в параллели, не заваливаются ни внутрь, ни наружу.",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/574fde96b2f71e7a.jpg",
+            "data/images/423d64322737b2dd.jpg",
+            "data/images/e08c9cfcfaeebfea.jpg"
+          ]
+        },
+        {
+          "id": "ex_y3lizcdx",
+          "name": "МФР икроножной мышцы",
+          "description": "Давим на ногу и параллельно тянем на себя стопу.  Меняем угол поворота стопы: вперёд, внутрь, наружу.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/3545fd5e244f3415.jpg",
+            "data/images/b990f497220c0dc7.jpg"
+          ]
         }
       ],
       "complexes": [],
@@ -6400,6 +6426,7 @@
     }
   },
   "lastEquipment": [
-    "wall"
+    "mat",
+    "roller"
   ]
 }
