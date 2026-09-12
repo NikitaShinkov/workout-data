@@ -864,6 +864,57 @@
             "data/images/0cbc4f0cc2c33b91.jpg",
             "data/images/b561e583fe07b7cb.jpg"
           ]
+        },
+        {
+          "id": "ex_zy7twfx8",
+          "name": "Ротация",
+          "description": "",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/cda9e99319afd3a2.jpg",
+            "data/images/67ad5ca2325414ae.jpg"
+          ]
+        },
+        {
+          "id": "ex_67bu3eh0",
+          "name": "Сгибание и наружная ротация",
+          "description": "",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/6374e95a3c85ae00.jpg",
+            "data/images/651721096b60e6b1.jpg"
+          ]
+        },
+        {
+          "id": "ex_rj1xyijj",
+          "name": "Разгибание и наружная ротация",
+          "description": "",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/544fd310ede0ddef.jpg",
+            "data/images/078a639ed4921c58.jpg"
+          ]
+        },
+        {
+          "id": "ex_uo3he184",
+          "name": "Разгибание и наружная ротация",
+          "description": "Опускание медленное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/88b154e9feb5cc41.jpg",
+            "data/images/26071ddadf4debb3.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4261,7 +4312,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "mat"
   ]
 }
