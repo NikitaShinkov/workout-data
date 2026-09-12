@@ -1148,6 +1148,22 @@
             "data/images/0a4840db4f06c3ac.jpg",
             "data/images/6e8e26e944f9a8a4.jpg"
           ]
+        },
+        {
+          "id": "ex_r9w593r9",
+          "name": "Вращение ног в глубоком приседе с гирей",
+          "description": "Ягодицы\nСначала наклоняем ногу во внутренней ротации, потом во внешней \nПотом перекатываемся на другую ногу и опять наклоняем ногу во внутренней ротации, потом во внешней",
+          "equipment": [
+            "mat",
+            "weight"
+          ],
+          "images": [
+            "data/images/eb3390998a196bf5.jpg",
+            "data/images/9284a8c40a12e94c.jpg",
+            "data/images/685fde653f371df5.jpg",
+            "data/images/13a9f304f4ca9e56.jpg",
+            "data/images/1821dd0e5e050926.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1574,6 +1590,32 @@
               "exerciseId": "ex_01f3qenm"
             }
           ]
+        },
+        {
+          "id": "cx_74m0fmmx",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_6e24m3my",
+              "exerciseId": "ex_8qu77wio"
+            },
+            {
+              "id": "ci_od57g7tj",
+              "exerciseId": "ex_ealqjakn"
+            },
+            {
+              "id": "ci_wapsbi6l",
+              "exerciseId": "ex_c3cdfyrj"
+            },
+            {
+              "id": "ci_qgz70dye",
+              "exerciseId": "ex_g1efhstv"
+            },
+            {
+              "id": "ci_kymhowiy",
+              "exerciseId": "ex_tazqzni6"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
@@ -1615,6 +1657,6 @@
   },
   "lastEquipment": [
     "mat",
-    "chair"
+    "weight"
   ]
 }
