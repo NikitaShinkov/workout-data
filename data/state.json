@@ -149,6 +149,18 @@
             "data/images/45dec4dd4f0950ab.jpg",
             "data/images/3e9c27bfa0506680.jpg"
           ]
+        },
+        {
+          "id": "ex_mkn8gtqg",
+          "name": "Отведение и наружная ротация ТБС",
+          "description": "",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/8d17d92f52771c33.jpg",
+            "data/images/e4ee2fdfab940d13.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3258,7 +3270,6 @@
     }
   },
   "lastEquipment": [
-    "short_band",
-    "chair"
+    "short_band"
   ]
 }
