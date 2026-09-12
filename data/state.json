@@ -1268,6 +1268,49 @@
             "data/images/b8aeea93b9bc0195.jpg",
             "data/images/4d48bdfead0105d8.jpg"
           ]
+        },
+        {
+          "id": "ex_6kx1n6cr",
+          "name": "Шаг и поднятие ноги",
+          "description": "Тело и ноги не колеблются при движении, движения плавные",
+          "equipment": [],
+          "images": [
+            "data/images/31f4d0e422fb9bb3.jpg",
+            "data/images/925b190c347d76ef.jpg",
+            "data/images/f9e2c86192534381.jpg"
+          ]
+        },
+        {
+          "id": "ex_6qz1wlq4",
+          "name": "Зашагивание и поднятие ноги",
+          "description": "Тело и ноги не колеблются при движении, движения плавные",
+          "equipment": [],
+          "images": [
+            "data/images/1d3cc983ca3170b5.jpg",
+            "data/images/ae8b0d84d2dca735.jpg"
+          ]
+        },
+        {
+          "id": "ex_c0yz4x8c",
+          "name": "Полуприседы",
+          "description": "",
+          "equipment": [
+            "roller"
+          ],
+          "images": [
+            "data/images/ffe361a3649b70e8.jpg",
+            "data/images/486c06522a9afa3f.jpg"
+          ]
+        },
+        {
+          "id": "ex_q5lj1kpa",
+          "name": "Наклоны",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/c5b900b56094c05f.jpg",
+            "data/images/5ca88653ec7630bf.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1758,6 +1801,32 @@
             {
               "id": "ci_ktq0lo3n",
               "exerciseId": "ex_nqbfiv3d"
+            }
+          ]
+        },
+        {
+          "id": "cx_n50lwvgj",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_fhasj5lq",
+              "exerciseId": "ex_bxgavjma"
+            },
+            {
+              "id": "ci_6yezo5zq",
+              "exerciseId": "ex_6kx1n6cr"
+            },
+            {
+              "id": "ci_bz20ti1u",
+              "exerciseId": "ex_6qz1wlq4"
+            },
+            {
+              "id": "ci_gow6exhi",
+              "exerciseId": "ex_c0yz4x8c"
+            },
+            {
+              "id": "ci_jjtot0cj",
+              "exerciseId": "ex_q5lj1kpa"
             }
           ]
         }
