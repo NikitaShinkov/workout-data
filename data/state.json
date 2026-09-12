@@ -67,9 +67,44 @@
             "data/images/f8dd0ca20572457c.jpg",
             "data/images/71515ae12b3b5b1b.jpg"
           ]
+        },
+        {
+          "id": "ex_jpx1a77i",
+          "name": "Ротация лёжа",
+          "description": "Сначала можно руки не подключать в работу,\nпотом руками стабилизируем таз в одной позиции",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6bd1d9c44aa9f167.jpg",
+            "data/images/06221688f9081775.jpg"
+          ]
         }
       ],
-      "complexes": [],
+      "complexes": [
+        {
+          "id": "cx_aiefgxcb",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_vkqfr6b2",
+              "exerciseId": "ex_tt8wct38"
+            },
+            {
+              "id": "ci_c6242co4",
+              "exerciseId": "ex_c1ug8qpr"
+            },
+            {
+              "id": "ci_8yxd236y",
+              "exerciseId": "ex_qosqpzd7"
+            },
+            {
+              "id": "ci_p5tm78gn",
+              "exerciseId": "ex_jpx1a77i"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
       "intervalDays": 1
