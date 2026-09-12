@@ -95,6 +95,33 @@
             "data/images/02cf5e26bf34b4b6.jpg",
             "data/images/d273f9dd295b1256.jpg"
           ]
+        },
+        {
+          "id": "ex_sy6zxjr4",
+          "name": "Сгибания",
+          "description": "Сгибаем ногу в ТБС. Потом разгибаем стопу и медленно опускаем стопу.",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/4523e2e889b436e9.jpg",
+            "data/images/a4ff59dce01d3446.jpg",
+            "data/images/c00eea88c21de620.jpg",
+            "data/images/d3e3026ef5ffba53.jpg"
+          ]
+        },
+        {
+          "id": "ex_4jbcx9qr",
+          "name": "Разгибания",
+          "description": "Сгибаем ногу в ТБС. Статически удерживаем разгибатели голеностопа",
+          "equipment": [
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/ae61f2f7b749cc44.jpg",
+            "data/images/3f8c47ce1e61ca20.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -6481,7 +6508,7 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "short_band"
+    "short_band",
+    "chair"
   ]
 }
