@@ -463,6 +463,36 @@
               "exerciseId": "ex_qndfr8ui"
             }
           ]
+        },
+        {
+          "id": "cx_oqptmwir",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_r4xztc73",
+              "exerciseId": "ex_xtxy0ipa"
+            },
+            {
+              "id": "ci_b7vib4hb",
+              "exerciseId": "ex_ts30gb4d"
+            },
+            {
+              "id": "ci_huxmmqxb",
+              "exerciseId": "ex_g3edn8jo"
+            },
+            {
+              "id": "ci_f2wv7pdx",
+              "exerciseId": "ex_q9ejxw41"
+            },
+            {
+              "id": "ci_uvr3jqdo",
+              "exerciseId": "ex_mxftacu5"
+            },
+            {
+              "id": "ci_jayxh3vw",
+              "exerciseId": "ex_up4nn1g7"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
