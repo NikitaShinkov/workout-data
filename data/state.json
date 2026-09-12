@@ -293,6 +293,34 @@
             "data/images/f3ca2ea477ca11ff.jpg",
             "data/images/82689ff0c4416ee8.jpg"
           ]
+        },
+        {
+          "id": "ex_ts30gb4d",
+          "name": "Наружная ротация",
+          "description": "Можно делать и без резинки\nРуки сложены и перед собой\nДелаем плавно",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4de0f2b84aeec889.jpg",
+            "data/images/9dfd956b5d90379d.jpg",
+            "data/images/bd28ba8ce62f6f71.jpg"
+          ]
+        },
+        {
+          "id": "ex_g3edn8jo",
+          "name": "Внутренняя ротация",
+          "description": "Можно делать и без резинки\nРуки сложены и перед собой\nПостепенно можно увеличивать амплитуду внутрь",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/37fc323f04f7c94f.jpg",
+            "data/images/f0f281d0be12be81.jpg",
+            "data/images/f16cbe2fc61ada30.jpg"
+          ]
         }
       ],
       "complexes": [
