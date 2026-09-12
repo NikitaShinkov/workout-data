@@ -29,7 +29,21 @@
     },
     "hip": {
       "name": "ТБС",
-      "exercises": [],
+      "exercises": [
+        {
+          "id": "ex_tt8wct38",
+          "name": "Ротация лежа с поднятым тазом",
+          "description": "Сначала можно руки не подключать в работу,\nпотом руками стабилизируем таз в одной позиции",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/97ec829ead8f045d.jpg",
+            "data/images/2a818070a3cd478d.jpg",
+            "data/images/f3c8097a8ec2361b.jpg"
+          ]
+        }
+      ],
       "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
