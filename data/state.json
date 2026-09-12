@@ -951,6 +951,35 @@
             "data/images/3810a1cd83a470e4.jpg",
             "data/images/21ae1ffe4621cef4.jpg"
           ]
+        },
+        {
+          "id": "ex_ouiayz1p",
+          "name": "Мобилизация ППМ",
+          "description": "К себе приводим ногу в наружной ротации, переворачиваем ногу и отводим её во внутренней ротации. При это на ППМ рабочей разгибающейся ноги кладём руку, погружаем её внутрь, тем самым удлиняя пучки ППМ",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7f0709736083a09c.jpg",
+            "data/images/114ed2554636841f.jpg",
+            "data/images/0b1d3e61485aaaf1.jpg",
+            "data/images/4f59482156306622.jpg",
+            "data/images/61b68282c1e05f71.jpg",
+            "data/images/2c7542cae221937c.jpg",
+            "data/images/5177cf585bed6ba5.jpg"
+          ]
+        },
+        {
+          "id": "ex_aemjl59z",
+          "name": "Разгибание ноги лёжа",
+          "description": "Одну ногу прижимаем к животу.\nПоднимаем вторую ногу к животу и потом плавно разгибаем её.\nПятка скользит по полу.\nВ конце разгибания стараться полностью положить вторую ногу на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/38486dcb42106a14.jpg",
+            "data/images/37e581ef9afdbaa3.jpg"
+          ]
         }
       ],
       "complexes": [
