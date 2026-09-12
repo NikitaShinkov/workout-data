@@ -2208,7 +2208,8 @@
           "name": "Отведения",
           "description": "Таз зафиксирован на полу, не двигается за отводимой ногой. Меняем углы сгибания",
           "equipment": [
-            "mat"
+            "mat",
+            "roller"
           ],
           "images": [
             "data/images/64c0631a64aae107.jpg",
@@ -2220,11 +2221,39 @@
           "name": "Отведения",
           "description": "Движения двух ног симметричные",
           "equipment": [
-            "mat"
+            "mat",
+            "roller"
           ],
           "images": [
             "data/images/347d6fcb810b0325.jpg",
             "data/images/4fb077dd1a3a6247.jpg"
+          ]
+        },
+        {
+          "id": "ex_laz3l573",
+          "name": "Приведения",
+          "description": "Давим ногой вниз и подтягиваем ногу к себе",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d033060398d604d7.jpg",
+            "data/images/d141944554489c0c.jpg",
+            "data/images/89089cf9d9dffd85.jpg",
+            "data/images/050b2b48cc8a8bfb.jpg"
+          ]
+        },
+        {
+          "id": "ex_ol4vzv4y",
+          "name": "Отведения",
+          "description": "Прокатываем рол сначала от себя, потом обратно к себе",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/0dd94f001431c4a4.jpg",
+            "data/images/201a49cc48d38543.jpg"
           ]
         }
       ],
@@ -6207,6 +6236,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "roller"
   ]
 }
