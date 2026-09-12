@@ -715,6 +715,32 @@
               "exerciseId": "ex_v2h8pigo"
             }
           ]
+        },
+        {
+          "id": "cx_u8ri4ywp",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_cmkxsaya",
+              "exerciseId": "ex_hci9bf4r"
+            },
+            {
+              "id": "ci_tvchwvg8",
+              "exerciseId": "ex_ycn537uz"
+            },
+            {
+              "id": "ci_1umeomtk",
+              "exerciseId": "ex_5hqyx6ir"
+            },
+            {
+              "id": "ci_yk6naxru",
+              "exerciseId": "ex_gxt4jpka"
+            },
+            {
+              "id": "ci_ekuxdig4",
+              "exerciseId": "ex_x6mbqu6y"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
