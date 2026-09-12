@@ -2320,6 +2320,24 @@
             "data/images/4a2cf81d19e4406f.jpg",
             "data/images/42f8c8fd5eb71052.jpg"
           ]
+        },
+        {
+          "id": "ex_p5bbfcyz",
+          "name": "Опускания и подъёмы",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/057f2e8a23f5ce3b.jpg",
+            "data/images/7a02b9d75f437284.jpg",
+            "data/images/ad5f99a65efcff1f.jpg",
+            "data/images/e969d6640ad18b3c.jpg",
+            "data/images/2a883c3a0bd76a83.jpg",
+            "data/images/4b286ba69459801c.jpg",
+            "data/images/581a7b0154821d2f.jpg",
+            "data/images/4d7e883660436bb3.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3248,6 +3266,32 @@
             {
               "id": "ci_8o6a40hk",
               "exerciseId": "ex_kqjuexln"
+            }
+          ]
+        },
+        {
+          "id": "cx_q622dzhe",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_jm1g6p4d",
+              "exerciseId": "ex_4xs7a5gt"
+            },
+            {
+              "id": "ci_uob9vpq9",
+              "exerciseId": "ex_x12qczwp"
+            },
+            {
+              "id": "ci_jh9hcpiw",
+              "exerciseId": "ex_syrppqti"
+            },
+            {
+              "id": "ci_2b5fbdyx",
+              "exerciseId": "ex_5pxesqyk"
+            },
+            {
+              "id": "ci_1b8lyz78",
+              "exerciseId": "ex_p5bbfcyz"
             }
           ]
         }
@@ -6327,7 +6371,6 @@
     }
   },
   "lastEquipment": [
-    "short_band",
-    "wall"
+    "mat"
   ]
 }
