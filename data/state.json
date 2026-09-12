@@ -603,6 +603,20 @@
             "data/images/09fcf05e937dc510.jpg",
             "data/images/594fb5a2fdd96af3.jpg"
           ]
+        },
+        {
+          "id": "ex_l65nelmk",
+          "name": "Приведение",
+          "description": "Таз ровный, не заваливается назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c9e281e51402ede5.jpg",
+            "data/images/46d5a42f7ef8ca43.jpg",
+            "data/images/109a7b9dd2f4f717.jpg",
+            "data/images/98d90bbdb7eeb49e.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3910,7 +3924,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band"
+    "mat"
   ]
 }
