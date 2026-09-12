@@ -414,6 +414,57 @@
           "images": [
             "data/images/f47b67a150486bae.jpg"
           ]
+        },
+        {
+          "id": "ex_z7itc6bz",
+          "name": "МФР",
+          "description": "Эластичность мышц передней поверхности бедра.\nДвижения короткие. Делим бедро на три части и в каждой части делаем с разворотами ног: наружная ротация, ноги параллельны друг другу и внешняя ротация.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/d4c428b84f2a9ef5.jpg",
+            "data/images/3e643dbaf11b5e1b.jpg"
+          ]
+        },
+        {
+          "id": "ex_nojs47lx",
+          "name": "МФР",
+          "description": "",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/7aa069273510a6fa.jpg",
+            "data/images/6dc0cb7a33b39061.jpg"
+          ]
+        },
+        {
+          "id": "ex_cfc5i1u3",
+          "name": "Сгибания",
+          "description": "Таз в нейтральном положении. Медленно",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/baf09ab2cb777a71.jpg",
+            "data/images/1fa39d6c0bcbc1dc.jpg"
+          ]
+        },
+        {
+          "id": "ex_9d33clss",
+          "name": "Сгибания",
+          "description": "Таз в нейтральном положении. Медленно",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/60bbe84690b25b61.jpg",
+            "data/images/b285e606a0450edc.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3639,7 +3690,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "short_band"
   ]
 }
