@@ -502,6 +502,41 @@
             "data/images/524710a100ad4766.jpg",
             "data/images/dcd0141da704753d.jpg"
           ]
+        },
+        {
+          "id": "ex_5hqyx6ir",
+          "name": "МФР",
+          "description": "Эластичность мышц поверхности боковой фасции бедра. Движения короткие. Делим бедро на три части и в каждую часть прокатываем без весовой разгрузки",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/84adade168f637eb.jpg"
+          ]
+        },
+        {
+          "id": "ex_gxt4jpka",
+          "name": "Увод таза",
+          "description": "Поясница ровная. Работа в ТБС",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/41864e4b69c0d63c.jpg",
+            "data/images/afab382eabab8b39.jpg"
+          ]
+        },
+        {
+          "id": "ex_x6mbqu6y",
+          "name": "Шагания",
+          "description": "Поясница ровная. Работа в ТБС",
+          "equipment": [],
+          "images": [
+            "data/images/79fa6da5ba9f855e.jpg",
+            "data/images/9e831686ec2d08f1.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3756,8 +3791,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat",
-    "roller"
-  ]
+  "lastEquipment": []
 }
