@@ -1974,6 +1974,54 @@
             "data/images/f32d1bd163b7e9ea.jpg",
             "data/images/4168d0a0ca2ae788.jpg"
           ]
+        },
+        {
+          "id": "ex_vh0dl0do",
+          "name": "Наклоны и разведения",
+          "description": "",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/6242e2ae18248b93.jpg",
+            "data/images/2e38da1458fcd0b5.jpg"
+          ]
+        },
+        {
+          "id": "ex_6n8lolzj",
+          "name": "Наклоны назад",
+          "description": "Движение за счёт ягодиц. Не уходим в глубокие амплитуды",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/64e673da2b6f6ba4.jpg",
+            "data/images/104aea2e55af4a6b.jpg"
+          ]
+        },
+        {
+          "id": "ex_5wroh07h",
+          "name": "Отшагивания",
+          "description": "",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/4f22d27b79c85fe5.jpg",
+            "data/images/fb3452e64333cee4.jpg"
+          ]
+        },
+        {
+          "id": "ex_mw30hklk",
+          "name": "Отведения",
+          "description": "Опорная нога стабильна",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/bda2599c6ae51239.jpg",
+            "data/images/dead1d38e2bc2c12.jpg"
+          ]
         }
       ],
       "complexes": [
