@@ -1017,6 +1017,18 @@
             "data/images/9ddf67814b308d7c.jpg",
             "data/images/4b66abacb89ca472.jpg"
           ]
+        },
+        {
+          "id": "ex_ll20d95s",
+          "name": "Приседания",
+          "description": "Колени внутрь не заваливаются",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/83080e209e57d27f.jpg",
+            "data/images/e45c6a07920f4b5f.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4478,6 +4490,6 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "short_band"
   ]
 }
