@@ -1409,6 +1409,18 @@
             "data/images/f5c8d9cdf008ba35.jpg",
             "data/images/1fe33942103cc897.jpg"
           ]
+        },
+        {
+          "id": "ex_6hjmc7tc",
+          "name": "Прыжок вбок и наклон",
+          "description": "Колено стабильное, не болтается. Движение плавное. Прыжок в одну строну и наклон, потом прыжок в другую сторону и наклон",
+          "equipment": [],
+          "images": [
+            "data/images/b2707c7fb2ee857d.jpg",
+            "data/images/724c8742ae6001fc.jpg",
+            "data/images/f99964a65d4e139d.jpg",
+            "data/images/96c93f3c7b32e8cf.jpg"
+          ]
         }
       ],
       "complexes": [
