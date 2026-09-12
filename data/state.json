@@ -161,6 +161,45 @@
             "data/images/2a1fa33833e326ed.jpg",
             "data/images/1363a8404dbcbd98.jpg"
           ]
+        },
+        {
+          "id": "ex_mygbn8i5",
+          "name": "Протягивание туловища вдоль рола",
+          "description": "Протягивание туловища вдоль рола\nТуловище повёрнуто в сторону передней ноги",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/fa60397d7f9f4752.jpg",
+            "data/images/a497aa2820aed1d1.jpg"
+          ]
+        },
+        {
+          "id": "ex_61h8yxz2",
+          "name": "Перекаты с протягиванием туловища",
+          "description": "Движение плавное\nНа нижнюю руку можно опираться",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/bb0cc0e3e4fb060e.jpg",
+            "data/images/f5d8bde07f6d3586.jpg",
+            "data/images/3eb1d90986962f46.jpg"
+          ]
+        },
+        {
+          "id": "ex_hqomctx3",
+          "name": "Перекаты ног сидя",
+          "description": "Если сложно в начале, можно немного отрывать таз от пола\nНо потом стараемся минимально подключать таз\nДвижение плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/315f495878d72889.jpg",
+            "data/images/1e724f3424a2ea0f.jpg",
+            "data/images/5108048faa384d7e.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1909,7 +1948,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "mat"
   ]
 }
