@@ -1311,6 +1311,18 @@
             "data/images/c5b900b56094c05f.jpg",
             "data/images/5ca88653ec7630bf.jpg"
           ]
+        },
+        {
+          "id": "ex_veo81n7p",
+          "name": "Махи",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/9047c8622bf0cd73.jpg",
+            "data/images/002466c5b1bd49c1.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4905,5 +4917,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "long_band"
+  ]
 }
