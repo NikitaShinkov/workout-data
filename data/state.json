@@ -2176,6 +2176,32 @@
             "data/images/07b31abf6680658d.jpg",
             "data/images/eca4e00f2fc89ba6.jpg"
           ]
+        },
+        {
+          "id": "ex_0z1t9slj",
+          "name": "Наклоны голеностопа",
+          "description": "",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/677e96af46c7fad6.jpg",
+            "data/images/b9da7b9a402956f5.jpg"
+          ]
+        },
+        {
+          "id": "ex_3cqz96ru",
+          "name": "Наклоны голеностопа",
+          "description": "Рукой толкаем таранную кость. Работа с одной ногой",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/48e5217beb7919c9.jpg",
+            "data/images/1532e006a03175aa.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3052,6 +3078,32 @@
             {
               "id": "ci_73eiixer",
               "exerciseId": "ex_e9fdv6gn"
+            }
+          ]
+        },
+        {
+          "id": "cx_vkyhy4ej",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_it27cc8i",
+              "exerciseId": "ex_ho99w1fv"
+            },
+            {
+              "id": "ci_j1f87xoh",
+              "exerciseId": "ex_axhyck59"
+            },
+            {
+              "id": "ci_p6bli5ku",
+              "exerciseId": "ex_0y63bbqn"
+            },
+            {
+              "id": "ci_bv6hfgi4",
+              "exerciseId": "ex_0z1t9slj"
+            },
+            {
+              "id": "ci_6m0fif19",
+              "exerciseId": "ex_3cqz96ru"
             }
           ]
         }
@@ -6130,5 +6182,8 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat",
+    "roller"
+  ]
 }
