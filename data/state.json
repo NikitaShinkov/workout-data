@@ -111,6 +111,44 @@
             "data/images/0f89a60b1be42edb.jpg",
             "data/images/3d4b5429051fe961.jpg"
           ]
+        },
+        {
+          "id": "ex_h2xblx5t",
+          "name": "Ротация голеностопа",
+          "description": "Чем шире ноги, тем больше натяжение",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/c801a40453bc8cfb.jpg",
+            "data/images/476eb5d4bb1582fe.jpg"
+          ]
+        },
+        {
+          "id": "ex_2gimc26s",
+          "name": "Задняя большеберцовая мышца",
+          "description": "Если не удаётся держать баланс, поставить перед собой стул",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/37bcf94eb48f53e8.jpg",
+            "data/images/004442da5e3fd8ce.jpg",
+            "data/images/8480ec018e635684.jpg"
+          ]
+        },
+        {
+          "id": "ex_fgvpbo8d",
+          "name": "Ротация голеностопа",
+          "description": "Наружная ротация голеностопного сустава",
+          "equipment": [
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/45dec4dd4f0950ab.jpg",
+            "data/images/3e9c27bfa0506680.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3220,6 +3258,7 @@
     }
   },
   "lastEquipment": [
-    "short_band"
+    "short_band",
+    "chair"
   ]
 }
