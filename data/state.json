@@ -503,6 +503,46 @@
             "data/images/95101a1a9b0b5170.jpg",
             "data/images/6b5f98679dc7af51.jpg"
           ]
+        },
+        {
+          "id": "ex_i8ns6s2z",
+          "name": "Разгибания",
+          "description": "Ленту размещаем на косточки",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/74da10f9a3f4dedf.jpg",
+            "data/images/924c7abc7f1559a8.jpg",
+            "data/images/a036b787ec573954.jpg"
+          ]
+        },
+        {
+          "id": "ex_l3fcawwf",
+          "name": "Сгибания в стороны",
+          "description": "Ягодицы опускаем попеременно то максимально влево, то максимально вправо. Движение в ТБС, не компенсируем боковым наклоном в пояснице",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/766165170bada1b1.jpg",
+            "data/images/bc25225899df5650.jpg",
+            "data/images/f9ecd50de0163520.jpg",
+            "data/images/18abdb4d05ccded9.jpg"
+          ]
+        },
+        {
+          "id": "ex_7sfmiel1",
+          "name": "Сгибания с широкой расстановкой ног",
+          "description": "В момент движения вниз спина прямая\nКогда встаём подкручиваем таз\nДля утяжеления можно взять гирьку или резинку",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d0d7796720d311a5.jpg",
+            "data/images/90f4c1c29e827df3.jpg"
+          ]
         }
       ],
       "complexes": [
