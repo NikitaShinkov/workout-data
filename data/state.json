@@ -477,6 +477,31 @@
             "data/images/896d67aed2a358e6.jpg",
             "data/images/41f9bdd24441f50e.jpg"
           ]
+        },
+        {
+          "id": "ex_hci9bf4r",
+          "name": "МФР",
+          "description": "Эластичность мышц поверхности боковой фасции бедра. Движения короткие. Делим бедро на три части и в каждую часть прокатываем",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/f51f3c052db56216.jpg"
+          ]
+        },
+        {
+          "id": "ex_ycn537uz",
+          "name": "МФР",
+          "description": "Эластичность мышц поверхности боковой фасции бедра. Движения короткие. Делим бедро на три части и в каждой части делаем скрутки вперёд назад",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/524710a100ad4766.jpg",
+            "data/images/dcd0141da704753d.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -3732,6 +3757,7 @@
     }
   },
   "lastEquipment": [
-    "chair"
+    "mat",
+    "roller"
   ]
 }
