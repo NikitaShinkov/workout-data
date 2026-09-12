@@ -1373,6 +1373,42 @@
             "data/images/cd511cf1b9117a1f.jpg",
             "data/images/bf35a02a74b8a7f8.jpg"
           ]
+        },
+        {
+          "id": "ex_viyjujq8",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/9ac65daed47daf65.jpg",
+            "data/images/5800c19f198d0eb3.jpg"
+          ]
+        },
+        {
+          "id": "ex_otwwpvus",
+          "name": "Раскрытие",
+          "description": "В верхнем положении плечо не поднимается к уху",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/9b9fdd7b17de826c.jpg",
+            "data/images/e51305a8b65e2c4c.jpg"
+          ]
+        },
+        {
+          "id": "ex_2n6ka36n",
+          "name": "Самолётик",
+          "description": "Колено стабильное, не болтается",
+          "equipment": [],
+          "images": [
+            "data/images/f5c8d9cdf008ba35.jpg",
+            "data/images/1fe33942103cc897.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4993,7 +5029,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
