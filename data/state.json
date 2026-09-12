@@ -1842,6 +1842,19 @@
             "data/images/a3269f86683c1b83.jpg",
             "data/images/8204d713a87d8e90.jpg"
           ]
+        },
+        {
+          "id": "ex_bi3gctyn",
+          "name": "Наружная ротация",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/56476f45558e9312.jpg",
+            "data/images/f489c31af596d33b.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5666,5 +5679,8 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat",
+    "long_band"
+  ]
 }
