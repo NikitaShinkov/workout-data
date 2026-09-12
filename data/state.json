@@ -365,6 +365,43 @@
             "data/images/eea8515aa698a2cc.jpg",
             "data/images/688528f8394c70af.jpg"
           ]
+        },
+        {
+          "id": "ex_mh51sqm0",
+          "name": "Ротация",
+          "description": "Стопы вместе",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/523250f56758b572.jpg",
+            "data/images/bcd5d4cacc28dd4e.jpg"
+          ]
+        },
+        {
+          "id": "ex_l0zg17sx",
+          "name": "Скручивание таза",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c6c3f761df280487.jpg",
+            "data/images/2fe67e33c77eb567.jpg"
+          ]
+        },
+        {
+          "id": "ex_8c9tjf1m",
+          "name": "Скручивание таза со стулом",
+          "description": "",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/0e894e173106c95f.jpg",
+            "data/images/bd909235d8ae0dde.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -485,6 +522,32 @@
             {
               "id": "ci_vfwh18ol",
               "exerciseId": "ex_2d1wk4x5"
+            }
+          ]
+        },
+        {
+          "id": "cx_z3b09f1s",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_lrud1qfj",
+              "exerciseId": "ex_1bljbs39"
+            },
+            {
+              "id": "ci_tr02hx96",
+              "exerciseId": "ex_kpkvxfkf"
+            },
+            {
+              "id": "ci_i8tloj55",
+              "exerciseId": "ex_mh51sqm0"
+            },
+            {
+              "id": "ci_lr864ajv",
+              "exerciseId": "ex_l0zg17sx"
+            },
+            {
+              "id": "ci_vw9evioq",
+              "exerciseId": "ex_8c9tjf1m"
             }
           ]
         }
@@ -3564,7 +3627,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "short_band"
+    "chair"
   ]
 }
