@@ -802,6 +802,18 @@
             "data/images/c1473b6112c679fd.jpg",
             "data/images/f6e28613e80d69a8.jpg"
           ]
+        },
+        {
+          "id": "ex_8dttf11l",
+          "name": "Скручивания стоя",
+          "description": "Резинка на уровне плеч\nПоднимаем ногу и делаем наружную ротацию\nНогу можно держать на весу",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/0740ef77ed5345b9.jpg",
+            "data/images/b08f7a84e5ec452d.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -2809,5 +2821,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "long_band"
+  ]
 }
