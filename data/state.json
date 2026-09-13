@@ -4106,16 +4106,6 @@
           ]
         },
         {
-          "id": "ex_dcsdsp3a",
-          "name": "Сгибания и переход корпуса вперёд",
-          "description": "",
-          "equipment": [],
-          "images": [
-            "data/images/07fd0e315a26cecc.jpg",
-            "data/images/45b471cdac4dff8e.jpg"
-          ]
-        },
-        {
           "id": "ex_ipnn04oe",
           "name": "Сгибания и переход корпуса вперёд",
           "description": "",
@@ -4125,6 +4115,16 @@
             "data/images/45b471cdac4dff8e.jpg",
             "data/images/b598ce451cabff67.jpg",
             "data/images/a468cf79bc546195.jpg"
+          ]
+        },
+        {
+          "id": "ex_0edvy0b3",
+          "name": "Сгибания",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/355d751a986d3183.jpg",
+            "data/images/060865fff8f891aa.jpg"
           ]
         }
       ],
@@ -5288,6 +5288,32 @@
             {
               "id": "ci_eas7ioas",
               "exerciseId": "ex_846pi6lw"
+            }
+          ]
+        },
+        {
+          "id": "cx_zib9bo8g",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_fdvr1voa",
+              "exerciseId": "ex_ner607zq"
+            },
+            {
+              "id": "ci_kyj3nqet",
+              "exerciseId": "ex_j68ewyv6"
+            },
+            {
+              "id": "ci_ajhgxnjo",
+              "exerciseId": "ex_6o3yyh7i"
+            },
+            {
+              "id": "ci_1hv87ecd",
+              "exerciseId": "ex_ipnn04oe"
+            },
+            {
+              "id": "ci_n2f2903d",
+              "exerciseId": "ex_0edvy0b3"
             }
           ]
         }
