@@ -9083,6 +9083,32 @@
             "data/images/df2ee7eb92205e0f.jpg",
             "data/images/d5101ac43e25c92f.jpg"
           ]
+        },
+        {
+          "id": "ex_d5zknk4v",
+          "name": "Раскрытие и сворачивание",
+          "description": "Поясница в нейтрали. Голова не запрокидывается назад. ТБС не подкручивается, таз остаётся на одном месте. Движение только в верхнем грудном отделе",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f2a33f26be4981bf.jpg",
+            "data/images/b3ebab1ad3c875fb.jpg"
+          ]
+        },
+        {
+          "id": "ex_q2ecjaf5",
+          "name": "Ротация",
+          "description": "Поясница в нейтрали. ТБС не подкручивается, таз остаётся на одном месте. Движение только в верхнем грудном отделе. Если не хватает подвижность руки можно соединить выше: ладони не на трапециях, а на локтях. В прогрессии можно опустить попу на ноги.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d9ef05b3ecf26749.jpg",
+            "data/images/2d801e07f127d52f.jpg",
+            "data/images/f12e34996a81db77.jpg",
+            "data/images/0c3f4c0601270d13.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9179,6 +9205,32 @@
             {
               "id": "ci_n2fb087z",
               "exerciseId": "ex_b3qga0v0"
+            }
+          ]
+        },
+        {
+          "id": "cx_snkwmyji",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_b34bs6oc",
+              "exerciseId": "ex_t27aqi1m"
+            },
+            {
+              "id": "ci_9zzn2au3",
+              "exerciseId": "ex_x1kjikdv"
+            },
+            {
+              "id": "ci_2onh755f",
+              "exerciseId": "ex_s61whph5"
+            },
+            {
+              "id": "ci_ktp54mlj",
+              "exerciseId": "ex_d5zknk4v"
+            },
+            {
+              "id": "ci_3fjv9jhh",
+              "exerciseId": "ex_q2ecjaf5"
             }
           ]
         }
