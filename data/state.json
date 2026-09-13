@@ -7803,6 +7803,30 @@
             "data/images/73c1bcf9f8a2d668.jpg",
             "data/images/1fe0c07baf668af8.jpg"
           ]
+        },
+        {
+          "id": "ex_afolaz13",
+          "name": "Круговые вращения на боку",
+          "description": "Нейтральное положение. Не напрягаем шею и голову.\nЗадействуем среднюю ягодичную мышцу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d8330bbb3f5e6046.jpg",
+            "data/images/f5a6aa4ac97f2dcf.jpg"
+          ]
+        },
+        {
+          "id": "ex_vn0jia7q",
+          "name": "Сгибания и разгибания на боку",
+          "description": "Нейтральное положение. Ноги прямые. Не напрягаем шею и голову.\nЗадействуем среднюю ягодичную мышцу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/be446ae8505dcf1c.jpg",
+            "data/images/2c8da1b9ee15f882.jpg"
+          ]
         }
       ],
       "complexes": [
