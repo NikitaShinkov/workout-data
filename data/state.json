@@ -5118,6 +5118,32 @@
               "exerciseId": "ex_ayqehuyt"
             }
           ]
+        },
+        {
+          "id": "cx_pg1qe54p",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_35liws2r",
+              "exerciseId": "ex_t03p1j7u"
+            },
+            {
+              "id": "ci_8ugdlw81",
+              "exerciseId": "ex_f5ill5ax"
+            },
+            {
+              "id": "ci_co5sr7ug",
+              "exerciseId": "ex_bnupl0vn"
+            },
+            {
+              "id": "ci_s76lai1v",
+              "exerciseId": "ex_tro0ppde"
+            },
+            {
+              "id": "ci_1i2o6aln",
+              "exerciseId": "ex_w29hngdw"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
