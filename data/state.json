@@ -718,6 +718,40 @@
             "data/images/793c6d6beec49dde.jpg",
             "data/images/387dd934bf7bccad.jpg"
           ]
+        },
+        {
+          "id": "ex_dpy4urz3",
+          "name": "Подъёмы на носках",
+          "description": "Удерживаем жёстко мяч между пяток",
+          "equipment": [],
+          "images": [
+            "data/images/8adc86de9367abee.jpg",
+            "data/images/2e7076796209972e.jpg"
+          ]
+        },
+        {
+          "id": "ex_sn44snbp",
+          "name": "Подъёмы ног",
+          "description": "Встаём в позицию боковой планки. Опорная нога у стены на внешнем своде стопы. Удерживая это положение, поднимаем ногу. Удерживаем стабильность корпуса и голеностопа опорной ноги",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/f983e05fc09c8e5f.jpg",
+            "data/images/0c46052c2e79b168.jpg"
+          ]
+        },
+        {
+          "id": "ex_8btlu8tr",
+          "name": "Подъёмы ног",
+          "description": "Встаём в позицию боковой планки. Опорная нога дальше от стены на внешнем своде стопы (также можно пробовать на внутреннем своде стопы). Удерживая это положение, поднимаем ногу. Удерживаем стабильность корпуса и голеностопа опорной ноги",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/5dd6150b1d6b2c27.jpg",
+            "data/images/3eefe70e205cd726.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7878,7 +7912,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "wall"
   ]
 }
