@@ -146,6 +146,19 @@
             "data/images/bc4461cad44ae940.jpg",
             "data/images/002e305975c77ca1.jpg"
           ]
+        },
+        {
+          "id": "ex_lv4hm31e",
+          "name": "МФР",
+          "description": "Меняем три позиции — ближе к стопе, по середине, ближе к колену",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/74e2ae34f76a6457.jpg",
+            "data/images/2d713b7cf703c0d6.jpg"
+          ]
         }
       ],
       "complexes": [
