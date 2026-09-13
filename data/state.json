@@ -3962,6 +3962,26 @@
             "data/images/00f867440802c4a0.jpg",
             "data/images/ca77fd3f60ab1e77.jpg"
           ]
+        },
+        {
+          "id": "ex_f5ill5ax",
+          "name": "Выпады вперёд",
+          "description": "Задняя нога прямая",
+          "equipment": [],
+          "images": [
+            "data/images/db397252de6809cf.jpg",
+            "data/images/426ea7a4fe334759.jpg"
+          ]
+        },
+        {
+          "id": "ex_bnupl0vn",
+          "name": "Наклоны вперёд",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/be9dbc2fd78c7733.jpg",
+            "data/images/7bb4411086b33360.jpg"
+          ]
         }
       ],
       "complexes": [
