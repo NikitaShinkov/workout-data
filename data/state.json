@@ -8991,6 +8991,18 @@
             "data/images/4c1a90a54a543afe.jpg",
             "data/images/846bea629ef78186.jpg"
           ]
+        },
+        {
+          "id": "ex_xxn0d0mb",
+          "name": "Раскручивания",
+          "description": "Встаём в коленно-локтевую позу. Поясница в нейтрали.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/47e2057dbf859ba3.jpg",
+            "data/images/c53c6144558123aa.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9039,6 +9051,32 @@
             {
               "id": "ci_brmcs6g0",
               "exerciseId": "ex_ok0cl6ld"
+            }
+          ]
+        },
+        {
+          "id": "cx_w1gj00p4",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_pkpzorsk",
+              "exerciseId": "ex_2iyyoxti"
+            },
+            {
+              "id": "ci_5ugbmett",
+              "exerciseId": "ex_4fjbe6x2"
+            },
+            {
+              "id": "ci_70z26swk",
+              "exerciseId": "ex_7r59njwt"
+            },
+            {
+              "id": "ci_1r3nzzdj",
+              "exerciseId": "ex_43xnfys7"
+            },
+            {
+              "id": "ci_wgqa8kle",
+              "exerciseId": "ex_zaqymw63"
             }
           ]
         }
