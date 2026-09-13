@@ -823,6 +823,18 @@
             "data/images/10878656291d92c0.jpg",
             "data/images/79d95608b94b122b.jpg"
           ]
+        },
+        {
+          "id": "ex_pwcfmdcf",
+          "name": "Сенсомоторный контроль с грузом",
+          "description": "Груз берём в руку со стороны опорной ноги. Закрываем глаза. Вторая рука выпрямлена. Одна нога поднята. Крутим головой медленно влево вправо, удерживая равновесие",
+          "equipment": [
+            "weight"
+          ],
+          "images": [
+            "data/images/81adeba86d6d4aa1.jpg",
+            "data/images/f40133fb3d84b97b.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1135,6 +1147,32 @@
             {
               "id": "ci_rf3vkmi5",
               "exerciseId": "ex_qrht2sn1"
+            }
+          ]
+        },
+        {
+          "id": "cx_jnwsnb94",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_qqbqdu70",
+              "exerciseId": "ex_29ua9jaa"
+            },
+            {
+              "id": "ci_b7gffx46",
+              "exerciseId": "ex_yvyucpap"
+            },
+            {
+              "id": "ci_713dbpnb",
+              "exerciseId": "ex_1ixnhdak"
+            },
+            {
+              "id": "ci_diohfm5t",
+              "exerciseId": "ex_q0fi3bbb"
+            },
+            {
+              "id": "ci_2mvo88ul",
+              "exerciseId": "ex_pwcfmdcf"
             }
           ]
         }
@@ -8008,5 +8046,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "weight"
+  ]
 }
