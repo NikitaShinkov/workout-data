@@ -9485,6 +9485,32 @@
               "exerciseId": "ex_3bxydvn5"
             }
           ]
+        },
+        {
+          "id": "cx_axg8a7e1",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_xlji4npe",
+              "exerciseId": "ex_dfv112x7"
+            },
+            {
+              "id": "ci_jxmb3yox",
+              "exerciseId": "ex_pims4d95"
+            },
+            {
+              "id": "ci_7zebboey",
+              "exerciseId": "ex_k3toer0d"
+            },
+            {
+              "id": "ci_den0sj8t",
+              "exerciseId": "ex_8gppj5v3"
+            },
+            {
+              "id": "ci_rq4ozdjl",
+              "exerciseId": "ex_8xbvxltw"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
