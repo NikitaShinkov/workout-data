@@ -8343,6 +8343,47 @@
             "data/images/ae06f7c4c8beda21.jpg",
             "data/images/290a1957c20c133a.jpg"
           ]
+        },
+        {
+          "id": "ex_4ohhqtu9",
+          "name": "Поднятие ног стоя с верёвкой сбоку",
+          "description": "Медленно поднимаем ноги. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/bcfab5a8d9827899.jpg",
+            "data/images/e941f09b42ec4804.jpg",
+            "data/images/351f9bb2bfb8d5bf.jpg"
+          ]
+        },
+        {
+          "id": "ex_jc3obpwq",
+          "name": "Выпады вперёд с верёвкой спереди",
+          "description": "Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/fb4ec95fa9bf223a.jpg",
+            "data/images/0efefb9e2c9a6178.jpg",
+            "data/images/4c2bbd7f63995254.jpg",
+            "data/images/a552f650b78ae37e.jpg"
+          ]
+        },
+        {
+          "id": "ex_3b2zd9ds",
+          "name": "Выпады вперёд с верёвкой сзади",
+          "description": "Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/f29f68271e57500e.jpg",
+            "data/images/8a1bd0c8b69cacbc.jpg",
+            "data/images/68cb2e10047743f6.jpg",
+            "data/images/4a5c551dc8cf22cc.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8647,6 +8688,32 @@
             {
               "id": "ci_3xuclozi",
               "exerciseId": "ex_aq0zsvbg"
+            }
+          ]
+        },
+        {
+          "id": "cx_mhef22xm",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_0cyok32s",
+              "exerciseId": "ex_w7swe462"
+            },
+            {
+              "id": "ci_olcyczan",
+              "exerciseId": "ex_ebaw7z79"
+            },
+            {
+              "id": "ci_r435m7s4",
+              "exerciseId": "ex_4ohhqtu9"
+            },
+            {
+              "id": "ci_1322q0wo",
+              "exerciseId": "ex_jc3obpwq"
+            },
+            {
+              "id": "ci_2gzlpayl",
+              "exerciseId": "ex_3b2zd9ds"
             }
           ]
         }
