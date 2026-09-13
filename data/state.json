@@ -835,6 +835,42 @@
             "data/images/81adeba86d6d4aa1.jpg",
             "data/images/f40133fb3d84b97b.jpg"
           ]
+        },
+        {
+          "id": "ex_d525v5u8",
+          "name": "Прыжки. Двигательный контроль",
+          "description": "Делаем звёздочку из лент. Приземляемся чётко на ленту",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/5cf4ec0f05444d2d.jpg",
+            "data/images/6af00dbe141b37fa.jpg"
+          ]
+        },
+        {
+          "id": "ex_mc0bxv5t",
+          "name": "Приземления",
+          "description": "Резкий выброс вверх. Очень плавное приземление",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/5eb6d44773d37744.jpg",
+            "data/images/edf15c0f01ee6afb.jpg"
+          ]
+        },
+        {
+          "id": "ex_3srwd4l8",
+          "name": "Прыжки. Двигательный контроль",
+          "description": "Раскидываем резинки произвольным образом. Приземляемся чётко на ленту",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/8b2011e0f69735e1.jpg",
+            "data/images/e77296cba66a0aec.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8047,6 +8083,6 @@
     }
   },
   "lastEquipment": [
-    "weight"
+    "short_band"
   ]
 }
