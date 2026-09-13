@@ -7998,6 +7998,31 @@
             "data/images/a86a20ba5bd1341e.jpg",
             "data/images/0b18ce82b90f8bce.jpg"
           ]
+        },
+        {
+          "id": "ex_3ywp8ou0",
+          "name": "Ротация ТБС",
+          "description": "Перекрест. Опорная нога во внутренней ротации. Уход в разгибание через работу таза",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/1b7bf7169070c844.jpg",
+            "data/images/3dcee1429c5a75c2.jpg"
+          ]
+        },
+        {
+          "id": "ex_dd5qsmrs",
+          "name": "Разгибание ноги лёжа",
+          "description": "Одна нога прижата к груди",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9b114d369762d82b.jpg",
+            "data/images/95cfacf3a05e61ef.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8553,5 +8578,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
