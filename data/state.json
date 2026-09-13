@@ -3890,6 +3890,18 @@
             "data/images/2554b324a827b71e.jpg",
             "data/images/12d2694ef8e7e56a.jpg"
           ]
+        },
+        {
+          "id": "ex_aazzgjtc",
+          "name": "Сгибания разгибания",
+          "description": "Колени не опускаются на пол. Держим спину ровно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/622c01cfd69cba68.jpg",
+            "data/images/3b2aea4949950c50.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10144,5 +10156,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
