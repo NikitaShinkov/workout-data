@@ -8061,6 +8061,18 @@
             "data/images/e466a2e8f17eff9f.jpg",
             "data/images/e01d910434eb8581.jpg"
           ]
+        },
+        {
+          "id": "ex_840nnhec",
+          "name": "Скручивания грудного отдела",
+          "description": "Центр стабилен, вся ротация в грудном отделе. Колени на одной высоте",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/471de33718fad5e7.jpg",
+            "data/images/fa80cd2c304a2801.jpg"
+          ]
         }
       ],
       "complexes": [
