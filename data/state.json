@@ -9190,6 +9190,62 @@
             "data/images/b44abdff0adb4fe4.jpg",
             "data/images/c9977beea60d17d7.jpg"
           ]
+        },
+        {
+          "id": "ex_w5uoyz7x",
+          "name": "Растягивание",
+          "description": "Закидываем руки за спину и потом возвращаем их в обратное положение",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/43c37783f35f66a5.jpg",
+            "data/images/23f1ac35602b6085.jpg",
+            "data/images/b57d793d363b8a6a.jpg"
+          ]
+        },
+        {
+          "id": "ex_eons3k87",
+          "name": "Наклоны",
+          "description": "Руки пытаются растянуть полотенце в разные стороны. Шея прямая — макушка тянется наверх. Поясница в нейтрали, не подключается. Наклоняемся в одну сторону потом в другую",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/bef0d823dfb67f0d.jpg",
+            "data/images/1b464111dbbf3768.jpg",
+            "data/images/9abc8eb0c26742a2.jpg"
+          ]
+        },
+        {
+          "id": "ex_1qygx9x7",
+          "name": "Растягивание",
+          "description": "Узких захват полотенца. Отводим руки в одну строну. Рука с этой стороны оттягивает полотенце, тем самым растягивая противоположную сторону",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/eec8264dc5c2bdc2.jpg",
+            "data/images/45b8956a21641eef.jpg"
+          ]
+        },
+        {
+          "id": "ex_3bxydvn5",
+          "name": "Растягивание",
+          "description": "Нижняя рука плавно тянет вниз. Потом верхняя рука плавно тянет вверх",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/c6d62345b75b62d9.jpg",
+            "data/images/8e5247087f131762.jpg",
+            "data/images/34351b889917b479.jpg",
+            "data/images/ecaa0ccbdaf536e4.jpg"
+          ]
         }
       ],
       "complexes": [
