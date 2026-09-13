@@ -3838,6 +3838,43 @@
             "data/images/03071d0c032c5324.jpg",
             "data/images/b589e9951707b6c3.jpg"
           ]
+        },
+        {
+          "id": "ex_iyistbjh",
+          "name": "Ротация",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/9906d2cc79015ee3.jpg",
+            "data/images/41c5522c7758b392.jpg",
+            "data/images/bf57ec70ecd186ca.jpg",
+            "data/images/5ab3791d630147d1.jpg"
+          ]
+        },
+        {
+          "id": "ex_fvzq4dz4",
+          "name": "Ротация и полуприсед",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/e2bacce5c4aa19bf.jpg",
+            "data/images/8ec75c6e21235e18.jpg",
+            "data/images/b45594a2ffce6aed.jpg",
+            "data/images/8590ad3a948b3248.jpg"
+          ]
+        },
+        {
+          "id": "ex_6cqp3kft",
+          "name": "Ротация и полуприсед и выпрямление",
+          "description": "Движение выполняется плавно перекатом",
+          "equipment": [],
+          "images": [
+            "data/images/c418150315462ae0.jpg",
+            "data/images/6508ca08e08cef34.jpg",
+            "data/images/2c47a29f05b6dc8f.jpg",
+            "data/images/dfedf22ab1a0eb53.jpg",
+            "data/images/9d2c4a927de2677d.jpg"
+          ]
         }
       ],
       "complexes": [
