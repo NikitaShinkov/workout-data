@@ -460,6 +460,45 @@
             "data/images/151797dc263c8f9b.jpg",
             "data/images/8728e5a91452a762.jpg"
           ]
+        },
+        {
+          "id": "ex_y86flp5p",
+          "name": "Наружная ротация",
+          "description": "",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/6e99fcadc08d5b11.jpg",
+            "data/images/450a37a0fac0047a.jpg"
+          ]
+        },
+        {
+          "id": "ex_w45ktc2t",
+          "name": "Внутренняя ротация",
+          "description": "",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/fad888d9a679b49e.jpg",
+            "data/images/013128cb3703305f.jpg"
+          ]
+        },
+        {
+          "id": "ex_simg1axy",
+          "name": "Сгибания",
+          "description": "Можно поворачивать стопу в наружную и внутреннюю ротацию",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/92784d5633501401.jpg",
+            "data/images/91722ae969365d0a.jpg"
+          ]
         }
       ],
       "complexes": [
