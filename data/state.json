@@ -3824,6 +3824,20 @@
             "data/images/8043363f07d057d7.jpg",
             "data/images/46df0942661ef9f6.jpg"
           ]
+        },
+        {
+          "id": "ex_hsds732a",
+          "name": "Вибрирующе прыгаем в статодинамики",
+          "description": "Меняем угол поворота стоп",
+          "equipment": [],
+          "images": [
+            "data/images/6cac35d2ba9f2be0.jpg",
+            "data/images/792097983e71f37f.jpg",
+            "data/images/a3f7a3c19c723739.jpg",
+            "data/images/54ca43dbcabccf5c.jpg",
+            "data/images/03071d0c032c5324.jpg",
+            "data/images/b589e9951707b6c3.jpg"
+          ]
         }
       ],
       "complexes": [
