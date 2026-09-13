@@ -9259,6 +9259,56 @@
             "data/images/5fc0d732c9e01f8d.jpg",
             "data/images/8fc8352bcdc80e17.jpg"
           ]
+        },
+        {
+          "id": "ex_pims4d95",
+          "name": "Сведение лопаток и выпрямление рук",
+          "description": "Отводим лопатки и поднимаем руки. Выпрямляем и обратно сгибаем руки вперёд-назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/925a1949c47c45bd.jpg",
+            "data/images/3673cca34d91b50e.jpg"
+          ]
+        },
+        {
+          "id": "ex_k3toer0d",
+          "name": "Сведение лопаток раскручивание рук",
+          "description": "Отводим лопатки и поднимаем руки, кладём ладони на голову. Выпрямляем руки и разводим их в сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b8145333aa42c5da.jpg",
+            "data/images/b0820edcfa50ebc1.jpg"
+          ]
+        },
+        {
+          "id": "ex_8gppj5v3",
+          "name": "Сведение лопаток скручивания рук",
+          "description": "Кулаками упираемся в бока. Голова лежит на коврике. Сводим лопатки и поднимаем локти вверх.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8226f8a6849b9af8.jpg",
+            "data/images/6a5f738a8f436449.jpg"
+          ]
+        },
+        {
+          "id": "ex_8xbvxltw",
+          "name": "Плечевой замок",
+          "description": "Скручиваем руки в плечевой замок. Попеременно меняем стороны. Если не дотягиваемся пальцами легко, то уменьшаем амплитуду. Движение выполняется плавно.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7ab794407b2ef42d.jpg",
+            "data/images/5a7fed01c51e7361.jpg",
+            "data/images/1374a68c0f1bd068.jpg",
+            "data/images/9ecfbc76334d8929.jpg"
+          ]
         }
       ],
       "complexes": [
