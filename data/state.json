@@ -285,6 +285,56 @@
             "data/images/7aa8410891722eb2.jpg",
             "data/images/3716fd73289fc583.jpg"
           ]
+        },
+        {
+          "id": "ex_20alnpbb",
+          "name": "Внутренняя ротация",
+          "description": "Лента лёгкая. Колено и ТБС стабильные",
+          "equipment": [
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/81161f8a8c280efb.jpg",
+            "data/images/4657d0bc542f1446.jpg"
+          ]
+        },
+        {
+          "id": "ex_iuwv3ou9",
+          "name": "Внутренняя ротация",
+          "description": "",
+          "equipment": [
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/f4a5fc637597ce72.jpg",
+            "data/images/f3385ee091867c36.jpg"
+          ]
+        },
+        {
+          "id": "ex_i8hhm70q",
+          "name": "Внутренняя ротация",
+          "description": "Надавливаем и потом возвращаем ногу в исходное положение",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/edfd2c3de7ac4619.jpg",
+            "data/images/30241dc6e7ff3740.jpg"
+          ]
+        },
+        {
+          "id": "ex_eoffjk8q",
+          "name": "Внутренняя ротация",
+          "description": "Таз либо на полу, либо поднят, как в планке",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/933fb22f61ba09f4.jpg",
+            "data/images/f25c6f6103476c66.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7263,6 +7313,6 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "mat"
   ]
 }
