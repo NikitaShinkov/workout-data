@@ -596,11 +596,53 @@
           "name": "Подъём веса",
           "description": "Ноги согнуты в коленях. Поднимаем вес с отрывом пяток",
           "equipment": [
+            "weight",
             "chair"
           ],
           "images": [
             "data/images/10f11795c459179f.jpg",
             "data/images/fa4decde2f5147c0.jpg"
+          ]
+        },
+        {
+          "id": "ex_evwpimi1",
+          "name": "Подъём веса одной ногой",
+          "description": "Нога согнута в колени. Поднимаем вес с отрывом пяток. Вторая нога висит в воздухе",
+          "equipment": [
+            "weight",
+            "chair"
+          ],
+          "images": [
+            "data/images/56630696ce5175f7.jpg",
+            "data/images/b0e4dfcf3a743edc.jpg"
+          ]
+        },
+        {
+          "id": "ex_bc4a6hj9",
+          "name": "Подъёмы с опорой на стену",
+          "description": "Движение только в голеностопном суставе",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/29f7a315c32f6255.jpg",
+            "data/images/608ae13c2fd6d206.jpg",
+            "data/images/89ba55ba49196080.jpg",
+            "data/images/192cf6f6cf5862d4.jpg"
+          ]
+        },
+        {
+          "id": "ex_87er6z7m",
+          "name": "Подъёмы с опорой на стену на одной ноге",
+          "description": "Движение только в голеностопном суставе",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/49490374de0187af.jpg",
+            "data/images/a1ba9e2658ac85fe.jpg",
+            "data/images/7d962d5636e646d7.jpg",
+            "data/images/95e2bf8b079bfdbd.jpg"
           ]
         }
       ],
@@ -7710,6 +7752,6 @@
     }
   },
   "lastEquipment": [
-    "chair"
+    "wall"
   ]
 }
