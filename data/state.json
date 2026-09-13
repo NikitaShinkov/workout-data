@@ -4070,6 +4070,16 @@
             "data/images/e282f113982b9a8e.jpg",
             "data/images/56ce98ed204befb7.jpg"
           ]
+        },
+        {
+          "id": "ex_ner607zq",
+          "name": "Сгибания",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/9141f569ca1ef220.jpg",
+            "data/images/364e6784b28c0f54.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5206,6 +5216,32 @@
             {
               "id": "ci_1i2o6aln",
               "exerciseId": "ex_w29hngdw"
+            }
+          ]
+        },
+        {
+          "id": "cx_k5jkafe6",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_5h8kdk4p",
+              "exerciseId": "ex_iysdhpqu"
+            },
+            {
+              "id": "ci_sx9njm93",
+              "exerciseId": "ex_vu54686m"
+            },
+            {
+              "id": "ci_256x6qdx",
+              "exerciseId": "ex_m6uybcvj"
+            },
+            {
+              "id": "ci_scqmn1nn",
+              "exerciseId": "ex_ueve5zlu"
+            },
+            {
+              "id": "ci_eas7ioas",
+              "exerciseId": "ex_846pi6lw"
             }
           ]
         }
@@ -10376,7 +10412,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
