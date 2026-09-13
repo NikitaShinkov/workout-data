@@ -540,6 +540,56 @@
             "data/images/336ae413d0fce44f.jpg",
             "data/images/07cbdebaa80dc8ab.jpg"
           ]
+        },
+        {
+          "id": "ex_56mxmlbu",
+          "name": "Выпады у стены",
+          "description": "Стопы на одной линии, пятки не отрываются",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/3f9115826db46457.jpg",
+            "data/images/fb6a3b932d6c21f8.jpg"
+          ]
+        },
+        {
+          "id": "ex_93b5eex6",
+          "name": "Выпады у стены",
+          "description": "Стопы на одной линии, пятки не отрываются. Задняя нога прямая",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/1af006396d9f8e08.jpg",
+            "data/images/2af9a654756665bd.jpg"
+          ]
+        },
+        {
+          "id": "ex_zuag9d06",
+          "name": "Вращения",
+          "description": "Сначала по часовой, потом против часовой. Вес переносим на вращающуюся ногу. Своды стопы прижаты плотно к полу.",
+          "equipment": [],
+          "images": [
+            "data/images/f73b69b4a4fbc0aa.jpg",
+            "data/images/bf5d1813f15798db.jpg"
+          ]
+        },
+        {
+          "id": "ex_xi2eapb5",
+          "name": "Выпады",
+          "description": "Выводим ногу в четырёх направлениях: вперёд, вбок, назад, назад в другой вбок. Своды стопы прижаты плотно к полу.",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/0d28853ebfe43fbf.jpg",
+            "data/images/887f64d806fc7f9c.jpg",
+            "data/images/0d28853ebfe43fbf.jpg",
+            "data/images/29d62aa0f3e4a517.jpg",
+            "data/images/0d28853ebfe43fbf.jpg",
+            "data/images/e0503c295eef8504.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -748,6 +798,32 @@
             {
               "id": "ci_la9x7mmd",
               "exerciseId": "ex_3qdhiq7k"
+            }
+          ]
+        },
+        {
+          "id": "cx_0i4zz0b2",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_8s1brrke",
+              "exerciseId": "ex_3z5ywvu6"
+            },
+            {
+              "id": "ci_fytzanww",
+              "exerciseId": "ex_56mxmlbu"
+            },
+            {
+              "id": "ci_93p0mbp7",
+              "exerciseId": "ex_93b5eex6"
+            },
+            {
+              "id": "ci_2pd70vno",
+              "exerciseId": "ex_zuag9d06"
+            },
+            {
+              "id": "ci_hcrr2779",
+              "exerciseId": "ex_xi2eapb5"
             }
           ]
         }
@@ -7622,6 +7698,6 @@
     }
   },
   "lastEquipment": [
-    "wall"
+    "long_band"
   ]
 }
