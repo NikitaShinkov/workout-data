@@ -8384,6 +8384,31 @@
             "data/images/68cb2e10047743f6.jpg",
             "data/images/4a5c551dc8cf22cc.jpg"
           ]
+        },
+        {
+          "id": "ex_70cwrvaf",
+          "name": "Сгибания/разгибания",
+          "description": "Небольшой прогиб в пояснице. Всё движение в ТБС.",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/aaf3e10d8fdeb940.jpg",
+            "data/images/f2abd9302f6c62fb.jpg"
+          ]
+        },
+        {
+          "id": "ex_0cr6gi8r",
+          "name": "Сгибания/разгибания с отягощением",
+          "description": "Небольшой прогиб в пояснице. Всё движение в ТБС. Ягодицы тянутся назад",
+          "equipment": [
+            "weight",
+            "chair"
+          ],
+          "images": [
+            "data/images/1a0813f98f35c420.jpg",
+            "data/images/48424415748033cf.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9096,6 +9121,7 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "weight",
+    "chair"
   ]
 }
