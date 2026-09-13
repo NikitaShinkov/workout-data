@@ -3596,6 +3596,44 @@
             "data/images/5acb78ecba651259.jpg",
             "data/images/1e98709d27e9146c.jpg"
           ]
+        },
+        {
+          "id": "ex_bqmj6eou",
+          "name": "Приземления",
+          "description": "Чередуем внутреннюю и наружную ротацию. Пытаемся ротацию выполнять в колене, а не в ТБС",
+          "equipment": [],
+          "images": [
+            "data/images/ffce31c93beffcc6.jpg",
+            "data/images/fa05e860dc576326.jpg",
+            "data/images/837c28ae823ef005.jpg",
+            "data/images/f51901baafe38bd9.jpg"
+          ]
+        },
+        {
+          "id": "ex_hu5hzc6o",
+          "name": "Приземления с резинкой",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/acd581338107385a.jpg",
+            "data/images/e2421397cc166b47.jpg"
+          ]
+        },
+        {
+          "id": "ex_3mp71oli",
+          "name": "Приземления с резинкой",
+          "description": "Чередуем внутреннюю и наружную ротацию. Пытаемся ротацию выполнять в колене, а не в ТБС",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/4d7b19a015398dd6.jpg",
+            "data/images/0e2cdde9f46ddb26.jpg",
+            "data/images/feeee84668dcae1f.jpg",
+            "data/images/918b4fc116619f6d.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9720,5 +9758,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "long_band"
+  ]
 }
