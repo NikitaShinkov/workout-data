@@ -3902,6 +3902,44 @@
             "data/images/622c01cfd69cba68.jpg",
             "data/images/3b2aea4949950c50.jpg"
           ]
+        },
+        {
+          "id": "ex_cl3bnl32",
+          "name": "Сгибания разгибания на одной ноге",
+          "description": "Колени не опускаются на пол. Держим спину ровно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/39a5e2a4a344c32f.jpg",
+            "data/images/0a840fad1dc49972.jpg"
+          ]
+        },
+        {
+          "id": "ex_g8zuzwkt",
+          "name": "Сгибания разгибания с резинкой",
+          "description": "Колени не опускаются на пол. Держим спину ровно",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4827908210a9743e.jpg",
+            "data/images/79521e6eb7a0cef8.jpg"
+          ]
+        },
+        {
+          "id": "ex_9yzvqycp",
+          "name": "Сгибания разгибания с резинкой на одной ноге",
+          "description": "Колени не опускаются на пол. Держим спину ровно",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/b746861fda1f5842.jpg",
+            "data/images/d896cba637525966.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10157,6 +10195,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
