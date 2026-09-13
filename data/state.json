@@ -8317,6 +8317,32 @@
             "data/images/34eb7a5d6b2a9bfa.jpg",
             "data/images/6a70491d19c5b362.jpg"
           ]
+        },
+        {
+          "id": "ex_w7swe462",
+          "name": "Поднятие ног стоя с верёвкой спереди",
+          "description": "Медленно поднимаем ноги. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/b37b668592548e11.jpg",
+            "data/images/3949dfd535f1a695.jpg",
+            "data/images/65431088d2335200.jpg"
+          ]
+        },
+        {
+          "id": "ex_ebaw7z79",
+          "name": "Поднятие ног стоя с верёвкой сзади",
+          "description": "Медленно поднимаем ноги. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/3770b251e8211675.jpg",
+            "data/images/ae06f7c4c8beda21.jpg",
+            "data/images/290a1957c20c133a.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9003,7 +9029,6 @@
     }
   },
   "lastEquipment": [
-    "long_band",
-    "chair"
+    "long_band"
   ]
 }
