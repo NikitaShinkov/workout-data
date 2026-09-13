@@ -5409,7 +5409,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-13",
+      "scheduleStartDate": "2026-09-14",
       "intervalDays": 1
     },
     "hip": {
@@ -6788,7 +6788,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-13",
+      "scheduleStartDate": "2026-09-14",
       "intervalDays": 1
     },
     "glutes": {
@@ -8446,7 +8446,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-13",
+      "scheduleStartDate": "2026-09-14",
       "intervalDays": 1
     },
     "lower_back": {
@@ -9658,7 +9658,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-13",
+      "scheduleStartDate": "2026-09-14",
       "intervalDays": 1
     },
     "back": {
@@ -10378,7 +10378,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-13",
+      "scheduleStartDate": "2026-09-14",
       "intervalDays": 1
     },
     "cat_lz5gplty": {
@@ -10570,7 +10570,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-13",
+      "scheduleStartDate": "2026-09-14",
       "intervalDays": 1
     }
   },
