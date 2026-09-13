@@ -347,6 +347,55 @@
             "data/images/032913481491d26a.jpg",
             "data/images/497f7372e0b16abe.jpg"
           ]
+        },
+        {
+          "id": "ex_de54ib04",
+          "name": "Сгибания со стадодинамикой",
+          "description": "Опускаемся вниз, в 4 положениях фиксируемся на 10 сек и немного подпружиниваем",
+          "equipment": [
+            "block"
+          ],
+          "images": [
+            "data/images/061a8344deff7148.jpg",
+            "data/images/166b7567a60bd21b.jpg",
+            "data/images/2b2cd3cd674a8e3c.jpg"
+          ]
+        },
+        {
+          "id": "ex_z3a3srb4",
+          "name": "Подъёмы со сгибаниями",
+          "description": "Сгибания сразу в голеностопах двух ног. В прогрессии делаем на одной ноге",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/9b21db77b8069250.jpg",
+            "data/images/ab66d025706e7ef0.jpg"
+          ]
+        },
+        {
+          "id": "ex_vbtyi9vl",
+          "name": "Подъёмы со сгибаниями",
+          "description": "Резинка на задней ноге. Сгибания сразу в голеностопах двух ног",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/7332437738f28f32.jpg",
+            "data/images/d028df043ac7c579.jpg"
+          ]
+        },
+        {
+          "id": "ex_rwoy8l5g",
+          "name": "Подъёмы со сгибаниями",
+          "description": "Выталкиваемся импульсивно. Подъём стопы опорной ноги до большого пальца",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/b7539d8e89bf539f.jpg",
+            "data/images/4d90e3a306dcae8f.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -477,6 +526,32 @@
             {
               "id": "ci_hepp6p1b",
               "exerciseId": "ex_eoffjk8q"
+            }
+          ]
+        },
+        {
+          "id": "cx_c20giyvh",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_bgajbe6a",
+              "exerciseId": "ex_ck795s1s"
+            },
+            {
+              "id": "ci_0hmuwsr4",
+              "exerciseId": "ex_de54ib04"
+            },
+            {
+              "id": "ci_yyovpjxi",
+              "exerciseId": "ex_z3a3srb4"
+            },
+            {
+              "id": "ci_b8uto87u",
+              "exerciseId": "ex_vbtyi9vl"
+            },
+            {
+              "id": "ci_hn95qy5q",
+              "exerciseId": "ex_rwoy8l5g"
             }
           ]
         }
@@ -7351,6 +7426,6 @@
     }
   },
   "lastEquipment": [
-    "block"
+    "chair"
   ]
 }
