@@ -4012,11 +4012,50 @@
           "name": "Опускания с отрицательным углом с резинкой",
           "description": "",
           "equipment": [
-            "mat"
+            "mat",
+            "long_band"
           ],
           "images": [
             "data/images/5265bac658da3b46.jpg",
             "data/images/0f45c431d041c2cb.jpg"
+          ]
+        },
+        {
+          "id": "ex_vu54686m",
+          "name": "Опускания с отрицательным углом с резинкой на одной ноге",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/178c0ced35a13df3.jpg",
+            "data/images/d679aa962ee3617d.jpg"
+          ]
+        },
+        {
+          "id": "ex_m6uybcvj",
+          "name": "Выпады с резинкой на одной ноге",
+          "description": "Контролируем разгибание",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/23f570343ccf4251.jpg",
+            "data/images/7572bbde1d8fea03.jpg"
+          ]
+        },
+        {
+          "id": "ex_ueve5zlu",
+          "name": "Выпады с резинкой на одной ноге",
+          "description": "Сгибаем в максимальной амлитуде (колено выходит максимально вперёд), в конце движения тормозим",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2eef8bf225be9a5b.jpg",
+            "data/images/24908aba94ee39cd.jpg"
           ]
         }
       ],
@@ -10325,6 +10364,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
