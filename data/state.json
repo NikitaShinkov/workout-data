@@ -654,6 +654,18 @@
             "data/images/b52f1845ce720af1.jpg",
             "data/images/b7ad2760290c9258.jpg"
           ]
+        },
+        {
+          "id": "ex_tm3qjx6z",
+          "name": "Прокатывание мячом",
+          "description": "Прокатываем внутреннюю и внешнюю часть стопы",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/bdcddd1637dcb242.jpg",
+            "data/images/1d02d3829baae84b.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7787,5 +7799,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
