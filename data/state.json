@@ -3940,6 +3940,18 @@
             "data/images/b746861fda1f5842.jpg",
             "data/images/d896cba637525966.jpg"
           ]
+        },
+        {
+          "id": "ex_ayqehuyt",
+          "name": "Опускания пистолетиком",
+          "description": "Опускаемся вниз медленно на одной ноге, вверх встаём быстро на двух ногах",
+          "equipment": [],
+          "images": [
+            "data/images/d3f01755ce5bdfbc.jpg",
+            "data/images/2d1cea9e290aa141.jpg",
+            "data/images/9a78ad1f1b617ece.jpg",
+            "data/images/d3f01755ce5bdfbc.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5024,6 +5036,32 @@
             {
               "id": "ci_u9cbawtd",
               "exerciseId": "ex_urvimcx8"
+            }
+          ]
+        },
+        {
+          "id": "cx_zgfupci8",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_72bfusir",
+              "exerciseId": "ex_aazzgjtc"
+            },
+            {
+              "id": "ci_vi8wvyhc",
+              "exerciseId": "ex_cl3bnl32"
+            },
+            {
+              "id": "ci_4banirf6",
+              "exerciseId": "ex_g8zuzwkt"
+            },
+            {
+              "id": "ci_vg7dmr98",
+              "exerciseId": "ex_9yzvqycp"
+            },
+            {
+              "id": "ci_e9xru72h",
+              "exerciseId": "ex_ayqehuyt"
             }
           ]
         }
@@ -10194,8 +10232,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat",
-    "long_band"
-  ]
+  "lastEquipment": []
 }
