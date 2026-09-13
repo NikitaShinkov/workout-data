@@ -9121,6 +9121,48 @@
             "data/images/501ea2abdcf7ab3e.jpg",
             "data/images/b14e59a80bea1f97.jpg"
           ]
+        },
+        {
+          "id": "ex_0mv6x9if",
+          "name": "Растягивание",
+          "description": "Закидываем руку за спину и плавно протягиваем её вбок за спину",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ce64d199ebedfc15.jpg",
+            "data/images/aa6db4ef6dfbc6d5.jpg"
+          ]
+        },
+        {
+          "id": "ex_1e9nafq8",
+          "name": "Раскручивания",
+          "description": "Руки на затылке. Раскрываем грудной отдел. Потом раскрываем руки в одной плоскости как у стенки. Сводим руки за спиной. И скрутились в спине. Потом движение в обратную сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4c9c8ecc83e9f6d9.jpg",
+            "data/images/dd8dfddc6796e9c6.jpg",
+            "data/images/5a3e3e7d8d31992e.jpg",
+            "data/images/eb2eb3a91d7c7f36.jpg",
+            "data/images/b09edb8a97b2bcfd.jpg"
+          ]
+        },
+        {
+          "id": "ex_iu945nc9",
+          "name": "Растягивание",
+          "description": "Руки по диагонали. Голова вниз, не задираем её наверх — можно положить лоб на пол. Поднимаем руки вверх, поднятые руки перемещаем для смены диагонали (но на чуть меньшей высоте от пола, чем когда поднимали) ещё раз поднимаем руки и потом опускаем руки на пол. Затем повторяем в обратную сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ebde283a4f4760d6.jpg",
+            "data/images/d9ed09a3efc9d628.jpg",
+            "data/images/dab762ea951a2234.jpg",
+            "data/images/4b2a281d24344124.jpg",
+            "data/images/24cc5c7e0ed440cd.jpg"
+          ]
         }
       ],
       "complexes": [
