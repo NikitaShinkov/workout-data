@@ -7964,6 +7964,40 @@
             "data/images/9e57c89604de3729.jpg",
             "data/images/a2500faa293f56b9.jpg"
           ]
+        },
+        {
+          "id": "ex_9wwmtrb9",
+          "name": "Сгибание в ТБС со стулом",
+          "description": "Увеличиваем наклон вперёд. Удерживаем нейтральное положение поясницы. Бедро не тянет за собой таз",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/66bcc226bc0bcfd5.jpg",
+            "data/images/9e1f36cfe454ac80.jpg"
+          ]
+        },
+        {
+          "id": "ex_ag37qdqq",
+          "name": "Сгибание в ТБС лёжа",
+          "description": "Удерживаем нейтральное положение поясницы. Бедро не тянет за собой таз",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6eba3fd3347a87b4.jpg",
+            "data/images/810839706794e4d6.jpg"
+          ]
+        },
+        {
+          "id": "ex_n9m9hbnu",
+          "name": "Перемещение вперёд в ТБС лёжа",
+          "description": "Удерживаем нейтральное положение поясницы. Бедро не тянет за собой таз. Отталкиваемся разгибанием через ягодичные мышцы.",
+          "equipment": [],
+          "images": [
+            "data/images/a86a20ba5bd1341e.jpg",
+            "data/images/0b18ce82b90f8bce.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8112,6 +8146,32 @@
             {
               "id": "ci_h3i00sb4",
               "exerciseId": "ex_d17ews05"
+            }
+          ]
+        },
+        {
+          "id": "cx_bhhv7h29",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_4xfpd060",
+              "exerciseId": "ex_z62rtrli"
+            },
+            {
+              "id": "ci_4rzho8ug",
+              "exerciseId": "ex_iew9d6y6"
+            },
+            {
+              "id": "ci_0tzn6wc3",
+              "exerciseId": "ex_9wwmtrb9"
+            },
+            {
+              "id": "ci_h4wcyxzt",
+              "exerciseId": "ex_ag37qdqq"
+            },
+            {
+              "id": "ci_ql6kqs4w",
+              "exerciseId": "ex_n9m9hbnu"
             }
           ]
         }
@@ -8493,7 +8553,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "wall"
-  ]
+  "lastEquipment": []
 }
