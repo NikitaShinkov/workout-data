@@ -8409,6 +8409,34 @@
             "data/images/1a0813f98f35c420.jpg",
             "data/images/48424415748033cf.jpg"
           ]
+        },
+        {
+          "id": "ex_aduo2tpp",
+          "name": "Сгибания/разгибания с отягощением",
+          "description": "Небольшой прогиб в пояснице. Всё движение в ТБС. Ягодицы тянутся назад.\nПеренос веса за счёт ТБС",
+          "equipment": [
+            "weight",
+            "chair"
+          ],
+          "images": [
+            "data/images/00d252c65aacce36.jpg",
+            "data/images/ae0434393ed4b82b.jpg",
+            "data/images/00d252c65aacce36.jpg",
+            "data/images/160325341427e120.jpg"
+          ]
+        },
+        {
+          "id": "ex_nu9gclns",
+          "name": "Наклоны с отягощением",
+          "description": "Движение выполняется в ТБС. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/a74cabe423963127.jpg",
+            "data/images/e8b4e12c9f379176.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8739,6 +8767,28 @@
             {
               "id": "ci_2gzlpayl",
               "exerciseId": "ex_3b2zd9ds"
+            }
+          ]
+        },
+        {
+          "id": "cx_evvfyeat",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_pbzliory",
+              "exerciseId": "ex_70cwrvaf"
+            },
+            {
+              "id": "ci_jn1kqsvc",
+              "exerciseId": "ex_0cr6gi8r"
+            },
+            {
+              "id": "ci_0njyg17s",
+              "exerciseId": "ex_aduo2tpp"
+            },
+            {
+              "id": "ci_aah3ry41",
+              "exerciseId": "ex_nu9gclns"
             }
           ]
         }
@@ -9121,7 +9171,7 @@
     }
   },
   "lastEquipment": [
-    "weight",
+    "long_band",
     "chair"
   ]
 }
