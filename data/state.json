@@ -8073,6 +8073,59 @@
             "data/images/471de33718fad5e7.jpg",
             "data/images/fa80cd2c304a2801.jpg"
           ]
+        },
+        {
+          "id": "ex_3eisqf0a",
+          "name": "Скручивания грудного отдела",
+          "description": "Ноги и поясница в единой конструкции. Вся ротация в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/efd78be1a1f7b0a4.jpg",
+            "data/images/b00198c58114ab70.jpg"
+          ]
+        },
+        {
+          "id": "ex_ux3135xm",
+          "name": "Скручивания грудного отдела",
+          "description": "Нога всё время давит на рол для стабилизации поясницы. Если не получается давит на рол, ограничиваем амплитуду ротации.\nВся ротация в грудном отделе. При ротации следим глазами за рукой.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/fbbbe6ed8c61b7a8.jpg",
+            "data/images/cac71af15f6acff2.jpg",
+            "data/images/2459470f1080ca60.jpg"
+          ]
+        },
+        {
+          "id": "ex_kdj1v0ra",
+          "name": "Скручивания грудного отдела",
+          "description": "Нога всё время давит на рол для стабилизации поясницы. Если не получается давит на рол, ограничиваем амплитуду ротации.\nВся ротация в грудном отделе. При ротации следим глазами за рукой. В конце амплитуды локоть касается пола",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/5b41059d021ffbd8.jpg",
+            "data/images/c45125f2d9d32526.jpg",
+            "data/images/29b77a4b152df830.jpg"
+          ]
+        },
+        {
+          "id": "ex_9dn9r5w6",
+          "name": "Скручивания грудного отдела",
+          "description": "При уходе в наклон вынуждено выключается поясница.\nВся ротация в грудном отделе. При ротации опорная рука давит в пол. Голова не кривится, не теряет нейтраль",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/168cd3d6dca90c20.jpg",
+            "data/images/ac428d269498f948.jpg",
+            "data/images/2222f55fb6ce0fbe.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8273,6 +8326,32 @@
             {
               "id": "ci_z0gi2dr7",
               "exerciseId": "ex_3koy38lm"
+            }
+          ]
+        },
+        {
+          "id": "cx_0hy8wzte",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_rrxf4vff",
+              "exerciseId": "ex_840nnhec"
+            },
+            {
+              "id": "ci_w285fasr",
+              "exerciseId": "ex_3eisqf0a"
+            },
+            {
+              "id": "ci_s1sbb4ul",
+              "exerciseId": "ex_ux3135xm"
+            },
+            {
+              "id": "ci_yqzsisp7",
+              "exerciseId": "ex_kdj1v0ra"
+            },
+            {
+              "id": "ci_qtjtdnwu",
+              "exerciseId": "ex_9dn9r5w6"
             }
           ]
         }
