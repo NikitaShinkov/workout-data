@@ -9043,6 +9043,46 @@
             "data/images/5f040edb84def253.jpg",
             "data/images/0c40efde11ee24a2.jpg"
           ]
+        },
+        {
+          "id": "ex_t27aqi1m",
+          "name": "Раскрытие и сворачивание",
+          "description": "Встаём в коленно-локтевую позу. Поясница в нейтрали. Руками давим на холку. Голова не запрокидывается назад. ТБС не подкручивается, таз остаётся на одном месте. Движение только в верхнем грудном отделе",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/381c6944f143ed5d.jpg",
+            "data/images/7cecd18121914cd3.jpg"
+          ]
+        },
+        {
+          "id": "ex_x1kjikdv",
+          "name": "Раскрытие и сворачивание",
+          "description": "Поясница в нейтрали. Голова не запрокидывается назад. ТБС не подкручивается, таз остаётся на одном месте. Движение только в верхнем грудном отделе",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/02804a38699e3750.jpg",
+            "data/images/813fabfa7cce9e75.jpg"
+          ]
+        },
+        {
+          "id": "ex_s61whph5",
+          "name": "Соединение рук",
+          "description": "Руки плавно двигаются в одной плоскости (как будто руки прижаты к стене за спиной).",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/51b4f09df4b3d442.jpg",
+            "data/images/dcdb9db1a1cdc2df.jpg",
+            "data/images/d794386afad16166.jpg",
+            "data/images/b05822d0797c853a.jpg",
+            "data/images/df2ee7eb92205e0f.jpg",
+            "data/images/d5101ac43e25c92f.jpg"
+          ]
         }
       ],
       "complexes": [
