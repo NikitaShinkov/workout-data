@@ -8921,6 +8921,20 @@
             "data/images/f93de8eb9e9c3e95.jpg",
             "data/images/20ae4df9bcd512a6.jpg"
           ]
+        },
+        {
+          "id": "ex_2iyyoxti",
+          "name": "Скручивания",
+          "description": "Скручиваем ноги влево и вправо. Колени должны быть на одном уровне (верхнее колено должно догонять нижнее). Поясница прямая и не скручивается. Скручивание в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5d9fc7d738ff921b.jpg",
+            "data/images/9b632c2866b203b1.jpg",
+            "data/images/4e2dd199a6183f01.jpg",
+            "data/images/1dd0aa8977e50e0e.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9171,7 +9185,6 @@
     }
   },
   "lastEquipment": [
-    "long_band",
-    "chair"
+    "mat"
   ]
 }
