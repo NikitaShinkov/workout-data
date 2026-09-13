@@ -8023,6 +8023,44 @@
             "data/images/9b114d369762d82b.jpg",
             "data/images/95cfacf3a05e61ef.jpg"
           ]
+        },
+        {
+          "id": "ex_izagegh4",
+          "name": "Массаж подвздошно-поясничной мышцы скручиванием",
+          "description": "Вдох. Упираем кулаки в область немного выше паха. На выдохе скручиваемся, погружаем кулаки глубоко в брюшную полость. Остаёмся примерно 40 с в скрученном положении и дышим — таким образом выполняем массаж подвздошно-поясничной мышцы.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c3de38eb94516d0e.jpg",
+            "data/images/2405d363d9c368a7.jpg",
+            "data/images/581dbd229b91bbca.jpg",
+            "data/images/d46843b9f592fdf3.jpg"
+          ]
+        },
+        {
+          "id": "ex_q2elfms4",
+          "name": "Разгибание ноги лёжа",
+          "description": "Нейтральное положение. На выдохе выполняем разгибание за счёт ягодичной мышцы",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fde300a7ded52e70.jpg",
+            "data/images/7c3bbebb4f80c515.jpg"
+          ]
+        },
+        {
+          "id": "ex_3koy38lm",
+          "name": "Подкрутка таза",
+          "description": "Подкручиваем таз вперёд-назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e466a2e8f17eff9f.jpg",
+            "data/images/e01d910434eb8581.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8197,6 +8235,32 @@
             {
               "id": "ci_ql6kqs4w",
               "exerciseId": "ex_n9m9hbnu"
+            }
+          ]
+        },
+        {
+          "id": "cx_4znvh1gj",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_wrv40hdp",
+              "exerciseId": "ex_3ywp8ou0"
+            },
+            {
+              "id": "ci_jmlou6cp",
+              "exerciseId": "ex_dd5qsmrs"
+            },
+            {
+              "id": "ci_rija68ai",
+              "exerciseId": "ex_izagegh4"
+            },
+            {
+              "id": "ci_uu3puaek",
+              "exerciseId": "ex_q2elfms4"
+            },
+            {
+              "id": "ci_z0gi2dr7",
+              "exerciseId": "ex_3koy38lm"
             }
           ]
         }
