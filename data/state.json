@@ -7952,6 +7952,18 @@
             "data/images/450574d3073ced10.jpg",
             "data/images/08a586e94284fa3f.jpg"
           ]
+        },
+        {
+          "id": "ex_iew9d6y6",
+          "name": "Сгибание в ТБС стоя",
+          "description": "Увеличиваем наклон вперёд. Удерживаем нейтральное положение поясницы. Бедро не тянет за собой таз",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/9e57c89604de3729.jpg",
+            "data/images/a2500faa293f56b9.jpg"
+          ]
         }
       ],
       "complexes": [
