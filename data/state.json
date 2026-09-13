@@ -273,6 +273,18 @@
             "data/images/eb645639fe2f3fa4.jpg",
             "data/images/a599c295ea225c9b.jpg"
           ]
+        },
+        {
+          "id": "ex_g6ngnwbd",
+          "name": "Внутренняя ротация",
+          "description": "Движение за счёт голеностопа, а не за счёт колена и ТБС. Угол наклона небольшой",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/7aa8410891722eb2.jpg",
+            "data/images/3716fd73289fc583.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -351,6 +363,32 @@
             {
               "id": "ci_17jima8u",
               "exerciseId": "ex_mahkvdhl"
+            }
+          ]
+        },
+        {
+          "id": "cx_srho6ak7",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_qiefchm5",
+              "exerciseId": "ex_ysw9y4uu"
+            },
+            {
+              "id": "ci_larzqvqf",
+              "exerciseId": "ex_9hik7gcs"
+            },
+            {
+              "id": "ci_hn3wfi7p",
+              "exerciseId": "ex_1uzclwgu"
+            },
+            {
+              "id": "ci_j23s5wyu",
+              "exerciseId": "ex_s4rx3ojb"
+            },
+            {
+              "id": "ci_nt6jpyzg",
+              "exerciseId": "ex_66ob49zi"
             }
           ]
         }
@@ -7225,6 +7263,6 @@
     }
   },
   "lastEquipment": [
-    "short_band"
+    "long_band"
   ]
 }
