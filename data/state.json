@@ -9003,6 +9003,46 @@
             "data/images/47e2057dbf859ba3.jpg",
             "data/images/c53c6144558123aa.jpg"
           ]
+        },
+        {
+          "id": "ex_oktgpgg3",
+          "name": "Раскручивания",
+          "description": "Опора на локти. Встаём в коленно-локтевую позу. Поясница в нейтрали.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a504ebed064028e8.jpg",
+            "data/images/0346c02d1e0c6dac.jpg",
+            "data/images/a504ebed064028e8.jpg",
+            "data/images/1b194882492b43f9.jpg"
+          ]
+        },
+        {
+          "id": "ex_wfcbwbpv",
+          "name": "Раскручивания",
+          "description": "Встаём в коленно-локтевую позу. Поясница в нейтрали. Движение в лопатке. Не подключаем широчайшую мышцу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f4030ebde4e35acb.jpg",
+            "data/images/23c8ba69b5960aa3.jpg"
+          ]
+        },
+        {
+          "id": "ex_b3qga0v0",
+          "name": "Раскручивания",
+          "description": "Поясница в нейтрали. При раскрытии рука идёт вдоль тела, а не по круговой траектории. Движение в лопатке в ромбовидных мышцах. Не подключаем широчайшую мышцу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4f0ede49cc7a4d4d.jpg",
+            "data/images/e85357699bb46795.jpg",
+            "data/images/5f040edb84def253.jpg",
+            "data/images/0c40efde11ee24a2.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9077,6 +9117,28 @@
             {
               "id": "ci_wgqa8kle",
               "exerciseId": "ex_zaqymw63"
+            }
+          ]
+        },
+        {
+          "id": "cx_piopdpv2",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_1ajjnqd2",
+              "exerciseId": "ex_xxn0d0mb"
+            },
+            {
+              "id": "ci_rqoac0iv",
+              "exerciseId": "ex_oktgpgg3"
+            },
+            {
+              "id": "ci_4g9b8nku",
+              "exerciseId": "ex_wfcbwbpv"
+            },
+            {
+              "id": "ci_n2fb087z",
+              "exerciseId": "ex_b3qga0v0"
             }
           ]
         }
