@@ -3774,6 +3774,44 @@
             "data/images/2632faed7b947fe5.jpg",
             "data/images/87914a5c8aa76547.jpg"
           ]
+        },
+        {
+          "id": "ex_l8hcqwln",
+          "name": "Полуприсед",
+          "description": "Переднюю ногу пытаемся стабилизируем согнутой или только немного сгибать",
+          "equipment": [],
+          "images": [
+            "data/images/de241616cb8efe93.jpg",
+            "data/images/f6a6497253783994.jpg"
+          ]
+        },
+        {
+          "id": "ex_c8l1lafp",
+          "name": "Передний и задний выпад",
+          "description": "Контроль опорной ноги. К момент приземления максимально опускать колено вниз. После отталкивания из нижнего положения переход в задний выпад с максимально стабильной опорной ногой.",
+          "equipment": [],
+          "images": [
+            "data/images/4e116d775889b3cb.jpg",
+            "data/images/90ff905f92ae604d.jpg",
+            "data/images/69c1dc5a65abe60f.jpg",
+            "data/images/7840207c15a8813e.jpg"
+          ]
+        },
+        {
+          "id": "ex_a8ljfrft",
+          "name": "Выпады",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/962862000c989fec.jpg",
+            "data/images/5e201efcf5127f4d.jpg",
+            "data/images/66271e4aac285683.jpg",
+            "data/images/002158a94bff1c27.jpg",
+            "data/images/a993caa95f6f5a4d.jpg",
+            "data/images/208b15bd5aae9e95.jpg",
+            "data/images/81d707fd5acfa1e1.jpg",
+            "data/images/0cc833f39a668d64.jpg"
+          ]
         }
       ],
       "complexes": [
