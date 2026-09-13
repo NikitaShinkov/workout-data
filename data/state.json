@@ -644,6 +644,16 @@
             "data/images/7d962d5636e646d7.jpg",
             "data/images/95e2bf8b079bfdbd.jpg"
           ]
+        },
+        {
+          "id": "ex_vvyhg1lb",
+          "name": "Подъёмы",
+          "description": "Задняя нога прямая. Все тела перенесён вперёд.",
+          "equipment": [],
+          "images": [
+            "data/images/b52f1845ce720af1.jpg",
+            "data/images/b7ad2760290c9258.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -878,6 +888,32 @@
             {
               "id": "ci_hcrr2779",
               "exerciseId": "ex_xi2eapb5"
+            }
+          ]
+        },
+        {
+          "id": "cx_hjv0rh9b",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_dxv58wp8",
+              "exerciseId": "ex_wtwi7i3t"
+            },
+            {
+              "id": "ci_5y8hzq6g",
+              "exerciseId": "ex_evwpimi1"
+            },
+            {
+              "id": "ci_015jxegw",
+              "exerciseId": "ex_bc4a6hj9"
+            },
+            {
+              "id": "ci_ncgfriws",
+              "exerciseId": "ex_87er6z7m"
+            },
+            {
+              "id": "ci_evi085ew",
+              "exerciseId": "ex_vvyhg1lb"
             }
           ]
         }
@@ -7751,7 +7787,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "wall"
-  ]
+  "lastEquipment": []
 }
