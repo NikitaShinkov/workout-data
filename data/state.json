@@ -524,6 +524,22 @@
             "data/images/5c2e005cb9676772.jpg",
             "data/images/7d0ae766f16c5969.jpg"
           ]
+        },
+        {
+          "id": "ex_3z5ywvu6",
+          "name": "Выпады у стены",
+          "description": "Меняем углы постановки передней ноги: вбок наружу, вперед, вбок в сторону. И потом в обратную сторону. Таз ровный. Своды стопы прижаты плотно к полу.",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/7091f99271fee529.jpg",
+            "data/images/242d3aa640766909.jpg",
+            "data/images/07e032f2f75ee682.jpg",
+            "data/images/68e23b89f3c83d98.jpg",
+            "data/images/336ae413d0fce44f.jpg",
+            "data/images/07cbdebaa80dc8ab.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7605,5 +7621,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "wall"
+  ]
 }
