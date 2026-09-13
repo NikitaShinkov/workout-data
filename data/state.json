@@ -4080,6 +4080,52 @@
             "data/images/9141f569ca1ef220.jpg",
             "data/images/364e6784b28c0f54.jpg"
           ]
+        },
+        {
+          "id": "ex_j68ewyv6",
+          "name": "Сгибания с резинкой",
+          "description": "Выполняем в глубокой амплитуде",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/50c3b455e4957268.jpg",
+            "data/images/1fa6589c61a21b01.jpg"
+          ]
+        },
+        {
+          "id": "ex_6o3yyh7i",
+          "name": "Сгибания с ролом",
+          "description": "Выполняем в глубокой амплитуде. В конце опираемся на рол как на предохранитель",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fa8e4fb73203bf92.jpg",
+            "data/images/a5a87bfc032e53bc.jpg"
+          ]
+        },
+        {
+          "id": "ex_dcsdsp3a",
+          "name": "Сгибания и переход корпуса вперёд",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/07fd0e315a26cecc.jpg",
+            "data/images/45b471cdac4dff8e.jpg"
+          ]
+        },
+        {
+          "id": "ex_ipnn04oe",
+          "name": "Сгибания и переход корпуса вперёд",
+          "description": "",
+          "equipment": [],
+          "images": [
+            "data/images/07fd0e315a26cecc.jpg",
+            "data/images/45b471cdac4dff8e.jpg",
+            "data/images/b598ce451cabff67.jpg",
+            "data/images/a468cf79bc546195.jpg"
+          ]
         }
       ],
       "complexes": [
