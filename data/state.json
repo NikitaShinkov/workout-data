@@ -3952,6 +3952,16 @@
             "data/images/9a78ad1f1b617ece.jpg",
             "data/images/d3f01755ce5bdfbc.jpg"
           ]
+        },
+        {
+          "id": "ex_t03p1j7u",
+          "name": "Подъём голеностопа",
+          "description": "Мягко приземляемся на пятку",
+          "equipment": [],
+          "images": [
+            "data/images/00f867440802c4a0.jpg",
+            "data/images/ca77fd3f60ab1e77.jpg"
+          ]
         }
       ],
       "complexes": [
