@@ -787,6 +787,42 @@
             "data/images/9a6709190c4b53b2.jpg",
             "data/images/1e929d26cedc1c94.jpg"
           ]
+        },
+        {
+          "id": "ex_yvyucpap",
+          "name": "Удержание баланса с перемещением груза",
+          "description": "Вращаем груз вокруг таза, удерживая равновесие. Смотрим вперед",
+          "equipment": [
+            "weight"
+          ],
+          "images": [
+            "data/images/214b1c44222aabfe.jpg",
+            "data/images/25bd16cd8126d098.jpg",
+            "data/images/88a9820c77e49326.jpg",
+            "data/images/abfb6a77c20864de.jpg"
+          ]
+        },
+        {
+          "id": "ex_1ixnhdak",
+          "name": "Сенсомоторный контроль с грузом",
+          "description": "Одна нога поднята, со стороны поднятой ноги берём в руку груз. Вторая рука выпрямлена. Крутим головой медленно влево вправо, удерживая равновесие",
+          "equipment": [
+            "weight"
+          ],
+          "images": [
+            "data/images/2b1d473e7d1d05db.jpg",
+            "data/images/d8ecec9c7c4c6c50.jpg"
+          ]
+        },
+        {
+          "id": "ex_q0fi3bbb",
+          "name": "Сенсомоторный контроль с грузом",
+          "description": "Закрываем глаза. Руки выпрямлены. Одна нога поднята. Крутим головой медленно по часовой и против часовой стрелки, удерживая равновесие",
+          "equipment": [],
+          "images": [
+            "data/images/10878656291d92c0.jpg",
+            "data/images/79d95608b94b122b.jpg"
+          ]
         }
       ],
       "complexes": [
