@@ -8252,6 +8252,32 @@
             "data/images/46675265efafdc01.jpg",
             "data/images/9621715e953821dd.jpg"
           ]
+        },
+        {
+          "id": "ex_9pudqhsu",
+          "name": "Наклоны с резинкой спереди",
+          "description": "Движение выполняется в ТБС. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/174353ac566245b2.jpg",
+            "data/images/39d6fe8782fa480a.jpg"
+          ]
+        },
+        {
+          "id": "ex_9qllv68m",
+          "name": "Наклоны с резинкой сзади",
+          "description": "Движение выполняется в ТБС. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/446af3081f0ba207.jpg",
+            "data/images/4b257b9c2037c49d.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8912,6 +8938,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "long_band",
+    "chair"
   ]
 }
