@@ -8197,7 +8197,36 @@
           ],
           "images": [
             "data/images/3fdfee4de40b6f31.jpg",
-            "data/images/67707538b971c27c.jpg"
+            "data/images/67707538b971c27c.jpg",
+            "data/images/ecddb8c33d20c9b2.jpg",
+            "data/images/9a930fcb4d263461.jpg"
+          ]
+        },
+        {
+          "id": "ex_gibus9sf",
+          "name": "Скручивания грудного отдела",
+          "description": "Держим центр. Вытягиваем себя как-будто растягиваем руками ленту",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4a5d2749b9ee386a.jpg",
+            "data/images/4746f3ce82a3c4f9.jpg"
+          ]
+        },
+        {
+          "id": "ex_6ev9ee49",
+          "name": "Скручивания грудного отдела",
+          "description": "Держим центр. Вытягиваем себя как-будто растягиваем руками ленту",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/492ffc73d90586b6.jpg",
+            "data/images/9f27b9086686d603.jpg",
+            "data/images/205bbe775ee5ff0c.jpg",
+            "data/images/a6158e9042e18307.jpg",
+            "data/images/12a89848d78d5542.jpg"
           ]
         }
       ],
