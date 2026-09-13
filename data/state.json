@@ -3875,6 +3875,21 @@
             "data/images/dfedf22ab1a0eb53.jpg",
             "data/images/9d2c4a927de2677d.jpg"
           ]
+        },
+        {
+          "id": "ex_urvimcx8",
+          "name": "Опускание и поднятие",
+          "description": "Движение выполняется перекатом",
+          "equipment": [],
+          "images": [
+            "data/images/4eff113c59503b37.jpg",
+            "data/images/54e3079709e84132.jpg",
+            "data/images/0dd9449e450ec493.jpg",
+            "data/images/831d07f1b7d36177.jpg",
+            "data/images/1ec97b10992ceec1.jpg",
+            "data/images/2554b324a827b71e.jpg",
+            "data/images/12d2694ef8e7e56a.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4933,6 +4948,32 @@
             {
               "id": "ci_sjjpuzz2",
               "exerciseId": "ex_k88noz53"
+            }
+          ]
+        },
+        {
+          "id": "cx_zvmsb16a",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_36avsm8k",
+              "exerciseId": "ex_hsds732a"
+            },
+            {
+              "id": "ci_kkzmq17a",
+              "exerciseId": "ex_iyistbjh"
+            },
+            {
+              "id": "ci_via2i4cu",
+              "exerciseId": "ex_fvzq4dz4"
+            },
+            {
+              "id": "ci_badcr3qj",
+              "exerciseId": "ex_6cqp3kft"
+            },
+            {
+              "id": "ci_u9cbawtd",
+              "exerciseId": "ex_urvimcx8"
             }
           ]
         }
