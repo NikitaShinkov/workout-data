@@ -3716,6 +3716,54 @@
             "data/images/9d86b52d148fe40c.jpg",
             "data/images/40e3951868e4e849.jpg"
           ]
+        },
+        {
+          "id": "ex_qmpzvvki",
+          "name": "Опускания с отрицательным углом",
+          "description": "Бёдра параллельны, стопы внутрь",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/22b6bdb6cd8294bf.jpg",
+            "data/images/68494d4675581800.jpg"
+          ]
+        },
+        {
+          "id": "ex_c3lzhazf",
+          "name": "Опускания с отрицательным углом",
+          "description": "Стопы наружу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/3492c726568ac1e8.jpg",
+            "data/images/3dc02371b4d840c0.jpg"
+          ]
+        },
+        {
+          "id": "ex_4nomtwjb",
+          "name": "Присед с отрицательным углом",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/1e5e2b8f82c2f837.jpg",
+            "data/images/3d3b6c265403d3f9.jpg"
+          ]
+        },
+        {
+          "id": "ex_d4ewjbq6",
+          "name": "Присед на носках с отрицательным углом",
+          "description": "Движения медленные",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/37b4937c5e3cdc50.jpg",
+            "data/images/357ec0323f55933f.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4722,6 +4770,32 @@
             {
               "id": "ci_pxm9txg1",
               "exerciseId": "ex_36z9srgv"
+            }
+          ]
+        },
+        {
+          "id": "cx_nljkvc4o",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_zwbjkfn0",
+              "exerciseId": "ex_225ernu0"
+            },
+            {
+              "id": "ci_04d8b70h",
+              "exerciseId": "ex_qmpzvvki"
+            },
+            {
+              "id": "ci_9lfjolz3",
+              "exerciseId": "ex_c3lzhazf"
+            },
+            {
+              "id": "ci_3dax2p1o",
+              "exerciseId": "ex_4nomtwjb"
+            },
+            {
+              "id": "ci_uxwodq1j",
+              "exerciseId": "ex_d4ewjbq6"
             }
           ]
         }
