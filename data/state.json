@@ -8139,6 +8139,54 @@
             "data/images/4593c5458712b5bb.jpg",
             "data/images/706a44e842cb441f.jpg"
           ]
+        },
+        {
+          "id": "ex_xjrzrepb",
+          "name": "Разгибания спины",
+          "description": "Напряжение в пояснице. Сохраняем максимальное осевое вытяжение.\nУдерживаем положение минимум 40 с, лучше довести до 2 мин",
+          "equipment": [
+            "mat",
+            "chair"
+          ],
+          "images": [
+            "data/images/1d845bea2f5f1278.jpg"
+          ]
+        },
+        {
+          "id": "ex_emkaow6g",
+          "name": "Разгибания спины",
+          "description": "Ладони на полу. Выдох в момент разгибания. Не допускать переразгиба за счёт передних мышц",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e734b54f3bb832c6.jpg",
+            "data/images/9d64762088de094a.jpg"
+          ]
+        },
+        {
+          "id": "ex_2hh5wdnm",
+          "name": "Разгибания спины",
+          "description": "Ладони на вису. Выдох в момент разгибания. Не допускать переразгиба за счёт передних мышц",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/afef14af6cab47ea.jpg",
+            "data/images/03f702d3f640eafe.jpg"
+          ]
+        },
+        {
+          "id": "ex_noil40g2",
+          "name": "Разгибания спины",
+          "description": "Выдох в момент разгибания. Не допускать переразгиба за счёт передних мышц",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/753f4e273aae3a72.jpg",
+            "data/images/b2f6a0bfffdf5e72.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8747,7 +8795,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "chair"
+    "mat"
   ]
 }
