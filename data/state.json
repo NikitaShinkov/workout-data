@@ -752,6 +752,31 @@
             "data/images/5dd6150b1d6b2c27.jpg",
             "data/images/3eefe70e205cd726.jpg"
           ]
+        },
+        {
+          "id": "ex_4pm2htaw",
+          "name": "Подъёмы ног с резинкой",
+          "description": "Удерживаем нейтраль. Поочерёдно поднимаем ноги",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/bf1b89465f6c7565.jpg",
+            "data/images/0454e4cbb229430c.jpg"
+          ]
+        },
+        {
+          "id": "ex_qrht2sn1",
+          "name": "Удержание баланса с перемещением груза",
+          "description": "Удерживаем нейтраль",
+          "equipment": [
+            "weight"
+          ],
+          "images": [
+            "data/images/0e0660586222b90b.jpg",
+            "data/images/ce1302d486fb05ed.jpg",
+            "data/images/e4ca7c466d39cfd1.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1038,6 +1063,32 @@
             {
               "id": "ci_nw0rya94",
               "exerciseId": "ex_g6l7w3kp"
+            }
+          ]
+        },
+        {
+          "id": "cx_bq2x5czl",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_1ex6zqx2",
+              "exerciseId": "ex_dpy4urz3"
+            },
+            {
+              "id": "ci_4e1vy2lh",
+              "exerciseId": "ex_sn44snbp"
+            },
+            {
+              "id": "ci_ar9dnof3",
+              "exerciseId": "ex_8btlu8tr"
+            },
+            {
+              "id": "ci_04f8iu9g",
+              "exerciseId": "ex_4pm2htaw"
+            },
+            {
+              "id": "ci_rf3vkmi5",
+              "exerciseId": "ex_qrht2sn1"
             }
           ]
         }
@@ -7912,6 +7963,6 @@
     }
   },
   "lastEquipment": [
-    "wall"
+    "weight"
   ]
 }
