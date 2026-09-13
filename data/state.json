@@ -8228,6 +8228,30 @@
             "data/images/a6158e9042e18307.jpg",
             "data/images/12a89848d78d5542.jpg"
           ]
+        },
+        {
+          "id": "ex_nosddwo3",
+          "name": "Скручивания грудного отдела",
+          "description": "Держим центр. Ротация только в грудном отделе",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/d070a3e8fa2a79ce.jpg",
+            "data/images/aefcd80b0d075c6b.jpg"
+          ]
+        },
+        {
+          "id": "ex_00bdx5nf",
+          "name": "Скручивания грудного отдела",
+          "description": "Держим центр. В нижней позиции расслабляем нижнюю руку, при раскрытии нижней рукой давим в ногу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/46675265efafdc01.jpg",
+            "data/images/9621715e953821dd.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8480,6 +8504,32 @@
             {
               "id": "ci_m359gw7f",
               "exerciseId": "ex_noil40g2"
+            }
+          ]
+        },
+        {
+          "id": "cx_4trf1vb4",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_jwzq8r5d",
+              "exerciseId": "ex_623x19mf"
+            },
+            {
+              "id": "ci_z44iombd",
+              "exerciseId": "ex_gibus9sf"
+            },
+            {
+              "id": "ci_gj3y8lm3",
+              "exerciseId": "ex_6ev9ee49"
+            },
+            {
+              "id": "ci_3r4z56wr",
+              "exerciseId": "ex_nosddwo3"
+            },
+            {
+              "id": "ci_e7w76gfb",
+              "exerciseId": "ex_00bdx5nf"
             }
           ]
         }
