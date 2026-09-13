@@ -9109,6 +9109,18 @@
             "data/images/f12e34996a81db77.jpg",
             "data/images/0c3f4c0601270d13.jpg"
           ]
+        },
+        {
+          "id": "ex_q9krmi6h",
+          "name": "Растягивание",
+          "description": "Закидываем руку за шею и плавно протягиваем её вниз",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/501ea2abdcf7ab3e.jpg",
+            "data/images/b14e59a80bea1f97.jpg"
+          ]
         }
       ],
       "complexes": [
