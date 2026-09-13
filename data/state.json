@@ -3812,6 +3812,18 @@
             "data/images/81d707fd5acfa1e1.jpg",
             "data/images/0cc833f39a668d64.jpg"
           ]
+        },
+        {
+          "id": "ex_k88noz53",
+          "name": "Выпады с прыжками",
+          "description": "В прыжке меняем ногу",
+          "equipment": [],
+          "images": [
+            "data/images/be4c0df56f319c31.jpg",
+            "data/images/05f9f04d6d82c50d.jpg",
+            "data/images/8043363f07d057d7.jpg",
+            "data/images/46df0942661ef9f6.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4844,6 +4856,32 @@
             {
               "id": "ci_uxwodq1j",
               "exerciseId": "ex_d4ewjbq6"
+            }
+          ]
+        },
+        {
+          "id": "cx_5zirri34",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_mrqmn3ei",
+              "exerciseId": "ex_pc7dhqdc"
+            },
+            {
+              "id": "ci_2j0wec0f",
+              "exerciseId": "ex_l8hcqwln"
+            },
+            {
+              "id": "ci_ex74vi1h",
+              "exerciseId": "ex_c8l1lafp"
+            },
+            {
+              "id": "ci_mz6vddfk",
+              "exerciseId": "ex_a8ljfrft"
+            },
+            {
+              "id": "ci_sjjpuzz2",
+              "exerciseId": "ex_k88noz53"
             }
           ]
         }
