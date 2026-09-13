@@ -692,6 +692,32 @@
             "data/images/66204dc06fa16267.jpg",
             "data/images/b06ab1e26d6f3ade.jpg"
           ]
+        },
+        {
+          "id": "ex_qr6w0eft",
+          "name": "Подъём на роле",
+          "description": "Обхватываем рол сводом стопы",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/310eb7ebc8b87615.jpg",
+            "data/images/ba17cec8423ce042.jpg"
+          ]
+        },
+        {
+          "id": "ex_g6l7w3kp",
+          "name": "Удержание баланса и подъём ноги на роле",
+          "description": "Обхватываем рол сводом стопы. Сначала удерживаем баланс, потом попеременно поднимаем ноги. Начинать лучше у стены",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/793c6d6beec49dde.jpg",
+            "data/images/387dd934bf7bccad.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -952,6 +978,32 @@
             {
               "id": "ci_evi085ew",
               "exerciseId": "ex_vvyhg1lb"
+            }
+          ]
+        },
+        {
+          "id": "cx_9rrt8pmw",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_btp3uayl",
+              "exerciseId": "ex_tm3qjx6z"
+            },
+            {
+              "id": "ci_amlaka2n",
+              "exerciseId": "ex_f7whikcy"
+            },
+            {
+              "id": "ci_wm5q0t10",
+              "exerciseId": "ex_kly967m2"
+            },
+            {
+              "id": "ci_7e31dddh",
+              "exerciseId": "ex_qr6w0eft"
+            },
+            {
+              "id": "ci_nw0rya94",
+              "exerciseId": "ex_g6l7w3kp"
             }
           ]
         }
@@ -7827,6 +7879,6 @@
   },
   "lastEquipment": [
     "mat",
-    "long_band"
+    "roller"
   ]
 }
