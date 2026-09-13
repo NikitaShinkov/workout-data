@@ -871,6 +871,30 @@
             "data/images/8b2011e0f69735e1.jpg",
             "data/images/e77296cba66a0aec.jpg"
           ]
+        },
+        {
+          "id": "ex_zlkera17",
+          "name": "Прыжки. Двигательный контроль",
+          "description": "Второй человек толкает в бок, надо приземляться безопасно",
+          "equipment": [],
+          "images": [
+            "data/images/563b5c8de0355304.jpg",
+            "data/images/a22a94cd428d9531.jpg"
+          ]
+        },
+        {
+          "id": "ex_p3j3jru7",
+          "name": "Спрыгиваем с опоры",
+          "description": "Спрыгиваем вниз, после приземления сразу отпрыгиваем вбок.",
+          "equipment": [
+            "block"
+          ],
+          "images": [
+            "data/images/7647f5c9be7cd8c8.jpg",
+            "data/images/a9422c019f267c9e.jpg",
+            "data/images/716fbafac8e9e95e.jpg",
+            "data/images/a3274fdf4b207551.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -1209,6 +1233,32 @@
             {
               "id": "ci_2mvo88ul",
               "exerciseId": "ex_pwcfmdcf"
+            }
+          ]
+        },
+        {
+          "id": "cx_g0ow8aii",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_yzana6kg",
+              "exerciseId": "ex_d525v5u8"
+            },
+            {
+              "id": "ci_uiihrww5",
+              "exerciseId": "ex_mc0bxv5t"
+            },
+            {
+              "id": "ci_rkmu29od",
+              "exerciseId": "ex_3srwd4l8"
+            },
+            {
+              "id": "ci_a17uiqju",
+              "exerciseId": "ex_zlkera17"
+            },
+            {
+              "id": "ci_0otqzuok",
+              "exerciseId": "ex_p3j3jru7"
             }
           ]
         }
@@ -8083,6 +8133,6 @@
     }
   },
   "lastEquipment": [
-    "short_band"
+    "block"
   ]
 }
