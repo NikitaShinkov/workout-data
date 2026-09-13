@@ -8126,6 +8126,19 @@
             "data/images/ac428d269498f948.jpg",
             "data/images/2222f55fb6ce0fbe.jpg"
           ]
+        },
+        {
+          "id": "ex_p335bd47",
+          "name": "Разгибания спины",
+          "description": "Снимаем руки с опоры на выдохе. Сохраняем максимальное осевое вытяжение",
+          "equipment": [
+            "mat",
+            "chair"
+          ],
+          "images": [
+            "data/images/4593c5458712b5bb.jpg",
+            "data/images/706a44e842cb441f.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8734,6 +8747,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "chair"
   ]
 }
