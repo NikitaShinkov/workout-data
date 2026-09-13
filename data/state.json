@@ -7755,6 +7755,18 @@
             "data/images/d78872b9095481d5.jpg",
             "data/images/af9f3a78f2edddb0.jpg"
           ]
+        },
+        {
+          "id": "ex_i0v2rq4b",
+          "name": "Отведение ноги в сторону",
+          "description": "Поясница в нейтральном положении (1см от мата), шея расслаблена\nВ колене угол 90 градусов. Голеностоп расслаблен\nРуками контролируем, чтобы в момент отведения таз был неподвижен.\nКак только отвели ногу на макс амплитуду, сразу поднимаем её обратно на верх",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/76ab986e256957ea.jpg",
+            "data/images/ca3ac4328cbc0c8f.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7803,6 +7815,32 @@
             {
               "id": "ci_xgwfff8q",
               "exerciseId": "ex_p0ivx65k"
+            }
+          ]
+        },
+        {
+          "id": "cx_hx4j8kt1",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_g89eq32g",
+              "exerciseId": "ex_4k1b5f9j"
+            },
+            {
+              "id": "ci_mjtvryqs",
+              "exerciseId": "ex_brurrz7x"
+            },
+            {
+              "id": "ci_petj1dw8",
+              "exerciseId": "ex_btnog6qd"
+            },
+            {
+              "id": "ci_mbd8y075",
+              "exerciseId": "ex_2h87ey3l"
+            },
+            {
+              "id": "ci_t5hfn27j",
+              "exerciseId": "ex_i0v2rq4b"
             }
           ]
         }
