@@ -4006,6 +4006,18 @@
             "data/images/ba5d7d021c81e157.jpg",
             "data/images/4d970674d8f76546.jpg"
           ]
+        },
+        {
+          "id": "ex_iysdhpqu",
+          "name": "Опускания с отрицательным углом с резинкой",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5265bac658da3b46.jpg",
+            "data/images/0f45c431d041c2cb.jpg"
+          ]
         }
       ],
       "complexes": [
