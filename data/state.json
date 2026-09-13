@@ -3634,6 +3634,16 @@
             "data/images/feeee84668dcae1f.jpg",
             "data/images/918b4fc116619f6d.jpg"
           ]
+        },
+        {
+          "id": "ex_pmk4qp5w",
+          "name": "Приседания",
+          "description": "Опускание вниз легко и плавно",
+          "equipment": [],
+          "images": [
+            "data/images/31f4fc60e251a280.jpg",
+            "data/images/bd69264258c742dd.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4132,7 +4142,7 @@
           "enabled": true,
           "items": [
             {
-              "id": "ci_fhasj5lq",
+              "id": "ci_ljd2z4d6",
               "exerciseId": "ex_bxgavjma"
             },
             {
@@ -4588,6 +4598,32 @@
             {
               "id": "ci_1b8lyz78",
               "exerciseId": "ex_p5bbfcyz"
+            }
+          ]
+        },
+        {
+          "id": "cx_1bob2xlz",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_fjgh4iso",
+              "exerciseId": "ex_grlr6ldx"
+            },
+            {
+              "id": "ci_cr4eegui",
+              "exerciseId": "ex_bqmj6eou"
+            },
+            {
+              "id": "ci_oaz97e00",
+              "exerciseId": "ex_hu5hzc6o"
+            },
+            {
+              "id": "ci_wiircbut",
+              "exerciseId": "ex_3mp71oli"
+            },
+            {
+              "id": "ci_vmwqsyns",
+              "exerciseId": "ex_pmk4qp5w"
             }
           ]
         }
@@ -9758,7 +9794,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "long_band"
-  ]
+  "lastEquipment": []
 }
