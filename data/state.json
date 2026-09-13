@@ -666,6 +666,32 @@
             "data/images/bdcddd1637dcb242.jpg",
             "data/images/1d02d3829baae84b.jpg"
           ]
+        },
+        {
+          "id": "ex_f7whikcy",
+          "name": "Выпады на подъёме",
+          "description": "Задняя нога прямая",
+          "equipment": [
+            "mat",
+            "block"
+          ],
+          "images": [
+            "data/images/ae4bd62c2934790a.jpg",
+            "data/images/1f95c28358758345.jpg"
+          ]
+        },
+        {
+          "id": "ex_kly967m2",
+          "name": "Подошвенное сгибание",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/66204dc06fa16267.jpg",
+            "data/images/b06ab1e26d6f3ade.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7800,6 +7826,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
