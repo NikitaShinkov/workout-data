@@ -3982,6 +3982,30 @@
             "data/images/be9dbc2fd78c7733.jpg",
             "data/images/7bb4411086b33360.jpg"
           ]
+        },
+        {
+          "id": "ex_tro0ppde",
+          "name": "Ротация с отрицательным углом",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6db28d268ed15b1e.jpg",
+            "data/images/bb9870b6c1ea5eae.jpg"
+          ]
+        },
+        {
+          "id": "ex_w29hngdw",
+          "name": "Ротация с отрицательным углом на одной ноге",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ba5d7d021c81e157.jpg",
+            "data/images/4d970674d8f76546.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10262,5 +10286,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
