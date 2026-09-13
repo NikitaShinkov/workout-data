@@ -9246,6 +9246,19 @@
             "data/images/34351b889917b479.jpg",
             "data/images/ecaa0ccbdaf536e4.jpg"
           ]
+        },
+        {
+          "id": "ex_dfv112x7",
+          "name": "Растягивание",
+          "description": "В начальном положении руки спереди и ладони внутрь, сводим руки назад и ладони выкручиваем наружу. И потом движение в обратную сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/924857bd8cdddc24.jpg",
+            "data/images/5fc0d732c9e01f8d.jpg",
+            "data/images/8fc8352bcdc80e17.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9394,6 +9407,32 @@
             {
               "id": "ci_ctotmik5",
               "exerciseId": "ex_eqzwdix5"
+            }
+          ]
+        },
+        {
+          "id": "cx_hrrr5vj0",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_3i47ml9j",
+              "exerciseId": "ex_0dgrz8wl"
+            },
+            {
+              "id": "ci_olumwr08",
+              "exerciseId": "ex_w5uoyz7x"
+            },
+            {
+              "id": "ci_fxxnnzuh",
+              "exerciseId": "ex_eons3k87"
+            },
+            {
+              "id": "ci_xrt1sqev",
+              "exerciseId": "ex_1qygx9x7"
+            },
+            {
+              "id": "ci_3g3yoerb",
+              "exerciseId": "ex_3bxydvn5"
             }
           ]
         }
@@ -9596,7 +9635,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band"
+    "mat"
   ]
 }
