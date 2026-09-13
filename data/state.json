@@ -3586,6 +3586,16 @@
             "data/images/581a7b0154821d2f.jpg",
             "data/images/4d7e883660436bb3.jpg"
           ]
+        },
+        {
+          "id": "ex_grlr6ldx",
+          "name": "Приземления",
+          "description": "Приземления",
+          "equipment": [],
+          "images": [
+            "data/images/5acb78ecba651259.jpg",
+            "data/images/1e98709d27e9146c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9710,7 +9720,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
