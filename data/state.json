@@ -396,6 +396,18 @@
             "data/images/b7539d8e89bf539f.jpg",
             "data/images/4d90e3a306dcae8f.jpg"
           ]
+        },
+        {
+          "id": "ex_pv4jrdou",
+          "name": "МФР",
+          "description": "Берём рукой большой палец. Выполняем сгибания пальца и уродим голеностопный сустав во внутреннюю ротацию",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/65cd104af57aac7f.jpg",
+            "data/images/a8b584c00c011630.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7426,6 +7438,6 @@
     }
   },
   "lastEquipment": [
-    "chair"
+    "mat"
   ]
 }
