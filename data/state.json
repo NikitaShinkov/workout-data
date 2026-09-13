@@ -4176,6 +4176,20 @@
             "data/images/56fe68a6a3682ea3.jpg",
             "data/images/9d9f27b97ccfc4f4.jpg"
           ]
+        },
+        {
+          "id": "ex_u5oqtmbc",
+          "name": "Прыжок на одну ногу и отбегаем назад",
+          "description": "Максимально мягко приземляемся на ногу в конце прыжка",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/475adcd58650447e.jpg",
+            "data/images/c44e5207bb013e7d.jpg",
+            "data/images/b174ec230e042fb0.jpg",
+            "data/images/ee0caca221b97e26.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -5364,6 +5378,32 @@
             {
               "id": "ci_n2f2903d",
               "exerciseId": "ex_0edvy0b3"
+            }
+          ]
+        },
+        {
+          "id": "cx_i35i2rdj",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_gcexglmq",
+              "exerciseId": "ex_1vba772d"
+            },
+            {
+              "id": "ci_atv1p1aq",
+              "exerciseId": "ex_fsalean7"
+            },
+            {
+              "id": "ci_n0wpmw3n",
+              "exerciseId": "ex_crvcgf1p"
+            },
+            {
+              "id": "ci_fyij0pvg",
+              "exerciseId": "ex_fxbj9bdw"
+            },
+            {
+              "id": "ci_sfilr9bv",
+              "exerciseId": "ex_u5oqtmbc"
             }
           ]
         }
