@@ -8187,6 +8187,18 @@
             "data/images/753f4e273aae3a72.jpg",
             "data/images/b2f6a0bfffdf5e72.jpg"
           ]
+        },
+        {
+          "id": "ex_623x19mf",
+          "name": "Скручивания грудного отдела",
+          "description": "Для стабилизации поясницы верхняя рука сзади хватается за согнутую нижнюю ногу.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/3fdfee4de40b6f31.jpg",
+            "data/images/67707538b971c27c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8413,6 +8425,32 @@
             {
               "id": "ci_qtjtdnwu",
               "exerciseId": "ex_9dn9r5w6"
+            }
+          ]
+        },
+        {
+          "id": "cx_8cexz6p2",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_93op2s6p",
+              "exerciseId": "ex_p335bd47"
+            },
+            {
+              "id": "ci_aalosu3m",
+              "exerciseId": "ex_xjrzrepb"
+            },
+            {
+              "id": "ci_o61e8uyn",
+              "exerciseId": "ex_emkaow6g"
+            },
+            {
+              "id": "ci_q6aytox1",
+              "exerciseId": "ex_2hh5wdnm"
+            },
+            {
+              "id": "ci_m359gw7f",
+              "exerciseId": "ex_noil40g2"
             }
           ]
         }
