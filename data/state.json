@@ -590,6 +590,18 @@
             "data/images/0d28853ebfe43fbf.jpg",
             "data/images/e0503c295eef8504.jpg"
           ]
+        },
+        {
+          "id": "ex_wtwi7i3t",
+          "name": "Подъём веса",
+          "description": "Ноги согнуты в коленях. Поднимаем вес с отрывом пяток",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/10f11795c459179f.jpg",
+            "data/images/fa4decde2f5147c0.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7698,6 +7710,6 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "chair"
   ]
 }
