@@ -499,6 +499,31 @@
             "data/images/92784d5633501401.jpg",
             "data/images/91722ae969365d0a.jpg"
           ]
+        },
+        {
+          "id": "ex_t6d35oy9",
+          "name": "Переходы",
+          "description": "Сначала ноги в стороны, потом обратно в центр. Можно использовать в качестве разминки",
+          "equipment": [],
+          "images": [
+            "data/images/c14140a6c4d6d48f.jpg",
+            "data/images/c516a7b787c2b9e2.jpg",
+            "data/images/9c5f8216b2dc7ed4.jpg",
+            "data/images/15edaa6f15112ec7.jpg"
+          ]
+        },
+        {
+          "id": "ex_3qdhiq7k",
+          "name": "Перекаты",
+          "description": "Сначала перекатываемся в одну сторону, потом в другую. Можно использовать в качестве разминки. Ротация за счёт ТБС, не подключаем спину.",
+          "equipment": [],
+          "images": [
+            "data/images/a0d64fb0e68d086b.jpg",
+            "data/images/a6df3d0dc614212b.jpg",
+            "data/images/e52f3dd46bc86c9e.jpg",
+            "data/images/5c2e005cb9676772.jpg",
+            "data/images/7d0ae766f16c5969.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -681,6 +706,32 @@
             {
               "id": "ci_6sghaz6c",
               "exerciseId": "ex_s8no58p7"
+            }
+          ]
+        },
+        {
+          "id": "cx_410guwqe",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_jc6fn52e",
+              "exerciseId": "ex_y86flp5p"
+            },
+            {
+              "id": "ci_csmquuec",
+              "exerciseId": "ex_w45ktc2t"
+            },
+            {
+              "id": "ci_wv0ew8me",
+              "exerciseId": "ex_simg1axy"
+            },
+            {
+              "id": "ci_99cc7nk6",
+              "exerciseId": "ex_t6d35oy9"
+            },
+            {
+              "id": "ci_la9x7mmd",
+              "exerciseId": "ex_3qdhiq7k"
             }
           ]
         }
@@ -7554,8 +7605,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat",
-    "short_band"
-  ]
+  "lastEquipment": []
 }
