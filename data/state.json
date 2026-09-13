@@ -8278,6 +8278,45 @@
             "data/images/446af3081f0ba207.jpg",
             "data/images/4b257b9c2037c49d.jpg"
           ]
+        },
+        {
+          "id": "ex_qfdbisy5",
+          "name": "Наклоны с резинкой сбоку",
+          "description": "Движение выполняется в ТБС. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/7a579a7122c060f9.jpg",
+            "data/images/ce14cb0f038dec8a.jpg"
+          ]
+        },
+        {
+          "id": "ex_n0zhil86",
+          "name": "Наклоны с резинкой спереди с одной рукой",
+          "description": "Движение выполняется в ТБС. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/eb668d68f1ff4d9b.jpg",
+            "data/images/548dbb8498155ce1.jpg"
+          ]
+        },
+        {
+          "id": "ex_aq0zsvbg",
+          "name": "Наклоны с резинкой сзади с одной рукой",
+          "description": "Движение выполняется в ТБС. Держим центр, не скручиваемся в пояснице",
+          "equipment": [
+            "long_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/34eb7a5d6b2a9bfa.jpg",
+            "data/images/6a70491d19c5b362.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8556,6 +8595,32 @@
             {
               "id": "ci_e7w76gfb",
               "exerciseId": "ex_00bdx5nf"
+            }
+          ]
+        },
+        {
+          "id": "cx_d36i8adf",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_qiw4iypj",
+              "exerciseId": "ex_9pudqhsu"
+            },
+            {
+              "id": "ci_txe7xpu5",
+              "exerciseId": "ex_9qllv68m"
+            },
+            {
+              "id": "ci_u3rai92r",
+              "exerciseId": "ex_qfdbisy5"
+            },
+            {
+              "id": "ci_eb238ky2",
+              "exerciseId": "ex_n0zhil86"
+            },
+            {
+              "id": "ci_3xuclozi",
+              "exerciseId": "ex_aq0zsvbg"
             }
           ]
         }
