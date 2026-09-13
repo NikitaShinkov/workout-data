@@ -7892,6 +7892,54 @@
             "data/images/c1f59a31b97490cc.jpg",
             "data/images/3f2db7d8f8d49abf.jpg"
           ]
+        },
+        {
+          "id": "ex_0ja5p8dl",
+          "name": "Поднятие руки на четвереньках",
+          "description": "Удерживаем нейтральное положение поясницы и головы. \nВ момент поднятия руке не допускать смещение центра. вес тела равномерно распределяется между тремя точками опоры",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c0c8bc72bcf7d47e.jpg",
+            "data/images/42920a17e9559ddb.jpg"
+          ]
+        },
+        {
+          "id": "ex_xdhd9x9b",
+          "name": "Отведение ноги на четвереньках",
+          "description": "Удерживаем нейтральное положение поясницы и головы. \nНога отводится скольжением по полу, без поднятия. При отведении ноги не прогибаться в пояснице.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/891f979ae34fcc69.jpg",
+            "data/images/0f124bb360f10236.jpg"
+          ]
+        },
+        {
+          "id": "ex_hmn5g2zq",
+          "name": "Отведение ноги и поднятие руки на четвереньках",
+          "description": "Удерживаем нейтральное положение поясницы и головы. \nВысоко руку не поднимаем",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4fcd5430fe24fbb4.jpg",
+            "data/images/42b51fc24e1fa8b5.jpg"
+          ]
+        },
+        {
+          "id": "ex_d17ews05",
+          "name": "Поднятие руки и ноги на четвереньках",
+          "description": "Удерживаем нейтральное положение поясницы и головы. \nПоднимаем руку и ногу, но с контролем центра",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fe19b418f07f4be4.jpg",
+            "data/images/8a4c18abc7c15e2c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -8014,6 +8062,32 @@
             {
               "id": "ci_i7edmz64",
               "exerciseId": "ex_kuvn909t"
+            }
+          ]
+        },
+        {
+          "id": "cx_qgboty44",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_1pcmmtg4",
+              "exerciseId": "ex_d7nb0eu5"
+            },
+            {
+              "id": "ci_9cpj4g5q",
+              "exerciseId": "ex_0ja5p8dl"
+            },
+            {
+              "id": "ci_xmqy9l02",
+              "exerciseId": "ex_xdhd9x9b"
+            },
+            {
+              "id": "ci_xpxibp9w",
+              "exerciseId": "ex_hmn5g2zq"
+            },
+            {
+              "id": "ci_h3i00sb4",
+              "exerciseId": "ex_d17ews05"
             }
           ]
         }
