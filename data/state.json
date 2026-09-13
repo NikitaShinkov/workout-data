@@ -4038,7 +4038,6 @@
           "name": "Выпады с резинкой на одной ноге",
           "description": "Контролируем разгибание",
           "equipment": [
-            "mat",
             "long_band"
           ],
           "images": [
@@ -4049,13 +4048,27 @@
         {
           "id": "ex_ueve5zlu",
           "name": "Выпады с резинкой на одной ноге",
-          "description": "Сгибаем в максимальной амлитуде (колено выходит максимально вперёд), в конце движения тормозим",
+          "description": "Сгибаем в максимальной амплитуде (колено выходит максимально вперёд), в конце движения тормозим",
           "equipment": [
-            "mat"
+            "long_band"
           ],
           "images": [
             "data/images/2eef8bf225be9a5b.jpg",
             "data/images/24908aba94ee39cd.jpg"
+          ]
+        },
+        {
+          "id": "ex_846pi6lw",
+          "name": "Опускания и присед внизу",
+          "description": "Опускание вниз до максимально возможного положения и в нём переход в присед. Спина прямая",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e3e6eaea75ed62c1.jpg",
+            "data/images/758c931d47ab8b12.jpg",
+            "data/images/e282f113982b9a8e.jpg",
+            "data/images/56ce98ed204befb7.jpg"
           ]
         }
       ],
@@ -10364,7 +10377,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band"
+    "mat"
   ]
 }
