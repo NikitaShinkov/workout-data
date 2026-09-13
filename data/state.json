@@ -9163,6 +9163,19 @@
             "data/images/4b2a281d24344124.jpg",
             "data/images/24cc5c7e0ed440cd.jpg"
           ]
+        },
+        {
+          "id": "ex_eqzwdix5",
+          "name": "Растягивание",
+          "description": "Закидываем руку за спину для замка. Поочерёдно меняем диагональ. В трапеции не должно быть перегрузки",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4f3a3b7658c84e0a.jpg",
+            "data/images/6161a94ff718ae43.jpg",
+            "data/images/ae1de9ae5d0e123c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9285,6 +9298,32 @@
             {
               "id": "ci_3fjv9jhh",
               "exerciseId": "ex_q2ecjaf5"
+            }
+          ]
+        },
+        {
+          "id": "cx_pmadghpt",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_cxlpmy3k",
+              "exerciseId": "ex_q9krmi6h"
+            },
+            {
+              "id": "ci_j2mrmfa4",
+              "exerciseId": "ex_0mv6x9if"
+            },
+            {
+              "id": "ci_xj4lyq70",
+              "exerciseId": "ex_1e9nafq8"
+            },
+            {
+              "id": "ci_o8oxxi9r",
+              "exerciseId": "ex_iu945nc9"
+            },
+            {
+              "id": "ci_ctotmik5",
+              "exerciseId": "ex_eqzwdix5"
             }
           ]
         }
