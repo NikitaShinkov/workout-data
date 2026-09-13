@@ -221,6 +221,58 @@
             "data/images/cda6f20a3f2be269.jpg",
             "data/images/38d8bacdba4bf67d.jpg"
           ]
+        },
+        {
+          "id": "ex_9hik7gcs",
+          "name": "Сгибание и наружная ротация",
+          "description": "Задняя большеберцовая мышца",
+          "equipment": [
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/627d3f2fb93693b5.jpg",
+            "data/images/f9989e539c6d7022.jpg"
+          ]
+        },
+        {
+          "id": "ex_1uzclwgu",
+          "name": "Наружная ротация",
+          "description": "Одна нога опорная, вторая расслаблена",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/cfb1949f760c0788.jpg",
+            "data/images/4ce2ba11b3adde7f.jpg"
+          ]
+        },
+        {
+          "id": "ex_s4rx3ojb",
+          "name": "Наружная ротация",
+          "description": "",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/097dc56fc77963f0.jpg",
+            "data/images/187290fa22e6d477.jpg"
+          ]
+        },
+        {
+          "id": "ex_66ob49zi",
+          "name": "Короткие шагания",
+          "description": "Колени не заваливаем. Шагаем вбок и вперёд, потом обратно назад и вбок",
+          "equipment": [
+            "short_band"
+          ],
+          "images": [
+            "data/images/0e0291231e30f5a6.jpg",
+            "data/images/c130dbfe787cf5ef.jpg",
+            "data/images/026cfbf2723f43d6.jpg",
+            "data/images/eb645639fe2f3fa4.jpg",
+            "data/images/a599c295ea225c9b.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7173,7 +7225,6 @@
     }
   },
   "lastEquipment": [
-    "short_band",
-    "chair"
+    "short_band"
   ]
 }
