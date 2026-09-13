@@ -3764,6 +3764,16 @@
             "data/images/37b4937c5e3cdc50.jpg",
             "data/images/357ec0323f55933f.jpg"
           ]
+        },
+        {
+          "id": "ex_pc7dhqdc",
+          "name": "Полуприсед",
+          "description": "Заднюю ногу пытаемся стабилизируем прямой или только немного сгибать",
+          "equipment": [],
+          "images": [
+            "data/images/2632faed7b947fe5.jpg",
+            "data/images/87914a5c8aa76547.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9966,7 +9976,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
