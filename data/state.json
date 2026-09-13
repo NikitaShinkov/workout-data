@@ -208,6 +208,19 @@
             "data/images/7007bc5c12bbc2c6.jpg",
             "data/images/e8b7bc0197131dcb.jpg"
           ]
+        },
+        {
+          "id": "ex_ysw9y4uu",
+          "name": "Разгибание и наружная ротация",
+          "description": "Передняя большеберцовая мышца",
+          "equipment": [
+            "short_band",
+            "chair"
+          ],
+          "images": [
+            "data/images/cda6f20a3f2be269.jpg",
+            "data/images/38d8bacdba4bf67d.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7160,6 +7173,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "short_band",
+    "chair"
   ]
 }
