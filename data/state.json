@@ -9176,6 +9176,20 @@
             "data/images/6161a94ff718ae43.jpg",
             "data/images/ae1de9ae5d0e123c.jpg"
           ]
+        },
+        {
+          "id": "ex_0dgrz8wl",
+          "name": "Растягивание",
+          "description": "Закидываем верхнюю руку за спину и потом возвращаем её в обратное положение",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/228b4be58be0a93a.jpg",
+            "data/images/b44abdff0adb4fe4.jpg",
+            "data/images/c9977beea60d17d7.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9526,6 +9540,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
