@@ -3704,6 +3704,18 @@
             "data/images/5b1bad12d952414b.jpg",
             "data/images/e4e9a203251d344f.jpg"
           ]
+        },
+        {
+          "id": "ex_225ernu0",
+          "name": "Опускания с отрицательным углом",
+          "description": "Стопы параллельны друг другу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9d86b52d148fe40c.jpg",
+            "data/images/40e3951868e4e849.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9881,6 +9893,6 @@
     }
   },
   "lastEquipment": [
-    "wall"
+    "mat"
   ]
 }
