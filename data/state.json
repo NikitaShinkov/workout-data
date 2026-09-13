@@ -4138,6 +4138,44 @@
             "data/images/8c400613a6ceb0b2.jpg",
             "data/images/c164912088996566.jpg"
           ]
+        },
+        {
+          "id": "ex_fsalean7",
+          "name": "Прыжки на одной ноге на месте",
+          "description": "Прыгаем на ноге, которая дальше от резинки",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/e66aaf7fabad8387.jpg",
+            "data/images/b2e0fe45cbf374fb.jpg"
+          ]
+        },
+        {
+          "id": "ex_crvcgf1p",
+          "name": "Прыжки на одной ноге на месте",
+          "description": "Прыгаем на ноге, которая ближе к резинки",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/646e9bd409c5e0e6.jpg",
+            "data/images/2ca01ed6624d9612.jpg"
+          ]
+        },
+        {
+          "id": "ex_fxbj9bdw",
+          "name": "Прыжки на одной ноге на месте",
+          "description": "Прыгаем на ноге, которая ближе к резинки",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/4b43e604fc20f8ed.jpg",
+            "data/images/892720efb40dbbee.jpg",
+            "data/images/56fe68a6a3682ea3.jpg",
+            "data/images/9d9f27b97ccfc4f4.jpg"
+          ]
         }
       ],
       "complexes": [
