@@ -3656,6 +3656,54 @@
             "data/images/f56df0fbc8b38bcf.jpg",
             "data/images/6fdb1fdc0c684a60.jpg"
           ]
+        },
+        {
+          "id": "ex_67rdv5pm",
+          "name": "Опускания у стены",
+          "description": "До стены расстояние в одну стопу. Бёдра ровно прямо и стопы внутри",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/d440091d09a6f3eb.jpg",
+            "data/images/31d46ddc806f2438.jpg"
+          ]
+        },
+        {
+          "id": "ex_t7edjdak",
+          "name": "Опускания у стены",
+          "description": "До стены расстояние в одну стопу. Бёдра наружу и стопы наружу",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/619dea9c21d1eb43.jpg",
+            "data/images/29d721807cae7a4a.jpg"
+          ]
+        },
+        {
+          "id": "ex_kn8uvay9",
+          "name": "Опускания у стены на одной ноге",
+          "description": "До стены расстояние в одну стопу или половина стопы",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/662363a5611e99d2.jpg",
+            "data/images/65b57e4b65c79cce.jpg"
+          ]
+        },
+        {
+          "id": "ex_36z9srgv",
+          "name": "Опускания у стены на одной ноге",
+          "description": "До стены расстояние в одну стопу или половина стопы. Не опираемся руками на стену",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/5b1bad12d952414b.jpg",
+            "data/images/e4e9a203251d344f.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -4636,6 +4684,32 @@
             {
               "id": "ci_vmwqsyns",
               "exerciseId": "ex_pmk4qp5w"
+            }
+          ]
+        },
+        {
+          "id": "cx_rwnfokc8",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_c25z69eq",
+              "exerciseId": "ex_6zi1n3cc"
+            },
+            {
+              "id": "ci_gx6i83nm",
+              "exerciseId": "ex_67rdv5pm"
+            },
+            {
+              "id": "ci_d3u1pmpq",
+              "exerciseId": "ex_t7edjdak"
+            },
+            {
+              "id": "ci_8i6bugpl",
+              "exerciseId": "ex_kn8uvay9"
+            },
+            {
+              "id": "ci_pxm9txg1",
+              "exerciseId": "ex_36z9srgv"
             }
           ]
         }
