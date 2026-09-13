@@ -408,6 +408,58 @@
             "data/images/65cd104af57aac7f.jpg",
             "data/images/a8b584c00c011630.jpg"
           ]
+        },
+        {
+          "id": "ex_9pngnzfv",
+          "name": "Перенос тела из стороны в сторону",
+          "description": "Вставляем резинку между первым и вторым пальцем. Помимо переноса из стороны в сторону ещё можно повставать на носки",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/b5ad3616b19cfe2a.jpg",
+            "data/images/b0a1abb60fd915fd.jpg"
+          ]
+        },
+        {
+          "id": "ex_c4t01dac",
+          "name": "Сгибания большого пальца",
+          "description": "",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/9685616e241fda43.jpg",
+            "data/images/31aa571b900ee57b.jpg"
+          ]
+        },
+        {
+          "id": "ex_x28pwgvz",
+          "name": "Сгибания большого пальца",
+          "description": "Движения по кругу, подгребающие под стопу",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/c61b9bcfad6250d8.jpg",
+            "data/images/80dcbc74f17c53d0.jpg"
+          ]
+        },
+        {
+          "id": "ex_s8no58p7",
+          "name": "Сгибания большого пальца",
+          "description": "Резинка обтянута за пяткой и за передними пальцами восьмёркой. Движения по кругу, подгребающие под стопу",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/151797dc263c8f9b.jpg",
+            "data/images/8728e5a91452a762.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -564,6 +616,32 @@
             {
               "id": "ci_hn95qy5q",
               "exerciseId": "ex_rwoy8l5g"
+            }
+          ]
+        },
+        {
+          "id": "cx_aj0g8ljm",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_sfdh5729",
+              "exerciseId": "ex_pv4jrdou"
+            },
+            {
+              "id": "ci_2iuiumi2",
+              "exerciseId": "ex_9pngnzfv"
+            },
+            {
+              "id": "ci_j9wj58io",
+              "exerciseId": "ex_c4t01dac"
+            },
+            {
+              "id": "ci_zoin5zsy",
+              "exerciseId": "ex_x28pwgvz"
+            },
+            {
+              "id": "ci_6sghaz6c",
+              "exerciseId": "ex_s8no58p7"
             }
           ]
         }
@@ -7438,6 +7516,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "short_band"
   ]
 }
