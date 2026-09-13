@@ -4126,6 +4126,18 @@
             "data/images/355d751a986d3183.jpg",
             "data/images/060865fff8f891aa.jpg"
           ]
+        },
+        {
+          "id": "ex_1vba772d",
+          "name": "Бег на месте",
+          "description": "",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/8c400613a6ceb0b2.jpg",
+            "data/images/c164912088996566.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10484,5 +10496,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "long_band"
+  ]
 }
