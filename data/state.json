@@ -3644,6 +3644,18 @@
             "data/images/31f4fc60e251a280.jpg",
             "data/images/bd69264258c742dd.jpg"
           ]
+        },
+        {
+          "id": "ex_6zi1n3cc",
+          "name": "Опускания у стены",
+          "description": "До стены расстояние в одну стопу. Ноги вместе",
+          "equipment": [
+            "wall"
+          ],
+          "images": [
+            "data/images/f56df0fbc8b38bcf.jpg",
+            "data/images/6fdb1fdc0c684a60.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9794,5 +9806,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "wall"
+  ]
 }
