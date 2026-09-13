@@ -159,6 +159,55 @@
             "data/images/74e2ae34f76a6457.jpg",
             "data/images/2d713b7cf703c0d6.jpg"
           ]
+        },
+        {
+          "id": "ex_o9phcfk9",
+          "name": "МФР",
+          "description": "Давим на пяточную кость",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/476ee9badc28fa50.jpg",
+            "data/images/13d9d21990a2e00a.jpg"
+          ]
+        },
+        {
+          "id": "ex_b7xxymi6",
+          "name": "Разгибания",
+          "description": "Очень плавно динамически растягиваем",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/68f76a188a5a0a01.jpg",
+            "data/images/8c3d1bc235fb0d3b.jpg"
+          ]
+        },
+        {
+          "id": "ex_j12jrsxd",
+          "name": "Функциональный массаж",
+          "description": "Одной рукой зажимаем на голени место крепления передней большеберцовой мышцы.\nДругой рукой выполняем со стопой движение в противоположную сторону: сгибание и с внутренней ротацией — стопа вниз и наружу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6105fcd24d5e09a7.jpg",
+            "data/images/5a79387144dd46fe.jpg"
+          ]
+        },
+        {
+          "id": "ex_mahkvdhl",
+          "name": "Функциональный массаж",
+          "description": "Одной рукой зажимаем на голени место крепления передней мышцы разгибателя стопы.\nДругой рукой выполняем со стопой движение в противоположную сторону: сгибание и с наружной ротацией — стопа вниз и внутрь",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7007bc5c12bbc2c6.jpg",
+            "data/images/e8b7bc0197131dcb.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -211,6 +260,32 @@
             {
               "id": "ci_kyht2kz9",
               "exerciseId": "ex_xdxs6l00"
+            }
+          ]
+        },
+        {
+          "id": "cx_51cq6hfj",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_sl4cc1zk",
+              "exerciseId": "ex_lv4hm31e"
+            },
+            {
+              "id": "ci_smi9jq4f",
+              "exerciseId": "ex_o9phcfk9"
+            },
+            {
+              "id": "ci_w292d1pa",
+              "exerciseId": "ex_b7xxymi6"
+            },
+            {
+              "id": "ci_8vdttepg",
+              "exerciseId": "ex_j12jrsxd"
+            },
+            {
+              "id": "ci_17jima8u",
+              "exerciseId": "ex_mahkvdhl"
             }
           ]
         }
@@ -7085,7 +7160,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "mat"
   ]
 }
