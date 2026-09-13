@@ -777,6 +777,16 @@
             "data/images/ce1302d486fb05ed.jpg",
             "data/images/e4ca7c466d39cfd1.jpg"
           ]
+        },
+        {
+          "id": "ex_29ua9jaa",
+          "name": "Сенсомоторный контроль",
+          "description": "Руки выпрямлены. Одна нога поднята. Крутим головой медленно влево вправо, удерживая равновесие",
+          "equipment": [],
+          "images": [
+            "data/images/9a6709190c4b53b2.jpg",
+            "data/images/1e929d26cedc1c94.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -7962,7 +7972,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "weight"
-  ]
+  "lastEquipment": []
 }
