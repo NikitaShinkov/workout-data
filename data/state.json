@@ -335,6 +335,18 @@
             "data/images/933fb22f61ba09f4.jpg",
             "data/images/f25c6f6103476c66.jpg"
           ]
+        },
+        {
+          "id": "ex_ck795s1s",
+          "name": "Сгибания",
+          "description": "В начале стоим на носках на опоре. Затем одну ногу опускаем на пол. Потом опять поднимаемся на носки",
+          "equipment": [
+            "block"
+          ],
+          "images": [
+            "data/images/032913481491d26a.jpg",
+            "data/images/497f7372e0b16abe.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -439,6 +451,32 @@
             {
               "id": "ci_nt6jpyzg",
               "exerciseId": "ex_66ob49zi"
+            }
+          ]
+        },
+        {
+          "id": "cx_yogjs1ti",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_xcyh76wp",
+              "exerciseId": "ex_g6ngnwbd"
+            },
+            {
+              "id": "ci_pzn2hnc9",
+              "exerciseId": "ex_20alnpbb"
+            },
+            {
+              "id": "ci_o9qu9xn0",
+              "exerciseId": "ex_iuwv3ou9"
+            },
+            {
+              "id": "ci_n150oe3l",
+              "exerciseId": "ex_i8hhm70q"
+            },
+            {
+              "id": "ci_hepp6p1b",
+              "exerciseId": "ex_eoffjk8q"
             }
           ]
         }
@@ -7313,6 +7351,6 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "block"
   ]
 }
