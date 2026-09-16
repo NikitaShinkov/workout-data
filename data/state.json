@@ -10537,6 +10537,46 @@
             "data/images/2b9dab28db2e5318.jpg",
             "data/images/6f27b5f75654130c.jpg"
           ]
+        },
+        {
+          "id": "ex_gwcvp3zc",
+          "name": "Отшагивания вперёд и назад со стабильным плечом",
+          "description": "Отшагиваем назад от резинки с удержанием повёрнутой руки, потом обратно шагаем вперед к резинке",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/e94e826543947c3f.jpg",
+            "data/images/62724c82d55f1b63.jpg",
+            "data/images/726ca50d995b2b91.jpg",
+            "data/images/14e11f62b18449d3.jpg"
+          ]
+        },
+        {
+          "id": "ex_r8pr26q8",
+          "name": "Отшагивания вбок со стабильным плечом",
+          "description": "Отшагиваем вбок от резинки с удержанием повёрнутой руки, потом обратно шагаем к рещзинке",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/c83fd8a0c603ef88.jpg",
+            "data/images/dcac6732373b2dd2.jpg",
+            "data/images/6cb22430ceb4e479.jpg",
+            "data/images/f18191f294097238.jpg"
+          ]
+        },
+        {
+          "id": "ex_kewoc71k",
+          "name": "Разворот туловища относительно плеча со стабильным плечом",
+          "description": "Поворачиваем с шагом туловище относительно неподвижной согнутой руки",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/2f6d9b6638cebd6e.jpg",
+            "data/images/6890d4857b5a1f58.jpg"
+          ]
         }
       ],
       "complexes": [
