@@ -10517,32 +10517,6 @@
       ],
       "complexes": [
         {
-          "id": "cx_k6hjd02i",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_079m3al0",
-              "exerciseId": "ex_0m8cx9o3"
-            },
-            {
-              "id": "ci_d39090gs",
-              "exerciseId": "ex_vayca6jn"
-            },
-            {
-              "id": "ci_qqb1n0n5",
-              "exerciseId": "ex_zf6g5q18"
-            },
-            {
-              "id": "ci_t1vgq788",
-              "exerciseId": "ex_7cgcvb9g"
-            },
-            {
-              "id": "ci_dsbqzs80",
-              "exerciseId": "ex_b81ovp7p"
-            }
-          ]
-        },
-        {
           "id": "cx_cm577ira",
           "enabled": true,
           "items": [
@@ -10567,10 +10541,36 @@
               "exerciseId": "ex_db4h0ctn"
             }
           ]
+        },
+        {
+          "id": "cx_k6hjd02i",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_079m3al0",
+              "exerciseId": "ex_0m8cx9o3"
+            },
+            {
+              "id": "ci_d39090gs",
+              "exerciseId": "ex_vayca6jn"
+            },
+            {
+              "id": "ci_qqb1n0n5",
+              "exerciseId": "ex_zf6g5q18"
+            },
+            {
+              "id": "ci_t1vgq788",
+              "exerciseId": "ex_7cgcvb9g"
+            },
+            {
+              "id": "ci_dsbqzs80",
+              "exerciseId": "ex_b81ovp7p"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-14",
+      "scheduleStartDate": "2026-09-15",
       "intervalDays": 1
     }
   },
