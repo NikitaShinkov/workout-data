@@ -9305,28 +9305,6 @@
       ],
       "complexes": [
         {
-          "id": "cx_mbcp9rg0",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_3991xw9p",
-              "exerciseId": "ex_9a88ztl7"
-            },
-            {
-              "id": "ci_9ocate4k",
-              "exerciseId": "ex_nbrdtqc7"
-            },
-            {
-              "id": "ci_fvca4bf0",
-              "exerciseId": "ex_o0sb6s55"
-            },
-            {
-              "id": "ci_0ct9oxcc",
-              "exerciseId": "ex_14wj37xe"
-            }
-          ]
-        },
-        {
           "id": "cx_04puoq5l",
           "enabled": true,
           "items": [
@@ -9375,6 +9353,28 @@
             {
               "id": "ci_t5hfn27j",
               "exerciseId": "ex_i0v2rq4b"
+            }
+          ]
+        },
+        {
+          "id": "cx_mbcp9rg0",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_3991xw9p",
+              "exerciseId": "ex_9a88ztl7"
+            },
+            {
+              "id": "ci_9ocate4k",
+              "exerciseId": "ex_nbrdtqc7"
+            },
+            {
+              "id": "ci_fvca4bf0",
+              "exerciseId": "ex_o0sb6s55"
+            },
+            {
+              "id": "ci_0ct9oxcc",
+              "exerciseId": "ex_14wj37xe"
             }
           ]
         },
@@ -10629,6 +10629,32 @@
             {
               "id": "ci_dsbqzs80",
               "exerciseId": "ex_b81ovp7p"
+            }
+          ]
+        },
+        {
+          "id": "cx_7ewt08jm",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_37tk3wpw",
+              "exerciseId": "ex_o14qadhu"
+            },
+            {
+              "id": "ci_6qyjsqr2",
+              "exerciseId": "ex_mpc25vhp"
+            },
+            {
+              "id": "ci_6avxkh9q",
+              "exerciseId": "ex_gwcvp3zc"
+            },
+            {
+              "id": "ci_nbqsdk8e",
+              "exerciseId": "ex_r8pr26q8"
+            },
+            {
+              "id": "ci_58szrq4d",
+              "exerciseId": "ex_kewoc71k"
             }
           ]
         }
