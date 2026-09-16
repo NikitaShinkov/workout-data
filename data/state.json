@@ -10522,8 +10522,20 @@
             "long_band"
           ],
           "images": [
-            "data/images/a9291d634531bcc0.jpg",
-            "data/images/026297456e842f89.jpg"
+            "data/images/026297456e842f89.jpg",
+            "data/images/a9291d634531bcc0.jpg"
+          ]
+        },
+        {
+          "id": "ex_mpc25vhp",
+          "name": "Наружная ротация",
+          "description": "Выполняется в плечевом суставе. Не подключаем спину, шею и трапецию. Если сложно удерживаться положение плеча, можно ладонь второй руки положить сверху на плечо",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/2b9dab28db2e5318.jpg",
+            "data/images/6f27b5f75654130c.jpg"
           ]
         }
       ],
