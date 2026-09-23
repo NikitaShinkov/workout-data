@@ -1264,7 +1264,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-17",
+      "scheduleStartDate": "2026-09-18",
       "intervalDays": 1
     },
     "knee": {
@@ -5409,7 +5409,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-17",
+      "scheduleStartDate": "2026-09-18",
       "intervalDays": 1
     },
     "hip": {
@@ -9624,7 +9624,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-18",
+      "scheduleStartDate": "2026-09-19",
       "intervalDays": 1
     },
     "back": {
