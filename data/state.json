@@ -10543,6 +10543,18 @@
             "data/images/2f6d9b6638cebd6e.jpg",
             "data/images/6890d4857b5a1f58.jpg"
           ]
+        },
+        {
+          "id": "ex_xttjsfsj",
+          "name": "Наклоны головы",
+          "description": "Выполняем медленно. Можно устанавливать рол в двух местах — под затылочной костью и ниже ближе к трапеции",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c726adc30f590771.jpg",
+            "data/images/10f4af5085c9b3d1.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10631,6 +10643,6 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "mat"
   ]
 }
