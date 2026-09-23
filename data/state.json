@@ -10344,7 +10344,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-17",
+      "scheduleStartDate": "2026-09-18",
       "intervalDays": 1
     },
     "cat_lz5gplty": {
@@ -10688,10 +10688,36 @@
               "exerciseId": "ex_kewoc71k"
             }
           ]
+        },
+        {
+          "id": "cx_hxaofrpr",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_td1c76os",
+              "exerciseId": "ex_xttjsfsj"
+            },
+            {
+              "id": "ci_8lbo29ej",
+              "exerciseId": "ex_d2y3wtfn"
+            },
+            {
+              "id": "ci_x0adttru",
+              "exerciseId": "ex_voimrz4h"
+            },
+            {
+              "id": "ci_8tiapwe9",
+              "exerciseId": "ex_6ys5g7cw"
+            },
+            {
+              "id": "ci_iav7rwhi",
+              "exerciseId": "ex_2dzp0m3d"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-20",
+      "scheduleStartDate": "2026-09-21",
       "intervalDays": 1
     }
   },
