@@ -2987,6 +2987,13 @@
       "itemId": "ci_nfn1mvr8",
       "date": "2026-10-07",
       "done": true
+    },
+    {
+      "id": "op_99vtphkp",
+      "ts": 1791427885239,
+      "kind": "favorite",
+      "exerciseId": "ex_v6zsozek",
+      "on": true
     }
   ]
 }
