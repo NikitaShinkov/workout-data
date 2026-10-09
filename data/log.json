@@ -4907,6 +4907,92 @@
       "itemId": "ci_shc5gqcz",
       "date": "2026-10-09",
       "done": true
+    },
+    {
+      "id": "op_qripgomk",
+      "ts": 1791537667541,
+      "kind": "duration",
+      "exerciseId": "ex_ykypjisr",
+      "sec": 284
+    },
+    {
+      "id": "op_rmsv0hq5",
+      "ts": 1791537667544,
+      "kind": "rate",
+      "exerciseId": "ex_ykypjisr",
+      "axis": "technique",
+      "date": "2026-10-09",
+      "level": "medium"
+    },
+    {
+      "id": "op_paseu2n5",
+      "ts": 1791537667546,
+      "kind": "rate",
+      "exerciseId": "ex_ykypjisr",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-09",
+      "level": "medium"
+    },
+    {
+      "id": "op_cn6estlk",
+      "ts": 1791537667548,
+      "kind": "rate",
+      "exerciseId": "ex_ykypjisr",
+      "axis": "strength",
+      "date": "2026-10-09",
+      "level": "medium"
+    },
+    {
+      "id": "op_bdytemns",
+      "ts": 1791537667551,
+      "kind": "done",
+      "complexId": "cx_fndjthxb",
+      "itemId": "ci_i3zl8gsz",
+      "date": "2026-10-09",
+      "done": true
+    },
+    {
+      "id": "op_7kp8dftn",
+      "ts": 1791537671791,
+      "kind": "duration",
+      "exerciseId": "ex_rc25r146",
+      "sec": 4
+    },
+    {
+      "id": "op_tgrxdx24",
+      "ts": 1791537671794,
+      "kind": "rate",
+      "exerciseId": "ex_rc25r146",
+      "axis": "technique",
+      "date": "2026-10-09",
+      "level": "medium"
+    },
+    {
+      "id": "op_fhermxju",
+      "ts": 1791537671797,
+      "kind": "rate",
+      "exerciseId": "ex_rc25r146",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-09",
+      "level": "medium"
+    },
+    {
+      "id": "op_q0dl1g6k",
+      "ts": 1791537671800,
+      "kind": "rate",
+      "exerciseId": "ex_rc25r146",
+      "axis": "strength",
+      "date": "2026-10-09",
+      "level": "medium"
+    },
+    {
+      "id": "op_35lhwmkn",
+      "ts": 1791537671802,
+      "kind": "done",
+      "complexId": "cx_fndjthxb",
+      "itemId": "ci_7lty9vdb",
+      "date": "2026-10-09",
+      "done": true
     }
   ]
 }
