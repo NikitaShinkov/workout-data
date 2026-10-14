@@ -8784,6 +8784,92 @@
       "complexId": "cx_piopdpv2",
       "date": "2026-10-13",
       "done": true
+    },
+    {
+      "id": "op_y6rfzdv3",
+      "ts": 1791980327569,
+      "kind": "duration",
+      "exerciseId": "ex_ot64iltz",
+      "sec": 278
+    },
+    {
+      "id": "op_yedqzs8q",
+      "ts": 1791980327571,
+      "kind": "rate",
+      "exerciseId": "ex_ot64iltz",
+      "axis": "technique",
+      "date": "2026-10-14",
+      "level": "medium"
+    },
+    {
+      "id": "op_7w3o0ouk",
+      "ts": 1791980327574,
+      "kind": "rate",
+      "exerciseId": "ex_ot64iltz",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-14",
+      "level": "medium"
+    },
+    {
+      "id": "op_2a72551c",
+      "ts": 1791980327576,
+      "kind": "rate",
+      "exerciseId": "ex_ot64iltz",
+      "axis": "strength",
+      "date": "2026-10-14",
+      "level": "hard"
+    },
+    {
+      "id": "op_ic87xz3l",
+      "ts": 1791980327578,
+      "kind": "done",
+      "complexId": "cx_bh3ewvgn",
+      "itemId": "ci_87v6q1vn",
+      "date": "2026-10-14",
+      "done": true
+    },
+    {
+      "id": "op_53d1no5c",
+      "ts": 1791980333800,
+      "kind": "duration",
+      "exerciseId": "ex_89yresz9",
+      "sec": 6
+    },
+    {
+      "id": "op_r15f20av",
+      "ts": 1791980333803,
+      "kind": "rate",
+      "exerciseId": "ex_89yresz9",
+      "axis": "technique",
+      "date": "2026-10-14",
+      "level": "medium"
+    },
+    {
+      "id": "op_yg88panp",
+      "ts": 1791980333805,
+      "kind": "rate",
+      "exerciseId": "ex_89yresz9",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-14",
+      "level": "medium"
+    },
+    {
+      "id": "op_27wneajc",
+      "ts": 1791980333809,
+      "kind": "rate",
+      "exerciseId": "ex_89yresz9",
+      "axis": "strength",
+      "date": "2026-10-14",
+      "level": "hard"
+    },
+    {
+      "id": "op_z2hrjxbm",
+      "ts": 1791980333812,
+      "kind": "done",
+      "complexId": "cx_bh3ewvgn",
+      "itemId": "ci_kev5myuz",
+      "date": "2026-10-14",
+      "done": true
     }
   ]
 }
