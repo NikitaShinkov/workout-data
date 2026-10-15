@@ -9944,8 +9944,33 @@
       "done": true
     },
     {
-      "id": "op_78vha90x",
-      "ts": 1792070209267,
+      "id": "op_uq9396t6",
+      "ts": 1792070216080,
+      "kind": "duration",
+      "exerciseId": "ex_iitgehrc",
+      "sec": 313
+    },
+    {
+      "id": "op_pgeadj1x",
+      "ts": 1792070216083,
+      "kind": "rate",
+      "exerciseId": "ex_iitgehrc",
+      "axis": "technique",
+      "date": "2026-10-15",
+      "level": "medium"
+    },
+    {
+      "id": "op_wvwezrsr",
+      "ts": 1792070216085,
+      "kind": "rate",
+      "exerciseId": "ex_iitgehrc",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-15",
+      "level": "easy"
+    },
+    {
+      "id": "op_y73nm4gx",
+      "ts": 1792070216088,
       "kind": "rate",
       "exerciseId": "ex_iitgehrc",
       "axis": "strength",
@@ -9953,13 +9978,56 @@
       "level": "hard"
     },
     {
-      "id": "op_rt9uma5x",
-      "ts": 1792070210997,
+      "id": "op_skamrsh2",
+      "ts": 1792070216090,
+      "kind": "done",
+      "complexId": "cx_bupku1bs",
+      "itemId": "ci_g9ew2lui",
+      "date": "2026-10-15",
+      "done": true
+    },
+    {
+      "id": "op_f6dqdp48",
+      "ts": 1792070603313,
+      "kind": "duration",
+      "exerciseId": "ex_cmjowm73",
+      "sec": 387
+    },
+    {
+      "id": "op_3ih7bo7i",
+      "ts": 1792070603316,
       "kind": "rate",
-      "exerciseId": "ex_iitgehrc",
+      "exerciseId": "ex_cmjowm73",
       "axis": "technique",
       "date": "2026-10-15",
       "level": "medium"
+    },
+    {
+      "id": "op_4uabi7wi",
+      "ts": 1792070603318,
+      "kind": "rate",
+      "exerciseId": "ex_cmjowm73",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-15",
+      "level": "easy"
+    },
+    {
+      "id": "op_aijqmb17",
+      "ts": 1792070603321,
+      "kind": "rate",
+      "exerciseId": "ex_cmjowm73",
+      "axis": "strength",
+      "date": "2026-10-15",
+      "level": "hard"
+    },
+    {
+      "id": "op_w8lvj5g3",
+      "ts": 1792070603324,
+      "kind": "done",
+      "complexId": "cx_bupku1bs",
+      "itemId": "ci_duvtmmj9",
+      "date": "2026-10-15",
+      "done": true
     }
   ]
 }
