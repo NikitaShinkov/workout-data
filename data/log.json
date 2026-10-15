@@ -9942,6 +9942,24 @@
       "itemId": "ci_a38ji6ck",
       "date": "2026-10-15",
       "done": true
+    },
+    {
+      "id": "op_78vha90x",
+      "ts": 1792070209267,
+      "kind": "rate",
+      "exerciseId": "ex_iitgehrc",
+      "axis": "strength",
+      "date": "2026-10-15",
+      "level": "hard"
+    },
+    {
+      "id": "op_rt9uma5x",
+      "ts": 1792070210997,
+      "kind": "rate",
+      "exerciseId": "ex_iitgehrc",
+      "axis": "technique",
+      "date": "2026-10-15",
+      "level": "medium"
     }
   ]
 }
