@@ -10662,6 +10662,20 @@
             "data/images/f838f9db471c32f2.jpg",
             "data/images/77c4cf01f4f9e56b.jpg"
           ]
+        },
+        {
+          "id": "ex_vb1vlodi",
+          "name": "Скручивания и шаг",
+          "description": "Если некомфортно, можно сделать угол наклона локтя меньше. Контролируем стабильность",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/2eeaa93f93d6b7d6.jpg",
+            "data/images/789c56d237aa9990.jpg",
+            "data/images/0719ae9cfc39d63b.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10768,10 +10782,36 @@
               "exerciseId": "ex_2dzp0m3d"
             }
           ]
+        },
+        {
+          "id": "cx_ctdg7vtj",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_rvl15mqj",
+              "exerciseId": "ex_tf3rl93y"
+            },
+            {
+              "id": "ci_bjcoyl0d",
+              "exerciseId": "ex_o3rp7w8z"
+            },
+            {
+              "id": "ci_hq1mni8t",
+              "exerciseId": "ex_xh6jr6c4"
+            },
+            {
+              "id": "ci_29xb0sr1",
+              "exerciseId": "ex_e8u3032j"
+            },
+            {
+              "id": "ci_jqscnk0p",
+              "exerciseId": "ex_vb1vlodi"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-10",
+      "scheduleStartDate": "2026-10-15",
       "intervalDays": 1
     }
   },
