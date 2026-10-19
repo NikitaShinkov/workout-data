@@ -10608,6 +10608,19 @@
             "data/images/8e0886292e0e741f.jpg",
             "data/images/cdc3f089700cdcdc.jpg"
           ]
+        },
+        {
+          "id": "ex_tf3rl93y",
+          "name": "Внутренняя ротация",
+          "description": "Движение только внутри плечевого сустава без подключения грудной и широчайшей мышцы спины",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/688fbf55dac30e62.jpg",
+            "data/images/fff80087a7e8ffb2.jpg"
+          ]
         }
       ],
       "complexes": [
