@@ -10165,6 +10165,49 @@
       "itemId": "ci_osqs1kja",
       "date": "2026-10-19",
       "done": true
+    },
+    {
+      "id": "op_bz9fu6d5",
+      "ts": 1792394944159,
+      "kind": "duration",
+      "exerciseId": "ex_w5dj86vt",
+      "sec": 142
+    },
+    {
+      "id": "op_810i0ydp",
+      "ts": 1792394944162,
+      "kind": "rate",
+      "exerciseId": "ex_w5dj86vt",
+      "axis": "technique",
+      "date": "2026-10-19",
+      "level": "easy"
+    },
+    {
+      "id": "op_55ddra1l",
+      "ts": 1792394944165,
+      "kind": "rate",
+      "exerciseId": "ex_w5dj86vt",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-19",
+      "level": "easy"
+    },
+    {
+      "id": "op_svife5gf",
+      "ts": 1792394944167,
+      "kind": "rate",
+      "exerciseId": "ex_w5dj86vt",
+      "axis": "strength",
+      "date": "2026-10-19",
+      "level": "easy"
+    },
+    {
+      "id": "op_kfqcb7nr",
+      "ts": 1792394944170,
+      "kind": "done",
+      "complexId": "cx_2xpnguhl",
+      "itemId": "ci_azgd2xv8",
+      "date": "2026-10-19",
+      "done": true
     }
   ]
 }
