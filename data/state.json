@@ -10621,6 +10621,47 @@
             "data/images/688fbf55dac30e62.jpg",
             "data/images/fff80087a7e8ffb2.jpg"
           ]
+        },
+        {
+          "id": "ex_o3rp7w8z",
+          "name": "Внутренняя ротация",
+          "description": "Движение только внутри плечевого сустава без подключения грудной и широчайшей мышцы спины",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/81b68626e36f1706.jpg",
+            "data/images/5b0b66506b2305dc.jpg"
+          ]
+        },
+        {
+          "id": "ex_xh6jr6c4",
+          "name": "Шагания",
+          "description": "Если некомфортно, можно сделать угол наклона локтя меньше. Контролируем стабильность",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/13183ca4718519a0.jpg",
+            "data/images/0d70a26c972ebc3d.jpg",
+            "data/images/570b8b708ca6e0d3.jpg"
+          ]
+        },
+        {
+          "id": "ex_e8u3032j",
+          "name": "Шагания",
+          "description": "Если некомфортно, можно сделать угол наклона локтя меньше. Контролируем стабильность",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/9b6e11413fa39264.jpg",
+            "data/images/f838f9db471c32f2.jpg",
+            "data/images/77c4cf01f4f9e56b.jpg"
+          ]
         }
       ],
       "complexes": [
