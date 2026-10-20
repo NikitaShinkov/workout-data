@@ -10707,6 +10707,47 @@
             "data/images/3fb398ae36f7ab2e.jpg",
             "data/images/5035f915792e0ae9.jpg"
           ]
+        },
+        {
+          "id": "ex_6ymnnhnc",
+          "name": "Отведение и наружная  ротация",
+          "description": "Грудной отдел стабилен, не перезгибается. В конце при подъёме рук лопатки опускаются вниз",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/9dac8ecb269ccd1d.jpg",
+            "data/images/0ba423081cad3f79.jpg",
+            "data/images/fe09132bc48b78d2.jpg"
+          ]
+        },
+        {
+          "id": "ex_lylrj1vb",
+          "name": "Стадодинамика и отведение и наружная  ротация",
+          "description": "При подъёме и опускании прямые руки разводим с сводим в небольшой амплитуде",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/b3a6ca717fbf96af.jpg",
+            "data/images/c36c7ce23358122b.jpg",
+            "data/images/40227135da80db75.jpg"
+          ]
+        },
+        {
+          "id": "ex_xn5ct2q8",
+          "name": "Подъёмы с разведением и наружней ротацией",
+          "description": "Не закидываем голову наверх, макушка смотрит вперёд.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4bd957fba628c848.jpg",
+            "data/images/e61bad7fb315a1ff.jpg"
+          ]
         }
       ],
       "complexes": [
