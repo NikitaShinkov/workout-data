@@ -10690,6 +10690,23 @@
             "data/images/bd88e524cf17a96c.jpg",
             "data/images/8178024c5970dbbf.jpg"
           ]
+        },
+        {
+          "id": "ex_7d4xa6op",
+          "name": "Отведение и наружная  ротация и шагания",
+          "description": "Сначала отведение, фиксируем руку в верхнем положении, шагаем, затем медленно опускаем руку в исходное положение",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4193cd12b81a0836.jpg",
+            "data/images/dd5b3a3bcb701ce7.jpg",
+            "data/images/11a20d081852553a.jpg",
+            "data/images/727baaf4ebd15b74.jpg",
+            "data/images/3fb398ae36f7ab2e.jpg",
+            "data/images/5035f915792e0ae9.jpg"
+          ]
         }
       ],
       "complexes": [
