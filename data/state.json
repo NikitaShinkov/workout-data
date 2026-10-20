@@ -10880,6 +10880,32 @@
               "exerciseId": "ex_vb1vlodi"
             }
           ]
+        },
+        {
+          "id": "cx_ypljb8p4",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_ohes7rve",
+              "exerciseId": "ex_7p0ns1ls"
+            },
+            {
+              "id": "ci_moeg0anu",
+              "exerciseId": "ex_7d4xa6op"
+            },
+            {
+              "id": "ci_hi9i9uie",
+              "exerciseId": "ex_6ymnnhnc"
+            },
+            {
+              "id": "ci_l1adhsdx",
+              "exerciseId": "ex_lylrj1vb"
+            },
+            {
+              "id": "ci_325gecbc",
+              "exerciseId": "ex_xn5ct2q8"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
