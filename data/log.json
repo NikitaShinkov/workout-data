@@ -11913,6 +11913,92 @@
       "itemId": "ci_k2jr0y6j",
       "date": "2026-10-20",
       "done": true
+    },
+    {
+      "id": "op_j0enbphw",
+      "ts": 1792482687653,
+      "kind": "duration",
+      "exerciseId": "ex_oplmvku5",
+      "sec": 322
+    },
+    {
+      "id": "op_d5k3h21n",
+      "ts": 1792482687656,
+      "kind": "rate",
+      "exerciseId": "ex_oplmvku5",
+      "axis": "technique",
+      "date": "2026-10-20",
+      "level": "medium"
+    },
+    {
+      "id": "op_amlkgzxm",
+      "ts": 1792482687658,
+      "kind": "rate",
+      "exerciseId": "ex_oplmvku5",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-20",
+      "level": "medium"
+    },
+    {
+      "id": "op_3my7xomb",
+      "ts": 1792482687661,
+      "kind": "rate",
+      "exerciseId": "ex_oplmvku5",
+      "axis": "strength",
+      "date": "2026-10-20",
+      "level": "medium"
+    },
+    {
+      "id": "op_wqnmz9hl",
+      "ts": 1792482687664,
+      "kind": "done",
+      "complexId": "cx_mkmkz1q8",
+      "itemId": "ci_nb9zlhq3",
+      "date": "2026-10-20",
+      "done": true
+    },
+    {
+      "id": "op_ygs6d4rm",
+      "ts": 1792482691786,
+      "kind": "duration",
+      "exerciseId": "ex_frqzi6rf",
+      "sec": 4
+    },
+    {
+      "id": "op_oscwef5i",
+      "ts": 1792482691788,
+      "kind": "rate",
+      "exerciseId": "ex_frqzi6rf",
+      "axis": "technique",
+      "date": "2026-10-20",
+      "level": "medium"
+    },
+    {
+      "id": "op_4263olza",
+      "ts": 1792482691791,
+      "kind": "rate",
+      "exerciseId": "ex_frqzi6rf",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-20",
+      "level": "medium"
+    },
+    {
+      "id": "op_lempnec0",
+      "ts": 1792482691793,
+      "kind": "rate",
+      "exerciseId": "ex_frqzi6rf",
+      "axis": "strength",
+      "date": "2026-10-20",
+      "level": "medium"
+    },
+    {
+      "id": "op_okx06aas",
+      "ts": 1792482691796,
+      "kind": "done",
+      "complexId": "cx_mkmkz1q8",
+      "itemId": "ci_qqms8w4o",
+      "date": "2026-10-20",
+      "done": true
     }
   ]
 }
