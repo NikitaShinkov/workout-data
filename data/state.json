@@ -10676,6 +10676,20 @@
             "data/images/789c56d237aa9990.jpg",
             "data/images/0719ae9cfc39d63b.jpg"
           ]
+        },
+        {
+          "id": "ex_7p0ns1ls",
+          "name": "Отведение и наружная  ротация",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/147ec9e9016d069d.jpg",
+            "data/images/bd88e524cf17a96c.jpg",
+            "data/images/8178024c5970dbbf.jpg"
+          ]
         }
       ],
       "complexes": [
