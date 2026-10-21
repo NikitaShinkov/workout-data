@@ -10761,6 +10761,57 @@
             "data/images/24a2d4e1686ad593.jpg",
             "data/images/426d39fb1e56a78e.jpg"
           ]
+        },
+        {
+          "id": "ex_huoct2bb",
+          "name": "Ротация",
+          "description": "Поясничный замок в z-позиции. Задней рукой обхватываем заднюю ногу. Контроль стабильности поясницы. Пытаемся делать только грудным отделом",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/86b31d8c59940f94.jpg",
+            "data/images/65d020689646e1c9.jpg",
+            "data/images/2024aba1ee0ac981.jpg",
+            "data/images/cdad56e7bc45a6fa.jpg"
+          ]
+        },
+        {
+          "id": "ex_b7vd2yun",
+          "name": "Ротация",
+          "description": "Контроль стабильности поясницы без скрутки. Пытаемся делать только грудным отделом. Лопатка отжата и неподвижна на опорной руке.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/b2c26bbce6889447.jpg",
+            "data/images/e87a8851e21748a4.jpg"
+          ]
+        },
+        {
+          "id": "ex_qt6ppqdv",
+          "name": "Ротация",
+          "description": "Контроль стабильности поясницы без скрутки. Лопатка выжимает туловище наверх. Работает и лопатка и грудной отдел",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8df3f4c4f32d0d00.jpg",
+            "data/images/b16d0d304a25cdcf.jpg"
+          ]
+        },
+        {
+          "id": "ex_a78jw5by",
+          "name": "Ротация",
+          "description": "Контроль стабильности поясницы без скрутки. Лопатка выжимает туловище наверх. Работает и лопатка и грудной отдел. Лопатку неопорной руки выключаем, прижимая руку к затылку.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/81541af057f1d897.jpg",
+            "data/images/b23a08b7d09e36b0.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10919,6 +10970,32 @@
               "exerciseId": "ex_xn5ct2q8"
             }
           ]
+        },
+        {
+          "id": "cx_6ad3tzjd",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_h1ci53iy",
+              "exerciseId": "ex_0k57a3tq"
+            },
+            {
+              "id": "ci_1s9gfb1b",
+              "exerciseId": "ex_huoct2bb"
+            },
+            {
+              "id": "ci_ly654llr",
+              "exerciseId": "ex_b7vd2yun"
+            },
+            {
+              "id": "ci_2ppns1jc",
+              "exerciseId": "ex_qt6ppqdv"
+            },
+            {
+              "id": "ci_1v8q97d4",
+              "exerciseId": "ex_a78jw5by"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
@@ -10927,7 +11004,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "roller"
+    "mat"
   ]
 }
