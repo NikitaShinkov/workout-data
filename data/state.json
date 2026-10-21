@@ -10748,6 +10748,19 @@
             "data/images/4bd957fba628c848.jpg",
             "data/images/e61bad7fb315a1ff.jpg"
           ]
+        },
+        {
+          "id": "ex_0k57a3tq",
+          "name": "Ротация",
+          "description": "Нога давит на рол и не отрывается. Контроль стабильности поясницы. Пытаемся делать только грудным отделом",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/24a2d4e1686ad593.jpg",
+            "data/images/426d39fb1e56a78e.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10915,6 +10928,6 @@
   },
   "lastEquipment": [
     "mat",
-    "long_band"
+    "roller"
   ]
 }
