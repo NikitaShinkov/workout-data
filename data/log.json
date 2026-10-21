@@ -13251,6 +13251,92 @@
       "itemId": "ci_6zxuzqxp",
       "date": "2026-10-21",
       "done": true
+    },
+    {
+      "id": "op_l63lrokz",
+      "ts": 1792569091523,
+      "kind": "duration",
+      "exerciseId": "ex_bpk31pks",
+      "sec": 102
+    },
+    {
+      "id": "op_8p3ewjo7",
+      "ts": 1792569091526,
+      "kind": "rate",
+      "exerciseId": "ex_bpk31pks",
+      "axis": "technique",
+      "date": "2026-10-21",
+      "level": "easy"
+    },
+    {
+      "id": "op_kvy2kaqm",
+      "ts": 1792569091529,
+      "kind": "rate",
+      "exerciseId": "ex_bpk31pks",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-21",
+      "level": "easy"
+    },
+    {
+      "id": "op_4qj0lj0x",
+      "ts": 1792569091532,
+      "kind": "rate",
+      "exerciseId": "ex_bpk31pks",
+      "axis": "strength",
+      "date": "2026-10-21",
+      "level": "easy"
+    },
+    {
+      "id": "op_oterrz72",
+      "ts": 1792569091535,
+      "kind": "done",
+      "complexId": "cx_5d6i2azx",
+      "itemId": "ci_4m5cx10e",
+      "date": "2026-10-21",
+      "done": true
+    },
+    {
+      "id": "op_5by8x9em",
+      "ts": 1792569303416,
+      "kind": "duration",
+      "exerciseId": "ex_dge9ppqt",
+      "sec": 212
+    },
+    {
+      "id": "op_7ctcf2fp",
+      "ts": 1792569303420,
+      "kind": "rate",
+      "exerciseId": "ex_dge9ppqt",
+      "axis": "technique",
+      "date": "2026-10-21",
+      "level": "easy"
+    },
+    {
+      "id": "op_romjtdcb",
+      "ts": 1792569303423,
+      "kind": "rate",
+      "exerciseId": "ex_dge9ppqt",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-21",
+      "level": "easy"
+    },
+    {
+      "id": "op_7omecsw9",
+      "ts": 1792569303426,
+      "kind": "rate",
+      "exerciseId": "ex_dge9ppqt",
+      "axis": "strength",
+      "date": "2026-10-21",
+      "level": "easy"
+    },
+    {
+      "id": "op_albhyqqv",
+      "ts": 1792569303428,
+      "kind": "done",
+      "complexId": "cx_5d6i2azx",
+      "itemId": "ci_jyimmzr8",
+      "date": "2026-10-21",
+      "done": true
     }
   ]
 }
