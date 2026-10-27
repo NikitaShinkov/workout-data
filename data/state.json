@@ -10828,6 +10828,38 @@
             "data/images/b5365121892b56d7.jpg",
             "data/images/f8ff31a99b38fb75.jpg"
           ]
+        },
+        {
+          "id": "ex_s8s3j99j",
+          "name": "Наружная ротация",
+          "description": "Внутренняя ротация концентрически (быстро), шагаем вперёд, потом наружная ротация эксцентрически (медленно) и затем шагаем обратно назад",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/0f36d351ddb1a984.jpg",
+            "data/images/6572a42bc350a87f.jpg",
+            "data/images/ad13ea9b02bb1bd7.jpg",
+            "data/images/8df6517a2fc1a994.jpg",
+            "data/images/c0bfa4f7b09d226f.jpg",
+            "data/images/534bf548ed62d00a.jpg"
+          ]
+        },
+        {
+          "id": "ex_lvmng17h",
+          "name": "Наружная ротация",
+          "description": "Наружная ротация концентрически (быстро), отшагиваем вбок, потом внутренняя ротация эксцентрически (медленно) и затем шагаем обратно вбок",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/03e281571824ae9a.jpg",
+            "data/images/09def667756bd7f0.jpg",
+            "data/images/ea239af1e4e19e1c.jpg",
+            "data/images/4c76a0c64265be98.jpg",
+            "data/images/ac665f3fb96b72b5.jpg",
+            "data/images/fdcaae9eeb30e554.jpg"
+          ]
         }
       ],
       "complexes": [
