@@ -10860,6 +10860,38 @@
             "data/images/ac665f3fb96b72b5.jpg",
             "data/images/fdcaae9eeb30e554.jpg"
           ]
+        },
+        {
+          "id": "ex_c7sxaj72",
+          "name": "Наружная ротация",
+          "description": "Внутренняя ротация концентрически (быстро), шагаем вбок, потом наружная ротация эксцентрически (медленно) и затем шагаем обратно вбок",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/0afc4ca4bcc8781a.jpg",
+            "data/images/5115889bceb9e489.jpg",
+            "data/images/591a14aef174d3fc.jpg",
+            "data/images/13ca7382ba10d5c5.jpg",
+            "data/images/2da0133ef17936f6.jpg",
+            "data/images/9193efed04ae4ac2.jpg"
+          ]
+        },
+        {
+          "id": "ex_xy7klcy1",
+          "name": "Наружная ротация",
+          "description": "Наружная ротация концентрически (быстро), отшагиваем вбок, потом внутренняя ротация эксцентрически (медленно) и затем шагаем обратно вбок",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/6c449344e855e0fe.jpg",
+            "data/images/91c8f294fe395024.jpg",
+            "data/images/d1917296ab1fb1cd.jpg",
+            "data/images/7d895f6c449c4a7f.jpg",
+            "data/images/21f232b68d87cbc7.jpg",
+            "data/images/cf72e427e422bc72.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -11042,6 +11074,32 @@
             {
               "id": "ci_1v8q97d4",
               "exerciseId": "ex_a78jw5by"
+            }
+          ]
+        },
+        {
+          "id": "cx_g53u9955",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_55l10xap",
+              "exerciseId": "ex_022undgo"
+            },
+            {
+              "id": "ci_v3d0h6g0",
+              "exerciseId": "ex_s8s3j99j"
+            },
+            {
+              "id": "ci_yt4uuzko",
+              "exerciseId": "ex_lvmng17h"
+            },
+            {
+              "id": "ci_q435572t",
+              "exerciseId": "ex_c7sxaj72"
+            },
+            {
+              "id": "ci_3u2tfjpb",
+              "exerciseId": "ex_xy7klcy1"
             }
           ]
         }
