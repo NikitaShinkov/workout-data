@@ -10812,6 +10812,22 @@
             "data/images/81541af057f1d897.jpg",
             "data/images/b23a08b7d09e36b0.jpg"
           ]
+        },
+        {
+          "id": "ex_022undgo",
+          "name": "Наружная ротация",
+          "description": "Наружная ротация концентрически (быстро), отшагиваем назад, потом внутренняя ротация эксцентрически (медленно) и затем шагаем обратно вперёд",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/97804e8ee4e7e955.jpg",
+            "data/images/49d4a6901572660e.jpg",
+            "data/images/0fe7dc6040730af4.jpg",
+            "data/images/6bd25330cda84045.jpg",
+            "data/images/b5365121892b56d7.jpg",
+            "data/images/f8ff31a99b38fb75.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -11004,6 +11020,6 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "long_band"
   ]
 }
