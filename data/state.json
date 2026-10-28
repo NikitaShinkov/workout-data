@@ -9794,6 +9794,32 @@
             "data/images/5302d7a09ad9eb3b.jpg",
             "data/images/a0ebbac91d20deab.jpg"
           ]
+        },
+        {
+          "id": "ex_uj09uoes",
+          "name": "Разгибания, не опуская спину и руки",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/168a29659b148ddd.jpg",
+            "data/images/77251613f28b2d65.jpg",
+            "data/images/508b7fb008a2e652.jpg"
+          ]
+        },
+        {
+          "id": "ex_hl602rur",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c0452a934d90bc8a.jpg",
+            "data/images/086c1f4aebbb858a.jpg",
+            "data/images/35f702fe01427e14.jpg"
+          ]
         }
       ],
       "complexes": [
