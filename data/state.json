@@ -10328,10 +10328,52 @@
               "exerciseId": "ex_w4j2t4i7"
             }
           ]
+        },
+        {
+          "id": "cx_nc7dyjs2",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_2yi4id3o",
+              "exerciseId": "ex_xwiif5tm"
+            },
+            {
+              "id": "ci_8kyti3on",
+              "exerciseId": "ex_x7xbovd6"
+            },
+            {
+              "id": "ci_icdagiga",
+              "exerciseId": "ex_wsu7qmat"
+            },
+            {
+              "id": "ci_vjplgs9d",
+              "exerciseId": "ex_vf4z5lf3"
+            },
+            {
+              "id": "ci_8149an2c",
+              "exerciseId": "ex_ccb4pw98"
+            },
+            {
+              "id": "ci_jkzt987h",
+              "exerciseId": "ex_9s1g1qmp"
+            },
+            {
+              "id": "ci_wpx78a7x",
+              "exerciseId": "ex_h0l2nui1"
+            },
+            {
+              "id": "ci_2qzixnax",
+              "exerciseId": "ex_uj09uoes"
+            },
+            {
+              "id": "ci_1wkxairp",
+              "exerciseId": "ex_hl602rur"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-28",
+      "scheduleStartDate": "2026-10-10",
       "intervalDays": 1
     },
     "back": {
