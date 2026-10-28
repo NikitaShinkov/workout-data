@@ -9673,6 +9673,34 @@
             "data/images/2b43de65a9845bf2.jpg",
             "data/images/e996bdd237eca0b1.jpg"
           ]
+        },
+        {
+          "id": "ex_5ilzgixk",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/1fd3849487791440.jpg",
+            "data/images/7e6acec7ae533dd7.jpg",
+            "data/images/1fd3849487791440.jpg",
+            "data/images/6b0b17d4132a08d9.jpg"
+          ]
+        },
+        {
+          "id": "ex_w4j2t4i7",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/efe3530c7ef9810c.jpg",
+            "data/images/9b6a29f3a0644982.jpg",
+            "data/images/efe3530c7ef9810c.jpg",
+            "data/images/229e68ed09517c3f.jpg"
+          ]
         }
       ],
       "complexes": [
