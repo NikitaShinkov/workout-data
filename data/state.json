@@ -9633,6 +9633,46 @@
             "data/images/2cd5c7a6f85ebb7e.jpg",
             "data/images/9c8efa6610967d06.jpg"
           ]
+        },
+        {
+          "id": "ex_epzymz8p",
+          "name": "Скручивания с вариациями",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e49bdd956b5893d2.jpg",
+            "data/images/8c00dedef414b3cf.jpg",
+            "data/images/660082b823ce7f00.jpg",
+            "data/images/94b01b34887f49d0.jpg"
+          ]
+        },
+        {
+          "id": "ex_cbirj3pn",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e005abcfb0961045.jpg",
+            "data/images/bfee25e7c20bef91.jpg"
+          ]
+        },
+        {
+          "id": "ex_i6rvgcf8",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2b43de65a9845bf2.jpg",
+            "data/images/43808abe3fe5cb6c.jpg",
+            "data/images/2b43de65a9845bf2.jpg",
+            "data/images/e996bdd237eca0b1.jpg"
+          ]
         }
       ],
       "complexes": [
