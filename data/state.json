@@ -9389,6 +9389,30 @@
             "data/images/8972f54bcf5846bf.jpg",
             "data/images/aad5851f23894786.jpg"
           ]
+        },
+        {
+          "id": "ex_0opzkcjl",
+          "name": "Поднятие ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f63a60a5851f10e6.jpg",
+            "data/images/651b3eedbc6eda36.jpg"
+          ]
+        },
+        {
+          "id": "ex_ry68v0s8",
+          "name": "Махи рук в наклоне",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7b514bcdf71d952a.jpg",
+            "data/images/7b88bbe1a2b64ded.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -9741,6 +9765,56 @@
             {
               "id": "ci_aah3ry41",
               "exerciseId": "ex_nu9gclns"
+            }
+          ]
+        },
+        {
+          "id": "cx_6ii59b5n",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_zfw94o1l",
+              "exerciseId": "ex_4z0cu99x"
+            },
+            {
+              "id": "ci_74veudo1",
+              "exerciseId": "ex_q2o0izni"
+            },
+            {
+              "id": "ci_uvwtw2te",
+              "exerciseId": "ex_pv7ygzmi"
+            },
+            {
+              "id": "ci_kqmdguwr",
+              "exerciseId": "ex_8jt4gzqw"
+            },
+            {
+              "id": "ci_3u5yj6lq",
+              "exerciseId": "ex_iyq8bk7s"
+            },
+            {
+              "id": "ci_xy2iigmr",
+              "exerciseId": "ex_z72agfi8"
+            },
+            {
+              "id": "ci_yf3olryr",
+              "exerciseId": "ex_o9ly414q"
+            },
+            {
+              "id": "ci_0lokxpto",
+              "exerciseId": "ex_wg71ku3z"
+            },
+            {
+              "id": "ci_6rd28uk7",
+              "exerciseId": "ex_vypfhgys"
+            },
+            {
+              "id": "ci_c2d53e98",
+              "exerciseId": "ex_0opzkcjl"
+            },
+            {
+              "id": "ci_ntxy5qi0",
+              "exerciseId": "ex_ry68v0s8"
             }
           ]
         }
