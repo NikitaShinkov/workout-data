@@ -9779,6 +9779,21 @@
             "data/images/61ece0cbd5ce3d00.jpg",
             "data/images/59c64c87fc53fbaf.jpg"
           ]
+        },
+        {
+          "id": "ex_h0l2nui1",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/435a04f84cfc7f79.jpg",
+            "data/images/84d7ffb2a14845fb.jpg",
+            "data/images/60aac3358227cfd0.jpg",
+            "data/images/5302d7a09ad9eb3b.jpg",
+            "data/images/a0ebbac91d20deab.jpg"
+          ]
         }
       ],
       "complexes": [
