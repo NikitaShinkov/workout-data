@@ -9713,6 +9713,32 @@
             "data/images/743bcf23151a2c9d.jpg",
             "data/images/370fe636fcada206.jpg"
           ]
+        },
+        {
+          "id": "ex_x7xbovd6",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e7b5b05365eb42bf.jpg",
+            "data/images/91809ddf42be195b.jpg"
+          ]
+        },
+        {
+          "id": "ex_wsu7qmat",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fcc74407303ff797.jpg",
+            "data/images/53160a8e26ef92af.jpg",
+            "data/images/fcc74407303ff797.jpg",
+            "data/images/baa3244718f9ab45.jpg"
+          ]
         }
       ],
       "complexes": [
