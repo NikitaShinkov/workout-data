@@ -9701,6 +9701,18 @@
             "data/images/efe3530c7ef9810c.jpg",
             "data/images/229e68ed09517c3f.jpg"
           ]
+        },
+        {
+          "id": "ex_xwiif5tm",
+          "name": "Разгибания",
+          "description": "Делаем осевое вытяжение — макушкой тянемся к потолку.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/743bcf23151a2c9d.jpg",
+            "data/images/370fe636fcada206.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10161,6 +10173,52 @@
             {
               "id": "ci_cau1xf6q",
               "exerciseId": "ex_jo6ahyk3"
+            }
+          ]
+        },
+        {
+          "id": "cx_it35jcwi",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_9zn2p83m",
+              "exerciseId": "ex_5j22dqy5"
+            },
+            {
+              "id": "ci_5xnh3exq",
+              "exerciseId": "ex_xuimpwsq"
+            },
+            {
+              "id": "ci_xmgdjkky",
+              "exerciseId": "ex_ua9mh60f"
+            },
+            {
+              "id": "ci_oa0amug3",
+              "exerciseId": "ex_seis739i"
+            },
+            {
+              "id": "ci_6dve964m",
+              "exerciseId": "ex_xqfk58k4"
+            },
+            {
+              "id": "ci_e4dwkvna",
+              "exerciseId": "ex_epzymz8p"
+            },
+            {
+              "id": "ci_hxehu4ul",
+              "exerciseId": "ex_cbirj3pn"
+            },
+            {
+              "id": "ci_w5mvn6jq",
+              "exerciseId": "ex_i6rvgcf8"
+            },
+            {
+              "id": "ci_iaerkjsj",
+              "exerciseId": "ex_5ilzgixk"
+            },
+            {
+              "id": "ci_5nsopubn",
+              "exerciseId": "ex_w4j2t4i7"
             }
           ]
         }
