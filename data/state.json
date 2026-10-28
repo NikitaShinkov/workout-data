@@ -9739,6 +9739,46 @@
             "data/images/fcc74407303ff797.jpg",
             "data/images/baa3244718f9ab45.jpg"
           ]
+        },
+        {
+          "id": "ex_vf4z5lf3",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/caad3ef1b3b7f772.jpg",
+            "data/images/11eb00fe4b24a061.jpg",
+            "data/images/caad3ef1b3b7f772.jpg",
+            "data/images/8d163629e758e509.jpg"
+          ]
+        },
+        {
+          "id": "ex_ccb4pw98",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5068b20d7c806e7e.jpg",
+            "data/images/6e8b659d8f7970d4.jpg"
+          ]
+        },
+        {
+          "id": "ex_9s1g1qmp",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/61ece0cbd5ce3d00.jpg",
+            "data/images/b16e9f258871a83c.jpg",
+            "data/images/61ece0cbd5ce3d00.jpg",
+            "data/images/59c64c87fc53fbaf.jpg"
+          ]
         }
       ],
       "complexes": [
