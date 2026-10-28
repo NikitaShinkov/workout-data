@@ -9533,6 +9533,32 @@
             "data/images/631aec6061349031.jpg",
             "data/images/606ae01bdfc147e1.jpg"
           ]
+        },
+        {
+          "id": "ex_uvf6pd41",
+          "name": "Подшагивания вперёд руки и ноги в диагонали",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/546b88a95a811b90.jpg",
+            "data/images/0e822ab31cd4681c.jpg"
+          ]
+        },
+        {
+          "id": "ex_axrsm8od",
+          "name": "Отведения ноги и руки в диагонали",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/19919483a04f425d.jpg",
+            "data/images/21e7b927f34e6f00.jpg",
+            "data/images/55d871ad04bbb0bd.jpg",
+            "data/images/2befab5110ea829f.jpg"
+          ]
         }
       ],
       "complexes": [
