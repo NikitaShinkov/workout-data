@@ -9573,6 +9573,66 @@
             "data/images/227e5d2de8e5e62f.jpg",
             "data/images/7480ecb7f87b1bb9.jpg"
           ]
+        },
+        {
+          "id": "ex_5j22dqy5",
+          "name": "Отведения ноги",
+          "description": "При скрутке не тянем руками голову к груди. Затылок поддерживаем слегка пальцами.\nДелаем осевое вытяжение — макушкой тянемся к потолку.\nЛопатки соединены, локти смотрят наружу. Немного втягиваем живот",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4aa31b077ef5e20e.jpg",
+            "data/images/d2fa8199528f0264.jpg"
+          ]
+        },
+        {
+          "id": "ex_xuimpwsq",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/144e09026ef2b84b.jpg",
+            "data/images/aac23f8588828aca.jpg"
+          ]
+        },
+        {
+          "id": "ex_ua9mh60f",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ada73af8c6625bd6.jpg",
+            "data/images/318921e42779cb3f.jpg"
+          ]
+        },
+        {
+          "id": "ex_seis739i",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/57a0637ae15d3424.jpg",
+            "data/images/2cdbf0702a368aee.jpg"
+          ]
+        },
+        {
+          "id": "ex_xqfk58k4",
+          "name": "Скручивания без опускания ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2cd5c7a6f85ebb7e.jpg",
+            "data/images/9c8efa6610967d06.jpg"
+          ]
         }
       ],
       "complexes": [
