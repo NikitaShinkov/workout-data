@@ -9413,6 +9413,18 @@
             "data/images/7b514bcdf71d952a.jpg",
             "data/images/7b88bbe1a2b64ded.jpg"
           ]
+        },
+        {
+          "id": "ex_7wwnmbl4",
+          "name": "Отведения ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ae37654f4bed6633.jpg",
+            "data/images/95bd05dd40f05bf0.jpg"
+          ]
         }
       ],
       "complexes": [
