@@ -9279,6 +9279,32 @@
             "data/images/e96819a4679565a8.jpg",
             "data/images/eadce3cfea8bb0e7.jpg"
           ]
+        },
+        {
+          "id": "ex_q2o0izni",
+          "name": "Попеременное сгибание и разгибание",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9421947c389e82ba.jpg",
+            "data/images/49f0c35acfd9ab3d.jpg"
+          ]
+        },
+        {
+          "id": "ex_pv7ygzmi",
+          "name": "Повороты",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e43202ac1305fae8.jpg",
+            "data/images/d4621107665d9efc.jpg",
+            "data/images/960965426b5c4388.jpg",
+            "data/images/ce81d09d511aa271.jpg"
+          ]
         }
       ],
       "complexes": [
