@@ -9305,6 +9305,48 @@
             "data/images/960965426b5c4388.jpg",
             "data/images/ce81d09d511aa271.jpg"
           ]
+        },
+        {
+          "id": "ex_8jt4gzqw",
+          "name": "Выталкивания ног с подпрыгиванием",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/64aa19aa4ebd78eb.jpg",
+            "data/images/4fa92b67ddf1089e.jpg"
+          ]
+        },
+        {
+          "id": "ex_iyq8bk7s",
+          "name": "Разведения",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/504d5d7dfa35dc2c.jpg",
+            "data/images/d7a7f7b9df1009c0.jpg",
+            "data/images/6dd8b0da7e374d52.jpg",
+            "data/images/d7a7f7b9df1009c0.jpg"
+          ]
+        },
+        {
+          "id": "ex_z72agfi8",
+          "name": "Наклоны с вариациями",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5466b9947df1d1b5.jpg",
+            "data/images/e7ef6b629cfc0a30.jpg",
+            "data/images/85e0a405280c53f5.jpg",
+            "data/images/b860e50a7fa01ef0.jpg",
+            "data/images/cf1016a686bc1e39.jpg",
+            "data/images/f4f1caf040547cbe.jpg"
+          ]
         }
       ],
       "complexes": [
