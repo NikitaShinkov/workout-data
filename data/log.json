@@ -16373,6 +16373,100 @@
       "itemId": "ci_xt6ov41a",
       "date": "2026-10-28",
       "done": true
+    },
+    {
+      "id": "op_t1cwskh6",
+      "ts": 1793172319933,
+      "kind": "duration",
+      "exerciseId": "ex_qqtu5xzq",
+      "sec": 8
+    },
+    {
+      "id": "op_9pb0ny3f",
+      "ts": 1793172319936,
+      "kind": "rate",
+      "exerciseId": "ex_qqtu5xzq",
+      "axis": "technique",
+      "date": "2026-10-28",
+      "level": "easy"
+    },
+    {
+      "id": "op_651wg1dt",
+      "ts": 1793172319938,
+      "kind": "rate",
+      "exerciseId": "ex_qqtu5xzq",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-28",
+      "level": "easy"
+    },
+    {
+      "id": "op_a9k4zwio",
+      "ts": 1793172319940,
+      "kind": "rate",
+      "exerciseId": "ex_qqtu5xzq",
+      "axis": "strength",
+      "date": "2026-10-28",
+      "level": "easy"
+    },
+    {
+      "id": "op_htjwfpac",
+      "ts": 1793172319942,
+      "kind": "done",
+      "complexId": "cx_6sx8vipg",
+      "itemId": "ci_pvl6sbxg",
+      "date": "2026-10-28",
+      "done": true
+    },
+    {
+      "id": "op_7l6e58vg",
+      "ts": 1793172319945,
+      "kind": "complex",
+      "complexId": "cx_6sx8vipg",
+      "date": "2026-10-28",
+      "done": true
+    },
+    {
+      "id": "op_dz6sn6xg",
+      "ts": 1793172746768,
+      "kind": "duration",
+      "exerciseId": "ex_r9w593r9",
+      "sec": 111
+    },
+    {
+      "id": "op_cin3erd4",
+      "ts": 1793172746771,
+      "kind": "rate",
+      "exerciseId": "ex_r9w593r9",
+      "axis": "technique",
+      "date": "2026-10-28",
+      "level": "easy"
+    },
+    {
+      "id": "op_m0eb4o0w",
+      "ts": 1793172746773,
+      "kind": "rate",
+      "exerciseId": "ex_r9w593r9",
+      "axis": "rangeOfMotion",
+      "date": "2026-10-28",
+      "level": "easy"
+    },
+    {
+      "id": "op_sktci7xm",
+      "ts": 1793172746776,
+      "kind": "rate",
+      "exerciseId": "ex_r9w593r9",
+      "axis": "strength",
+      "date": "2026-10-28",
+      "level": "easy"
+    },
+    {
+      "id": "op_q673yqc1",
+      "ts": 1793172746778,
+      "kind": "done",
+      "complexId": "cx_dmljen42",
+      "itemId": "ci_70n5232u",
+      "date": "2026-10-28",
+      "done": true
     }
   ]
 }
