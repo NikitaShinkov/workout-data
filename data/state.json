@@ -9347,6 +9347,48 @@
             "data/images/cf1016a686bc1e39.jpg",
             "data/images/f4f1caf040547cbe.jpg"
           ]
+        },
+        {
+          "id": "ex_o9ly414q",
+          "name": "Разведения",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c1b02f5058a4202c.jpg",
+            "data/images/db11b4089282437f.jpg"
+          ]
+        },
+        {
+          "id": "ex_wg71ku3z",
+          "name": "Разгибания ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2566a354ca00c809.jpg",
+            "data/images/6581732c869b5c07.jpg"
+          ]
+        },
+        {
+          "id": "ex_vypfhgys",
+          "name": "Вращения ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/851d34c089894fc8.jpg",
+            "data/images/7bb4b486ebff1ed2.jpg",
+            "data/images/0e529e2ae17173f2.jpg",
+            "data/images/f77debea7ca8bfa0.jpg",
+            "data/images/27afe1fbc4119182.jpg",
+            "data/images/15a40fe8d26be1bb.jpg",
+            "data/images/8972f54bcf5846bf.jpg",
+            "data/images/aad5851f23894786.jpg"
+          ]
         }
       ],
       "complexes": [
