@@ -9267,6 +9267,18 @@
             "data/images/a74cabe423963127.jpg",
             "data/images/e8b4e12c9f379176.jpg"
           ]
+        },
+        {
+          "id": "ex_4z0cu99x",
+          "name": "Разгибания ног с поднятым тазом",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e96819a4679565a8.jpg",
+            "data/images/eadce3cfea8bb0e7.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -11110,6 +11122,6 @@
     }
   },
   "lastEquipment": [
-    "long_band"
+    "mat"
   ]
 }
