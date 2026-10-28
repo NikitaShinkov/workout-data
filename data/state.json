@@ -9425,6 +9425,102 @@
             "data/images/ae37654f4bed6633.jpg",
             "data/images/95bd05dd40f05bf0.jpg"
           ]
+        },
+        {
+          "id": "ex_3jrjb9ov",
+          "name": "Махи руками сидя",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/401a4d7d72accbcd.jpg",
+            "data/images/02dcf1186f14cce8.jpg"
+          ]
+        },
+        {
+          "id": "ex_tgp77szy",
+          "name": "Приведения ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9eb81275f3f01b2c.jpg",
+            "data/images/2e049bde549b35e1.jpg"
+          ]
+        },
+        {
+          "id": "ex_g7irrhs2",
+          "name": "Раскручивания в планке",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ad5c12f040d961af.jpg",
+            "data/images/6126e3a8c6b070ce.jpg"
+          ]
+        },
+        {
+          "id": "ex_ftzsqnu4",
+          "name": "Подъёмы таза",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5ed9eeb0c063475e.jpg",
+            "data/images/027d32d069f0da5e.jpg"
+          ]
+        },
+        {
+          "id": "ex_1rvk6mu0",
+          "name": "Подъёмы ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a8a432158982a0b3.jpg",
+            "data/images/9e6bf83069691d28.jpg"
+          ]
+        },
+        {
+          "id": "ex_x59dlacp",
+          "name": "Наклоны назад",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/70b7531521cf8efb.jpg",
+            "data/images/3dd1071de0325866.jpg"
+          ]
+        },
+        {
+          "id": "ex_xy6zuh7f",
+          "name": "Махи ногами",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2ae9285673669613.jpg",
+            "data/images/5f51b696586c5312.jpg"
+          ]
+        },
+        {
+          "id": "ex_awg8zgzq",
+          "name": "Подъёмы ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/409a04b961ef4d77.jpg",
+            "data/images/85e9689c9a416522.jpg"
+          ]
         }
       ],
       "complexes": [
