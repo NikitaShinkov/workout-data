@@ -9559,6 +9559,20 @@
             "data/images/55d871ad04bbb0bd.jpg",
             "data/images/2befab5110ea829f.jpg"
           ]
+        },
+        {
+          "id": "ex_jo6ahyk3",
+          "name": "Подъём ног с вариациями",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/15b821c2e6171121.jpg",
+            "data/images/0d714ac2441df4a5.jpg",
+            "data/images/227e5d2de8e5e62f.jpg",
+            "data/images/7480ecb7f87b1bb9.jpg"
+          ]
         }
       ],
       "complexes": [
