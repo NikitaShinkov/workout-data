@@ -9521,6 +9521,18 @@
             "data/images/409a04b961ef4d77.jpg",
             "data/images/85e9689c9a416522.jpg"
           ]
+        },
+        {
+          "id": "ex_rq1dsypm",
+          "name": "Наклоны назад",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/631aec6061349031.jpg",
+            "data/images/606ae01bdfc147e1.jpg"
+          ]
         }
       ],
       "complexes": [
