@@ -9977,6 +9977,64 @@
               "exerciseId": "ex_ry68v0s8"
             }
           ]
+        },
+        {
+          "id": "cx_dhxuheg2",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_vo1zhx4x",
+              "exerciseId": "ex_7wwnmbl4"
+            },
+            {
+              "id": "ci_e5apzx8n",
+              "exerciseId": "ex_3jrjb9ov"
+            },
+            {
+              "id": "ci_8wc6yssl",
+              "exerciseId": "ex_tgp77szy"
+            },
+            {
+              "id": "ci_neaoxfk0",
+              "exerciseId": "ex_g7irrhs2"
+            },
+            {
+              "id": "ci_k7qsy6av",
+              "exerciseId": "ex_ftzsqnu4"
+            },
+            {
+              "id": "ci_9bkz018e",
+              "exerciseId": "ex_1rvk6mu0"
+            },
+            {
+              "id": "ci_rza578wg",
+              "exerciseId": "ex_x59dlacp"
+            },
+            {
+              "id": "ci_o0tywh0i",
+              "exerciseId": "ex_xy6zuh7f"
+            },
+            {
+              "id": "ci_1thycafa",
+              "exerciseId": "ex_awg8zgzq"
+            },
+            {
+              "id": "ci_n2f8xrtl",
+              "exerciseId": "ex_rq1dsypm"
+            },
+            {
+              "id": "ci_l8oj5vml",
+              "exerciseId": "ex_uvf6pd41"
+            },
+            {
+              "id": "ci_wh5zy5nr",
+              "exerciseId": "ex_axrsm8od"
+            },
+            {
+              "id": "ci_cau1xf6q",
+              "exerciseId": "ex_jo6ahyk3"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
