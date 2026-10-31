@@ -11723,6 +11723,56 @@
             "data/images/c482ca3af8219009.jpg",
             "data/images/6bbdb8bbef491ac7.jpg"
           ]
+        },
+        {
+          "id": "ex_zw829ina",
+          "name": "Отжимая через передние зубчатые мышцы",
+          "description": "Не подключаем грудные мышцы, работа только в лопатках",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/62ba46b93a576925.jpg",
+            "data/images/39a6d4cae7cb5e5f.jpg"
+          ]
+        },
+        {
+          "id": "ex_7hpddy6w",
+          "name": "Отжимая через передние зубчатые мышцы",
+          "description": "Не подключаем грудные мышцы, работа только в лопатках. Если с прямыми ногами тяжело, можно поставить колени на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9608d9fc14d7d3bd.jpg",
+            "data/images/d3e8b1cbe96961c1.jpg"
+          ]
+        },
+        {
+          "id": "ex_vnciorob",
+          "name": "Статика передних зубчатых мышц",
+          "description": "Поочерёдно поднимаем руки — касаемся ладонью противоположного плеча.\nДержим центр. Если с прямыми ногами тяжело, можно поставить колени на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/beb1cd526c0be376.jpg",
+            "data/images/66e0efaddd72dfe1.jpg",
+            "data/images/6f78b81d9be2c74a.jpg"
+          ]
+        },
+        {
+          "id": "ex_wgr8itxu",
+          "name": "Вращение относительно плеча",
+          "description": "Держим центр",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7a05c0fd9f4063bc.jpg",
+            "data/images/9481649263a82efc.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -11967,7 +12017,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band"
+    "mat"
   ]
 }
