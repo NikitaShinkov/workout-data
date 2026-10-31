@@ -11773,6 +11773,20 @@
             "data/images/7a05c0fd9f4063bc.jpg",
             "data/images/9481649263a82efc.jpg"
           ]
+        },
+        {
+          "id": "ex_uqaxu6po",
+          "name": "МФР большой грудной мышцы",
+          "description": "Вдавливаем мяч. И отводим руку назад по разными углами для растягивания мышцы",
+          "equipment": [],
+          "images": [
+            "data/images/9c8024deffc35695.jpg",
+            "data/images/f65917d2da55954b.jpg",
+            "data/images/57b655bedcece02e.jpg",
+            "data/images/7280e4014ff52a1a.jpg",
+            "data/images/6972e9cd0ec51257.jpg",
+            "data/images/b8826965cc6d6dca.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -12009,6 +12023,32 @@
               "exerciseId": "ex_3j6q3u8s"
             }
           ]
+        },
+        {
+          "id": "cx_eqosb0gb",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_px3cc4j8",
+              "exerciseId": "ex_hga81i4m"
+            },
+            {
+              "id": "ci_87656mfo",
+              "exerciseId": "ex_zw829ina"
+            },
+            {
+              "id": "ci_juiz78l9",
+              "exerciseId": "ex_7hpddy6w"
+            },
+            {
+              "id": "ci_oxlkj796",
+              "exerciseId": "ex_vnciorob"
+            },
+            {
+              "id": "ci_zcuxovhu",
+              "exerciseId": "ex_wgr8itxu"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
@@ -12016,7 +12056,5 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": [
-    "mat"
-  ]
+  "lastEquipment": []
 }
