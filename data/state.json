@@ -11654,6 +11654,62 @@
             "data/images/06035c5c9226fee3.jpg",
             "data/images/e6dbe0fb439a0241.jpg"
           ]
+        },
+        {
+          "id": "ex_cxuj065b",
+          "name": "Подъёмы рук",
+          "description": "Шея и спина ровные, в груди прогиб. Не включаем спину.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/2bf3dd240ecc9778.jpg",
+            "data/images/cef59c295d12fc01.jpg"
+          ]
+        },
+        {
+          "id": "ex_0a24g7c3",
+          "name": "Наружная ротация",
+          "description": "Шея и спина ровные, в груди прогиб. Не включаем спину. Не подтягиваем плечи к ушам",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/96b9b846f9a91c67.jpg",
+            "data/images/78a8139b4289b8aa.jpg"
+          ]
+        },
+        {
+          "id": "ex_c9p315ay",
+          "name": "Раскручивание и подъёмы рук",
+          "description": "Сначала скручиваемся. Поясницу при раскручивании не переизгибаем. Работа за счёт лопаток и плечевых суставов",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/e9375270afaaaa0f.jpg",
+            "data/images/02cc06eb325ea7d0.jpg",
+            "data/images/47ab9287f9f7f2a7.jpg",
+            "data/images/7958abf4de00410e.jpg"
+          ]
+        },
+        {
+          "id": "ex_3j6q3u8s",
+          "name": "Приведение лопаток, ротация и подъёмы рук",
+          "description": "Шея и спина ровные, в груди прогиб. Не включаем спину. Не подтягиваем плечи к ушам",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/f8a81b3b56265a1a.jpg",
+            "data/images/25a817abc423e31a.jpg",
+            "data/images/a7ca0970fb83585c.jpg",
+            "data/images/851970e1c6b0f94d.jpg"
+          ]
         }
       ],
       "complexes": [
