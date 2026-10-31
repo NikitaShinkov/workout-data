@@ -11641,6 +11641,19 @@
             "data/images/21f232b68d87cbc7.jpg",
             "data/images/cf72e427e422bc72.jpg"
           ]
+        },
+        {
+          "id": "ex_xgaf25dc",
+          "name": "Приведение лопаток",
+          "description": "Шея и спина ровные, в груди прогиб",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/06035c5c9226fee3.jpg",
+            "data/images/e6dbe0fb439a0241.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -11859,6 +11872,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
