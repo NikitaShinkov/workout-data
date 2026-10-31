@@ -11710,6 +11710,19 @@
             "data/images/a7ca0970fb83585c.jpg",
             "data/images/851970e1c6b0f94d.jpg"
           ]
+        },
+        {
+          "id": "ex_hga81i4m",
+          "name": "Движение лопаток вперёд-назад",
+          "description": "Не подключаем грудные мышцы, работа только в лопатках",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/c482ca3af8219009.jpg",
+            "data/images/6bbdb8bbef491ac7.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -11918,6 +11931,32 @@
             {
               "id": "ci_3u2tfjpb",
               "exerciseId": "ex_xy7klcy1"
+            }
+          ]
+        },
+        {
+          "id": "cx_quslmj44",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_m4vygx76",
+              "exerciseId": "ex_xgaf25dc"
+            },
+            {
+              "id": "ci_5zylz9iz",
+              "exerciseId": "ex_cxuj065b"
+            },
+            {
+              "id": "ci_r0yalbpz",
+              "exerciseId": "ex_0a24g7c3"
+            },
+            {
+              "id": "ci_2epdzqw5",
+              "exerciseId": "ex_c9p315ay"
+            },
+            {
+              "id": "ci_bd09p61d",
+              "exerciseId": "ex_3j6q3u8s"
             }
           ]
         }
