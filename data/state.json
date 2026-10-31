@@ -11817,6 +11817,34 @@
             "data/images/3677702543bab56c.jpg",
             "data/images/9f947825c31bef3c.jpg"
           ]
+        },
+        {
+          "id": "ex_w47iqp9v",
+          "name": "МФР трапециевидной",
+          "description": "С одной стороны опускаем лопатку вниз, голову наклоняем в противоположную сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/1c9d01761d0cfe1d.jpg",
+            "data/images/b6e6c8137c47009e.jpg",
+            "data/images/c5ed78ec1eb2d8ba.jpg",
+            "data/images/267af42f4c6597a1.jpg",
+            "data/images/17df60c6c08e7a27.jpg",
+            "data/images/2ba6a1378b1c289c.jpg"
+          ]
+        },
+        {
+          "id": "ex_u352raef",
+          "name": "МФР",
+          "description": "Оказываем рукой лёгкое давление на головку плечевой кости",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ebd6c43dedb90b58.jpg",
+            "data/images/329c5d1f6106076c.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -12077,6 +12105,32 @@
             {
               "id": "ci_zcuxovhu",
               "exerciseId": "ex_wgr8itxu"
+            }
+          ]
+        },
+        {
+          "id": "cx_pkck0xyv",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_dhk8gujg",
+              "exerciseId": "ex_uqaxu6po"
+            },
+            {
+              "id": "ci_a8bwbi7s",
+              "exerciseId": "ex_9ku0s4is"
+            },
+            {
+              "id": "ci_b3rpji3o",
+              "exerciseId": "ex_0mx1hlhq"
+            },
+            {
+              "id": "ci_orio6ptw",
+              "exerciseId": "ex_w47iqp9v"
+            },
+            {
+              "id": "ci_bgn6yz5p",
+              "exerciseId": "ex_u352raef"
             }
           ]
         }
