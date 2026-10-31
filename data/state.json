@@ -11778,7 +11778,9 @@
           "id": "ex_uqaxu6po",
           "name": "МФР большой грудной мышцы",
           "description": "Вдавливаем мяч. И отводим руку назад по разными углами для растягивания мышцы",
-          "equipment": [],
+          "equipment": [
+            "mat"
+          ],
           "images": [
             "data/images/9c8024deffc35695.jpg",
             "data/images/f65917d2da55954b.jpg",
@@ -11786,6 +11788,34 @@
             "data/images/7280e4014ff52a1a.jpg",
             "data/images/6972e9cd0ec51257.jpg",
             "data/images/b8826965cc6d6dca.jpg"
+          ]
+        },
+        {
+          "id": "ex_9ku0s4is",
+          "name": "МФР ромбовидной и средней трапециевидной",
+          "description": "Мяч размещаем меду лопаткой и позвоночником. Делаем отведение лопатки. Под шею можно положить рол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/957498edbca57c9b.jpg",
+            "data/images/c24de3792badc1ae.jpg",
+            "data/images/bf52377fa627a0ae.jpg",
+            "data/images/c03a2d18d786c49a.jpg"
+          ]
+        },
+        {
+          "id": "ex_0mx1hlhq",
+          "name": "МФР ромбовидной и средней трапециевидной",
+          "description": "Мяч размещаем меду лопаткой и позвоночником. Делаем сгибания в плечевом суставе в разных углах. Под шею можно положить рол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/957498edbca57c9b.jpg",
+            "data/images/c24de3792badc1ae.jpg",
+            "data/images/3677702543bab56c.jpg",
+            "data/images/9f947825c31bef3c.jpg"
           ]
         }
       ],
@@ -12056,5 +12086,7 @@
       "intervalDays": 1
     }
   },
-  "lastEquipment": []
+  "lastEquipment": [
+    "mat"
+  ]
 }
