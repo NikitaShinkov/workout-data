@@ -11987,6 +11987,20 @@
             "data/images/5e432f3cef1d9b1e.jpg",
             "data/images/296a050988a20a62.jpg"
           ]
+        },
+        {
+          "id": "ex_6vz95lch",
+          "name": "Разгибания",
+          "description": "Лента на противоположной ноге к руке",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/13d87f30e26a702c.jpg",
+            "data/images/3caa1e21a5e18029.jpg",
+            "data/images/b070aed919813956.jpg"
+          ]
         }
       ],
       "complexes": [
