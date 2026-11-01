@@ -11929,6 +11929,50 @@
             "data/images/369cbe8a33832a0f.jpg",
             "data/images/4fe2af85b99f5a7f.jpg"
           ]
+        },
+        {
+          "id": "ex_3u7r8ii8",
+          "name": "Подъёмы с поворотом",
+          "description": "Поднимаем руку, поворачивается и отпускаем руку. Потом в обратном направлении.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/92684b2d999aaf08.jpg",
+            "data/images/8f202c034b312439.jpg",
+            "data/images/d1163784c7becf8e.jpg",
+            "data/images/edd87c1897751051.jpg"
+          ]
+        },
+        {
+          "id": "ex_i0msrsq8",
+          "name": "Вращение",
+          "description": "Тянем резинку на себя, потом поворачиваем руку вверх и поднимаем руки\nНагрузка асинхронная — резинка нагружает только одну руку",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/c8e9ec21e710c10b.jpg",
+            "data/images/26e0102551f5c8d9.jpg",
+            "data/images/36348b28abf83abd.jpg",
+            "data/images/22c71c8dff8ccc61.jpg"
+          ]
+        },
+        {
+          "id": "ex_dmq9e9jd",
+          "name": "Раскрытие и сворачивание",
+          "description": "Нагрузка асинхронная — резинка нагружает только одну руку",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/2b752d58fb40717e.jpg",
+            "data/images/e5a36e538431bf7c.jpg",
+            "data/images/5ac12b2bc3013dae.jpg"
+          ]
         }
       ],
       "complexes": [
