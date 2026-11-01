@@ -11845,6 +11845,19 @@
             "data/images/ebd6c43dedb90b58.jpg",
             "data/images/329c5d1f6106076c.jpg"
           ]
+        },
+        {
+          "id": "ex_fjjrz21y",
+          "name": "Вращение в грудном отделе",
+          "description": "Рол между передней ногой и стеной для стабильности поясницы\nПоясница и плечо стабильны, мобильность в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/12329ebe83731920.jpg",
+            "data/images/89d6c4961e91fea8.jpg",
+            "data/images/76357329c1ab2745.jpg"
+          ]
         }
       ],
       "complexes": [
