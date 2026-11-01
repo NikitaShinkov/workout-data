@@ -12400,6 +12400,32 @@
               "exerciseId": "ex_utx2xi0k"
             }
           ]
+        },
+        {
+          "id": "cx_q59ybri6",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_on6fgqd8",
+              "exerciseId": "ex_6vz95lch"
+            },
+            {
+              "id": "ci_5777qs6k",
+              "exerciseId": "ex_n4di3vtz"
+            },
+            {
+              "id": "ci_pq2p0hw0",
+              "exerciseId": "ex_cdm9akmw"
+            },
+            {
+              "id": "ci_yv5wn2bv",
+              "exerciseId": "ex_oysj79kt"
+            },
+            {
+              "id": "ci_h1i3w9vj",
+              "exerciseId": "ex_w1r7figx"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
