@@ -11914,6 +11914,21 @@
             "data/images/e7280f4770bb36ac.jpg",
             "data/images/3fb545cef7fa1fa3.jpg"
           ]
+        },
+        {
+          "id": "ex_lv2bo9gq",
+          "name": "Вращение относительно плеча",
+          "description": "Меняем в статике наружную и внутреннюю ротацию",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4f1394ab241172a6.jpg",
+            "data/images/4f2b3fe99dc20ab7.jpg",
+            "data/images/369cbe8a33832a0f.jpg",
+            "data/images/4fe2af85b99f5a7f.jpg"
+          ]
         }
       ],
       "complexes": [
