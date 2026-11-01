@@ -12202,6 +12202,32 @@
               "exerciseId": "ex_u352raef"
             }
           ]
+        },
+        {
+          "id": "cx_zxicjsbo",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_4f2va3a2",
+              "exerciseId": "ex_fjjrz21y"
+            },
+            {
+              "id": "ci_y6tbp6bl",
+              "exerciseId": "ex_f9t7bkbf"
+            },
+            {
+              "id": "ci_3sjrq1m7",
+              "exerciseId": "ex_nti3fhje"
+            },
+            {
+              "id": "ci_2mum523r",
+              "exerciseId": "ex_gsjr80o3"
+            },
+            {
+              "id": "ci_lo8mctyi",
+              "exerciseId": "ex_rsrpds5h"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
