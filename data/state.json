@@ -12001,6 +12001,65 @@
             "data/images/3caa1e21a5e18029.jpg",
             "data/images/b070aed919813956.jpg"
           ]
+        },
+        {
+          "id": "ex_n4di3vtz",
+          "name": "Сгибания",
+          "description": "Лента на ноге с той же стороны, что и рука",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/572c97b35d2f3e85.jpg",
+            "data/images/813bb703f6da4d3e.jpg",
+            "data/images/3582c1b40a291c19.jpg"
+          ]
+        },
+        {
+          "id": "ex_cdm9akmw",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/8f20960eea0117c2.jpg",
+            "data/images/71dc9c929c89a064.jpg",
+            "data/images/33d0419fa7e3bb6e.jpg"
+          ]
+        },
+        {
+          "id": "ex_oysj79kt",
+          "name": "Сгибания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/6258c3683721ce18.jpg",
+            "data/images/3fd3ec6fe6534b40.jpg",
+            "data/images/df496a6524397227.jpg"
+          ]
+        },
+        {
+          "id": "ex_w1r7figx",
+          "name": "Вращение относительно плеча",
+          "description": "Поднимаем руку с гирей вверх и вращаемся вокруг неё сначала один полный оборот в одну сторону, потом в другую.",
+          "equipment": [
+            "mat",
+            "long_band",
+            "weight"
+          ],
+          "images": [
+            "data/images/3102470ec0b4c04b.jpg",
+            "data/images/f5fc4b94374f0556.jpg",
+            "data/images/9eb80a1ba88b255e.jpg",
+            "data/images/cdfa8a2ae222f342.jpg",
+            "data/images/33faca013f0d96f8.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -12350,6 +12409,7 @@
   },
   "lastEquipment": [
     "mat",
-    "long_band"
+    "long_band",
+    "weight"
   ]
 }
