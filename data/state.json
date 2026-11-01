@@ -11973,6 +11973,20 @@
             "data/images/e5a36e538431bf7c.jpg",
             "data/images/5ac12b2bc3013dae.jpg"
           ]
+        },
+        {
+          "id": "ex_utx2xi0k",
+          "name": "Подъёмы и опускания рук",
+          "description": "Нагрузка асинхронная — резинка нагружает только одну руку",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/46f75416b62b758e.jpg",
+            "data/images/5e432f3cef1d9b1e.jpg",
+            "data/images/296a050988a20a62.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -12285,6 +12299,32 @@
             {
               "id": "ci_lo8mctyi",
               "exerciseId": "ex_rsrpds5h"
+            }
+          ]
+        },
+        {
+          "id": "cx_bblfxmgd",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_sqo1ekl3",
+              "exerciseId": "ex_lv2bo9gq"
+            },
+            {
+              "id": "ci_xv1iwrp8",
+              "exerciseId": "ex_3u7r8ii8"
+            },
+            {
+              "id": "ci_4u70udi9",
+              "exerciseId": "ex_i0msrsq8"
+            },
+            {
+              "id": "ci_78znnczg",
+              "exerciseId": "ex_dmq9e9jd"
+            },
+            {
+              "id": "ci_5xsy1t49",
+              "exerciseId": "ex_utx2xi0k"
             }
           ]
         }
