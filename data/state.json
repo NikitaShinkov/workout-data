@@ -11858,6 +11858,62 @@
             "data/images/89d6c4961e91fea8.jpg",
             "data/images/76357329c1ab2745.jpg"
           ]
+        },
+        {
+          "id": "ex_f9t7bkbf",
+          "name": "Вращение в грудном отделе",
+          "description": "Рол между передней ногой и стеной для стабильности поясницы\nПоясница и плечо стабильны, мобильность в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/645c5654f1a32eef.jpg",
+            "data/images/f48c07bf1d606ac4.jpg",
+            "data/images/9ea17767b4103a08.jpg"
+          ]
+        },
+        {
+          "id": "ex_nti3fhje",
+          "name": "Вращение в грудном отделе",
+          "description": "Рол между передней ногой и стеной для стабильности поясницы. Руку кладём за голову для изоляции плечевого сустава.\nПоясница и плечо стабильны, мобильность в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b91cc9d49cad0e2b.jpg",
+            "data/images/f3dc732b97254f45.jpg",
+            "data/images/99a73ebec987611d.jpg",
+            "data/images/284e38aaec3e21ba.jpg"
+          ]
+        },
+        {
+          "id": "ex_gsjr80o3",
+          "name": "Вращение в грудном отделе",
+          "description": "Рол между передней ногой и стеной для стабильности поясницы. Одна руку прикладывается к стене и стабильна. Другую руку отводим.\nПоясница и плечо стабильны, мобильность в грудном отделе.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/d4ceca6acf2b2fb2.jpg",
+            "data/images/8ce2fc4d3791cdb3.jpg",
+            "data/images/2c7f9a0940d14d90.jpg"
+          ]
+        },
+        {
+          "id": "ex_rsrpds5h",
+          "name": "Раскрытие в грудном отделе",
+          "description": "Поясница и плечо стабильны, мобильность в грудном отделе.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/ff241aac120c3209.jpg",
+            "data/images/9da69ed3407cd97e.jpg",
+            "data/images/e7280f4770bb36ac.jpg",
+            "data/images/3fb545cef7fa1fa3.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -12154,6 +12210,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
