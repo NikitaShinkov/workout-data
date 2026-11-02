@@ -10036,6 +10036,60 @@
             "data/images/ad52853fcbf55f7b.jpg",
             "data/images/5085c7841ce156fc.jpg"
           ]
+        },
+        {
+          "id": "ex_zoccvpxy",
+          "name": "Присед с небольшим скручиванием",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/ec7932563cfb72b8.jpg",
+            "data/images/79067aebc6a02de9.jpg"
+          ]
+        },
+        {
+          "id": "ex_md6g0jec",
+          "name": "Присед",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/96a63ec89a4a90d1.jpg",
+            "data/images/b46fc3607444906f.jpg"
+          ]
+        },
+        {
+          "id": "ex_ackcn6do",
+          "name": "Присед с небольшим скручиванием",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/3a9b4c150f61260e.jpg",
+            "data/images/284f8aa72f7518a3.jpg",
+            "data/images/8d90818b8ec6ca52.jpg",
+            "data/images/0eee26fd9860418a.jpg"
+          ]
+        },
+        {
+          "id": "ex_ua0egluc",
+          "name": "Наклоны",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/420b59ff0ac353a0.jpg",
+            "data/images/0a43a4bc4f4a3048.jpg"
+          ]
         }
       ],
       "complexes": [
