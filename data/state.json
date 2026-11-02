@@ -10156,6 +10156,19 @@
             "data/images/eb2964941915516c.jpg",
             "data/images/b9cea6c3d72d9562.jpg"
           ]
+        },
+        {
+          "id": "ex_9w8d2knf",
+          "name": "Ротация плеча",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/34f5b66a3a897ee7.jpg",
+            "data/images/ea1dc2b13d22f1dd.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10780,6 +10793,52 @@
             {
               "id": "ci_l37ee0g1",
               "exerciseId": "ex_vxsrn66x"
+            }
+          ]
+        },
+        {
+          "id": "cx_xhl5xrik",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_tuwx2qvb",
+              "exerciseId": "ex_rostdi3w"
+            },
+            {
+              "id": "ci_hdliaw5f",
+              "exerciseId": "ex_zoccvpxy"
+            },
+            {
+              "id": "ci_eqcq94oa",
+              "exerciseId": "ex_md6g0jec"
+            },
+            {
+              "id": "ci_o1cbhlhq",
+              "exerciseId": "ex_ackcn6do"
+            },
+            {
+              "id": "ci_ekq1roan",
+              "exerciseId": "ex_ua0egluc"
+            },
+            {
+              "id": "ci_pdlr7lb1",
+              "exerciseId": "ex_uayyozq1"
+            },
+            {
+              "id": "ci_xrn99nh6",
+              "exerciseId": "ex_tjfp1m6z"
+            },
+            {
+              "id": "ci_e4kw3833",
+              "exerciseId": "ex_wf7cns1i"
+            },
+            {
+              "id": "ci_33gyhlyq",
+              "exerciseId": "ex_13r1k44k"
+            },
+            {
+              "id": "ci_3sja3pi2",
+              "exerciseId": "ex_r6ng2e78"
             }
           ]
         }
