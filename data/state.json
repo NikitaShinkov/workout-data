@@ -9820,6 +9820,18 @@
             "data/images/086c1f4aebbb858a.jpg",
             "data/images/35f702fe01427e14.jpg"
           ]
+        },
+        {
+          "id": "ex_avslptir",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/dc6e75e811c469dd.jpg",
+            "data/images/5159d9af2a3a3719.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -12434,8 +12446,6 @@
     }
   },
   "lastEquipment": [
-    "mat",
-    "long_band",
-    "weight"
+    "mat"
   ]
 }
