@@ -9882,6 +9882,42 @@
             "data/images/e6d7a1515add8ed7.jpg",
             "data/images/fb60e39c691e74c8.jpg"
           ]
+        },
+        {
+          "id": "ex_w8peok3z",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4e81fa6c3b9d23ed.jpg",
+            "data/images/73bbf43656053cab.jpg"
+          ]
+        },
+        {
+          "id": "ex_q55xxsx6",
+          "name": "Разгибания с зависанием в верхней точке",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d8c451ab484fcb98.jpg",
+            "data/images/4f631ba9a80157c1.jpg"
+          ]
+        },
+        {
+          "id": "ex_20aa909q",
+          "name": "Разгибания, не опуская спину и руки",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/51ff744a9d1a246a.jpg",
+            "data/images/dd76c2824fb35421.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10430,6 +10466,44 @@
             {
               "id": "ci_1wkxairp",
               "exerciseId": "ex_hl602rur"
+            }
+          ]
+        },
+        {
+          "id": "cx_4u77wpco",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_54xbr466",
+              "exerciseId": "ex_avslptir"
+            },
+            {
+              "id": "ci_cwfxd53g",
+              "exerciseId": "ex_fnm6uah6"
+            },
+            {
+              "id": "ci_z0l2dgc6",
+              "exerciseId": "ex_zg3x1kwz"
+            },
+            {
+              "id": "ci_8xe38a75",
+              "exerciseId": "ex_m0oc6nrk"
+            },
+            {
+              "id": "ci_klyq75bd",
+              "exerciseId": "ex_1b7etpxc"
+            },
+            {
+              "id": "ci_lmmy1x14",
+              "exerciseId": "ex_w8peok3z"
+            },
+            {
+              "id": "ci_b2783qna",
+              "exerciseId": "ex_q55xxsx6"
+            },
+            {
+              "id": "ci_6tn56hyf",
+              "exerciseId": "ex_20aa909q"
             }
           ]
         }
