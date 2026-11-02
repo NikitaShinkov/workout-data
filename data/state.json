@@ -9918,6 +9918,20 @@
             "data/images/51ff744a9d1a246a.jpg",
             "data/images/dd76c2824fb35421.jpg"
           ]
+        },
+        {
+          "id": "ex_o8a58hp6",
+          "name": "Вращения",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/490596d172ff31be.jpg",
+            "data/images/88b7d6404a06b707.jpg",
+            "data/images/55832cdf3023b8d0.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -12570,6 +12584,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
