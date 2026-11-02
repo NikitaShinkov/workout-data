@@ -10169,6 +10169,84 @@
             "data/images/34f5b66a3a897ee7.jpg",
             "data/images/ea1dc2b13d22f1dd.jpg"
           ]
+        },
+        {
+          "id": "ex_sk19iy3e",
+          "name": "Руки на себя",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/7d65b07e5a93b798.jpg",
+            "data/images/be6069e86f47926d.jpg"
+          ]
+        },
+        {
+          "id": "ex_akwfoy0n",
+          "name": "Ротация плеча",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/ddc80f1804ce5c6d.jpg",
+            "data/images/1a74e02df6dbd571.jpg"
+          ]
+        },
+        {
+          "id": "ex_l9fd3sro",
+          "name": "Ротация плеча",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4d01700213608580.jpg",
+            "data/images/6c0baa9fa83d6fde.jpg"
+          ]
+        },
+        {
+          "id": "ex_vum9kvai",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4f3f06e378ba3edc.jpg",
+            "data/images/837ef56ee2093f76.jpg"
+          ]
+        },
+        {
+          "id": "ex_l9d6nqjr",
+          "name": "Мини приседы и вытягивание рук вперёд",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/a3a5f745ac9dc6f5.jpg",
+            "data/images/1d8218adc2dbe8d7.jpg"
+          ]
+        },
+        {
+          "id": "ex_yucrdatm",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/cec6956a3efadb40.jpg",
+            "data/images/58030ca51680d2f9.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10839,6 +10917,40 @@
             {
               "id": "ci_3sja3pi2",
               "exerciseId": "ex_r6ng2e78"
+            }
+          ]
+        },
+        {
+          "id": "cx_vcd286qp",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_xlaypd9d",
+              "exerciseId": "ex_9w8d2knf"
+            },
+            {
+              "id": "ci_ukouaghv",
+              "exerciseId": "ex_sk19iy3e"
+            },
+            {
+              "id": "ci_2faucbkf",
+              "exerciseId": "ex_akwfoy0n"
+            },
+            {
+              "id": "ci_b25hua4n",
+              "exerciseId": "ex_l9fd3sro"
+            },
+            {
+              "id": "ci_3cybaszv",
+              "exerciseId": "ex_vum9kvai"
+            },
+            {
+              "id": "ci_j8zmhz3f",
+              "exerciseId": "ex_l9d6nqjr"
+            },
+            {
+              "id": "ci_xyzjzwlx",
+              "exerciseId": "ex_yucrdatm"
             }
           ]
         }
