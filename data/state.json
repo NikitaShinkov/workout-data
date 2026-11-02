@@ -8412,7 +8412,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-29",
+      "scheduleStartDate": "2026-10-30",
       "intervalDays": 1
     },
     "lower_back": {
@@ -10373,7 +10373,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-14",
+      "scheduleStartDate": "2026-10-17",
       "intervalDays": 1
     },
     "back": {
