@@ -9932,6 +9932,97 @@
             "data/images/88b7d6404a06b707.jpg",
             "data/images/55832cdf3023b8d0.jpg"
           ]
+        },
+        {
+          "id": "ex_5c90m4wk",
+          "name": "Мини приседы",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/3ee6b6869f4f49b2.jpg",
+            "data/images/22b6d84921084087.jpg"
+          ]
+        },
+        {
+          "id": "ex_gkcjgn4d",
+          "name": "Отведения",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/f05cf111d1447912.jpg",
+            "data/images/6b0f1aa0d0f688aa.jpg"
+          ]
+        },
+        {
+          "id": "ex_ao7m7wlu",
+          "name": "Вращения",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/48877d9427b8e35c.jpg",
+            "data/images/6946d52f0076bbeb.jpg"
+          ]
+        },
+        {
+          "id": "ex_58ddeyd2",
+          "name": "Подъёмы",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/49d786356e4eddc6.jpg",
+            "data/images/4511d420299fe86a.jpg"
+          ]
+        },
+        {
+          "id": "ex_vw37rs3q",
+          "name": "Отведения по горизонтальной линии",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/c1975e635f89e7d1.jpg",
+            "data/images/c9978498bfc9760d.jpg"
+          ]
+        },
+        {
+          "id": "ex_w0s299hb",
+          "name": "Отведения по диагонали вниз",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/13d557daff2da550.jpg",
+            "data/images/f415e97410c2eee2.jpg"
+          ]
+        },
+        {
+          "id": "ex_vxsrn66x",
+          "name": "Сгибания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/1f2b381d7aa59fe0.jpg",
+            "data/images/1ce6dca2d5d06c39.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -10518,6 +10609,44 @@
             {
               "id": "ci_6tn56hyf",
               "exerciseId": "ex_20aa909q"
+            }
+          ]
+        },
+        {
+          "id": "cx_80uvnoql",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_l4ncn1ur",
+              "exerciseId": "ex_o8a58hp6"
+            },
+            {
+              "id": "ci_8ujl78it",
+              "exerciseId": "ex_5c90m4wk"
+            },
+            {
+              "id": "ci_rvh0h7vr",
+              "exerciseId": "ex_gkcjgn4d"
+            },
+            {
+              "id": "ci_eugc15dw",
+              "exerciseId": "ex_ao7m7wlu"
+            },
+            {
+              "id": "ci_9drghc1w",
+              "exerciseId": "ex_58ddeyd2"
+            },
+            {
+              "id": "ci_tlkw1c7w",
+              "exerciseId": "ex_vw37rs3q"
+            },
+            {
+              "id": "ci_4qevrd4v",
+              "exerciseId": "ex_w0s299hb"
+            },
+            {
+              "id": "ci_l37ee0g1",
+              "exerciseId": "ex_vxsrn66x"
             }
           ]
         }
