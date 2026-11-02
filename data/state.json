@@ -5409,7 +5409,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-18",
+      "scheduleStartDate": "2026-10-20",
       "intervalDays": 1
     },
     "hip": {
@@ -6788,7 +6788,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-29",
+      "scheduleStartDate": "2026-10-31",
       "intervalDays": 1
     },
     "glutes": {
