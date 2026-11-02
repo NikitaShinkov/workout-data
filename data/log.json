@@ -20399,6 +20399,49 @@
       "itemId": "ci_amlaka2n",
       "date": "2026-11-02",
       "done": true
+    },
+    {
+      "id": "op_waritn74",
+      "ts": 1793608764322,
+      "kind": "duration",
+      "exerciseId": "ex_kly967m2",
+      "sec": 131
+    },
+    {
+      "id": "op_g3iu2972",
+      "ts": 1793608764326,
+      "kind": "rate",
+      "exerciseId": "ex_kly967m2",
+      "axis": "technique",
+      "date": "2026-11-02",
+      "level": "easy"
+    },
+    {
+      "id": "op_oz4g7mkw",
+      "ts": 1793608764329,
+      "kind": "rate",
+      "exerciseId": "ex_kly967m2",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-02",
+      "level": "easy"
+    },
+    {
+      "id": "op_fqzqc4z2",
+      "ts": 1793608764331,
+      "kind": "rate",
+      "exerciseId": "ex_kly967m2",
+      "axis": "strength",
+      "date": "2026-11-02",
+      "level": "easy"
+    },
+    {
+      "id": "op_fbffw22d",
+      "ts": 1793608764333,
+      "kind": "done",
+      "complexId": "cx_9rrt8pmw",
+      "itemId": "ci_wm5q0t10",
+      "date": "2026-11-02",
+      "done": true
     }
   ]
 }
