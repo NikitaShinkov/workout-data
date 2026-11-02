@@ -10090,6 +10090,72 @@
             "data/images/420b59ff0ac353a0.jpg",
             "data/images/0a43a4bc4f4a3048.jpg"
           ]
+        },
+        {
+          "id": "ex_uayyozq1",
+          "name": "Присед",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/5a0ff843de85d803.jpg",
+            "data/images/d39cdaacc25558d0.jpg"
+          ]
+        },
+        {
+          "id": "ex_tjfp1m6z",
+          "name": "Присед",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/2a247f6555a0843a.jpg",
+            "data/images/4b8bfe32e7353d19.jpg"
+          ]
+        },
+        {
+          "id": "ex_wf7cns1i",
+          "name": "Отведение",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/cb3ae241e7966239.jpg",
+            "data/images/92a2cffff7bc7ebc.jpg",
+            "data/images/e3e36b9942dba67b.jpg"
+          ]
+        },
+        {
+          "id": "ex_13r1k44k",
+          "name": "Подъём таза",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/f3808b08d31774db.jpg",
+            "data/images/d52fccd986362f12.jpg"
+          ]
+        },
+        {
+          "id": "ex_r6ng2e78",
+          "name": "Сгибания разгибания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/eb2964941915516c.jpg",
+            "data/images/b9cea6c3d72d9562.jpg"
+          ]
         }
       ],
       "complexes": [
