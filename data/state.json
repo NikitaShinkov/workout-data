@@ -10023,6 +10023,19 @@
             "data/images/1f2b381d7aa59fe0.jpg",
             "data/images/1ce6dca2d5d06c39.jpg"
           ]
+        },
+        {
+          "id": "ex_rostdi3w",
+          "name": "Присед",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/ad52853fcbf55f7b.jpg",
+            "data/images/5085c7841ce156fc.jpg"
+          ]
         }
       ],
       "complexes": [
