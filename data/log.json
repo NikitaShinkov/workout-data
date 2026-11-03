@@ -22134,6 +22134,100 @@
       "itemId": "ci_wpx78a7x",
       "date": "2026-11-03",
       "done": true
+    },
+    {
+      "id": "op_w18s3jvh",
+      "ts": 1793692032714,
+      "kind": "duration",
+      "exerciseId": "ex_uj09uoes",
+      "sec": 9
+    },
+    {
+      "id": "op_bjvsqtmv",
+      "ts": 1793692032717,
+      "kind": "rate",
+      "exerciseId": "ex_uj09uoes",
+      "axis": "technique",
+      "date": "2026-11-03",
+      "level": "easy"
+    },
+    {
+      "id": "op_pyfejc2z",
+      "ts": 1793692032719,
+      "kind": "rate",
+      "exerciseId": "ex_uj09uoes",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-03",
+      "level": "easy"
+    },
+    {
+      "id": "op_7uic6cln",
+      "ts": 1793692032721,
+      "kind": "rate",
+      "exerciseId": "ex_uj09uoes",
+      "axis": "strength",
+      "date": "2026-11-03",
+      "level": "easy"
+    },
+    {
+      "id": "op_n5xaqatc",
+      "ts": 1793692032723,
+      "kind": "done",
+      "complexId": "cx_nc7dyjs2",
+      "itemId": "ci_2qzixnax",
+      "date": "2026-11-03",
+      "done": true
+    },
+    {
+      "id": "op_sw7r2y1y",
+      "ts": 1793692196171,
+      "kind": "duration",
+      "exerciseId": "ex_hl602rur",
+      "sec": 163
+    },
+    {
+      "id": "op_z506c8lm",
+      "ts": 1793692196174,
+      "kind": "rate",
+      "exerciseId": "ex_hl602rur",
+      "axis": "technique",
+      "date": "2026-11-03",
+      "level": "easy"
+    },
+    {
+      "id": "op_97uagn2d",
+      "ts": 1793692196177,
+      "kind": "rate",
+      "exerciseId": "ex_hl602rur",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-03",
+      "level": "easy"
+    },
+    {
+      "id": "op_kpkzo6uh",
+      "ts": 1793692196179,
+      "kind": "rate",
+      "exerciseId": "ex_hl602rur",
+      "axis": "strength",
+      "date": "2026-11-03",
+      "level": "easy"
+    },
+    {
+      "id": "op_bu8ht3w8",
+      "ts": 1793692196182,
+      "kind": "done",
+      "complexId": "cx_nc7dyjs2",
+      "itemId": "ci_1wkxairp",
+      "date": "2026-11-03",
+      "done": true
+    },
+    {
+      "id": "op_46xo35bj",
+      "ts": 1793692196183,
+      "kind": "complex",
+      "complexId": "cx_nc7dyjs2",
+      "date": "2026-11-03",
+      "done": true
     }
   ]
 }
