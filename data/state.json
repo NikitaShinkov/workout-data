@@ -5410,7 +5410,7 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-20",
-      "intervalDays": 1
+      "intervalDays": 2
     },
     "hip": {
       "name": "ТБС",
