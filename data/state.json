@@ -11677,7 +11677,7 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-30",
-      "intervalDays": 1
+      "intervalDays": 2
     },
     "cat_lz5gplty": {
       "name": "Грудь и плечи",
@@ -13012,8 +13012,8 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-25",
-      "intervalDays": 1
+      "scheduleStartDate": "2026-10-18",
+      "intervalDays": 2
     }
   },
   "lastEquipment": [
