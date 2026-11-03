@@ -1265,7 +1265,7 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-23",
-      "intervalDays": 1
+      "intervalDays": 2
     },
     "knee": {
       "name": "Колено",
