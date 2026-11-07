@@ -66,10 +66,115 @@
     },
     "neck": {
       "name": "Шея",
-      "exercises": [],
-      "complexes": [],
+      "exercises": [
+        {
+          "id": "ex_z9plq7c9",
+          "name": "вмывм",
+          "description": "ымывмывм",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9650b3df5d46f438.jpg",
+            "data/images/4f3f06e378ba3edc.jpg",
+            "data/images/837ef56ee2093f76.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_7acf8s1n",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_kknx9kb0",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        },
+        {
+          "id": "cx_pccq18c1",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_6iis6qy3",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        },
+        {
+          "id": "cx_myjpob1w",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_chk3cjm1",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        },
+        {
+          "id": "cx_57gv7ew8",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_yqjmfez6",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        },
+        {
+          "id": "cx_pncemin9",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_1qby0fu0",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        },
+        {
+          "id": "cx_tkuo9rpq",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_9vfyau5q",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        },
+        {
+          "id": "cx_7ucgdl8j",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_d8rrsfhi",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        },
+        {
+          "id": "cx_tx42d7ib",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_vx6ii95e",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        },
+        {
+          "id": "cx_7cmmys3u",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_vzrolrcc",
+              "exerciseId": "ex_z9plq7c9"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-11-06",
       "intervalDays": 1,
       "includeWeekends": false
     }
