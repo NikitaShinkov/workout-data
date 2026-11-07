@@ -1265,7 +1265,8 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-13",
-      "intervalDays": 2
+      "intervalDays": 2,
+      "includeWeekends": false
     },
     "knee": {
       "name": "Колено",
@@ -5410,7 +5411,8 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-08",
-      "intervalDays": 2
+      "intervalDays": 2,
+      "includeWeekends": false
     },
     "hip": {
       "name": "ТБС",
@@ -6789,7 +6791,8 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-31",
-      "intervalDays": 1
+      "intervalDays": 1,
+      "includeWeekends": false
     },
     "glutes": {
       "name": "Ягодицы",
@@ -8413,7 +8416,8 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-30",
-      "intervalDays": 1
+      "intervalDays": 1,
+      "includeWeekends": false
     },
     "lower_back": {
       "name": "Поясница",
@@ -10957,7 +10961,8 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-17",
-      "intervalDays": 1
+      "intervalDays": 1,
+      "includeWeekends": false
     },
     "back": {
       "name": "Спина",
@@ -10965,7 +10970,8 @@
       "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
-      "intervalDays": 1
+      "intervalDays": 1,
+      "includeWeekends": false
     },
     "neck": {
       "name": "Шея",
@@ -11677,7 +11683,8 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-30",
-      "intervalDays": 2
+      "intervalDays": 2,
+      "includeWeekends": false
     },
     "cat_lz5gplty": {
       "name": "Грудь и плечи",
@@ -13012,8 +13019,9 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-18",
-      "intervalDays": 2
+      "scheduleStartDate": "2026-10-16",
+      "intervalDays": 2,
+      "includeWeekends": false
     }
   },
   "lastEquipment": [
