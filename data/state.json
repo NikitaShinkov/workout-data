@@ -2,8 +2,8 @@
   "version": 2,
   "categoryOrder": [
     "ankle",
-    "knee",
     "hip",
+    "knee",
     "glutes",
     "lower_back",
     "back",
@@ -131,7 +131,152 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-11-05",
+      "scheduleStartDate": "2026-11-06",
+      "intervalDays": 1,
+      "includeWeekends": true
+    },
+    "hip": {
+      "name": "ТБС",
+      "exercises": [
+        {
+          "id": "ex_rm9epznu",
+          "name": "dgsg",
+          "description": "sdgsdgsd",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/34f5b66a3a897ee7.jpg",
+            "data/images/ea1dc2b13d22f1dd.jpg",
+            "data/images/7d65b07e5a93b798.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_pbey4ps6",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_382re835",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_taqslzbc",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_c4yva5iv",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_pvool28z",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_49fp7tmf",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_2xh7wip0",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_51j15cfq",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_5wqxu8by",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_3q494hj5",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_4eg0b1sx",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_cuzlhmet",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_qxy1ryow",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_rhh1fge4",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_nu9wl4ag",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_7t7ibcwo",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_eu8vui0i",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_td9qvq6h",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_1bjp427l",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_0jpcz962",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_x4202qoi",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_1cckl9d5",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        },
+        {
+          "id": "cx_o8ufsz38",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_gm8jesk8",
+              "exerciseId": "ex_rm9epznu"
+            }
+          ]
+        }
+      ],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-11-09",
       "intervalDays": 1,
       "includeWeekends": false
     },
@@ -140,16 +285,7 @@
       "exercises": [],
       "complexes": [],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
-      "intervalDays": 1,
-      "includeWeekends": false
-    },
-    "hip": {
-      "name": "ТБС",
-      "exercises": [],
-      "complexes": [],
-      "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-08",
       "intervalDays": 1,
       "includeWeekends": false
     },
@@ -158,7 +294,7 @@
       "exercises": [],
       "complexes": [],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-08",
       "intervalDays": 1,
       "includeWeekends": false
     },
@@ -167,7 +303,7 @@
       "exercises": [],
       "complexes": [],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-08",
       "intervalDays": 1,
       "includeWeekends": false
     },
@@ -176,7 +312,7 @@
       "exercises": [],
       "complexes": [],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-08",
       "intervalDays": 1,
       "includeWeekends": false
     },
@@ -185,7 +321,7 @@
       "exercises": [],
       "complexes": [],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-09-08",
       "intervalDays": 1,
       "includeWeekends": false
     }
