@@ -30,12 +30,122 @@
     },
     "hip": {
       "name": "ТБС",
-      "exercises": [],
-      "complexes": [],
+      "exercises": [
+        {
+          "id": "ex_zes2zrqp",
+          "name": "вывп",
+          "description": "sfgsdg",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4f3f06e378ba3edc.jpg",
+            "data/images/837ef56ee2093f76.jpg",
+            "data/images/a3a5f745ac9dc6f5.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_lhh2olme",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_ooo6dqpr",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        },
+        {
+          "id": "cx_glank0u0",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_tzxyy7wl",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        },
+        {
+          "id": "cx_qj4t7h9f",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_jjnaacmy",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        },
+        {
+          "id": "cx_9skjhufg",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_qx37v6eg",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        },
+        {
+          "id": "cx_w4lhlh1e",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_tpyasr6k",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        },
+        {
+          "id": "cx_43wvis5v",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_b0mbk5wg",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        },
+        {
+          "id": "cx_i6d1z3y1",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_s57kelrk",
+              "exerciseId": "ex_zes2zrqp"
+            },
+            {
+              "id": "ci_5h343wbn",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        },
+        {
+          "id": "cx_iglbk9bx",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_laoa766v",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        },
+        {
+          "id": "cx_0txsnm1i",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_ritxscat",
+              "exerciseId": "ex_zes2zrqp"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-11-05",
       "intervalDays": 1,
-      "includeWeekends": false
+      "includeWeekends": true
     },
     "glutes": {
       "name": "Ягодицы",
@@ -75,6 +185,7 @@
     }
   },
   "lastEquipment": [
-    "mat"
+    "mat",
+    "long_band"
   ]
 }
