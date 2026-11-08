@@ -8,8 +8,7 @@
     "lower_back",
     "back",
     "neck",
-    "cat_lz5gplty",
-    "cat_k31pg89x"
+    "cat_lz5gplty"
   ],
   "categories": {
     "ankle": {
@@ -12988,15 +12987,6 @@
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-16",
       "intervalDays": 2,
-      "includeWeekends": false
-    },
-    "cat_k31pg89x": {
-      "name": "ygjyj",
-      "exercises": [],
-      "complexes": [],
-      "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
-      "intervalDays": 1,
       "includeWeekends": false
     }
   },
