@@ -12624,6 +12624,19 @@
             "data/images/cdfa8a2ae222f342.jpg",
             "data/images/33faca013f0d96f8.jpg"
           ]
+        },
+        {
+          "id": "ex_qx1dqftx",
+          "name": "МФР спины",
+          "description": "Руки за головой или на груди. Не перенапрягаем ключицу. Поясницу не прокатываем. Выше поясницы делим спину на три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/7bddfa5a7ca05d74.jpg",
+            "data/images/0db77bdc347c3fed.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -12992,6 +13005,6 @@
   },
   "lastEquipment": [
     "mat",
-    "long_band"
+    "roller"
   ]
 }
