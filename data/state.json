@@ -5411,7 +5411,7 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-30",
-      "intervalDays": 3,
+      "intervalDays": 2,
       "includeWeekends": false
     },
     "hip": {
@@ -10960,7 +10960,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-17",
+      "scheduleStartDate": "2026-10-14",
       "intervalDays": 1,
       "includeWeekends": false
     },
