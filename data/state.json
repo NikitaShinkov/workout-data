@@ -11690,6 +11690,32 @@
       "name": "Грудь и плечи",
       "exercises": [
         {
+          "id": "ex_qx1dqftx",
+          "name": "МФР спины",
+          "description": "Руки за головой или на груди. Не перенапрягаем ключицу. Поясницу не прокатываем. Выше поясницы делим спину на три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/7bddfa5a7ca05d74.jpg",
+            "data/images/0db77bdc347c3fed.jpg"
+          ]
+        },
+        {
+          "id": "ex_hy6o6zz1",
+          "name": "МФР спины",
+          "description": "Руки за головой. Рол на месте. Раскрываем грудной отдел. Выше поясницы делим спину на три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/7ac6d087ce49ecc4.jpg",
+            "data/images/b243a4d3c00751a3.jpg"
+          ]
+        },
+        {
           "id": "ex_zf6g5q18",
           "name": "Боковые наклоны",
           "description": "Макушку головы вытягиваем вперёд. Не компенсируем наклон сгибанием шеи — шея прямая, нейтральное положение головы. Выше поясницы делим спину на два/три участка и по очереди их прокатываем.",
@@ -12624,22 +12650,35 @@
             "data/images/cdfa8a2ae222f342.jpg",
             "data/images/33faca013f0d96f8.jpg"
           ]
-        },
-        {
-          "id": "ex_qx1dqftx",
-          "name": "МФР спины",
-          "description": "Руки за головой или на груди. Не перенапрягаем ключицу. Поясницу не прокатываем. Выше поясницы делим спину на три участка и по очереди их прокатываем.",
-          "equipment": [
-            "mat",
-            "roller"
-          ],
-          "images": [
-            "data/images/7bddfa5a7ca05d74.jpg",
-            "data/images/0db77bdc347c3fed.jpg"
-          ]
         }
       ],
       "complexes": [
+        {
+          "id": "cx_k6hjd02i",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_fdw19stl",
+              "exerciseId": "ex_qx1dqftx"
+            },
+            {
+              "id": "ci_oszf7xm0",
+              "exerciseId": "ex_hy6o6zz1"
+            },
+            {
+              "id": "ci_qqb1n0n5",
+              "exerciseId": "ex_zf6g5q18"
+            },
+            {
+              "id": "ci_t1vgq788",
+              "exerciseId": "ex_7cgcvb9g"
+            },
+            {
+              "id": "ci_dsbqzs80",
+              "exerciseId": "ex_b81ovp7p"
+            }
+          ]
+        },
         {
           "id": "cx_cm577ira",
           "enabled": true,
@@ -12663,24 +12702,6 @@
             {
               "id": "ci_275rp5ve",
               "exerciseId": "ex_db4h0ctn"
-            }
-          ]
-        },
-        {
-          "id": "cx_k6hjd02i",
-          "enabled": true,
-          "items": [
-            {
-              "id": "ci_qqb1n0n5",
-              "exerciseId": "ex_zf6g5q18"
-            },
-            {
-              "id": "ci_t1vgq788",
-              "exerciseId": "ex_7cgcvb9g"
-            },
-            {
-              "id": "ci_dsbqzs80",
-              "exerciseId": "ex_b81ovp7p"
             }
           ]
         },
