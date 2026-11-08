@@ -5410,7 +5410,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-30",
+      "scheduleStartDate": "2026-09-29",
       "intervalDays": 2,
       "includeWeekends": false
     },
