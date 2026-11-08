@@ -5410,8 +5410,8 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-08",
-      "intervalDays": 2,
+      "scheduleStartDate": "2026-09-30",
+      "intervalDays": 3,
       "includeWeekends": false
     },
     "hip": {
