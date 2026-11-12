@@ -9668,13 +9668,6 @@
       "done": true
     },
     {
-      "id": "op_imnzi8nn",
-      "ts": 1792395670437,
-      "kind": "duration",
-      "exerciseId": "ex_nbchdypk",
-      "sec": 132
-    },
-    {
       "id": "op_9c6hn0gn",
       "ts": 1792395670440,
       "kind": "rate",
@@ -9709,13 +9702,6 @@
       "itemId": "ci_jh2ktv3v",
       "date": "2026-10-19",
       "done": true
-    },
-    {
-      "id": "op_1hp6rbir",
-      "ts": 1792395796971,
-      "kind": "duration",
-      "exerciseId": "ex_335mezo2",
-      "sec": 127
     },
     {
       "id": "op_qegawc6b",
@@ -25424,6 +25410,92 @@
       "kind": "done",
       "complexId": "cx_clq3wvo5",
       "itemId": "ci_3gencxq0",
+      "date": "2026-11-12",
+      "done": true
+    },
+    {
+      "id": "op_j55ke3na",
+      "ts": 1794468964361,
+      "kind": "duration",
+      "exerciseId": "ex_nbchdypk",
+      "sec": 77
+    },
+    {
+      "id": "op_gf5oicg0",
+      "ts": 1794468964365,
+      "kind": "rate",
+      "exerciseId": "ex_nbchdypk",
+      "axis": "technique",
+      "date": "2026-11-12",
+      "level": "easy"
+    },
+    {
+      "id": "op_qh4w5edb",
+      "ts": 1794468964367,
+      "kind": "rate",
+      "exerciseId": "ex_nbchdypk",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-12",
+      "level": "easy"
+    },
+    {
+      "id": "op_aepr893t",
+      "ts": 1794468964370,
+      "kind": "rate",
+      "exerciseId": "ex_nbchdypk",
+      "axis": "strength",
+      "date": "2026-11-12",
+      "level": "easy"
+    },
+    {
+      "id": "op_x9iyccte",
+      "ts": 1794468964373,
+      "kind": "done",
+      "complexId": "cx_clq3wvo5",
+      "itemId": "ci_jh2ktv3v",
+      "date": "2026-11-12",
+      "done": true
+    },
+    {
+      "id": "op_4k1w6tv8",
+      "ts": 1794468994134,
+      "kind": "duration",
+      "exerciseId": "ex_335mezo2",
+      "sec": 30
+    },
+    {
+      "id": "op_sbvuj908",
+      "ts": 1794468994138,
+      "kind": "rate",
+      "exerciseId": "ex_335mezo2",
+      "axis": "technique",
+      "date": "2026-11-12",
+      "level": "easy"
+    },
+    {
+      "id": "op_laeovgr7",
+      "ts": 1794468994140,
+      "kind": "rate",
+      "exerciseId": "ex_335mezo2",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-12",
+      "level": "easy"
+    },
+    {
+      "id": "op_3xq20831",
+      "ts": 1794468994142,
+      "kind": "rate",
+      "exerciseId": "ex_335mezo2",
+      "axis": "strength",
+      "date": "2026-11-12",
+      "level": "easy"
+    },
+    {
+      "id": "op_jox8fqqn",
+      "ts": 1794468994145,
+      "kind": "done",
+      "complexId": "cx_clq3wvo5",
+      "itemId": "ci_0dziqd6q",
       "date": "2026-11-12",
       "done": true
     }
