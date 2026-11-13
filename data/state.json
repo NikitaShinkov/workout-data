@@ -10960,7 +10960,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-14",
+      "scheduleStartDate": "2026-11-13",
       "intervalDays": 1,
       "includeWeekends": false
     },
@@ -13019,7 +13019,7 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-10-14",
+      "scheduleStartDate": "2026-10-17",
       "intervalDays": 2,
       "includeWeekends": false
     }
