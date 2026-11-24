@@ -5187,13 +5187,6 @@
       "done": true
     },
     {
-      "id": "op_wse8sk77",
-      "ts": 1791606752738,
-      "kind": "duration",
-      "exerciseId": "ex_j12jrsxd",
-      "sec": 149
-    },
-    {
       "id": "op_qq70pt2m",
       "ts": 1791606752742,
       "kind": "rate",
@@ -27834,6 +27827,49 @@
       "kind": "done",
       "complexId": "cx_51cq6hfj",
       "itemId": "ci_w292d1pa",
+      "date": "2026-11-24",
+      "done": true
+    },
+    {
+      "id": "op_45wnb33p",
+      "ts": 1795527022476,
+      "kind": "duration",
+      "exerciseId": "ex_j12jrsxd",
+      "sec": 86
+    },
+    {
+      "id": "op_6jkmng0c",
+      "ts": 1795527022480,
+      "kind": "rate",
+      "exerciseId": "ex_j12jrsxd",
+      "axis": "technique",
+      "date": "2026-11-24",
+      "level": "easy"
+    },
+    {
+      "id": "op_0t6dgo5z",
+      "ts": 1795527022481,
+      "kind": "rate",
+      "exerciseId": "ex_j12jrsxd",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-24",
+      "level": "easy"
+    },
+    {
+      "id": "op_8z0chmfv",
+      "ts": 1795527022482,
+      "kind": "rate",
+      "exerciseId": "ex_j12jrsxd",
+      "axis": "strength",
+      "date": "2026-11-24",
+      "level": "easy"
+    },
+    {
+      "id": "op_nul08uow",
+      "ts": 1795527022484,
+      "kind": "done",
+      "complexId": "cx_51cq6hfj",
+      "itemId": "ci_8vdttepg",
       "date": "2026-11-24",
       "done": true
     }
