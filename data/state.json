@@ -15681,6 +15681,253 @@
             "data/images/6161a94ff718ae43.jpg",
             "data/images/ae1de9ae5d0e123c.jpg"
           ]
+        },
+        {
+          "id": "ex_6m5lf8io",
+          "name": "Скручивания и раскручивания",
+          "description": "Поясница не подключается к работе. Занимаем немного скрученное положение, чтобы выключить поясницу. В движении задействуется только верхняя часть позвоночника и грудного отдела. Постепенно увеличиваем амплитуду движения. Голова прямая, не запрокидывается назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c932992a0fb333e3.jpg",
+            "data/images/fd1a7e02ee4c7bb4.jpg"
+          ]
+        },
+        {
+          "id": "ex_qkrn8f47",
+          "name": "Скручивания и раскручивания",
+          "description": "Руки соединяем сзади за поясницей. Поясница не подключается к работе. Занимаем немного скрученное положение, чтобы выключить поясницу. Постепенно увеличиваем амплитуду движения. Голова прямая, не запрокидывается назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/99914fe616b226ca.jpg",
+            "data/images/a43f61a064105d04.jpg"
+          ]
+        },
+        {
+          "id": "ex_js84gy4u",
+          "name": "Боковые наклоны",
+          "description": "Локти разведены в стороны. Макушка тянется наверх. Голова прямая, не запрокидывается назад и не уезжает вперёд. Поясница не подключается к работе. Трапециевидные мышцы расслаблены",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ff8fdd782fbc8617.jpg",
+            "data/images/97d795d787f00f0c.jpg"
+          ]
+        },
+        {
+          "id": "ex_ka5o153b",
+          "name": "Раскрытие грудного отдела",
+          "description": "Шейный замок — руки проходят под затылком и пальцы соединяются за шеей. Голова прямая, не запрокидывается назад и не уезжает вперёд. Раскрытие плавное — звено за звеном. При движении глазами следуем за локтями",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/315d9198e547a93f.jpg",
+            "data/images/3bb73317eacd1f9b.jpg"
+          ]
+        },
+        {
+          "id": "ex_ro9vcjc8",
+          "name": "Круговые движения",
+          "description": "Шейный замок — руки проходят под затылком и пальцы соединяются за шеей. Голова прямая, не запрокидывается назад и не уезжает вперёд. Круговые движения плавные. Постепенно увеличиваем амплитуду",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b24d5acd06393c4d.jpg",
+            "data/images/b0d553758bd069d5.jpg"
+          ]
+        },
+        {
+          "id": "ex_qf0uibna",
+          "name": "Скручивания и раскручивания",
+          "description": "Встаём от стены на пол метра. Руки прямые, ладони на стене. Не допускаем переразгиба в пояснице и в шее. Амплитуда небольшая. Стараемся, чтобы движение шло через лопатки и грудной отдел и руки использовались как рычаги, без растяжения широчайших мышц спины",
+          "equipment": [
+            "mat",
+            "wall"
+          ],
+          "images": [
+            "data/images/3c28cd369a5fa7b2.jpg",
+            "data/images/f6064c8acb7cf835.jpg"
+          ]
+        },
+        {
+          "id": "ex_u5jj0few",
+          "name": "Наклоны и скручивания и раскручивания",
+          "description": "Встаём на колено у стенки. Руки за головой и не давят на затылок. Наклоняемся вперёд боковым наклоном и скручиваемся, потом наклоняется назад боковым наклоном и раскручиваемся. Стена помогает делать движение более контролируемо",
+          "equipment": [
+            "mat",
+            "wall"
+          ],
+          "images": [
+            "data/images/556f5f18d096f1ae.jpg",
+            "data/images/fde29946738d9d17.jpg",
+            "data/images/df22afcd434c67b7.jpg",
+            "data/images/e9a0e511ec919e31.jpg"
+          ]
+        },
+        {
+          "id": "ex_r1o8ahh2",
+          "name": "Скручивания и раскручивания",
+          "description": "Встаём спиной к стене. Поясница прижата к стене и не прогибается. Голова прижата к стене. Сводим и разводим руки",
+          "equipment": [
+            "mat",
+            "wall"
+          ],
+          "images": [
+            "data/images/7ff236692d0b95f3.jpg",
+            "data/images/d7a1c9367e887738.jpg"
+          ]
+        },
+        {
+          "id": "ex_88onc1fr",
+          "name": "Ротация плеча",
+          "description": "Встаём спиной к стене. Поясница прижата к стене и не прогибается. Голова прижата к стене. Опускаем и поднимаем согнутые руки через ротацию в плечевом суставе",
+          "equipment": [
+            "mat",
+            "wall"
+          ],
+          "images": [
+            "data/images/f93de8eb9e9c3e95.jpg",
+            "data/images/20ae4df9bcd512a6.jpg"
+          ]
+        },
+        {
+          "id": "ex_qxcj49vc",
+          "name": "Скручивания",
+          "description": "Скручиваем ноги влево и вправо. Колени должны быть на одном уровне (верхнее колено должно догонять нижнее). Поясница прямая и не скручивается. Скручивание в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5d9fc7d738ff921b.jpg",
+            "data/images/9b632c2866b203b1.jpg",
+            "data/images/4e2dd199a6183f01.jpg",
+            "data/images/1dd0aa8977e50e0e.jpg"
+          ]
+        },
+        {
+          "id": "ex_zupmuf3x",
+          "name": "Скручивания",
+          "description": "Таз поднят над землёй. Скручиваем ноги влево и вправо. Колени должны быть на одном уровне (верхнее колено должно догонять нижнее). Поясница прямая и не скручивается. Скручивание в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/795ad8a346e6085a.jpg",
+            "data/images/46c02fde252d1aa8.jpg",
+            "data/images/795ad8a346e6085a.jpg",
+            "data/images/70d585b25ac0fb2b.jpg"
+          ]
+        },
+        {
+          "id": "ex_bentsv2n",
+          "name": "Скручивания",
+          "description": "Лежим на полу, руки разведены и локти на полу. Скручиваем ноги влево и вправо. При скручивании ног противоположная рука должна касаться пола. Колени должны быть на одном уровне (верхнее колено должно догонять нижнее). Поясница прямая и не скручивается. Скручивание в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/150654f8391a2f32.jpg",
+            "data/images/af2a8df8855ae595.jpg",
+            "data/images/150654f8391a2f32.jpg",
+            "data/images/0ed7b3b4497c9aa1.jpg"
+          ]
+        },
+        {
+          "id": "ex_nsro0tc6",
+          "name": "Скручивания",
+          "description": "Ложимся на живот, руки разведены и локти на полу. Скручиваем ноги влево и вправо. При скручивании ног противоположная рука должна касаться пола. Колени должны быть на одном уровне (верхнее колено должно догонять нижнее). Поясница прямая и не скручивается. Скручивание в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/06a533fbb6611ff8.jpg",
+            "data/images/223c079c84993222.jpg",
+            "data/images/8a07e1f3fa8650d5.jpg",
+            "data/images/c6467367ec658840.jpg"
+          ]
+        },
+        {
+          "id": "ex_d184jtlq",
+          "name": "Скручивания",
+          "description": "Ложимся на живот, руки разведены и локти на полу. Скручиваем ноги влево и вправо. При скручивании ног противоположная рука должна касаться пола. Поясница прямая и не скручивается. Скручивание в грудном отделе.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4c1a90a54a543afe.jpg",
+            "data/images/3d3b040980e655b0.jpg",
+            "data/images/4c1a90a54a543afe.jpg",
+            "data/images/846bea629ef78186.jpg"
+          ]
+        },
+        {
+          "id": "ex_mu3hom2j",
+          "name": "Растягивание",
+          "description": "В начальном положении руки спереди и ладони внутрь, сводим руки назад и ладони выкручиваем наружу. И потом движение в обратную сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/924857bd8cdddc24.jpg",
+            "data/images/5fc0d732c9e01f8d.jpg",
+            "data/images/8fc8352bcdc80e17.jpg"
+          ]
+        },
+        {
+          "id": "ex_kdpm4syw",
+          "name": "Сведение лопаток и выпрямление рук",
+          "description": "Отводим лопатки и поднимаем руки. Выпрямляем и обратно сгибаем руки вперёд-назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/925a1949c47c45bd.jpg",
+            "data/images/3673cca34d91b50e.jpg"
+          ]
+        },
+        {
+          "id": "ex_obn1nl1x",
+          "name": "Сведение лопаток раскручивание рук",
+          "description": "Отводим лопатки и поднимаем руки, кладём ладони на голову. Выпрямляем руки и разводим их в сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b8145333aa42c5da.jpg",
+            "data/images/b0820edcfa50ebc1.jpg"
+          ]
+        },
+        {
+          "id": "ex_q1rt8kov",
+          "name": "Сведение лопаток скручивания рук",
+          "description": "Кулаками упираемся в бока. Голова лежит на коврике. Сводим лопатки и поднимаем локти вверх.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8226f8a6849b9af8.jpg",
+            "data/images/6a5f738a8f436449.jpg"
+          ]
+        },
+        {
+          "id": "ex_4p6d3jsz",
+          "name": "Плечевой замок",
+          "description": "Скручиваем руки в плечевой замок. Попеременно меняем стороны. Если не дотягиваемся пальцами легко, то уменьшаем амплитуду. Движение выполняется плавно.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7ab794407b2ef42d.jpg",
+            "data/images/5a7fed01c51e7361.jpg",
+            "data/images/1374a68c0f1bd068.jpg",
+            "data/images/9ecfbc76334d8929.jpg"
+          ]
         }
       ],
       "complexes": [
@@ -15735,10 +15982,110 @@
               "exerciseId": "ex_ez96rui3"
             }
           ]
+        },
+        {
+          "id": "cx_kg3ttgu9",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_c35oc2v0",
+              "exerciseId": "ex_6m5lf8io"
+            },
+            {
+              "id": "ci_o17x2wt7",
+              "exerciseId": "ex_qkrn8f47"
+            },
+            {
+              "id": "ci_2bkh1py9",
+              "exerciseId": "ex_js84gy4u"
+            },
+            {
+              "id": "ci_1566w6jn",
+              "exerciseId": "ex_ka5o153b"
+            },
+            {
+              "id": "ci_o53o5wxb",
+              "exerciseId": "ex_ro9vcjc8"
+            }
+          ]
+        },
+        {
+          "id": "cx_aglghe24",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_flxx32ou",
+              "exerciseId": "ex_qf0uibna"
+            },
+            {
+              "id": "ci_t37ikusr",
+              "exerciseId": "ex_u5jj0few"
+            },
+            {
+              "id": "ci_7xrry87g",
+              "exerciseId": "ex_r1o8ahh2"
+            },
+            {
+              "id": "ci_66uc4hy2",
+              "exerciseId": "ex_88onc1fr"
+            }
+          ]
+        },
+        {
+          "id": "cx_vsdpahnh",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_s81cdi31",
+              "exerciseId": "ex_qxcj49vc"
+            },
+            {
+              "id": "ci_692c8scg",
+              "exerciseId": "ex_zupmuf3x"
+            },
+            {
+              "id": "ci_clrgcisy",
+              "exerciseId": "ex_bentsv2n"
+            },
+            {
+              "id": "ci_7ncuijrp",
+              "exerciseId": "ex_nsro0tc6"
+            },
+            {
+              "id": "ci_hqlzjh2a",
+              "exerciseId": "ex_d184jtlq"
+            }
+          ]
+        },
+        {
+          "id": "cx_spbfeoqc",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_6uz5dt2k",
+              "exerciseId": "ex_mu3hom2j"
+            },
+            {
+              "id": "ci_igzmedji",
+              "exerciseId": "ex_kdpm4syw"
+            },
+            {
+              "id": "ci_yhf1g899",
+              "exerciseId": "ex_obn1nl1x"
+            },
+            {
+              "id": "ci_kglcqsiu",
+              "exerciseId": "ex_q1rt8kov"
+            },
+            {
+              "id": "ci_llpxp6v6",
+              "exerciseId": "ex_4p6d3jsz"
+            }
+          ]
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
+      "scheduleStartDate": "2026-11-25",
       "intervalDays": 1,
       "includeWeekends": false
     }
