@@ -28612,6 +28612,178 @@
       "itemId": "ci_5j5tu6m7",
       "date": "2026-11-25",
       "done": true
+    },
+    {
+      "id": "op_1x8327wn",
+      "ts": 1795617919308,
+      "kind": "duration",
+      "exerciseId": "ex_mcqfpnx4",
+      "sec": 8
+    },
+    {
+      "id": "op_pv2kljun",
+      "ts": 1795617919311,
+      "kind": "rate",
+      "exerciseId": "ex_mcqfpnx4",
+      "axis": "technique",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_skedtfhl",
+      "ts": 1795617919313,
+      "kind": "rate",
+      "exerciseId": "ex_mcqfpnx4",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_ycf9lbkl",
+      "ts": 1795617919315,
+      "kind": "rate",
+      "exerciseId": "ex_mcqfpnx4",
+      "axis": "strength",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_j10bqsoq",
+      "ts": 1795617919317,
+      "kind": "done",
+      "complexId": "cx_puuim19m",
+      "itemId": "ci_4c2z3zng",
+      "date": "2026-11-25",
+      "done": true
+    },
+    {
+      "id": "op_6x6fe50e",
+      "ts": 1795617922909,
+      "kind": "duration",
+      "exerciseId": "ex_p8kz4y3g",
+      "sec": 4
+    },
+    {
+      "id": "op_wm6n0zgu",
+      "ts": 1795617922911,
+      "kind": "rate",
+      "exerciseId": "ex_p8kz4y3g",
+      "axis": "technique",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_0l1zqskc",
+      "ts": 1795617922913,
+      "kind": "rate",
+      "exerciseId": "ex_p8kz4y3g",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_m66ss4ep",
+      "ts": 1795617922915,
+      "kind": "rate",
+      "exerciseId": "ex_p8kz4y3g",
+      "axis": "strength",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_9ibracm8",
+      "ts": 1795617922917,
+      "kind": "done",
+      "complexId": "cx_puuim19m",
+      "itemId": "ci_ddy1739i",
+      "date": "2026-11-25",
+      "done": true
+    },
+    {
+      "id": "op_vq5jcc5d",
+      "ts": 1795618174126,
+      "kind": "duration",
+      "exerciseId": "ex_hgxpyu79",
+      "sec": 251
+    },
+    {
+      "id": "op_8y72y9e2",
+      "ts": 1795618174128,
+      "kind": "rate",
+      "exerciseId": "ex_hgxpyu79",
+      "axis": "technique",
+      "date": "2026-11-25",
+      "level": "hard"
+    },
+    {
+      "id": "op_qqcpbhfi",
+      "ts": 1795618174131,
+      "kind": "rate",
+      "exerciseId": "ex_hgxpyu79",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-25",
+      "level": "hard"
+    },
+    {
+      "id": "op_k90hjh9u",
+      "ts": 1795618174133,
+      "kind": "rate",
+      "exerciseId": "ex_hgxpyu79",
+      "axis": "strength",
+      "date": "2026-11-25",
+      "level": "hard"
+    },
+    {
+      "id": "op_gkbmnent",
+      "ts": 1795618174136,
+      "kind": "done",
+      "complexId": "cx_puuim19m",
+      "itemId": "ci_he0fdaq5",
+      "date": "2026-11-25",
+      "done": true
+    },
+    {
+      "id": "op_8xrbiqxk",
+      "ts": 1795618268030,
+      "kind": "duration",
+      "exerciseId": "ex_snot9bdg",
+      "sec": 82
+    },
+    {
+      "id": "op_umvewgzy",
+      "ts": 1795618268033,
+      "kind": "rate",
+      "exerciseId": "ex_snot9bdg",
+      "axis": "technique",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_emwtzie1",
+      "ts": 1795618268035,
+      "kind": "rate",
+      "exerciseId": "ex_snot9bdg",
+      "axis": "rangeOfMotion",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_jxwrs6fy",
+      "ts": 1795618268037,
+      "kind": "rate",
+      "exerciseId": "ex_snot9bdg",
+      "axis": "strength",
+      "date": "2026-11-25",
+      "level": "easy"
+    },
+    {
+      "id": "op_1lkqty28",
+      "ts": 1795618268040,
+      "kind": "done",
+      "complexId": "cx_puuim19m",
+      "itemId": "ci_uu418f6d",
+      "date": "2026-11-25",
+      "done": true
     }
   ]
 }
