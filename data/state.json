@@ -10,7 +10,8 @@
     "cat_lz5gplty",
     "back",
     "cat_5udfjiue",
-    "cat_b5cg4a9o"
+    "cat_b5cg4a9o",
+    "cat_k1r2jqn5"
   ],
   "categories": {
     "ankle": {
@@ -15536,6 +15537,202 @@
             {
               "id": "ci_x4exmfmd",
               "exerciseId": "ex_oumkrmyb"
+            }
+          ]
+        }
+      ],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-11-25",
+      "intervalDays": 1,
+      "includeWeekends": false
+    },
+    "cat_k1r2jqn5": {
+      "name": "Шея",
+      "exercises": [
+        {
+          "id": "ex_cmqm12bk",
+          "name": "Раскрытие и сворачивание",
+          "description": "Встаём в коленно-локтевую позу. Поясница в нейтрали. Руками давим на холку. Голова не запрокидывается назад. ТБС не подкручивается, таз остаётся на одном месте. Движение только в верхнем грудном отделе",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/381c6944f143ed5d.jpg",
+            "data/images/7cecd18121914cd3.jpg"
+          ]
+        },
+        {
+          "id": "ex_e44zutfp",
+          "name": "Раскрытие и сворачивание",
+          "description": "Поясница в нейтрали. Голова не запрокидывается назад. ТБС не подкручивается, таз остаётся на одном месте. Движение только в верхнем грудном отделе",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/02804a38699e3750.jpg",
+            "data/images/813fabfa7cce9e75.jpg"
+          ]
+        },
+        {
+          "id": "ex_byql9p4w",
+          "name": "Соединение рук",
+          "description": "Руки плавно двигаются в одной плоскости (как будто руки прижаты к стене за спиной).",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/51b4f09df4b3d442.jpg",
+            "data/images/dcdb9db1a1cdc2df.jpg",
+            "data/images/d794386afad16166.jpg",
+            "data/images/b05822d0797c853a.jpg",
+            "data/images/df2ee7eb92205e0f.jpg",
+            "data/images/d5101ac43e25c92f.jpg"
+          ]
+        },
+        {
+          "id": "ex_2ge2oyag",
+          "name": "Раскрытие и сворачивание",
+          "description": "Поясница в нейтрали. Голова не запрокидывается назад. ТБС не подкручивается, таз остаётся на одном месте. Движение только в верхнем грудном отделе",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f2a33f26be4981bf.jpg",
+            "data/images/b3ebab1ad3c875fb.jpg"
+          ]
+        },
+        {
+          "id": "ex_dw2hgkrf",
+          "name": "Ротация",
+          "description": "Поясница в нейтрали. ТБС не подкручивается, таз остаётся на одном месте. Движение только в верхнем грудном отделе. Если не хватает подвижность руки можно соединить выше: ладони не на трапециях, а на локтях. В прогрессии можно опустить попу на ноги.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d9ef05b3ecf26749.jpg",
+            "data/images/2d801e07f127d52f.jpg",
+            "data/images/f12e34996a81db77.jpg",
+            "data/images/0c3f4c0601270d13.jpg"
+          ]
+        },
+        {
+          "id": "ex_gon21h4i",
+          "name": "Растягивание",
+          "description": "Закидываем руку за шею и плавно протягиваем её вниз",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/501ea2abdcf7ab3e.jpg",
+            "data/images/b14e59a80bea1f97.jpg"
+          ]
+        },
+        {
+          "id": "ex_g5ycbzur",
+          "name": "Растягивание",
+          "description": "Закидываем руку за спину и плавно протягиваем её вбок за спину",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ce64d199ebedfc15.jpg",
+            "data/images/aa6db4ef6dfbc6d5.jpg"
+          ]
+        },
+        {
+          "id": "ex_ypc7y9f9",
+          "name": "Раскручивания",
+          "description": "Руки на затылке. Раскрываем грудной отдел. Потом раскрываем руки в одной плоскости как у стенки. Сводим руки за спиной. И скрутились в спине. Потом движение в обратную сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4c9c8ecc83e9f6d9.jpg",
+            "data/images/dd8dfddc6796e9c6.jpg",
+            "data/images/5a3e3e7d8d31992e.jpg",
+            "data/images/eb2eb3a91d7c7f36.jpg",
+            "data/images/b09edb8a97b2bcfd.jpg"
+          ]
+        },
+        {
+          "id": "ex_61emwsdf",
+          "name": "Растягивание",
+          "description": "Руки по диагонали. Голова вниз, не задираем её наверх — можно положить лоб на пол. Поднимаем руки вверх, поднятые руки перемещаем для смены диагонали (но на чуть меньшей высоте от пола, чем когда поднимали) ещё раз поднимаем руки и потом опускаем руки на пол. Затем повторяем в обратную сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ebde283a4f4760d6.jpg",
+            "data/images/d9ed09a3efc9d628.jpg",
+            "data/images/dab762ea951a2234.jpg",
+            "data/images/4b2a281d24344124.jpg",
+            "data/images/24cc5c7e0ed440cd.jpg"
+          ]
+        },
+        {
+          "id": "ex_ez96rui3",
+          "name": "Растягивание",
+          "description": "Закидываем руку за спину для замка. Поочерёдно меняем диагональ. В трапеции не должно быть перегрузки",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4f3a3b7658c84e0a.jpg",
+            "data/images/6161a94ff718ae43.jpg",
+            "data/images/ae1de9ae5d0e123c.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_tfkruct3",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_4dui4w0s",
+              "exerciseId": "ex_cmqm12bk"
+            },
+            {
+              "id": "ci_8o2rsccd",
+              "exerciseId": "ex_e44zutfp"
+            },
+            {
+              "id": "ci_5y0e1cqj",
+              "exerciseId": "ex_byql9p4w"
+            },
+            {
+              "id": "ci_yzygh0az",
+              "exerciseId": "ex_2ge2oyag"
+            },
+            {
+              "id": "ci_3tvqre6z",
+              "exerciseId": "ex_dw2hgkrf"
+            }
+          ]
+        },
+        {
+          "id": "cx_7nd7eoeq",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_rgxxhyxb",
+              "exerciseId": "ex_gon21h4i"
+            },
+            {
+              "id": "ci_afxvoa3p",
+              "exerciseId": "ex_g5ycbzur"
+            },
+            {
+              "id": "ci_wulucipu",
+              "exerciseId": "ex_ypc7y9f9"
+            },
+            {
+              "id": "ci_q6chmjx9",
+              "exerciseId": "ex_61emwsdf"
+            },
+            {
+              "id": "ci_jkvdwv0y",
+              "exerciseId": "ex_ez96rui3"
             }
           ]
         }
