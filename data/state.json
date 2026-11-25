@@ -14204,8 +14204,1342 @@
     },
     "cat_b5cg4a9o": {
       "name": "Поясница",
-      "exercises": [],
-      "complexes": [],
+      "exercises": [
+        {
+          "id": "ex_x29xqosd",
+          "name": "Разгибания ног с поднятым тазом",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e96819a4679565a8.jpg",
+            "data/images/eadce3cfea8bb0e7.jpg"
+          ]
+        },
+        {
+          "id": "ex_rdjvwiys",
+          "name": "Попеременное сгибание и разгибание",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9421947c389e82ba.jpg",
+            "data/images/49f0c35acfd9ab3d.jpg"
+          ]
+        },
+        {
+          "id": "ex_3fqjesg9",
+          "name": "Повороты",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e43202ac1305fae8.jpg",
+            "data/images/d4621107665d9efc.jpg",
+            "data/images/960965426b5c4388.jpg",
+            "data/images/ce81d09d511aa271.jpg"
+          ]
+        },
+        {
+          "id": "ex_s22nw6z5",
+          "name": "Выталкивания ног с подпрыгиванием",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/64aa19aa4ebd78eb.jpg",
+            "data/images/4fa92b67ddf1089e.jpg"
+          ]
+        },
+        {
+          "id": "ex_mnntc6hk",
+          "name": "Разведения",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/504d5d7dfa35dc2c.jpg",
+            "data/images/d7a7f7b9df1009c0.jpg",
+            "data/images/6dd8b0da7e374d52.jpg",
+            "data/images/d7a7f7b9df1009c0.jpg"
+          ]
+        },
+        {
+          "id": "ex_9t2cfojy",
+          "name": "Наклоны с вариациями",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5466b9947df1d1b5.jpg",
+            "data/images/e7ef6b629cfc0a30.jpg",
+            "data/images/85e0a405280c53f5.jpg",
+            "data/images/b860e50a7fa01ef0.jpg",
+            "data/images/cf1016a686bc1e39.jpg",
+            "data/images/f4f1caf040547cbe.jpg"
+          ]
+        },
+        {
+          "id": "ex_mcqfpnx4",
+          "name": "Разведения",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c1b02f5058a4202c.jpg",
+            "data/images/db11b4089282437f.jpg"
+          ]
+        },
+        {
+          "id": "ex_p8kz4y3g",
+          "name": "Разгибания ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2566a354ca00c809.jpg",
+            "data/images/6581732c869b5c07.jpg"
+          ]
+        },
+        {
+          "id": "ex_hgxpyu79",
+          "name": "Вращения ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/851d34c089894fc8.jpg",
+            "data/images/7bb4b486ebff1ed2.jpg",
+            "data/images/0e529e2ae17173f2.jpg",
+            "data/images/f77debea7ca8bfa0.jpg",
+            "data/images/27afe1fbc4119182.jpg",
+            "data/images/15a40fe8d26be1bb.jpg",
+            "data/images/8972f54bcf5846bf.jpg",
+            "data/images/aad5851f23894786.jpg"
+          ]
+        },
+        {
+          "id": "ex_snot9bdg",
+          "name": "Поднятие ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f63a60a5851f10e6.jpg",
+            "data/images/651b3eedbc6eda36.jpg"
+          ]
+        },
+        {
+          "id": "ex_ze7q3ws5",
+          "name": "Махи рук в наклоне",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7b514bcdf71d952a.jpg",
+            "data/images/7b88bbe1a2b64ded.jpg"
+          ]
+        },
+        {
+          "id": "ex_szg06nx9",
+          "name": "Отведения ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ae37654f4bed6633.jpg",
+            "data/images/95bd05dd40f05bf0.jpg"
+          ]
+        },
+        {
+          "id": "ex_x7hqkayo",
+          "name": "Махи руками сидя",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/401a4d7d72accbcd.jpg",
+            "data/images/02dcf1186f14cce8.jpg"
+          ]
+        },
+        {
+          "id": "ex_axqnpwbt",
+          "name": "Приведения ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9eb81275f3f01b2c.jpg",
+            "data/images/2e049bde549b35e1.jpg"
+          ]
+        },
+        {
+          "id": "ex_2zn026qj",
+          "name": "Раскручивания в планке",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ad5c12f040d961af.jpg",
+            "data/images/6126e3a8c6b070ce.jpg"
+          ]
+        },
+        {
+          "id": "ex_m84z748w",
+          "name": "Подъёмы таза",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5ed9eeb0c063475e.jpg",
+            "data/images/027d32d069f0da5e.jpg"
+          ]
+        },
+        {
+          "id": "ex_uztvebfe",
+          "name": "Подъёмы ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a8a432158982a0b3.jpg",
+            "data/images/9e6bf83069691d28.jpg"
+          ]
+        },
+        {
+          "id": "ex_yqnoi2d0",
+          "name": "Наклоны назад",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/70b7531521cf8efb.jpg",
+            "data/images/3dd1071de0325866.jpg"
+          ]
+        },
+        {
+          "id": "ex_df8issae",
+          "name": "Махи ногами",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2ae9285673669613.jpg",
+            "data/images/5f51b696586c5312.jpg"
+          ]
+        },
+        {
+          "id": "ex_8e4fbwee",
+          "name": "Подъёмы ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/409a04b961ef4d77.jpg",
+            "data/images/85e9689c9a416522.jpg"
+          ]
+        },
+        {
+          "id": "ex_hvleocdh",
+          "name": "Наклоны назад",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/631aec6061349031.jpg",
+            "data/images/606ae01bdfc147e1.jpg"
+          ]
+        },
+        {
+          "id": "ex_k58b2kb5",
+          "name": "Подшагивания вперёд руки и ноги в диагонали",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/546b88a95a811b90.jpg",
+            "data/images/0e822ab31cd4681c.jpg"
+          ]
+        },
+        {
+          "id": "ex_2tckszyd",
+          "name": "Отведения ноги и руки в диагонали",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/19919483a04f425d.jpg",
+            "data/images/21e7b927f34e6f00.jpg",
+            "data/images/55d871ad04bbb0bd.jpg",
+            "data/images/2befab5110ea829f.jpg"
+          ]
+        },
+        {
+          "id": "ex_nkuc2evr",
+          "name": "Подъём ног с вариациями",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/15b821c2e6171121.jpg",
+            "data/images/0d714ac2441df4a5.jpg",
+            "data/images/227e5d2de8e5e62f.jpg",
+            "data/images/7480ecb7f87b1bb9.jpg"
+          ]
+        },
+        {
+          "id": "ex_k2n4s5yo",
+          "name": "Отведения ноги",
+          "description": "При скрутке не тянем руками голову к груди. Затылок поддерживаем слегка пальцами.\nДелаем осевое вытяжение — макушкой тянемся к потолку.\nЛопатки соединены, локти смотрят наружу. Немного втягиваем живот",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4aa31b077ef5e20e.jpg",
+            "data/images/d2fa8199528f0264.jpg"
+          ]
+        },
+        {
+          "id": "ex_lckp8p5r",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/144e09026ef2b84b.jpg",
+            "data/images/aac23f8588828aca.jpg"
+          ]
+        },
+        {
+          "id": "ex_7fw6k6zr",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ada73af8c6625bd6.jpg",
+            "data/images/318921e42779cb3f.jpg"
+          ]
+        },
+        {
+          "id": "ex_rxhu1kmd",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/57a0637ae15d3424.jpg",
+            "data/images/2cdbf0702a368aee.jpg"
+          ]
+        },
+        {
+          "id": "ex_6bmumlly",
+          "name": "Скручивания без опускания ног",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2cd5c7a6f85ebb7e.jpg",
+            "data/images/9c8efa6610967d06.jpg"
+          ]
+        },
+        {
+          "id": "ex_ghr0cew7",
+          "name": "Скручивания с вариациями",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e49bdd956b5893d2.jpg",
+            "data/images/8c00dedef414b3cf.jpg",
+            "data/images/660082b823ce7f00.jpg",
+            "data/images/94b01b34887f49d0.jpg"
+          ]
+        },
+        {
+          "id": "ex_sw7btx57",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e005abcfb0961045.jpg",
+            "data/images/bfee25e7c20bef91.jpg"
+          ]
+        },
+        {
+          "id": "ex_tk8rx5p6",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2b43de65a9845bf2.jpg",
+            "data/images/43808abe3fe5cb6c.jpg",
+            "data/images/2b43de65a9845bf2.jpg",
+            "data/images/e996bdd237eca0b1.jpg"
+          ]
+        },
+        {
+          "id": "ex_6gfba7u4",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/1fd3849487791440.jpg",
+            "data/images/7e6acec7ae533dd7.jpg",
+            "data/images/1fd3849487791440.jpg",
+            "data/images/6b0b17d4132a08d9.jpg"
+          ]
+        },
+        {
+          "id": "ex_nqqbuff6",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/efe3530c7ef9810c.jpg",
+            "data/images/9b6a29f3a0644982.jpg",
+            "data/images/efe3530c7ef9810c.jpg",
+            "data/images/229e68ed09517c3f.jpg"
+          ]
+        },
+        {
+          "id": "ex_dtyoyv8q",
+          "name": "Разгибания",
+          "description": "Делаем осевое вытяжение — макушкой тянемся к потолку.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/743bcf23151a2c9d.jpg",
+            "data/images/370fe636fcada206.jpg"
+          ]
+        },
+        {
+          "id": "ex_h5ybbji7",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e7b5b05365eb42bf.jpg",
+            "data/images/91809ddf42be195b.jpg"
+          ]
+        },
+        {
+          "id": "ex_4oubjs2w",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fcc74407303ff797.jpg",
+            "data/images/53160a8e26ef92af.jpg",
+            "data/images/fcc74407303ff797.jpg",
+            "data/images/baa3244718f9ab45.jpg"
+          ]
+        },
+        {
+          "id": "ex_pycgmr80",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/caad3ef1b3b7f772.jpg",
+            "data/images/11eb00fe4b24a061.jpg",
+            "data/images/caad3ef1b3b7f772.jpg",
+            "data/images/8d163629e758e509.jpg"
+          ]
+        },
+        {
+          "id": "ex_exr9to8z",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5068b20d7c806e7e.jpg",
+            "data/images/6e8b659d8f7970d4.jpg"
+          ]
+        },
+        {
+          "id": "ex_cmetw7ys",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/61ece0cbd5ce3d00.jpg",
+            "data/images/b16e9f258871a83c.jpg",
+            "data/images/61ece0cbd5ce3d00.jpg",
+            "data/images/59c64c87fc53fbaf.jpg"
+          ]
+        },
+        {
+          "id": "ex_jcpmu5zm",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/435a04f84cfc7f79.jpg",
+            "data/images/84d7ffb2a14845fb.jpg",
+            "data/images/60aac3358227cfd0.jpg",
+            "data/images/5302d7a09ad9eb3b.jpg",
+            "data/images/a0ebbac91d20deab.jpg"
+          ]
+        },
+        {
+          "id": "ex_oq7llfn2",
+          "name": "Разгибания, не опуская спину и руки",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/168a29659b148ddd.jpg",
+            "data/images/77251613f28b2d65.jpg",
+            "data/images/508b7fb008a2e652.jpg"
+          ]
+        },
+        {
+          "id": "ex_i4dq18d6",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c0452a934d90bc8a.jpg",
+            "data/images/086c1f4aebbb858a.jpg",
+            "data/images/35f702fe01427e14.jpg"
+          ]
+        },
+        {
+          "id": "ex_pkqv5h78",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/dc6e75e811c469dd.jpg",
+            "data/images/5159d9af2a3a3719.jpg"
+          ]
+        },
+        {
+          "id": "ex_e2aq5l03",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a28d362958e3ac21.jpg",
+            "data/images/d1ef35dc204b288e.jpg"
+          ]
+        },
+        {
+          "id": "ex_q2isr3z5",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/0e2a14b6cfbef447.jpg",
+            "data/images/84c3785d173ff5e7.jpg"
+          ]
+        },
+        {
+          "id": "ex_ui63chg5",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5e72941f034a3f80.jpg",
+            "data/images/d004292d596bc18d.jpg"
+          ]
+        },
+        {
+          "id": "ex_urg3ayv8",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/e6d7a1515add8ed7.jpg",
+            "data/images/46f7adbe66c6817c.jpg",
+            "data/images/e6d7a1515add8ed7.jpg",
+            "data/images/fb60e39c691e74c8.jpg"
+          ]
+        },
+        {
+          "id": "ex_6c5ulnki",
+          "name": "Разгибания",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4e81fa6c3b9d23ed.jpg",
+            "data/images/73bbf43656053cab.jpg"
+          ]
+        },
+        {
+          "id": "ex_gxlepjbq",
+          "name": "Разгибания с зависанием в верхней точке",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d8c451ab484fcb98.jpg",
+            "data/images/4f631ba9a80157c1.jpg"
+          ]
+        },
+        {
+          "id": "ex_mrp7llh0",
+          "name": "Разгибания, не опуская спину и руки",
+          "description": "",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/51ff744a9d1a246a.jpg",
+            "data/images/dd76c2824fb35421.jpg"
+          ]
+        },
+        {
+          "id": "ex_qtaa9q0q",
+          "name": "Вращения",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/490596d172ff31be.jpg",
+            "data/images/88b7d6404a06b707.jpg",
+            "data/images/55832cdf3023b8d0.jpg"
+          ]
+        },
+        {
+          "id": "ex_7ji97w0i",
+          "name": "Мини приседы",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/3ee6b6869f4f49b2.jpg",
+            "data/images/22b6d84921084087.jpg"
+          ]
+        },
+        {
+          "id": "ex_otkgwh2e",
+          "name": "Отведения",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/f05cf111d1447912.jpg",
+            "data/images/6b0f1aa0d0f688aa.jpg"
+          ]
+        },
+        {
+          "id": "ex_jvr3sgiy",
+          "name": "Вращения",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/48877d9427b8e35c.jpg",
+            "data/images/6946d52f0076bbeb.jpg"
+          ]
+        },
+        {
+          "id": "ex_bpwjvzn5",
+          "name": "Подъёмы",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/49d786356e4eddc6.jpg",
+            "data/images/4511d420299fe86a.jpg"
+          ]
+        },
+        {
+          "id": "ex_65u2yr3p",
+          "name": "Отведения по горизонтальной линии",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/c1975e635f89e7d1.jpg",
+            "data/images/c9978498bfc9760d.jpg"
+          ]
+        },
+        {
+          "id": "ex_wvx32rmb",
+          "name": "Отведения по диагонали вниз",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/13d557daff2da550.jpg",
+            "data/images/f415e97410c2eee2.jpg"
+          ]
+        },
+        {
+          "id": "ex_d41gacj2",
+          "name": "Сгибания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/1f2b381d7aa59fe0.jpg",
+            "data/images/1ce6dca2d5d06c39.jpg"
+          ]
+        },
+        {
+          "id": "ex_ixoxou80",
+          "name": "Присед",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/ad52853fcbf55f7b.jpg",
+            "data/images/5085c7841ce156fc.jpg"
+          ]
+        },
+        {
+          "id": "ex_0rfqhunm",
+          "name": "Присед с небольшим скручиванием",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/ec7932563cfb72b8.jpg",
+            "data/images/79067aebc6a02de9.jpg"
+          ]
+        },
+        {
+          "id": "ex_v5576x1e",
+          "name": "Присед",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/96a63ec89a4a90d1.jpg",
+            "data/images/b46fc3607444906f.jpg"
+          ]
+        },
+        {
+          "id": "ex_70j8nzz6",
+          "name": "Присед с небольшим скручиванием",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/3a9b4c150f61260e.jpg",
+            "data/images/284f8aa72f7518a3.jpg",
+            "data/images/8d90818b8ec6ca52.jpg",
+            "data/images/0eee26fd9860418a.jpg"
+          ]
+        },
+        {
+          "id": "ex_xrfesgng",
+          "name": "Наклоны",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/420b59ff0ac353a0.jpg",
+            "data/images/0a43a4bc4f4a3048.jpg"
+          ]
+        },
+        {
+          "id": "ex_fondk0dp",
+          "name": "Присед",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/5a0ff843de85d803.jpg",
+            "data/images/d39cdaacc25558d0.jpg"
+          ]
+        },
+        {
+          "id": "ex_bfmxff3n",
+          "name": "Присед",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/2a247f6555a0843a.jpg",
+            "data/images/4b8bfe32e7353d19.jpg"
+          ]
+        },
+        {
+          "id": "ex_cb0z86lt",
+          "name": "Отведение",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/cb3ae241e7966239.jpg",
+            "data/images/92a2cffff7bc7ebc.jpg",
+            "data/images/e3e36b9942dba67b.jpg"
+          ]
+        },
+        {
+          "id": "ex_s8nr7fg6",
+          "name": "Подъём таза",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/f3808b08d31774db.jpg",
+            "data/images/d52fccd986362f12.jpg"
+          ]
+        },
+        {
+          "id": "ex_na5m0eh3",
+          "name": "Сгибания разгибания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/eb2964941915516c.jpg",
+            "data/images/b9cea6c3d72d9562.jpg"
+          ]
+        },
+        {
+          "id": "ex_o0ndjeci",
+          "name": "Ротация плеча",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/34f5b66a3a897ee7.jpg",
+            "data/images/ea1dc2b13d22f1dd.jpg"
+          ]
+        },
+        {
+          "id": "ex_8pz5z7pu",
+          "name": "Руки на себя",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/7d65b07e5a93b798.jpg",
+            "data/images/be6069e86f47926d.jpg"
+          ]
+        },
+        {
+          "id": "ex_0s66sj3g",
+          "name": "Ротация плеча",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/ddc80f1804ce5c6d.jpg",
+            "data/images/1a74e02df6dbd571.jpg"
+          ]
+        },
+        {
+          "id": "ex_jvsxwg0v",
+          "name": "Ротация плеча",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4d01700213608580.jpg",
+            "data/images/9650b3df5d46f438.jpg"
+          ]
+        },
+        {
+          "id": "ex_6zso1usg",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4f3f06e378ba3edc.jpg",
+            "data/images/837ef56ee2093f76.jpg"
+          ]
+        },
+        {
+          "id": "ex_xxhsayn8",
+          "name": "Мини приседы и вытягивание рук вперёд",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/a3a5f745ac9dc6f5.jpg",
+            "data/images/1d8218adc2dbe8d7.jpg"
+          ]
+        },
+        {
+          "id": "ex_oumkrmyb",
+          "name": "Скручивания",
+          "description": "",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/cec6956a3efadb40.jpg",
+            "data/images/58030ca51680d2f9.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_puuim19m",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_9zr5varv",
+              "exerciseId": "ex_x29xqosd"
+            },
+            {
+              "id": "ci_g7qoml77",
+              "exerciseId": "ex_rdjvwiys"
+            },
+            {
+              "id": "ci_f6s6h83k",
+              "exerciseId": "ex_3fqjesg9"
+            },
+            {
+              "id": "ci_546juqbp",
+              "exerciseId": "ex_s22nw6z5"
+            },
+            {
+              "id": "ci_u6l6nzcj",
+              "exerciseId": "ex_mnntc6hk"
+            },
+            {
+              "id": "ci_5j5tu6m7",
+              "exerciseId": "ex_9t2cfojy"
+            },
+            {
+              "id": "ci_4c2z3zng",
+              "exerciseId": "ex_mcqfpnx4"
+            },
+            {
+              "id": "ci_ddy1739i",
+              "exerciseId": "ex_p8kz4y3g"
+            },
+            {
+              "id": "ci_he0fdaq5",
+              "exerciseId": "ex_hgxpyu79"
+            },
+            {
+              "id": "ci_uu418f6d",
+              "exerciseId": "ex_snot9bdg"
+            },
+            {
+              "id": "ci_c5qc36re",
+              "exerciseId": "ex_ze7q3ws5"
+            }
+          ]
+        },
+        {
+          "id": "cx_40prasb1",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_hsho487d",
+              "exerciseId": "ex_szg06nx9"
+            },
+            {
+              "id": "ci_u22k984b",
+              "exerciseId": "ex_x7hqkayo"
+            },
+            {
+              "id": "ci_s1ua7q42",
+              "exerciseId": "ex_axqnpwbt"
+            },
+            {
+              "id": "ci_t5msamod",
+              "exerciseId": "ex_2zn026qj"
+            },
+            {
+              "id": "ci_ip4usm4l",
+              "exerciseId": "ex_m84z748w"
+            },
+            {
+              "id": "ci_vqliqtmn",
+              "exerciseId": "ex_uztvebfe"
+            },
+            {
+              "id": "ci_913vffor",
+              "exerciseId": "ex_yqnoi2d0"
+            },
+            {
+              "id": "ci_bht7y5xu",
+              "exerciseId": "ex_df8issae"
+            },
+            {
+              "id": "ci_9ahmnlrq",
+              "exerciseId": "ex_8e4fbwee"
+            },
+            {
+              "id": "ci_mu3kgyqi",
+              "exerciseId": "ex_hvleocdh"
+            },
+            {
+              "id": "ci_uk7jfe8t",
+              "exerciseId": "ex_k58b2kb5"
+            },
+            {
+              "id": "ci_chdqj61m",
+              "exerciseId": "ex_2tckszyd"
+            },
+            {
+              "id": "ci_l32p15qu",
+              "exerciseId": "ex_nkuc2evr"
+            }
+          ]
+        },
+        {
+          "id": "cx_hxljlg4y",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_iyaiqgus",
+              "exerciseId": "ex_k2n4s5yo"
+            },
+            {
+              "id": "ci_ropeuxoo",
+              "exerciseId": "ex_lckp8p5r"
+            },
+            {
+              "id": "ci_37zfi3b4",
+              "exerciseId": "ex_7fw6k6zr"
+            },
+            {
+              "id": "ci_jexh7ibu",
+              "exerciseId": "ex_rxhu1kmd"
+            },
+            {
+              "id": "ci_73jbvayr",
+              "exerciseId": "ex_6bmumlly"
+            },
+            {
+              "id": "ci_hdmrza09",
+              "exerciseId": "ex_ghr0cew7"
+            },
+            {
+              "id": "ci_y1hvky9t",
+              "exerciseId": "ex_sw7btx57"
+            },
+            {
+              "id": "ci_bihavl1e",
+              "exerciseId": "ex_tk8rx5p6"
+            },
+            {
+              "id": "ci_ig6vxqi5",
+              "exerciseId": "ex_6gfba7u4"
+            },
+            {
+              "id": "ci_l797ks7l",
+              "exerciseId": "ex_nqqbuff6"
+            }
+          ]
+        },
+        {
+          "id": "cx_hv2ovtls",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_gawlrj5b",
+              "exerciseId": "ex_dtyoyv8q"
+            },
+            {
+              "id": "ci_ona2zr1q",
+              "exerciseId": "ex_h5ybbji7"
+            },
+            {
+              "id": "ci_jv0bm7uj",
+              "exerciseId": "ex_4oubjs2w"
+            },
+            {
+              "id": "ci_ixx8ogfq",
+              "exerciseId": "ex_pycgmr80"
+            },
+            {
+              "id": "ci_ly1jixxp",
+              "exerciseId": "ex_exr9to8z"
+            },
+            {
+              "id": "ci_8dt61edl",
+              "exerciseId": "ex_cmetw7ys"
+            },
+            {
+              "id": "ci_x2drj2r9",
+              "exerciseId": "ex_jcpmu5zm"
+            },
+            {
+              "id": "ci_g5ldsvqb",
+              "exerciseId": "ex_oq7llfn2"
+            },
+            {
+              "id": "ci_pn74np8v",
+              "exerciseId": "ex_i4dq18d6"
+            }
+          ]
+        },
+        {
+          "id": "cx_n215jw9d",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_dcv6lfbt",
+              "exerciseId": "ex_pkqv5h78"
+            },
+            {
+              "id": "ci_itexyfyq",
+              "exerciseId": "ex_e2aq5l03"
+            },
+            {
+              "id": "ci_0jpecusn",
+              "exerciseId": "ex_q2isr3z5"
+            },
+            {
+              "id": "ci_3jpvv4xb",
+              "exerciseId": "ex_ui63chg5"
+            },
+            {
+              "id": "ci_mm6bobil",
+              "exerciseId": "ex_urg3ayv8"
+            },
+            {
+              "id": "ci_cfj79fum",
+              "exerciseId": "ex_6c5ulnki"
+            },
+            {
+              "id": "ci_o9vwnqxu",
+              "exerciseId": "ex_gxlepjbq"
+            },
+            {
+              "id": "ci_byssb7gb",
+              "exerciseId": "ex_mrp7llh0"
+            }
+          ]
+        },
+        {
+          "id": "cx_2ck65rd9",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_e9vv0y22",
+              "exerciseId": "ex_qtaa9q0q"
+            },
+            {
+              "id": "ci_5f5br75l",
+              "exerciseId": "ex_7ji97w0i"
+            },
+            {
+              "id": "ci_1a8gtt9f",
+              "exerciseId": "ex_otkgwh2e"
+            },
+            {
+              "id": "ci_5w3otmmy",
+              "exerciseId": "ex_jvr3sgiy"
+            },
+            {
+              "id": "ci_h3al7gvi",
+              "exerciseId": "ex_bpwjvzn5"
+            },
+            {
+              "id": "ci_j5b5vft5",
+              "exerciseId": "ex_65u2yr3p"
+            },
+            {
+              "id": "ci_ux0e3w6l",
+              "exerciseId": "ex_wvx32rmb"
+            },
+            {
+              "id": "ci_bth8ggto",
+              "exerciseId": "ex_d41gacj2"
+            }
+          ]
+        },
+        {
+          "id": "cx_enlgkt68",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_8y3aegv4",
+              "exerciseId": "ex_ixoxou80"
+            },
+            {
+              "id": "ci_t0i0q860",
+              "exerciseId": "ex_0rfqhunm"
+            },
+            {
+              "id": "ci_tuhwmp8k",
+              "exerciseId": "ex_v5576x1e"
+            },
+            {
+              "id": "ci_guygimjx",
+              "exerciseId": "ex_70j8nzz6"
+            },
+            {
+              "id": "ci_1hfm5c1s",
+              "exerciseId": "ex_xrfesgng"
+            },
+            {
+              "id": "ci_jm9o6ouz",
+              "exerciseId": "ex_fondk0dp"
+            },
+            {
+              "id": "ci_u4wqh3lr",
+              "exerciseId": "ex_bfmxff3n"
+            },
+            {
+              "id": "ci_nw9jvyrn",
+              "exerciseId": "ex_cb0z86lt"
+            },
+            {
+              "id": "ci_1vw7d9y8",
+              "exerciseId": "ex_s8nr7fg6"
+            },
+            {
+              "id": "ci_7yzjw97j",
+              "exerciseId": "ex_na5m0eh3"
+            }
+          ]
+        },
+        {
+          "id": "cx_v2hmwlpg",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_2ce3s21m",
+              "exerciseId": "ex_o0ndjeci"
+            },
+            {
+              "id": "ci_ln1fqw7h",
+              "exerciseId": "ex_8pz5z7pu"
+            },
+            {
+              "id": "ci_dv9qnr6r",
+              "exerciseId": "ex_0s66sj3g"
+            },
+            {
+              "id": "ci_qeekbanh",
+              "exerciseId": "ex_jvsxwg0v"
+            },
+            {
+              "id": "ci_3sz76dda",
+              "exerciseId": "ex_6zso1usg"
+            },
+            {
+              "id": "ci_khmtk6op",
+              "exerciseId": "ex_xxhsayn8"
+            },
+            {
+              "id": "ci_x4exmfmd",
+              "exerciseId": "ex_oumkrmyb"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
       "intervalDays": 1,
