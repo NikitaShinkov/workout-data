@@ -6789,7 +6789,7 @@
           ]
         }
       ],
-      "scheduleEnabled": true,
+      "scheduleEnabled": false,
       "scheduleStartDate": "2026-11-05",
       "intervalDays": 1,
       "includeWeekends": false
@@ -8414,7 +8414,7 @@
           ]
         }
       ],
-      "scheduleEnabled": true,
+      "scheduleEnabled": false,
       "scheduleStartDate": "2026-11-04",
       "intervalDays": 1,
       "includeWeekends": false
@@ -10959,7 +10959,7 @@
           ]
         }
       ],
-      "scheduleEnabled": true,
+      "scheduleEnabled": false,
       "scheduleStartDate": "2026-11-17",
       "intervalDays": 1,
       "includeWeekends": false
@@ -11672,7 +11672,7 @@
           ]
         }
       ],
-      "scheduleEnabled": true,
+      "scheduleEnabled": false,
       "scheduleStartDate": "2026-11-12",
       "intervalDays": 1,
       "includeWeekends": false
@@ -13009,13 +13009,13 @@
           ]
         }
       ],
-      "scheduleEnabled": true,
+      "scheduleEnabled": false,
       "scheduleStartDate": "2026-10-22",
       "intervalDays": 2,
       "includeWeekends": false
     },
     "back": {
-      "name": "Спина",
+      "name": "Грудь и плечи",
       "exercises": [],
       "complexes": [],
       "scheduleEnabled": true,
