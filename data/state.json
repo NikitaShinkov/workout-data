@@ -13484,8 +13484,307 @@
     },
     "cat_5udfjiue": {
       "name": "Ягодицы",
-      "exercises": [],
-      "complexes": [],
+      "exercises": [
+        {
+          "id": "ex_rn57a9um",
+          "name": "Отведение ноги на боку",
+          "description": "Поясничный замок – максимально прижимаем к себе нижнюю ногу. В момент отведения верхней ноги, нижняя нога должна быть прижата к груди.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7e978bd1ff137eed.jpg",
+            "data/images/bf88421a969a53dc.jpg"
+          ]
+        },
+        {
+          "id": "ex_bkyrzvl2",
+          "name": "Отведение согнутой ноги на боку",
+          "description": "Поясничный замок – максимально прижимаем к себе нижнюю ногу. Отводим согнутую ногу для выключения мышц задней поверхности бедра. Максимально расслабляем мышцы задней поверхности бедра.",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/4e2a7b073419c78d.jpg",
+            "data/images/ad5fcd3c9bf96a04.jpg"
+          ]
+        },
+        {
+          "id": "ex_3dj9f5h6",
+          "name": "Отведение согнутой ноги на боку",
+          "description": "В колене и ТБС ноги согнуты на 90 град. Максимально отводим ногу, но не заваливаем таз",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/8badc2ac35934d2a.jpg",
+            "data/images/385d8bf0f507a030.jpg"
+          ]
+        },
+        {
+          "id": "ex_eu0rrcvd",
+          "name": "Круговое движение прямой ноги на боку (велосипед)",
+          "description": "Поясничный замок – максимально прижимаем к себе нижнюю ногу. Поясница неподвижна. Избегать избыточного включения мышц задней поверхности бедра. Всё движение только в ТБС",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6013bf9572856180.jpg",
+            "data/images/50f4f16f49dfd2ee.jpg",
+            "data/images/f0db8b870400f420.jpg",
+            "data/images/e57b2b85ef3c86cb.jpg"
+          ]
+        },
+        {
+          "id": "ex_qnf7zprn",
+          "name": "Сгибание и разгибание прямой ноги на боку",
+          "description": "Поясничный замок – максимально прижимаем к себе нижнюю ногу. Поясница неподвижна. Нога движется вдоль ровной горизонтальной плоскости, без колебаний вверх-вниз",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/7408eb22311fc4de.jpg",
+            "data/images/3aa7318905ad17ab.jpg"
+          ]
+        },
+        {
+          "id": "ex_ks6idk2w",
+          "name": "Круговое движение прямой ноги на боку",
+          "description": "Поясничный замок – максимально прижимаем к себе нижнюю ногу. Поясница неподвижна. Избегать избыточного включения мышц задней поверхности бедра. Всё движение только в ТБС",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/6d87ac8742f3951e.jpg",
+            "data/images/a0dbce04f421a664.jpg"
+          ]
+        },
+        {
+          "id": "ex_boudddbl",
+          "name": "Отведение согнутой ноги и разгибание на боку",
+          "description": "В колене и ТБС ноги согнуты на 90 град. Максимально отводим ногу, но не заваливаем таз",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/3a45ca3ae56bff23.jpg",
+            "data/images/9d927123df8443c6.jpg"
+          ]
+        },
+        {
+          "id": "ex_hjfrm8r9",
+          "name": "Отведение согнутой ноги и разгибание на боку",
+          "description": "Подъём на нижней ноге. Голова в ровном нейтральном положении, плечо не заваливается.",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/319615f78dab112f.jpg",
+            "data/images/5dd55a338ac30eab.jpg"
+          ]
+        },
+        {
+          "id": "ex_sjwqowb0",
+          "name": "Сручивание ТБС в планке",
+          "description": "Опорная нога согнута в колене и на полу, другая нога немного согнута в колене и на весу. Голова в ровном нейтральном положении, спина прямая. Таз проваливается и сручивается вниз и поднимается и раскручивается вверх. Таз раскручивается и скручивается относительно опорной ноги\nПо возможности держать баланс и не касаться руками пола",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5b295963283700dd.jpg",
+            "data/images/a9450e5a205b4da3.jpg"
+          ]
+        },
+        {
+          "id": "ex_uzd0qdrt",
+          "name": "Баланс в планке на одном колене (10-30 сек)",
+          "description": "Опорная нога согнута в колене и на полу, другая нога немного согнута в колене и на весу. Голова в ровном нейтральном положении, спина прямая. Отпускаем руки и держим равновесие в горизонтальном положении",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8ecf36176312a5d5.jpg",
+            "data/images/69eded194f006915.jpg"
+          ]
+        },
+        {
+          "id": "ex_fqjzmpmq",
+          "name": "Сгибание ТБС с отведением на животе",
+          "description": "Нога согнута в колене на 90 град. Движение только ТБС",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b8561c1fb012cb79.jpg",
+            "data/images/b7ddcef9d301ceac.jpg"
+          ]
+        },
+        {
+          "id": "ex_z8aimtem",
+          "name": "Скручивание ТБС сидя с подъёмом",
+          "description": "Поясница прямая, без переизгибаний.\nСначала подъём в одну сторону, потом смена ног и подъём в другую сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/638590b280075093.jpg",
+            "data/images/e214d4222132b4b0.jpg",
+            "data/images/144d8807cc0d2dc9.jpg",
+            "data/images/49dfa39c0cccff34.jpg",
+            "data/images/945da8c5813bcc34.jpg",
+            "data/images/5a7076496ac0bee7.jpg"
+          ]
+        },
+        {
+          "id": "ex_ir7bgt6n",
+          "name": "Подъём ноги сбоку сидя",
+          "description": "Поднимаем верхнюю ногу наверх. Подъём ноги только за счёт ягодицы, косые мышцы живота неактивны. Можно делать с опорой на руку или без опоры.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/736da7624b2f1282.jpg",
+            "data/images/b6e05ee8efe10445.jpg"
+          ]
+        },
+        {
+          "id": "ex_0s4cs5n2",
+          "name": "Выпрямление ноги с ротацией сидя",
+          "description": "Движение за счёт ягодиц",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6415e2a094807c06.jpg",
+            "data/images/92e1651260dfb117.jpg"
+          ]
+        },
+        {
+          "id": "ex_ecsyadp8",
+          "name": "Наклоны вперёд сидя с согнутыми ногами",
+          "description": "Колени под 90 град. Наклоняемся, руки в стороны. Если тяжело, можно немного помогать себе пальцами",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8a79c3424bade2e5.jpg",
+            "data/images/f634c7aff05b1eff.jpg"
+          ]
+        },
+        {
+          "id": "ex_fb0o8ghz",
+          "name": "Подъём из положения сидя с согнутыми ногами двумя движениями",
+          "description": "Сначала перетаскиваем ногу, потом подъём ногами с распределением нагрузки между ними 50/50\nНа выходе раскрываем таз вперёд, раскрывая ТБС\nДвижение вниз и возврат ноги медленные.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f02af9a144f9b4b2.jpg",
+            "data/images/7226aa467d9afd3a.jpg",
+            "data/images/2f213d20f0e004a4.jpg"
+          ]
+        },
+        {
+          "id": "ex_twgbwkqd",
+          "name": "Подъём из положения сидя с согнутыми ногами одним движением",
+          "description": "Делаем одним движением с небольшой инерцией, задняя нога не включается при подъёме\nДвижение вниз и возврат ноги медленные.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/144d8807cc0d2dc9.jpg",
+            "data/images/34de8373d03b478d.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_17mxk6q8",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_d0ngfyek",
+              "exerciseId": "ex_rn57a9um"
+            },
+            {
+              "id": "ci_y7y8dhnx",
+              "exerciseId": "ex_bkyrzvl2"
+            },
+            {
+              "id": "ci_5o8vrmnn",
+              "exerciseId": "ex_3dj9f5h6"
+            },
+            {
+              "id": "ci_bnzfpgaw",
+              "exerciseId": "ex_eu0rrcvd"
+            },
+            {
+              "id": "ci_fo8nwjr8",
+              "exerciseId": "ex_qnf7zprn"
+            },
+            {
+              "id": "ci_tv5n461m",
+              "exerciseId": "ex_ks6idk2w"
+            },
+            {
+              "id": "ci_mfsj112w",
+              "exerciseId": "ex_boudddbl"
+            },
+            {
+              "id": "ci_5d596zte",
+              "exerciseId": "ex_hjfrm8r9"
+            },
+            {
+              "id": "ci_hvcino3c",
+              "exerciseId": "ex_sjwqowb0"
+            },
+            {
+              "id": "ci_l970x4ma",
+              "exerciseId": "ex_uzd0qdrt"
+            }
+          ]
+        },
+        {
+          "id": "cx_3ac514sw",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_2kqtllf4",
+              "exerciseId": "ex_fqjzmpmq"
+            },
+            {
+              "id": "ci_tnrgbinj",
+              "exerciseId": "ex_z8aimtem"
+            },
+            {
+              "id": "ci_xli6bj8y",
+              "exerciseId": "ex_ir7bgt6n"
+            },
+            {
+              "id": "ci_afncekcg",
+              "exerciseId": "ex_0s4cs5n2"
+            },
+            {
+              "id": "ci_n6v3n1ke",
+              "exerciseId": "ex_ecsyadp8"
+            },
+            {
+              "id": "ci_9i0447qj",
+              "exerciseId": "ex_fb0o8ghz"
+            },
+            {
+              "id": "ci_gpcozud9",
+              "exerciseId": "ex_twgbwkqd"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
       "intervalDays": 1,
