@@ -13016,8 +13016,189 @@
     },
     "back": {
       "name": "Грудь и плечи",
-      "exercises": [],
-      "complexes": [],
+      "exercises": [
+        {
+          "id": "ex_9zn62mf7",
+          "name": "Движение лопаток вперёд-назад",
+          "description": "Не подключаем грудные мышцы, работа только в лопатках",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/c482ca3af8219009.jpg",
+            "data/images/6bbdb8bbef491ac7.jpg"
+          ]
+        },
+        {
+          "id": "ex_hfeh2627",
+          "name": "Отжимая через передние зубчатые мышцы",
+          "description": "Не подключаем грудные мышцы, работа только в лопатках",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/62ba46b93a576925.jpg",
+            "data/images/39a6d4cae7cb5e5f.jpg"
+          ]
+        },
+        {
+          "id": "ex_wq5mhtp2",
+          "name": "Отжимая через передние зубчатые мышцы",
+          "description": "Не подключаем грудные мышцы, работа только в лопатках. Если с прямыми ногами тяжело, можно поставить колени на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9608d9fc14d7d3bd.jpg",
+            "data/images/d3e8b1cbe96961c1.jpg"
+          ]
+        },
+        {
+          "id": "ex_ehfyefg2",
+          "name": "Статика передних зубчатых мышц",
+          "description": "Поочерёдно поднимаем руки — касаемся ладонью противоположного плеча.\nДержим центр. Если с прямыми ногами тяжело, можно поставить колени на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/beb1cd526c0be376.jpg",
+            "data/images/66e0efaddd72dfe1.jpg",
+            "data/images/6f78b81d9be2c74a.jpg"
+          ]
+        },
+        {
+          "id": "ex_2h9kwvpc",
+          "name": "Вращение относительно плеча",
+          "description": "Держим центр",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7a05c0fd9f4063bc.jpg",
+            "data/images/9481649263a82efc.jpg"
+          ]
+        },
+        {
+          "id": "ex_62lvrwg1",
+          "name": "Ротация",
+          "description": "Нога давит на рол и не отрывается. Контроль стабильности поясницы. Пытаемся делать только грудным отделом",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/24a2d4e1686ad593.jpg",
+            "data/images/426d39fb1e56a78e.jpg"
+          ]
+        },
+        {
+          "id": "ex_r35dsk9e",
+          "name": "Ротация",
+          "description": "Поясничный замок в z-позиции. Задней рукой обхватываем заднюю ногу. Контроль стабильности поясницы. Пытаемся делать только грудным отделом",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/86b31d8c59940f94.jpg",
+            "data/images/65d020689646e1c9.jpg",
+            "data/images/2024aba1ee0ac981.jpg",
+            "data/images/cdad56e7bc45a6fa.jpg"
+          ]
+        },
+        {
+          "id": "ex_8fxzfatj",
+          "name": "Ротация",
+          "description": "Контроль стабильности поясницы без скрутки. Пытаемся делать только грудным отделом. Лопатка отжата и неподвижна на опорной руке.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/b2c26bbce6889447.jpg",
+            "data/images/e87a8851e21748a4.jpg"
+          ]
+        },
+        {
+          "id": "ex_x402ksfm",
+          "name": "Ротация",
+          "description": "Контроль стабильности поясницы без скрутки. Лопатка выжимает туловище наверх. Работает и лопатка и грудной отдел",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/8df3f4c4f32d0d00.jpg",
+            "data/images/b16d0d304a25cdcf.jpg"
+          ]
+        },
+        {
+          "id": "ex_rt9700mz",
+          "name": "Ротация",
+          "description": "Контроль стабильности поясницы без скрутки. Лопатка выжимает туловище наверх. Работает и лопатка и грудной отдел. Лопатку неопорной руки выключаем, прижимая руку к затылку.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/81541af057f1d897.jpg",
+            "data/images/b23a08b7d09e36b0.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_w3a5wu6t",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_dchfeujp",
+              "exerciseId": "ex_9zn62mf7"
+            },
+            {
+              "id": "ci_qjmpy3f9",
+              "exerciseId": "ex_hfeh2627"
+            },
+            {
+              "id": "ci_20juh7n0",
+              "exerciseId": "ex_wq5mhtp2"
+            },
+            {
+              "id": "ci_haxrw295",
+              "exerciseId": "ex_ehfyefg2"
+            },
+            {
+              "id": "ci_7tkavoce",
+              "exerciseId": "ex_2h9kwvpc"
+            }
+          ]
+        },
+        {
+          "id": "cx_1ztwylnz",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_1htazrym",
+              "exerciseId": "ex_62lvrwg1"
+            },
+            {
+              "id": "ci_20xoty9m",
+              "exerciseId": "ex_r35dsk9e"
+            },
+            {
+              "id": "ci_2vwi2zxp",
+              "exerciseId": "ex_8fxzfatj"
+            },
+            {
+              "id": "ci_seimtzdi",
+              "exerciseId": "ex_x402ksfm"
+            },
+            {
+              "id": "ci_w64rwk4m",
+              "exerciseId": "ex_rt9700mz"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
       "intervalDays": 1,
