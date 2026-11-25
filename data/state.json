@@ -9,7 +9,8 @@
     "neck",
     "cat_lz5gplty",
     "back",
-    "cat_5udfjiue"
+    "cat_5udfjiue",
+    "cat_b5cg4a9o"
   ],
   "categories": {
     "ankle": {
@@ -14199,6 +14200,15 @@
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-11-25",
       "intervalDays": 2,
+      "includeWeekends": false
+    },
+    "cat_b5cg4a9o": {
+      "name": "Поясница",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1,
       "includeWeekends": false
     }
   },
