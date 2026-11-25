@@ -8,7 +8,8 @@
     "lower_back",
     "neck",
     "cat_lz5gplty",
-    "back"
+    "back",
+    "cat_5udfjiue"
   ],
   "categories": {
     "ankle": {
@@ -13277,9 +13278,100 @@
             "data/images/1dc8373276612633.jpg",
             "data/images/8fe6e608e71c72a6.jpg"
           ]
+        },
+        {
+          "id": "ex_9fec18hd",
+          "name": "МФР спины",
+          "description": "Руки за головой или на груди. Не перенапрягаем ключицу. Поясницу не прокатываем. Выше поясницы делим спину на три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/7bddfa5a7ca05d74.jpg",
+            "data/images/0db77bdc347c3fed.jpg"
+          ]
+        },
+        {
+          "id": "ex_vxk7ozh5",
+          "name": "МФР спины",
+          "description": "Руки за головой. Рол на месте. Раскрываем грудной отдел. Выше поясницы делим спину на три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/7ac6d087ce49ecc4.jpg",
+            "data/images/b243a4d3c00751a3.jpg"
+          ]
+        },
+        {
+          "id": "ex_22mf9pay",
+          "name": "Боковые наклоны",
+          "description": "Макушку головы вытягиваем вперёд. Не компенсируем наклон сгибанием шеи — шея прямая, нейтральное положение головы. Выше поясницы делим спину на два/три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/88e80adcb216e5b2.jpg",
+            "data/images/752254bb230161fd.jpg"
+          ]
+        },
+        {
+          "id": "ex_kts63syk",
+          "name": "Ротация",
+          "description": "Нейтральное положение головы, живот собран. Поясница прямая, ротация только в грудном отделе. Выше поясницы делим спину на два/три участка и по очереди их прокатываем.",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/92e6fb896f4f30a8.jpg",
+            "data/images/2a96b6bf61a80da9.jpg"
+          ]
+        },
+        {
+          "id": "ex_ho6hrkog",
+          "name": "Наклоны",
+          "description": "В нижнем положении стараемся полностью выпрямлять спину. Движение плавное",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/19a1622b074868c5.jpg",
+            "data/images/8639d7eec80d15cd.jpg"
+          ]
         }
       ],
       "complexes": [
+        {
+          "id": "cx_1ztwylnz",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_1htazrym",
+              "exerciseId": "ex_62lvrwg1"
+            },
+            {
+              "id": "ci_20xoty9m",
+              "exerciseId": "ex_r35dsk9e"
+            },
+            {
+              "id": "ci_2vwi2zxp",
+              "exerciseId": "ex_8fxzfatj"
+            },
+            {
+              "id": "ci_seimtzdi",
+              "exerciseId": "ex_x402ksfm"
+            },
+            {
+              "id": "ci_w64rwk4m",
+              "exerciseId": "ex_rt9700mz"
+            }
+          ]
+        },
         {
           "id": "cx_w3a5wu6t",
           "enabled": true,
@@ -13307,28 +13399,28 @@
           ]
         },
         {
-          "id": "cx_1ztwylnz",
+          "id": "cx_1pp4ayqb",
           "enabled": true,
           "items": [
             {
-              "id": "ci_1htazrym",
-              "exerciseId": "ex_62lvrwg1"
+              "id": "ci_swjqefmj",
+              "exerciseId": "ex_ifm66kxu"
             },
             {
-              "id": "ci_20xoty9m",
-              "exerciseId": "ex_r35dsk9e"
+              "id": "ci_u4c8mr9l",
+              "exerciseId": "ex_mmvjtijj"
             },
             {
-              "id": "ci_2vwi2zxp",
-              "exerciseId": "ex_8fxzfatj"
+              "id": "ci_edvdqcxp",
+              "exerciseId": "ex_lcuulcps"
             },
             {
-              "id": "ci_seimtzdi",
-              "exerciseId": "ex_x402ksfm"
+              "id": "ci_la5f2vdr",
+              "exerciseId": "ex_9o4wxcj5"
             },
             {
-              "id": "ci_w64rwk4m",
-              "exerciseId": "ex_rt9700mz"
+              "id": "ci_miz3kx51",
+              "exerciseId": "ex_3gf62gzn"
             }
           ]
         },
@@ -13359,32 +13451,41 @@
           ]
         },
         {
-          "id": "cx_1pp4ayqb",
+          "id": "cx_jcmpz0hh",
           "enabled": true,
           "items": [
             {
-              "id": "ci_swjqefmj",
-              "exerciseId": "ex_ifm66kxu"
+              "id": "ci_a3vano1q",
+              "exerciseId": "ex_9fec18hd"
             },
             {
-              "id": "ci_u4c8mr9l",
-              "exerciseId": "ex_mmvjtijj"
+              "id": "ci_ofbihf2h",
+              "exerciseId": "ex_vxk7ozh5"
             },
             {
-              "id": "ci_edvdqcxp",
-              "exerciseId": "ex_lcuulcps"
+              "id": "ci_l5nv3cy1",
+              "exerciseId": "ex_22mf9pay"
             },
             {
-              "id": "ci_la5f2vdr",
-              "exerciseId": "ex_9o4wxcj5"
+              "id": "ci_qtw28pgc",
+              "exerciseId": "ex_kts63syk"
             },
             {
-              "id": "ci_miz3kx51",
-              "exerciseId": "ex_3gf62gzn"
+              "id": "ci_va2fyfop",
+              "exerciseId": "ex_ho6hrkog"
             }
           ]
         }
       ],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-11-25",
+      "intervalDays": 1,
+      "includeWeekends": false
+    },
+    "cat_5udfjiue": {
+      "name": "Ягодицы",
+      "exercises": [],
+      "complexes": [],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
       "intervalDays": 1,
