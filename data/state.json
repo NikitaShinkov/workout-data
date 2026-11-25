@@ -14197,8 +14197,8 @@
         }
       ],
       "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
-      "intervalDays": 1,
+      "scheduleStartDate": "2026-11-25",
+      "intervalDays": 2,
       "includeWeekends": false
     }
   },
