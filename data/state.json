@@ -6,13 +6,13 @@
     "hip",
     "glutes",
     "lower_back",
-    "back",
     "neck",
-    "cat_lz5gplty"
+    "cat_lz5gplty",
+    "back"
   ],
   "categories": {
     "ankle": {
-      "name": "(A)_Голеностоп",
+      "name": "A_Голеностоп",
       "exercises": [
         {
           "id": "ex_3wsdr616",
@@ -1263,13 +1263,13 @@
           ]
         }
       ],
-      "scheduleEnabled": true,
+      "scheduleEnabled": false,
       "scheduleStartDate": "2026-11-18",
       "intervalDays": 2,
       "includeWeekends": false
     },
     "knee": {
-      "name": "Колено",
+      "name": "A_Колено",
       "exercises": [
         {
           "id": "ex_hunmjdor",
@@ -5409,13 +5409,13 @@
           ]
         }
       ],
-      "scheduleEnabled": true,
+      "scheduleEnabled": false,
       "scheduleStartDate": "2026-10-05",
       "intervalDays": 2,
       "includeWeekends": false
     },
     "hip": {
-      "name": "ТБС",
+      "name": "A_ТБС",
       "exercises": [
         {
           "id": "ex_tt8wct38",
@@ -6795,7 +6795,7 @@
       "includeWeekends": false
     },
     "glutes": {
-      "name": "Ягодицы",
+      "name": "A_Ягодицы",
       "exercises": [
         {
           "id": "ex_w4tut5u8",
@@ -8420,7 +8420,7 @@
       "includeWeekends": false
     },
     "lower_back": {
-      "name": "Поясница",
+      "name": "A_Поясница",
       "exercises": [
         {
           "id": "ex_9a88ztl7",
@@ -10964,17 +10964,8 @@
       "intervalDays": 1,
       "includeWeekends": false
     },
-    "back": {
-      "name": "Спина",
-      "exercises": [],
-      "complexes": [],
-      "scheduleEnabled": true,
-      "scheduleStartDate": "2026-09-03",
-      "intervalDays": 1,
-      "includeWeekends": false
-    },
     "neck": {
-      "name": "Шея",
+      "name": "A_Шея",
       "exercises": [
         {
           "id": "ex_9ejatemz",
@@ -11687,7 +11678,7 @@
       "includeWeekends": false
     },
     "cat_lz5gplty": {
-      "name": "Грудь и плечи",
+      "name": "A_Грудь и плечи",
       "exercises": [
         {
           "id": "ex_qx1dqftx",
@@ -13021,6 +13012,15 @@
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-10-22",
       "intervalDays": 2,
+      "includeWeekends": false
+    },
+    "back": {
+      "name": "Спина",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
+      "intervalDays": 1,
       "includeWeekends": false
     }
   },
