@@ -11,7 +11,8 @@
     "back",
     "cat_5udfjiue",
     "cat_b5cg4a9o",
-    "cat_k1r2jqn5"
+    "cat_k1r2jqn5",
+    "cat_evjeknat"
   ],
   "categories": {
     "ankle": {
@@ -16086,6 +16087,15 @@
       ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-11-25",
+      "intervalDays": 1,
+      "includeWeekends": false
+    },
+    "cat_evjeknat": {
+      "name": "Новая категория",
+      "exercises": [],
+      "complexes": [],
+      "scheduleEnabled": true,
+      "scheduleStartDate": "2026-09-03",
       "intervalDays": 1,
       "includeWeekends": false
     }
