@@ -16091,9 +16091,1380 @@
       "includeWeekends": false
     },
     "cat_evjeknat": {
-      "name": "Новая категория",
-      "exercises": [],
-      "complexes": [],
+      "name": "ТБС",
+      "exercises": [
+        {
+          "id": "ex_7wckirh0",
+          "name": "Ротация лежа с поднятым тазом",
+          "description": "Сначала можно руки не подключать в работу,\nпотом руками стабилизируем таз в одной позиции",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/97ec829ead8f045d.jpg",
+            "data/images/2a818070a3cd478d.jpg",
+            "data/images/f3c8097a8ec2361b.jpg"
+          ]
+        },
+        {
+          "id": "ex_altkmvgd",
+          "name": "Разгибание и наружная ротация с резинкой",
+          "description": "При разгибании не двигать коленями, всё движение инициируется в ТБС",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/5df9c0e5b867d667.jpg",
+            "data/images/7df5e1f9dee5ca9f.jpg"
+          ]
+        },
+        {
+          "id": "ex_6pc87gac",
+          "name": "Вращение согнутых ног лёжа",
+          "description": "Можно постепенно увеличивать радиус вращения\nВращения поочерёдно в разные стороны",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/f8dd0ca20572457c.jpg",
+            "data/images/71515ae12b3b5b1b.jpg"
+          ]
+        },
+        {
+          "id": "ex_frq5bam9",
+          "name": "Ротация лёжа",
+          "description": "Сначала можно руки не подключать в работу,\nпотом руками стабилизируем таз в одной позиции",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6bd1d9c44aa9f167.jpg",
+            "data/images/06221688f9081775.jpg"
+          ]
+        },
+        {
+          "id": "ex_ju4hboph",
+          "name": "Наружная и внутренняя ротация лёжа",
+          "description": "Делаем наружную и внутреннюю ротацию сначала одной ногой, потом другой ногой",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/bcbb27671373ce66.jpg",
+            "data/images/2e9c636c1f3ae6b6.jpg",
+            "data/images/14458cdcb3201c0d.jpg"
+          ]
+        },
+        {
+          "id": "ex_1sc3nwl4",
+          "name": "Отведение таза назад с резинкой с малой амплитудой",
+          "description": "Широкая резинка одним концом привязана в опоре",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/d601a7142ee0b5b6.jpg",
+            "data/images/350a486b71f8c1bb.jpg"
+          ]
+        },
+        {
+          "id": "ex_6didgp58",
+          "name": "Отведение таза назад с резинкой с большой амплитудой",
+          "description": "Широкая резинка одним концом привязана в опоре",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/8304e27825d2d7a1.jpg",
+            "data/images/82b94d9332f42993.jpg"
+          ]
+        },
+        {
+          "id": "ex_evh21xqy",
+          "name": "Отведение таза назад с резинкой с малой амплитудой",
+          "description": "Широкая резинка одним концом привязана в опоре",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/fbb2634dd3249d2a.jpg",
+            "data/images/cc83becf293d85ed.jpg",
+            "data/images/a432aba20705ef52.jpg",
+            "data/images/c271c9684d987b2a.jpg"
+          ]
+        },
+        {
+          "id": "ex_qpcjavhz",
+          "name": "Отведение таза назад с резинкой с большой амплитудой",
+          "description": "Оборачиваем стопу резинкой в петлю\nШирокая резинка одним концом привязана в опоре",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/61bf05324adf481e.jpg",
+            "data/images/8c634b511a19ba56.jpg",
+            "data/images/5a41b4072a2b38b0.jpg",
+            "data/images/9dc72f2faafa8b7c.jpg"
+          ]
+        },
+        {
+          "id": "ex_uhjokmd0",
+          "name": "Протягивание туловища вдоль рола",
+          "description": "Протягивание туловища вдоль рола",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/2a1fa33833e326ed.jpg",
+            "data/images/1363a8404dbcbd98.jpg"
+          ]
+        },
+        {
+          "id": "ex_o59ibvgx",
+          "name": "Протягивание туловища вдоль рола",
+          "description": "Протягивание туловища вдоль рола\nТуловище повёрнуто в сторону передней ноги",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/fa60397d7f9f4752.jpg",
+            "data/images/a497aa2820aed1d1.jpg"
+          ]
+        },
+        {
+          "id": "ex_q4pn54op",
+          "name": "Перекаты с протягиванием туловища",
+          "description": "Движение плавное\nНа нижнюю руку можно опираться",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/bb0cc0e3e4fb060e.jpg",
+            "data/images/f5d8bde07f6d3586.jpg",
+            "data/images/3eb1d90986962f46.jpg"
+          ]
+        },
+        {
+          "id": "ex_xml11we2",
+          "name": "Перекаты ног сидя",
+          "description": "Если сложно в начале, можно немного отрывать таз от пола\nНо потом стараемся минимально подключать таз\nДвижение плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/315f495878d72889.jpg",
+            "data/images/1e724f3424a2ea0f.jpg",
+            "data/images/5108048faa384d7e.jpg"
+          ]
+        },
+        {
+          "id": "ex_m8yb18eb",
+          "name": "Наклоны ног сидя",
+          "description": "Движение плавное\nОпускаемся максимально глубоко",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4f643342e0968e5d.jpg",
+            "data/images/f3d6d0861fa47608.jpg",
+            "data/images/82cbfbba327e0f04.jpg",
+            "data/images/6a7f86a5151fe740.jpg",
+            "data/images/2b0f44121505c7e5.jpg"
+          ]
+        },
+        {
+          "id": "ex_rpcnl6ye",
+          "name": "Наружная ротация лёжа на животе",
+          "description": "Делаем медленно, не задействовать таз\nЕсли сложно, можно под коленку подложить руку и немного поднимать ногу рукой",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ad0566bdb3802001.jpg",
+            "data/images/b277f185c5b80152.jpg"
+          ]
+        },
+        {
+          "id": "ex_g0fs3fm8",
+          "name": "Внутренняя ротация лёжа на животе",
+          "description": "Делаем медленно, не задействовать таз\nЕсли сложно, уменьшаем амплитуду",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d76cf70d19bc46f4.jpg",
+            "data/images/f5746ebf9207ae7f.jpg"
+          ]
+        },
+        {
+          "id": "ex_y5nk7a1c",
+          "name": "Отведение с наружной ротацией с резинкой",
+          "description": "Отведение и приведение выполняется плавно с одной скоростью",
+          "equipment": [
+            "mat",
+            "short_band"
+          ],
+          "images": [
+            "data/images/4abe03a5eb42d423.jpg",
+            "data/images/ecb53f552b3f6ead.jpg"
+          ]
+        },
+        {
+          "id": "ex_kyexvg06",
+          "name": "Наружная ротацией с резинкой с зажатым ролом на вису",
+          "description": "Точка вращения относительно рола должна быть стабильной, т.е. стопы на вису должны быть в одной точке и не болтаться туда-сюда при отведении и приведении.\nПри этом рол специально сильно сжимать не нужно, это только ось вращения\nЕсли просто, то сначала пытаемся максимально увеличить амплитуду и только потом используем более плотную ленту",
+          "equipment": [
+            "mat",
+            "short_band",
+            "roller"
+          ],
+          "images": [
+            "data/images/14876170beb70b92.jpg",
+            "data/images/0fe5e2cf0dadd892.jpg"
+          ]
+        },
+        {
+          "id": "ex_6n7ch5jc",
+          "name": "Внутренняя ротацией с резинкой с зажатым ролом на вису",
+          "description": "Точка вращения относительно рола должна быть стабильной, т.е. колени должны быть в одной точке и не болтаться туда-сюда при отведении и приведении\nПри этом рол специально сильно сжимать не нужно, это только ось вращения\nЕсли просто, то сначала пытаемся максимально увеличить амплитуду и только потом используем более плотную ленту",
+          "equipment": [
+            "mat",
+            "short_band",
+            "roller"
+          ],
+          "images": [
+            "data/images/9da33b8d923c7a6c.jpg",
+            "data/images/5aad1029fc10f91e.jpg"
+          ]
+        },
+        {
+          "id": "ex_peh7xocc",
+          "name": "Подъём ноги",
+          "description": "Можно делать и без резинки\nСпина прямая, руки в стороны. Стараемся как можно дольше удержать наверху неопорную ногу. Опорная нога статична, не болтается",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/f3ca2ea477ca11ff.jpg",
+            "data/images/82689ff0c4416ee8.jpg"
+          ]
+        },
+        {
+          "id": "ex_cqaksggl",
+          "name": "Наружная ротация",
+          "description": "Можно делать и без резинки\nРуки сложены и перед собой\nДелаем плавно",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/4de0f2b84aeec889.jpg",
+            "data/images/9dfd956b5d90379d.jpg",
+            "data/images/bd28ba8ce62f6f71.jpg"
+          ]
+        },
+        {
+          "id": "ex_1hgcdg5n",
+          "name": "Внутренняя ротация",
+          "description": "Можно делать и без резинки\nРуки сложены и перед собой\nПостепенно можно увеличивать амплитуду внутрь",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/37fc323f04f7c94f.jpg",
+            "data/images/f0f281d0be12be81.jpg",
+            "data/images/f16cbe2fc61ada30.jpg"
+          ]
+        },
+        {
+          "id": "ex_8pn0vr4m",
+          "name": "Разгибания",
+          "description": "Живот собран, спина прямая, таз неподвижен\nВ начальном положении руки внизу, при разгибании руки поднимаются вверх\nДелаем плавно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b8e295fb520c9e9c.jpg",
+            "data/images/e9d27abad0515337.jpg",
+            "data/images/5437b64ec8cab7d6.jpg"
+          ]
+        },
+        {
+          "id": "ex_888xrkm8",
+          "name": "Сгибаниz",
+          "description": "Живот собран, спина прямая, таз неподвижен, руки на поясе\nВ начальном положении руки внизу, при разгибании руки поднимаются вверх. Делаем плавно",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d4af6aadce86b9dc.jpg",
+            "data/images/d0183b0fe18fdade.jpg",
+            "data/images/34c363a6f7aba83d.jpg"
+          ]
+        },
+        {
+          "id": "ex_x9tswjqd",
+          "name": "Разгибания и подъём ноги",
+          "description": "Сначала сгибание с отведением таза назад. Потом возвращение в исходную позицию и в ней подъём ноги вверх.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/14ac70b1f92f58a1.jpg",
+            "data/images/3b4d024f18e45254.jpg",
+            "data/images/e410752f2496bbf9.jpg",
+            "data/images/a5e26526cdd6f2d8.jpg"
+          ]
+        },
+        {
+          "id": "ex_0lwoi6dt",
+          "name": "Сгибание",
+          "description": "Живот собран, спина прямая, таз неподвижен, руки на поясе\nНогу на стуле можно держать прямо, потом менять её положение во внутреннюю или внешнюю ротацию",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/9467dc2f24d6d4fc.jpg",
+            "data/images/bd96cd24927e21b6.jpg",
+            "data/images/88bfe73de27de5ad.jpg",
+            "data/images/f8e3d48ef734a29c.jpg"
+          ]
+        },
+        {
+          "id": "ex_0n2jmoka",
+          "name": "Внутренняя ротация",
+          "description": "Можно слегка помогать, надавливая рукой",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/182b3e21f2637dee.jpg",
+            "data/images/2146793ccb07fa6d.jpg"
+          ]
+        },
+        {
+          "id": "ex_hzdmrsmv",
+          "name": "Наружная ротация",
+          "description": "Можно слегка помогать, надавливая рукой",
+          "equipment": [
+            "chair"
+          ],
+          "images": [
+            "data/images/dca1eb5780e5026d.jpg",
+            "data/images/8ed824e1cd3b0852.jpg"
+          ]
+        },
+        {
+          "id": "ex_lng6oq52",
+          "name": "Наружние разгибания",
+          "description": "Во время разгибания ног можно также наклоняться в ногам с прямой спиной",
+          "equipment": [
+            "short_band",
+            "roller",
+            "chair"
+          ],
+          "images": [
+            "data/images/e830c902172b9d2d.jpg",
+            "data/images/febff3ee3b559b44.jpg",
+            "data/images/6582cc1668dc89b2.jpg",
+            "data/images/0aedad1cf5324fd2.jpg"
+          ]
+        },
+        {
+          "id": "ex_07qu06i0",
+          "name": "Внутренние разгибания",
+          "description": "Во время разгибания ног можно также наклоняться в ногам с прямой спиной",
+          "equipment": [
+            "short_band",
+            "roller",
+            "chair"
+          ],
+          "images": [
+            "data/images/17f626921d7bb235.jpg",
+            "data/images/b501bb38c49aa657.jpg"
+          ]
+        },
+        {
+          "id": "ex_8nihagu4",
+          "name": "Сгибания с внутренней ротацией",
+          "description": "Спина прямая. Всё движение в ТБС. В крайнем положение не прогибать поясницу",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/46e1e445bc56c6f1.jpg",
+            "data/images/8ad5114d6cf0133c.jpg"
+          ]
+        },
+        {
+          "id": "ex_rxdq88qs",
+          "name": "Сгибания с наружней ротацией",
+          "description": "Спина прямая. Всё движение в ТБС. В крайнем положение не прогибать поясницу. Пятки можно соединить",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c9bb75c5f63bb5f7.jpg",
+            "data/images/efb1ff8d421d03ea.jpg"
+          ]
+        },
+        {
+          "id": "ex_m9vivipl",
+          "name": "Отведение с ротацией",
+          "description": "Движение плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/fefe285410ddc059.jpg",
+            "data/images/c1ddc71b51c9af67.jpg",
+            "data/images/84161edc0b6d629b.jpg",
+            "data/images/10479a18390da85b.jpg"
+          ]
+        },
+        {
+          "id": "ex_n2tybx4n",
+          "name": "Внутренняя ротация",
+          "description": "Если неудобно сидеть, под нижнюю ягодицу подложить что-то мягкое",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/5dd0ab524343c8a6.jpg",
+            "data/images/e4cd9445383668d6.jpg"
+          ]
+        },
+        {
+          "id": "ex_x77vfm54",
+          "name": "Наружная ротация",
+          "description": "Движение в ТБС, не компенсировать движение стопой\nЕсли неудобно сидеть, под нижнюю ягодицу подложить что-то мягкое\nКоленом давим в коврик, движение плавное\nЕсли сложно, спиной можно откинуться назад",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/0bd6c154d4955527.jpg",
+            "data/images/9cc0d8832b3365ea.jpg"
+          ]
+        },
+        {
+          "id": "ex_mm1by219",
+          "name": "Самолётик – баланс в планке на одном колене (10-30 сек)",
+          "description": "Опорная нога согнута в колене и на полу, другая нога немного согнута в колене и на весу. Голова в ровном нейтральном положении, спина прямая. Отпускаем руки и держим равновесие в горизонтальном положении",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/95101a1a9b0b5170.jpg",
+            "data/images/6b5f98679dc7af51.jpg"
+          ]
+        },
+        {
+          "id": "ex_kdhqixvf",
+          "name": "Разгибания",
+          "description": "Ленту размещаем на косточки",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/74da10f9a3f4dedf.jpg",
+            "data/images/924c7abc7f1559a8.jpg",
+            "data/images/a036b787ec573954.jpg"
+          ]
+        },
+        {
+          "id": "ex_kid7d9lj",
+          "name": "Сгибания в стороны",
+          "description": "Ягодицы опускаем попеременно то максимально влево, то максимально вправо. Движение в ТБС, не компенсируем боковым наклоном в пояснице",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/766165170bada1b1.jpg",
+            "data/images/bc25225899df5650.jpg",
+            "data/images/f9ecd50de0163520.jpg",
+            "data/images/18abdb4d05ccded9.jpg"
+          ]
+        },
+        {
+          "id": "ex_rlam2slb",
+          "name": "Сгибания с широкой расстановкой ног",
+          "description": "В момент движения вниз спина прямая\nКогда встаём подкручиваем таз\nДля утяжеления можно взять гирьку или резинку",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/b2ca507c33d18002.jpg",
+            "data/images/90f4c1c29e827df3.jpg"
+          ]
+        },
+        {
+          "id": "ex_dj50r2in",
+          "name": "Сгибания с расстановкой ног вместе",
+          "description": "В момент движения вниз спина прямая\nКогда встаём подкручиваем таз\nДля утяжеления можно взять гирьку или резинку",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/d0d7796720d311a5.jpg",
+            "data/images/b5bc3e86c47dbb4f.jpg"
+          ]
+        },
+        {
+          "id": "ex_vsv3qcxx",
+          "name": "Внутренняя и наружная ротация стоя",
+          "description": "Опорная нога неподвижная\nНеопорная нога — драйвер движения\nДелаем плавно",
+          "equipment": [],
+          "images": [
+            "data/images/fceee4978e4ecfc4.jpg",
+            "data/images/77eecf0f9c03765f.jpg"
+          ]
+        },
+        {
+          "id": "ex_2xekbxjx",
+          "name": "Отшагивания в сторону",
+          "description": "Мобилизуем отведение. Не надо наклонять корпус слишком сильно вбок\nВ конце движения мышцами мягко себя притормаживаем\nПостепенно увеличиваем амплитуду",
+          "equipment": [],
+          "images": [
+            "data/images/74ac6e291d96299f.jpg",
+            "data/images/957bf34c9f42e615.jpg",
+            "data/images/da772e47c5e10c4d.jpg",
+            "data/images/a7bb5cdeb70d51db.jpg"
+          ]
+        },
+        {
+          "id": "ex_bg88vcsd",
+          "name": "Отшагивания в сторону",
+          "description": "Мобилизуем приведение. Драйвер движения — и нога, и рука\nВ конце движения мышцами мягко себя притормаживаем\nПостепенно увеличиваем амплитуду",
+          "equipment": [],
+          "images": [
+            "data/images/2fef8aabccee2546.jpg",
+            "data/images/ddedad2bf85267eb.jpg",
+            "data/images/5c8a0e04cf83b64d.jpg",
+            "data/images/78a02ea9a2e116a2.jpg"
+          ]
+        },
+        {
+          "id": "ex_2pujnfla",
+          "name": "Сгибания",
+          "description": "Неопорная нога уходит назад, на неё почти не опираемся или вообще отрываем от земли\nПостепенно увеличиваем наклон туловища",
+          "equipment": [],
+          "images": [
+            "data/images/658328176e0df56e.jpg",
+            "data/images/667ba96fefda1e5d.jpg",
+            "data/images/6a7e0c8cb9520e90.jpg",
+            "data/images/f2fcf89990bd8e0f.jpg"
+          ]
+        },
+        {
+          "id": "ex_gzefz7of",
+          "name": "Разгибания",
+          "description": "Неопорная нога уходит вперёд, руки поднимаются вверх\nПоясница ровная, без прогиба\nПостепенно увеличиваем наклон туловища",
+          "equipment": [],
+          "images": [
+            "data/images/08635e9b95909d6a.jpg",
+            "data/images/c182af8101cf58b0.jpg",
+            "data/images/8aa7595b547bfef2.jpg",
+            "data/images/db2ea892d087cd9f.jpg"
+          ]
+        },
+        {
+          "id": "ex_07wchqph",
+          "name": "Развороты сидя",
+          "description": "Из z-позиции разворачиваемся и мягко наезжаем на переднюю ногу\nСначала в одну сторону, потом сразу в другую",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/31cefeae9c103854.jpg",
+            "data/images/fd4e1941034a13cd.jpg",
+            "data/images/d4d663bb93fda6cd.jpg",
+            "data/images/efeb5e31aa3bd922.jpg"
+          ]
+        },
+        {
+          "id": "ex_7xcjw178",
+          "name": "Скручивание ТБС сидя с подъёмом",
+          "description": "Поясница прямая, без переизгибаний.\nСначала подъём в одну сторону, потом смена ног и подъём в другую сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/ae4d8adeb663e22f.jpg",
+            "data/images/49092445404ab375.jpg",
+            "data/images/d35be3c78067e03b.jpg",
+            "data/images/6ccedfddd5e3b9e6.jpg",
+            "data/images/12ceebcc58be7794.jpg"
+          ]
+        },
+        {
+          "id": "ex_gt95pe4x",
+          "name": "Скручивание ТБС сидя с подъёмом",
+          "description": "Поясница прямая, без переизгибаний. В конце движения вытягивает одну руку вверх. Сначала подъём в одну сторону, потом смена ног и подъём в другую сторону",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/c5ae03bbdbdfc4fa.jpg",
+            "data/images/b18a4e49bd0d677c.jpg",
+            "data/images/b1c30c80413757a5.jpg",
+            "data/images/c1b32cdf6cbcfee3.jpg"
+          ]
+        },
+        {
+          "id": "ex_onrvg1i4",
+          "name": "Скручивание ТБС сидя с разгибаниями",
+          "description": "Поясница прямая, без переизгибаний.\nОдну ногу медленно выпрямляем и потом уводим обратно во внутреннюю ротацию\nПотом другую ногу выпрямляем и потом уводим обратно в наружную ротацию\nЕсли не получается держать спину прямой, по можно опирать сзади на руки: при разгибании ноги отводить спину немного назад.",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/6912d0db98dd70e0.jpg",
+            "data/images/f4859a3e4af006ac.jpg",
+            "data/images/1f128f567e82b266.jpg",
+            "data/images/3b47ef0baa5ac3c7.jpg",
+            "data/images/e8ee41c34fa0e83a.jpg"
+          ]
+        },
+        {
+          "id": "ex_xuhk6qnx",
+          "name": "Подъём ноги стоя",
+          "description": "Резина крепится сбоку.\nПоднятие ноги с активацией наружних ротаторов\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/68b1562afa1f0376.jpg",
+            "data/images/7f57d72d6977fc12.jpg"
+          ]
+        },
+        {
+          "id": "ex_nk3izq2k",
+          "name": "Подъём ноги стоя",
+          "description": "Резина крепится сзади.\nПоднятие ноги с активацией наружних ротаторов\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/8c00721d94d8053f.jpg",
+            "data/images/644f0694f396cc64.jpg"
+          ]
+        },
+        {
+          "id": "ex_lu6by3kf",
+          "name": "Подъём ноги стоя",
+          "description": "Резина крепится сбоку.\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/80dc86bae4f8a7cc.jpg",
+            "data/images/63a4ee88bb7548fc.jpg"
+          ]
+        },
+        {
+          "id": "ex_h1k9lyjh",
+          "name": "Внутренняя ротация стоя",
+          "description": "Резина крепится сбоку.\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/3dad30204eec426a.jpg",
+            "data/images/8ad253cb1f873289.jpg"
+          ]
+        },
+        {
+          "id": "ex_6udh3hu8",
+          "name": "Наружная ротация стоя",
+          "description": "Резина крепится сбоку.\nНога должна двигать по прямой линии, натянутая резинка не должна её уводить в сторону.",
+          "equipment": [
+            "mat",
+            "long_band"
+          ],
+          "images": [
+            "data/images/9e9151b9117f2978.jpg",
+            "data/images/1c626ae04d4bdcf6.jpg"
+          ]
+        },
+        {
+          "id": "ex_kdza3nwz",
+          "name": "Вращение на четвереньках",
+          "description": "Отведение, внутренняя ротация, сгибание\nПоясницу не включаем, таз на месте",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4571cbceb031e8ad.jpg",
+            "data/images/a7f5659e30a3c0a6.jpg",
+            "data/images/07f3ebcce5c59b9e.jpg",
+            "data/images/c7ebf97d075e0adb.jpg"
+          ]
+        },
+        {
+          "id": "ex_h4fc8pjv",
+          "name": "Вращение на четвереньках",
+          "description": "Разгибание, наружная ротация\nПоясницу не включаем, таз на месте",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/4571cbceb031e8ad.jpg",
+            "data/images/0e6ccf078febdeb1.jpg",
+            "data/images/9356b1a9b8cd1a41.jpg",
+            "data/images/1a0aa4ca95bd6ae3.jpg"
+          ]
+        },
+        {
+          "id": "ex_erq66o08",
+          "name": "Вращение стоя",
+          "description": "Делаем восьмёрку с наружной и внутренней ротацией\nРабота выполняется в ТБС, максимально подцепляя крайние амплитуды\nЕсли сложно, можно немного опустить ногу",
+          "equipment": [],
+          "images": [
+            "data/images/7c5559d25764e73a.jpg",
+            "data/images/affa7d7b7aad4f37.jpg",
+            "data/images/3b01bd50b7ac5a8c.jpg",
+            "data/images/3cd1f513691020c4.jpg"
+          ]
+        },
+        {
+          "id": "ex_yanorzo9",
+          "name": "Вращение стоя",
+          "description": "Сначала разгибание, потом наружная ротация\nДвижение равномерное во всей амплитуде",
+          "equipment": [],
+          "images": [
+            "data/images/fe02747757df7ee3.jpg",
+            "data/images/90cda141b63e69b5.jpg",
+            "data/images/b8738d9774063941.jpg",
+            "data/images/f513320bbb44baef.jpg"
+          ]
+        },
+        {
+          "id": "ex_ip5jimj5",
+          "name": "Вращение стоя",
+          "description": "Сгибание, отведение, внутренняя ротация, разгибание\nНе подключать поясницу, движение только в ТБС",
+          "equipment": [],
+          "images": [
+            "data/images/9f84f6f63d6b9eba.jpg",
+            "data/images/f07d3bb0f1f0664d.jpg",
+            "data/images/66b76cb3b3edb7bb.jpg",
+            "data/images/aa8d9161077d2341.jpg",
+            "data/images/c1473b6112c679fd.jpg",
+            "data/images/f6e28613e80d69a8.jpg"
+          ]
+        },
+        {
+          "id": "ex_mkzpv7v5",
+          "name": "Скручивания стоя",
+          "description": "Резинка на уровне плеч\nПоднимаем ногу и делаем наружную ротацию\nНогу можно держать на весу",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/0740ef77ed5345b9.jpg",
+            "data/images/b08f7a84e5ec452d.jpg"
+          ]
+        },
+        {
+          "id": "ex_14to11mb",
+          "name": "Наклоны на одной ноге",
+          "description": "Спина ровная, не включается в движение",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/3b38331d8d86b817.jpg",
+            "data/images/b74e496d94623040.jpg"
+          ]
+        },
+        {
+          "id": "ex_6yqc3u1e",
+          "name": "Скручивания стоя",
+          "description": "Резинка на уровне плеч\nПоднимаем ногу и делаем внутреннюю ротацию\nНогу можно держать на весу",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/527e46ff7771dee3.jpg",
+            "data/images/8583b35c89818755.jpg"
+          ]
+        },
+        {
+          "id": "ex_rfxuuj6e",
+          "name": "Разгибания стоя",
+          "description": "Резинка спереди\nРазгибание с внутренней ротацией\nОпорная нога не шатается",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/3159f66cdff6132b.jpg",
+            "data/images/64b12a7ea192c1c0.jpg"
+          ]
+        },
+        {
+          "id": "ex_3e0eipip",
+          "name": "Сгибания стоя",
+          "description": "Резинка спереди\nСгибания с наружной ротацией\nОпорная нога не шатается",
+          "equipment": [
+            "long_band"
+          ],
+          "images": [
+            "data/images/6bf6e32ff787caca.jpg",
+            "data/images/5a1933333f6d26d3.jpg"
+          ]
+        },
+        {
+          "id": "ex_ammsf3ye",
+          "name": "Перекаты сидя",
+          "description": "Сидя скрещиваем ноги\nПерекатываемся в противоположную сторону к верхней ноге\nПотом перекатывается в исходное положение",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/a9d7c1289e1b9d62.jpg",
+            "data/images/a8fc70c22c536ecd.jpg",
+            "data/images/b9f41790aa4b06d8.jpg",
+            "data/images/ce3bcaa073733e76.jpg"
+          ]
+        },
+        {
+          "id": "ex_4vfq8kqc",
+          "name": "Перекаты сидя",
+          "description": "Опускание на одно колено и переход в z-позицию, потом перекатывание в противоположную z-позицию, переход на колено и подъём\nДвижение плавное.Если получается легко, то делать без рук",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/25e2b67e8c0f175a.jpg",
+            "data/images/49b39248da695625.jpg",
+            "data/images/324b7dd077dd9c30.jpg",
+            "data/images/d8ccdf1f891c4072.jpg",
+            "data/images/53d8d15e7d5eb876.jpg",
+            "data/images/61953942769cf073.jpg"
+          ]
+        },
+        {
+          "id": "ex_ao6dpio7",
+          "name": "Перекаты сидя",
+          "description": "Пропускаем одну ногу под другой (как диагональный выпад)\nРазворачиваемся, садимся, уходим в z-позицию (здесь можно помочь руками), перекатываемся через переднюю ногу и встаём\nДвижение плавное\nЕсли получается легко, то делать без рук",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/2eaf777f1cb8c81f.jpg",
+            "data/images/1e23cbe8e365266f.jpg",
+            "data/images/2c5808d834664f11.jpg",
+            "data/images/10750baf7ecea57e.jpg",
+            "data/images/1bb2f0f2fd2b8954.jpg",
+            "data/images/e60da9c63270a03e.jpg",
+            "data/images/1337de18f20c1f45.jpg",
+            "data/images/b8463a526813b7c4.jpg"
+          ]
+        },
+        {
+          "id": "ex_kkcschtg",
+          "name": "Опускания и вставания",
+          "description": "Ноги расставлены широко. Опускаемся в z-позицию с прямой ногой. Потом встаём обратно и меняем ноги. При опускании и вставании помогаем руками. Движение плавное. Если получается легко, то делать без рук",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/9b8dc6cd4f2c2f6d.jpg",
+            "data/images/5d84e7f5c8672772.jpg",
+            "data/images/1cbab75c229dad64.jpg",
+            "data/images/c66e15b3bbddcc8b.jpg",
+            "data/images/0ad102362a1d0e3f.jpg"
+          ]
+        },
+        {
+          "id": "ex_bjvd8ert",
+          "name": "Разворот с удержанием предмета на вису",
+          "description": "Разворачиваемся в одну сторону, потом возвращаемся обратно\nДвижение плавное",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/630647313bef9ca2.jpg",
+            "data/images/dba3f8c64b33f15e.jpg",
+            "data/images/c27e6126ab521be4.jpg",
+            "data/images/c6af87aaaa601ef9.jpg"
+          ]
+        },
+        {
+          "id": "ex_y3kz2xmw",
+          "name": "Расслабление ППМ",
+          "description": "Упираем кулаки по бокам живота в области прикрепления ППМ\nДелаем вдох, на выдохе наклоняемся погружаем кулаки внутрь брюшной полости.\nЧем глубже погружаются кулаки, тем лучше расслабляется ППМ\nВ согнутом положении нужно зафиксироваться на 30 сек",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/3810a1cd83a470e4.jpg",
+            "data/images/21ae1ffe4621cef4.jpg"
+          ]
+        },
+        {
+          "id": "ex_yn29w53j",
+          "name": "Мобилизация ППМ",
+          "description": "К себе приводим ногу в наружной ротации, переворачиваем ногу и отводим её во внутренней ротации. При это на ППМ рабочей разгибающейся ноги кладём руку, погружаем её внутрь, тем самым удлиняя пучки ППМ",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/7f0709736083a09c.jpg",
+            "data/images/114ed2554636841f.jpg",
+            "data/images/0b1d3e61485aaaf1.jpg",
+            "data/images/4f59482156306622.jpg",
+            "data/images/61b68282c1e05f71.jpg",
+            "data/images/2c7542cae221937c.jpg",
+            "data/images/5177cf585bed6ba5.jpg"
+          ]
+        },
+        {
+          "id": "ex_fxm8w96n",
+          "name": "Разгибание ноги лёжа",
+          "description": "Одну ногу прижимаем к животу.\nПоднимаем вторую ногу к животу и потом плавно разгибаем её.\nПятка скользит по полу.\nВ конце разгибания стараться полностью положить вторую ногу на пол",
+          "equipment": [
+            "mat"
+          ],
+          "images": [
+            "data/images/38486dcb42106a14.jpg",
+            "data/images/37e581ef9afdbaa3.jpg"
+          ]
+        },
+        {
+          "id": "ex_zbt6vpla",
+          "name": "Динамика опорной ноги",
+          "description": "Внутренняя ротация нижней опорной ноги\nПерешагиваем верхней ногой в сторону опорной ноги, создавая условия приведения\nДвигаем таз вперёд, создавая условия разгибания\nВ этом положении делаем движения тазом вперёд-назад в течение 30 сек",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/141d516c568de17d.jpg",
+            "data/images/e4fdecbd537d13b2.jpg",
+            "data/images/bd410c8016ffe14c.jpg",
+            "data/images/c02b122eb22c8672.jpg"
+          ]
+        },
+        {
+          "id": "ex_yxr3je3y",
+          "name": "Ротация",
+          "description": "Верхней ногой шаг вперёд и немного уводим её в приведение, т.е. в сторону опорной ноги\nДвигаем таз вперёд и скручиваемся в сторону опорной ноги.\nСкручиваемся и раскручиваемся в этом положении в течение 30 сек",
+          "equipment": [
+            "mat",
+            "roller"
+          ],
+          "images": [
+            "data/images/a94bdc833154f38a.jpg",
+            "data/images/42a10b07bae1507d.jpg",
+            "data/images/e46532e708b5076f.jpg",
+            "data/images/47f78ecab77eb853.jpg",
+            "data/images/0be01389a8e3e5eb.jpg",
+            "data/images/3621441ddc891813.jpg"
+          ]
+        }
+      ],
+      "complexes": [
+        {
+          "id": "cx_xqtymbj5",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_yefp8aig",
+              "exerciseId": "ex_7wckirh0"
+            },
+            {
+              "id": "ci_xo7k20n8",
+              "exerciseId": "ex_altkmvgd"
+            },
+            {
+              "id": "ci_ycw5ur4w",
+              "exerciseId": "ex_6pc87gac"
+            },
+            {
+              "id": "ci_87xkeqtk",
+              "exerciseId": "ex_frq5bam9"
+            }
+          ]
+        },
+        {
+          "id": "cx_2wsyn0jp",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_775kgl7l",
+              "exerciseId": "ex_ju4hboph"
+            },
+            {
+              "id": "ci_nb4ob8ti",
+              "exerciseId": "ex_1sc3nwl4"
+            },
+            {
+              "id": "ci_hzofetwz",
+              "exerciseId": "ex_6didgp58"
+            },
+            {
+              "id": "ci_6yyni5bd",
+              "exerciseId": "ex_evh21xqy"
+            },
+            {
+              "id": "ci_qldnipa1",
+              "exerciseId": "ex_qpcjavhz"
+            }
+          ]
+        },
+        {
+          "id": "cx_3v4pvnhq",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_755uz0fw",
+              "exerciseId": "ex_uhjokmd0"
+            },
+            {
+              "id": "ci_u9tiofyc",
+              "exerciseId": "ex_o59ibvgx"
+            },
+            {
+              "id": "ci_7gfyt0wf",
+              "exerciseId": "ex_q4pn54op"
+            },
+            {
+              "id": "ci_e7c1fymq",
+              "exerciseId": "ex_xml11we2"
+            },
+            {
+              "id": "ci_f55endxv",
+              "exerciseId": "ex_m8yb18eb"
+            }
+          ]
+        },
+        {
+          "id": "cx_4umhr9f1",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_49sgb2n8",
+              "exerciseId": "ex_rpcnl6ye"
+            },
+            {
+              "id": "ci_w9gx6gdx",
+              "exerciseId": "ex_g0fs3fm8"
+            },
+            {
+              "id": "ci_or0miwdi",
+              "exerciseId": "ex_y5nk7a1c"
+            },
+            {
+              "id": "ci_duiuipu1",
+              "exerciseId": "ex_kyexvg06"
+            },
+            {
+              "id": "ci_lq16kh7a",
+              "exerciseId": "ex_6n7ch5jc"
+            }
+          ]
+        },
+        {
+          "id": "cx_jf8142ko",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_uwk8vve1",
+              "exerciseId": "ex_peh7xocc"
+            },
+            {
+              "id": "ci_lav866qb",
+              "exerciseId": "ex_cqaksggl"
+            },
+            {
+              "id": "ci_h3p9nyxa",
+              "exerciseId": "ex_1hgcdg5n"
+            },
+            {
+              "id": "ci_d7ubinaa",
+              "exerciseId": "ex_8pn0vr4m"
+            },
+            {
+              "id": "ci_k4xix8xa",
+              "exerciseId": "ex_888xrkm8"
+            },
+            {
+              "id": "ci_yvx26ycz",
+              "exerciseId": "ex_x9tswjqd"
+            }
+          ]
+        },
+        {
+          "id": "cx_yfs1p246",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_ft6rbg5c",
+              "exerciseId": "ex_0lwoi6dt"
+            },
+            {
+              "id": "ci_z2cwfdtt",
+              "exerciseId": "ex_0n2jmoka"
+            },
+            {
+              "id": "ci_ii2bg46i",
+              "exerciseId": "ex_hzdmrsmv"
+            },
+            {
+              "id": "ci_e5ql6eht",
+              "exerciseId": "ex_lng6oq52"
+            },
+            {
+              "id": "ci_7s71edjc",
+              "exerciseId": "ex_07qu06i0"
+            }
+          ]
+        },
+        {
+          "id": "cx_cst2w9xp",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_8ku2smi1",
+              "exerciseId": "ex_8nihagu4"
+            },
+            {
+              "id": "ci_lgq344u4",
+              "exerciseId": "ex_rxdq88qs"
+            },
+            {
+              "id": "ci_0ktgjarc",
+              "exerciseId": "ex_m9vivipl"
+            },
+            {
+              "id": "ci_5r0fh5j0",
+              "exerciseId": "ex_n2tybx4n"
+            },
+            {
+              "id": "ci_62oau0zb",
+              "exerciseId": "ex_x77vfm54"
+            }
+          ]
+        },
+        {
+          "id": "cx_v4g6oi9m",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_2sbm81pk",
+              "exerciseId": "ex_mm1by219"
+            },
+            {
+              "id": "ci_cokls9en",
+              "exerciseId": "ex_kdhqixvf"
+            },
+            {
+              "id": "ci_7s7viu7c",
+              "exerciseId": "ex_kid7d9lj"
+            },
+            {
+              "id": "ci_w1segqtq",
+              "exerciseId": "ex_rlam2slb"
+            },
+            {
+              "id": "ci_sgcnuw5f",
+              "exerciseId": "ex_dj50r2in"
+            }
+          ]
+        },
+        {
+          "id": "cx_yyskk1n1",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_p0nh1n65",
+              "exerciseId": "ex_vsv3qcxx"
+            },
+            {
+              "id": "ci_2pj7t7v8",
+              "exerciseId": "ex_2xekbxjx"
+            },
+            {
+              "id": "ci_wcsod72h",
+              "exerciseId": "ex_bg88vcsd"
+            },
+            {
+              "id": "ci_fk8r0pz5",
+              "exerciseId": "ex_2pujnfla"
+            },
+            {
+              "id": "ci_hq0hysuf",
+              "exerciseId": "ex_gzefz7of"
+            }
+          ]
+        },
+        {
+          "id": "cx_nci422or",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_yiv07a4y",
+              "exerciseId": "ex_07wchqph"
+            },
+            {
+              "id": "ci_mhy5nxm5",
+              "exerciseId": "ex_7xcjw178"
+            },
+            {
+              "id": "ci_7pgjdfy0",
+              "exerciseId": "ex_gt95pe4x"
+            },
+            {
+              "id": "ci_hinvhx5k",
+              "exerciseId": "ex_onrvg1i4"
+            }
+          ]
+        },
+        {
+          "id": "cx_4hpuiq1p",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_0ttarpes",
+              "exerciseId": "ex_xuhk6qnx"
+            },
+            {
+              "id": "ci_qthf1o50",
+              "exerciseId": "ex_nk3izq2k"
+            },
+            {
+              "id": "ci_7xctn5r8",
+              "exerciseId": "ex_lu6by3kf"
+            },
+            {
+              "id": "ci_edjdsrv3",
+              "exerciseId": "ex_h1k9lyjh"
+            },
+            {
+              "id": "ci_asfr6hm9",
+              "exerciseId": "ex_6udh3hu8"
+            }
+          ]
+        },
+        {
+          "id": "cx_x260eqdo",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_43uhlqas",
+              "exerciseId": "ex_kdza3nwz"
+            },
+            {
+              "id": "ci_wvwho8i4",
+              "exerciseId": "ex_h4fc8pjv"
+            },
+            {
+              "id": "ci_nv1evt5l",
+              "exerciseId": "ex_erq66o08"
+            },
+            {
+              "id": "ci_ba2kvsyz",
+              "exerciseId": "ex_yanorzo9"
+            },
+            {
+              "id": "ci_lsttt8i4",
+              "exerciseId": "ex_ip5jimj5"
+            }
+          ]
+        },
+        {
+          "id": "cx_bz2z960z",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_6v0e06v1",
+              "exerciseId": "ex_mkzpv7v5"
+            },
+            {
+              "id": "ci_038mhuxh",
+              "exerciseId": "ex_14to11mb"
+            },
+            {
+              "id": "ci_zqu7jbj2",
+              "exerciseId": "ex_6yqc3u1e"
+            },
+            {
+              "id": "ci_3d5rp53x",
+              "exerciseId": "ex_rfxuuj6e"
+            },
+            {
+              "id": "ci_ymzshaom",
+              "exerciseId": "ex_3e0eipip"
+            }
+          ]
+        },
+        {
+          "id": "cx_xvtnyzuu",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_01m23x1k",
+              "exerciseId": "ex_ammsf3ye"
+            },
+            {
+              "id": "ci_e3i4ai41",
+              "exerciseId": "ex_4vfq8kqc"
+            },
+            {
+              "id": "ci_2ozmw16p",
+              "exerciseId": "ex_ao6dpio7"
+            },
+            {
+              "id": "ci_56x5pkj7",
+              "exerciseId": "ex_kkcschtg"
+            },
+            {
+              "id": "ci_c77lo63a",
+              "exerciseId": "ex_bjvd8ert"
+            }
+          ]
+        },
+        {
+          "id": "cx_hczhxzti",
+          "enabled": true,
+          "items": [
+            {
+              "id": "ci_g612degx",
+              "exerciseId": "ex_y3kz2xmw"
+            },
+            {
+              "id": "ci_j0gb0foo",
+              "exerciseId": "ex_yn29w53j"
+            },
+            {
+              "id": "ci_9u3f61n1",
+              "exerciseId": "ex_fxm8w96n"
+            },
+            {
+              "id": "ci_q60jev9m",
+              "exerciseId": "ex_zbt6vpla"
+            },
+            {
+              "id": "ci_z2elx8ec",
+              "exerciseId": "ex_yxr3je3y"
+            }
+          ]
+        }
+      ],
       "scheduleEnabled": true,
       "scheduleStartDate": "2026-09-03",
       "intervalDays": 1,
